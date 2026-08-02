@@ -1,0 +1,661 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Russian Opposition Leader Alexei Navalny",
+          "id": "961615025134645248",
+          "name": "Alexei Navalny"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1531298442563026945",
+          "name": "Alexey Navalny"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Russian Opposition Leader Alexei Navalny",
+          "id": "961615025134645248",
+          "name": "Alexei Navalny"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1531298442563026945",
+          "name": "Alexey Navalny"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Russian Opposition Leader Alexei Navalny",
+          "id": "961615025134645248",
+          "name": "Alexei Navalny"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      }
+    ],
+    "conversation_id": "1891063721918652430",
+    "created_at": "2025-02-16T09:55:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T10:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891063721918652430"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Alexei #Navalny",
+          "probability": 0.7554,
+          "start": 31,
+          "type": "Person"
+        },
+        {
+          "end": 129,
+          "normalized_text": "Siberia",
+          "probability": 0.9645,
+          "start": 123,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 38,
+          "tag": "Navalny"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891063721918652430",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891049915880542493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: Today we remember Alexei #Navalny, leader of the Russian opposition, who was found dead in his prison cell in Siberia one year…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Russian Opposition Leader Alexei Navalny",
+              "id": "961615025134645248",
+              "name": "Alexei Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1531298442563026945",
+              "name": "Alexey Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Russian Opposition Leader Alexei Navalny",
+              "id": "961615025134645248",
+              "name": "Alexei Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1531298442563026945",
+              "name": "Alexey Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Russian Opposition Leader Alexei Navalny",
+              "id": "961615025134645248",
+              "name": "Alexei Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "1891063721918652430",
+        "created_at": "2025-02-16T09:55:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T10:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891063721918652430"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Alexei #Navalny",
+              "probability": 0.7554,
+              "start": 31,
+              "type": "Person"
+            },
+            {
+              "end": 129,
+              "normalized_text": "Siberia",
+              "probability": 0.9645,
+              "start": 123,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 38,
+              "tag": "Navalny"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891063721918652430",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891049915880542493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: Today we remember Alexei #Navalny, leader of the Russian opposition, who was found dead in his prison cell in Siberia one year…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1891049901737357312"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Russian Opposition Leader Alexei Navalny",
+              "id": "961615025134645248",
+              "name": "Alexei Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1531298442563026945",
+              "name": "Alexey Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Russian Opposition Leader Alexei Navalny",
+              "id": "961615025134645248",
+              "name": "Alexei Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1531298442563026945",
+              "name": "Alexey Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Russian Opposition Leader Alexei Navalny",
+              "id": "961615025134645248",
+              "name": "Alexei Navalny"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "1891049915880542493",
+        "created_at": "2025-02-16T09:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T10:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891049915880542493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Alexei #Navalny",
+              "probability": 0.8789,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 116,
+              "normalized_text": "Siberia",
+              "probability": 0.9694,
+              "start": 110,
+              "type": "Place"
+            },
+            {
+              "end": 186,
+              "normalized_text": "Novichok",
+              "probability": 0.2792,
+              "start": 179,
+              "type": "Other"
+            },
+            {
+              "end": 239,
+              "normalized_text": "Putin",
+              "probability": 0.9564,
+              "start": 235,
+              "type": "Person"
+            },
+            {
+              "end": 257,
+              "normalized_text": "Navalny",
+              "probability": 0.8855,
+              "start": 251,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 33,
+              "start": 25,
+              "tag": "Navalny"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BNR1Va2nm6",
+              "end": 299,
+              "expanded_url": "https://x.com/PES_PSE/status/1891049915880542493/photo/1",
+              "media_key": "3_1891049901737357312",
+              "start": 276,
+              "url": "https://t.co/BNR1Va2nm6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891049915880542493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 25,
+                "tag": "Navalny"
+              }
+            ]
+          },
+          "text": "Today we remember Alexei #Navalny, leader of the Russian opposition, who was found dead in his prison cell in Siberia one year ago today.\nHaving been previously poisoned with the Novichok nerve agent and as well as being persecuted by Putin's regime, Navalny's death sparked protests and demonstrations around the world.\nWe stand in solidarity with Yulia Navalnaya and with Russians striving to put an end to Putin's authoritarian rule, and fighting for democracy."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3344,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Today we remember Alexei #Navalny, leader of the Russian opposition, who was found dead in his prison cell in Siberia one year ago today.\nHaving been previously poisoned with the Novichok nerve agent and as well as being persecuted by Putin's regime, Navalny's death sparked… https://t.co/BNR1Va2nm6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1527,
+          "like_count": 21800,
+          "listed_count": 8,
+          "media_count": 750,
+          "tweet_count": 12156
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro European. Ecologists. Pro Science. We represent you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "pinned_tweet_id": "1889267491542601744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78457,
+          "following_count": 5299,
+          "like_count": 8516,
+          "listed_count": 1047,
+          "media_count": 8080,
+          "tweet_count": 50806
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

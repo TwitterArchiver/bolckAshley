@@ -1,0 +1,484 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "2059998107283411023",
+    "created_at": "2026-05-28T13:59:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T14:59:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059998107283411023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059998107283411023",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059717923770380531",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 所以我之前那个号就写过，扭转学校这个模式本身就是从美国发源的，国内的扭转/戒网瘾学校体系的主流模式直接继承了美国的「问题青少年产业（TroubledTeensIndustry）」，有着极其相似的宣传、绑架、虐待手段。美国和加拿大的这类机…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2059717869202497538",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWWfTtW4AIRnqc.jpg",
+        "width": 1376
+      },
+      {
+        "height": 1336,
+        "media_key": "3_2059717869202472963",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWWfTtWgAM3cPv.jpg",
+        "width": 1376
+      },
+      {
+        "height": 1376,
+        "media_key": "3_2059717869198249994",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWWfTsWEAogoom.jpg",
+        "width": 1564
+      },
+      {
+        "height": 1296,
+        "media_key": "3_2059717869210849286",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWWfTvWUAYQ2b7.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2059998107283411023",
+        "created_at": "2026-05-28T13:59:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T14:59:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059998107283411023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059998107283411023",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059717923770380531",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 所以我之前那个号就写过，扭转学校这个模式本身就是从美国发源的，国内的扭转/戒网瘾学校体系的主流模式直接继承了美国的「问题青少年产业（TroubledTeensIndustry）」，有着极其相似的宣传、绑架、虐待手段。美国和加拿大的这类机…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059717869202497538",
+            "3_2059717869202472963",
+            "3_2059717869198249994",
+            "3_2059717869210849286"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "2059717923770380531",
+        "created_at": "2026-05-27T19:26:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:26:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059717874319790379",
+          "2059717923770380531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uL1HfTvh1w",
+              "end": 176,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059717923770380531/photo/1",
+              "media_key": "3_2059717869202497538",
+              "start": 153,
+              "url": "https://t.co/uL1HfTvh1w"
+            },
+            {
+              "display_url": "pic.x.com/uL1HfTvh1w",
+              "end": 176,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059717923770380531/photo/1",
+              "media_key": "3_2059717869202472963",
+              "start": 153,
+              "url": "https://t.co/uL1HfTvh1w"
+            },
+            {
+              "display_url": "pic.x.com/uL1HfTvh1w",
+              "end": 176,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059717923770380531/photo/1",
+              "media_key": "3_2059717869198249994",
+              "start": 153,
+              "url": "https://t.co/uL1HfTvh1w"
+            },
+            {
+              "display_url": "pic.x.com/uL1HfTvh1w",
+              "end": 176,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2059717923770380531/photo/1",
+              "media_key": "3_2059717869210849286",
+              "start": 153,
+              "url": "https://t.co/uL1HfTvh1w"
+            },
+            {
+              "display_url": "x.com/arshadhusa7256…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/arshadhusa72562/status/2059640258464256070",
+              "start": 177,
+              "url": "https://t.co/P6vY16VaGD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059717923770380531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以我之前那个号就写过，扭转学校这个模式本身就是从美国发源的，国内的扭转/戒网瘾学校体系的主流模式直接继承了美国的「问题青少年产业（TroubledTeensIndustry）」，有着极其相似的宣传、绑架、虐待手段。美国和加拿大的这类机构都已经形成了完整的产业链，至少已经导致400人死亡，至今仍然未受到有效监管；而反对这类机构的志愿者组织目前仍然极其稀缺，像加拿大甚至完全缺乏相关的统计数据。不得不说虐待儿童真的是当代父权家庭和资本主义的基石。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 12365,
+          "like_count": 131,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059640258464256070",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以我之前那个号就写过，扭转学校这个模式本身就是从美国发源的，国内的扭转/戒网瘾学校体系的主流模式直接继承了美国的「问题青少年产业（TroubledTeensIndustry）」，有着极其相似的宣传、绑架、虐待手段。美国和加拿大的这类机构都已经形成了完整的产业链，至少已经导致400人死亡，至今仍然未受到 https://t.co/uL1HfTvh1w https://t.co/P6vY16VaGD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3282,
+          "following_count": 1972,
+          "like_count": 41147,
+          "listed_count": 19,
+          "media_count": 1568,
+          "tweet_count": 22014
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "🥰 https://t.co/ifiQvlVhub\n❤️@noaayoyaoaya\n⚜️@irisdesombres\n📣 @amber_digit @amber_digit2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 58,
+                "start": 44,
+                "username": "irisdesombres"
+              },
+              {
+                "end": 73,
+                "start": 61,
+                "username": "amber_digit"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "amber_digit2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 25,
+                "expanded_url": "https://buymeacoffee.com/amber_",
+                "start": 2,
+                "url": "https://t.co/ifiQvlVhub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTy81t"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🏳️‍⚧️☭ she/her・🇨🇦 Toronto",
+        "name": "amber ଳ",
+        "pinned_tweet_id": "2058745798477631977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058754250755235840/sPD5OBfw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5220,
+          "following_count": 913,
+          "like_count": 4045,
+          "listed_count": 12,
+          "media_count": 90,
+          "tweet_count": 1859
+        },
+        "url": "https://t.co/ToeUnTy81t",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,683 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1389516152594862080",
+          "name": "Jimmy Carter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1389516152594862080",
+          "name": "Jimmy Carter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1389516152594862080",
+          "name": "Jimmy Carter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1873584256276136000",
+    "created_at": "2024-12-30T04:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T05:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1873584256276136000"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/CNN/status/187…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/CNN/status/1873481110077747555",
+          "start": 11,
+          "url": "https://t.co/tNysqKiYDH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873584256276136000",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873481110077747555",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RIP🕯️🕯️🕯️🙏 https://t.co/tNysqKiYDH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1873584256276136000",
+        "created_at": "2024-12-30T04:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T05:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873584256276136000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/CNN/status/187…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/CNN/status/1873481110077747555",
+              "start": 11,
+              "url": "https://t.co/tNysqKiYDH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873584256276136000",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873481110077747555",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RIP🕯️🕯️🕯️🙏 https://t.co/tNysqKiYDH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873481089131454464"
+          ]
+        },
+        "author_id": "759251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1298002530362773504",
+              "name": "US Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298002530362773504",
+              "name": "US Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040667043",
+              "name": "CNN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1451358585376575499",
+              "name": "NZ roadmap"
+            }
+          }
+        ],
+        "conversation_id": "1873481110077747555",
+        "created_at": "2024-12-29T21:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T22:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873481110077747555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Former President Jimmy Carter has died at the age of 100, according to a statement from the Carter Center.",
+              "display_url": "cnn.it/3VUOngH",
+              "end": 191,
+              "expanded_url": "https://cnn.it/3VUOngH",
+              "images": [
+                {
+                  "height": 450,
+                  "url": "https://pbs.twimg.com/news_img/1873481110992097280/uc_yKja9?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1873481110992097280/uc_yKja9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 168,
+              "status": 200,
+              "title": "Former President Carter dies at 100 | CNN",
+              "unwound_url": "https://www.cnn.com/2024/12/29/us/former-president-jimmy-carter-death/index.html?Date=20241229&Profile=CNN&utm_content=1735507656&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/hjliVfRjDO"
+            },
+            {
+              "display_url": "pic.x.com/7U2dCSSySd",
+              "end": 215,
+              "expanded_url": "https://x.com/CNN/status/1873481110077747555/photo/1",
+              "media_key": "3_1873481089131454464",
+              "start": 192,
+              "url": "https://t.co/7U2dCSSySd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873481110077747555",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 457,
+          "impression_count": 949861,
+          "like_count": 14846,
+          "quote_count": 666,
+          "reply_count": 893,
+          "retweet_count": 3572
+        },
+        "reply_settings": "everyone",
+        "text": "Jimmy Carter, the 39th US president who served one term and went on to become a globe-trotting elder statesman and humanitarian icon, has died. He was 100.\n\nRead more: https://t.co/hjliVfRjDO https://t.co/7U2dCSSySd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873288350636924928/v2jyeQ24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 1355,
+          "like_count": 18579,
+          "listed_count": 8,
+          "media_count": 634,
+          "tweet_count": 11091
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-09T00:35:02.000Z",
+        "description": "It’s our job to #GoThere and tell the most difficult stories. For breaking news, follow @CNNBRK and download the CNN app ➡️ https://t.co/7PQD7o6fLw",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 16,
+                "tag": "GoThere"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 95,
+                "start": 88,
+                "username": "CNNBRK"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cnn.smart.link/mi381rv0w",
+                "end": 147,
+                "expanded_url": "https://cnn.smart.link/mi381rv0w",
+                "start": 124,
+                "url": "https://t.co/7PQD7o6fLw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnn.com",
+                "end": 23,
+                "expanded_url": "http://www.cnn.com",
+                "start": 0,
+                "url": "https://t.co/imGp4Ieixi"
+              }
+            ]
+          }
+        },
+        "id": "759251",
+        "name": "CNN",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1669780523911110656/K9gaaM1g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63077536,
+          "following_count": 1052,
+          "like_count": 1349,
+          "listed_count": 155661,
+          "media_count": 190520,
+          "tweet_count": 423542
+        },
+        "url": "https://t.co/imGp4Ieixi",
+        "username": "CNN",
+        "verified": true
+      }
+    ]
+  }
+}

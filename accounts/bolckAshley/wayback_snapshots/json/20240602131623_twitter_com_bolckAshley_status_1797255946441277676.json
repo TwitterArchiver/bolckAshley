@@ -1,0 +1,435 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "1797255946441277676",
+    "created_at": "2024-06-02T13:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-02T14:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797255946441277676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nexta_tv/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/nexta_tv/status/1797230696999628871",
+          "start": 14,
+          "url": "https://t.co/xqjnCKpyHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797255946441277676",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1797230696999628871",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小澤是好樣的！🇺🇦🇺🇦🇺🇦 https://t.co/xqjnCKpyHz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "1797255946441277676",
+        "created_at": "2024-06-02T13:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T14:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797255946441277676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nexta_tv/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/nexta_tv/status/1797230696999628871",
+              "start": 14,
+              "url": "https://t.co/xqjnCKpyHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797255946441277676",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1797230696999628871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小澤是好樣的！🇺🇦🇺🇦🇺🇦 https://t.co/xqjnCKpyHz"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1797230655979339776"
+          ]
+        },
+        "author_id": "1891490382",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Следите за обновлениями о Российском военном вторжении в Украине от журналистов, независимых и иностранных медиа. ",
+              "id": "1499425805633425409",
+              "name": "Новости и последняя информация о ситуации в Украине"
+            }
+          }
+        ],
+        "conversation_id": "1797230696999628871",
+        "created_at": "2024-06-02T11:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-02T12:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797230696999628871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/8EpbdXdaXV",
+              "end": 302,
+              "expanded_url": "https://twitter.com/nexta_tv/status/1797230696999628871/photo/1",
+              "media_key": "3_1797230655979339776",
+              "start": 279,
+              "url": "https://t.co/8EpbdXdaXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797230696999628871",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 46824,
+          "like_count": 594,
+          "quote_count": 19,
+          "reply_count": 43,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "Zelenskyy: Ukraine recognizes both Israel and Palestine\n\nUkraine will do everything for Israel to stop, for this conflict to end and for civilians to stop suffering, the Ukrainian president added.\n\nZelenskyy emphasized that while at the beginning of the conflict Ukraine was in… https://t.co/8EpbdXdaXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767220712543236096/w31UL6H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 914,
+          "like_count": 11537,
+          "listed_count": 6,
+          "tweet_count": 7621
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T21:24:04.000Z",
+        "description": "The largest Eastern European media. To let the world know.\n\nOur website: https://t.co/4voPija7tJ\nBecome our patron: https://t.co/fOGkarNq2c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "en.nexta.tv",
+                "end": 96,
+                "expanded_url": "https://en.nexta.tv",
+                "start": 73,
+                "url": "https://t.co/4voPija7tJ"
+              },
+              {
+                "display_url": "patreon.com/nexta_tv",
+                "end": 139,
+                "expanded_url": "https://patreon.com/nexta_tv",
+                "start": 116,
+                "url": "https://t.co/fOGkarNq2c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.nexta.tv",
+                "end": 23,
+                "expanded_url": "https://en.nexta.tv",
+                "start": 0,
+                "url": "https://t.co/4voPija7tJ"
+              }
+            ]
+          }
+        },
+        "id": "1891490382",
+        "name": "NEXTA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232280,
+          "following_count": 112,
+          "like_count": 7313,
+          "listed_count": 10954,
+          "tweet_count": 40260
+        },
+        "url": "https://t.co/4voPija7tJ",
+        "username": "nexta_tv",
+        "verified": true
+      }
+    ]
+  }
+}

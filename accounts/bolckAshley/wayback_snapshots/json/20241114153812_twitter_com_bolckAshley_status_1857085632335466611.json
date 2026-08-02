@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1849514207546355712",
+          "name": "2024 US Election Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1857085632335466611",
+    "created_at": "2024-11-14T15:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-14T16:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857085632335466611"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "EPP",
+          "probability": 0.4015,
+          "start": 34,
+          "type": "Organization"
+        },
+        {
+          "end": 87,
+          "normalized_text": "European Parliament",
+          "probability": 0.8802,
+          "start": 69,
+          "type": "Organization"
+        },
+        {
+          "end": 110,
+          "normalized_text": "EU",
+          "probability": 0.9519,
+          "start": 109,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 112,
+          "tag": "Deforestation"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857085632335466611",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857077979827880015",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: ❌ We regret that the EPP and the far-right voted in the European Parliament today to derail the EU #Deforestation Law, putting…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1857085632335466611",
+        "created_at": "2024-11-14T15:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857085632335466611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "EPP",
+              "probability": 0.4015,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 87,
+              "normalized_text": "European Parliament",
+              "probability": 0.8802,
+              "start": 69,
+              "type": "Organization"
+            },
+            {
+              "end": 110,
+              "normalized_text": "EU",
+              "probability": 0.9519,
+              "start": 109,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 112,
+              "tag": "Deforestation"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857085632335466611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857077979827880015",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: ❌ We regret that the EPP and the far-right voted in the European Parliament today to derail the EU #Deforestation Law, putting…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1857077727938945024"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1857077979827880015",
+        "created_at": "2024-11-14T15:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-14T16:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1857077979827880015"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "EPP",
+              "probability": 0.4163,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 74,
+              "normalized_text": "European Parliament",
+              "probability": 0.9022,
+              "start": 56,
+              "type": "Organization"
+            },
+            {
+              "end": 97,
+              "normalized_text": "EU",
+              "probability": 0.9613,
+              "start": 96,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Europe",
+              "probability": 0.9331,
+              "start": 127,
+              "type": "Place"
+            },
+            {
+              "end": 224,
+              "normalized_text": "Europe",
+              "probability": 0.9309,
+              "start": 219,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 113,
+              "start": 99,
+              "tag": "Deforestation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ImwOyxjSg0",
+              "end": 301,
+              "expanded_url": "https://x.com/PES_PSE/status/1857077979827880015/photo/1",
+              "media_key": "3_1857077727938945024",
+              "start": 278,
+              "url": "https://t.co/ImwOyxjSg0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857077979827880015",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 99,
+                "tag": "Deforestation"
+              }
+            ]
+          },
+          "text": "❌ We regret that the EPP and the far-right voted in the European Parliament today to derail the EU #Deforestation Law, putting Europe off course from its environmental commitments to protect nature and biodiversity.\nAs Europe’s progressive force, we will always do our best to protect the planet and fight climate change, ensuring our world is habitable for future generations."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 631,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "❌ We regret that the EPP and the far-right voted in the European Parliament today to derail the EU #Deforestation Law, putting Europe off course from its environmental commitments to protect nature and biodiversity.\nAs Europe’s progressive force, we will always do our best to… https://t.co/ImwOyxjSg0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹||左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||偶爾寫點東西發到這裡||可愛寶寶：@oubuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "oubuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 1172,
+          "like_count": 16074,
+          "listed_count": 7,
+          "tweet_count": 10277
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro European. Ecologists. Pro Science. We represent you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "pinned_tweet_id": "1856725150571372692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80548,
+          "following_count": 5517,
+          "like_count": 8540,
+          "listed_count": 1086,
+          "tweet_count": 50848
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

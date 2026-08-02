@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1984895911760445522",
+    "created_at": "2025-11-02T08:10:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T09:10:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984895911760445522"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "LFI",
+          "probability": 0.6455,
+          "start": 46,
+          "type": "Organization"
+        },
+        {
+          "end": 65,
+          "normalized_text": "RN",
+          "probability": 0.4632,
+          "start": 64,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1611057683989205011",
+          "start": 3,
+          "username": "Alejandro_SocEU"
+        },
+        {
+          "end": 34,
+          "id": "319677725",
+          "start": 21,
+          "username": "EuropeElects"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984895911760445522",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984750533135962142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alejandro_SocEU: @EuropeElects A vote for LFI is a vote for RN."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1984895911760445522",
+        "created_at": "2025-11-02T08:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T09:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984895911760445522"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "LFI",
+              "probability": 0.6455,
+              "start": 46,
+              "type": "Organization"
+            },
+            {
+              "end": 65,
+              "normalized_text": "RN",
+              "probability": 0.4632,
+              "start": 64,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1611057683989205011",
+              "start": 3,
+              "username": "Alejandro_SocEU"
+            },
+            {
+              "end": 34,
+              "id": "319677725",
+              "start": 21,
+              "username": "EuropeElects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984895911760445522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984750533135962142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alejandro_SocEU: @EuropeElects A vote for LFI is a vote for RN."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611057683989205011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1984749425109975084",
+        "created_at": "2025-11-01T22:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T23:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984750533135962142"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "LFI",
+              "probability": 0.6012,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 44,
+              "normalized_text": "RN",
+              "probability": 0.4974,
+              "start": 43,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "319677725",
+              "start": 0,
+              "username": "EuropeElects"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984750533135962142",
+        "in_reply_to_user_id": "319677725",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1358,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984749425109975084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EuropeElects A vote for LFI is a vote for RN."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2699,
+          "following_count": 2020,
+          "like_count": 34748,
+          "listed_count": 12,
+          "media_count": 1176,
+          "tweet_count": 17229
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T17:51:20.000Z",
+        "description": "19 y/o | Classic SocDem, Eurofederalist, and Economics student | Member of PSOE, JSE and JEF | Also a football (FC Barcelona) and F1 (OP81) fan",
+        "id": "1611057683989205011",
+        "location": "Andalusia, Spain, EU",
+        "name": "Alejandro🌹🇺🇦🇪🇺🇵🇸",
+        "pinned_tweet_id": "1965873425630831007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980692672797962240/FRVct7Ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2373,
+          "following_count": 3898,
+          "like_count": 38833,
+          "listed_count": 25,
+          "media_count": 2063,
+          "tweet_count": 21219
+        },
+        "username": "Alejandro_SocEU",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-18T14:55:35.000Z",
+        "description": "📊🗺🗳 Poll aggregation and election analysis in Europe #EP2029\n\n📧 contact@europeelects.eu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "EP2029"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "europeelects.eu",
+                "end": 23,
+                "expanded_url": "http://www.europeelects.eu",
+                "start": 0,
+                "url": "https://t.co/KPiWZ2JHDQ"
+              }
+            ]
+          }
+        },
+        "id": "319677725",
+        "location": "Oberroßbach, Deutschland",
+        "name": "Europe Elects",
+        "pinned_tweet_id": "1647065627029381121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/564496462025728002/T_yKRTbR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179089,
+          "following_count": 141,
+          "like_count": 28,
+          "listed_count": 2109,
+          "media_count": 30870,
+          "tweet_count": 49621
+        },
+        "url": "https://t.co/KPiWZ2JHDQ",
+        "username": "EuropeElects",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020514779773927424"
+      ],
+      "media_source_tweet_id": [
+        "2020514820336894327"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1393261233294307331",
+          "name": "Yoshihiko Noda"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1393261233294307331",
+          "name": "Yoshihiko Noda"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1393261233294307331",
+          "name": "Yoshihiko Noda"
+        }
+      }
+    ],
+    "conversation_id": "2020519249890988121",
+    "created_at": "2026-02-08T15:25:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T16:25:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020519249890988121"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "中道改革連合",
+          "probability": 0.7323,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 42,
+          "normalized_text": "野田 よしひこ",
+          "probability": 0.2774,
+          "start": 36,
+          "type": "Person"
+        },
+        {
+          "end": 45,
+          "normalized_text": "千葉",
+          "probability": 0.5214,
+          "start": 44,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011746229869559815",
+          "start": 3,
+          "username": "CRAJ2026"
+        },
+        {
+          "end": 62,
+          "id": "1197624852",
+          "start": 50,
+          "username": "NODAYOSHI55"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CUAjGh7vRQ",
+          "end": 129,
+          "expanded_url": "https://x.com/CRAJ2026/status/2020514820336894327/photo/1",
+          "media_key": "3_2020514779773927424",
+          "start": 106,
+          "url": "https://t.co/CUAjGh7vRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020519249890988121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020514820336894327",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CRAJ2026: 🎊 中道改革連合｜当確速報 🎊\n\n🔵 野田 よしひこ【千葉14区】\n𝕏（@NODAYOSHI55）\n\n真心のご支援に、心より感謝いたします。\n皆さまのお声を、国政へ届けてまいります。 https://t.co/CUAjGh7vRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2020514779773927424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApPfK_aAAAhkgq.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020514779773927424"
+          ],
+          "media_source_tweet_id": [
+            "2020514820336894327"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1393261233294307331",
+              "name": "Yoshihiko Noda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1393261233294307331",
+              "name": "Yoshihiko Noda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1393261233294307331",
+              "name": "Yoshihiko Noda"
+            }
+          }
+        ],
+        "conversation_id": "2020519249890988121",
+        "created_at": "2026-02-08T15:25:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:25:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020519249890988121"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中道改革連合",
+              "probability": 0.7323,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "野田 よしひこ",
+              "probability": 0.2774,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "千葉",
+              "probability": 0.5214,
+              "start": 44,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011746229869559815",
+              "start": 3,
+              "username": "CRAJ2026"
+            },
+            {
+              "end": 62,
+              "id": "1197624852",
+              "start": 50,
+              "username": "NODAYOSHI55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUAjGh7vRQ",
+              "end": 129,
+              "expanded_url": "https://x.com/CRAJ2026/status/2020514820336894327/photo/1",
+              "media_key": "3_2020514779773927424",
+              "start": 106,
+              "url": "https://t.co/CUAjGh7vRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020519249890988121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020514820336894327",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CRAJ2026: 🎊 中道改革連合｜当確速報 🎊\n\n🔵 野田 よしひこ【千葉14区】\n𝕏（@NODAYOSHI55）\n\n真心のご支援に、心より感謝いたします。\n皆さまのお声を、国政へ届けてまいります。 https://t.co/CUAjGh7vRQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020514779773927424"
+          ]
+        },
+        "author_id": "2011746229869559815",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1393261233294307331",
+              "name": "Yoshihiko Noda"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1393261233294307331",
+              "name": "Yoshihiko Noda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1393261233294307331",
+              "name": "Yoshihiko Noda"
+            }
+          }
+        ],
+        "conversation_id": "2020514820336894327",
+        "created_at": "2026-02-08T15:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020514820336894327"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "中道改革連合",
+              "probability": 0.7256,
+              "start": 3,
+              "type": "Organization"
+            },
+            {
+              "end": 28,
+              "normalized_text": "野田 よしひこ",
+              "probability": 0.2877,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 31,
+              "normalized_text": "千葉",
+              "probability": 0.478,
+              "start": 30,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 48,
+              "id": "1197624852",
+              "start": 36,
+              "username": "NODAYOSHI55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CUAjGh7vRQ",
+              "end": 115,
+              "expanded_url": "https://x.com/CRAJ2026/status/2020514820336894327/photo/1",
+              "media_key": "3_2020514779773927424",
+              "start": 92,
+              "url": "https://t.co/CUAjGh7vRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020514820336894327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 15834,
+          "like_count": 1029,
+          "quote_count": 61,
+          "reply_count": 72,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "🎊 中道改革連合｜当確速報 🎊\n\n🔵 野田 よしひこ【千葉14区】\n𝕏（@NODAYOSHI55）\n\n真心のご支援に、心より感謝いたします。\n皆さまのお声を、国政へ届けてまいります。 https://t.co/CUAjGh7vRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 1981,
+          "like_count": 38038,
+          "listed_count": 15,
+          "media_count": 1328,
+          "tweet_count": 19118
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T10:25:01.000Z",
+        "description": "中道改革連合（ちゅうどうかいかくれんごう / Centrist Reform Alliance）公式X\n略称：中道（ちゅうどう）  \n\n生活者ファーストを軸に、\n対立に偏らない中道の政治を目指す改革連合です。\n政策・記者会見・動画・現場の動きを発信します。\n\n#中道改革連合 #中道政治 #生活者ファースト",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 130,
+                "tag": "中道改革連合"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "中道政治"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "tag": "生活者ファースト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "craj.jp",
+                "end": 23,
+                "expanded_url": "https://craj.jp/",
+                "start": 0,
+                "url": "https://t.co/eaHmqphCNs"
+              }
+            ]
+          }
+        },
+        "id": "2011746229869559815",
+        "name": "中道改革連合",
+        "pinned_tweet_id": "2020116584774213633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012031517435052032/zCHAPmVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58120,
+          "following_count": 202,
+          "like_count": 324,
+          "listed_count": 360,
+          "media_count": 242,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/eaHmqphCNs",
+        "username": "CRAJ2026",
+        "verified": true
+      },
+      {
+        "created_at": "2013-02-19T15:29:04.000Z",
+        "description": "中道改革連合共同代表。衆議院議員。第95代内閣総理大臣。千葉県船橋市出身。千葉県第14区。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nodayoshi.gr.jp",
+                "end": 23,
+                "expanded_url": "http://www.nodayoshi.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/mFmNC6KqFE"
+              }
+            ]
+          }
+        },
+        "id": "1197624852",
+        "location": "Tokyo, Japan",
+        "name": "野田よしひこ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839124594734845952/6vV2ofg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69840,
+          "following_count": 197,
+          "like_count": 154,
+          "listed_count": 1015,
+          "media_count": 232,
+          "tweet_count": 1322
+        },
+        "url": "https://t.co/mFmNC6KqFE",
+        "username": "NODAYOSHI55",
+        "verified": true
+      }
+    ]
+  }
+}

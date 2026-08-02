@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1484601166080081920",
+          "name": "Russo-Ukrainian conflict"
+        }
+      }
+    ],
+    "conversation_id": "1981222895667073172",
+    "created_at": "2025-10-23T04:55:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:55:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981222895667073172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1254084570275655680",
+          "start": 3,
+          "username": "new27brigade"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981222895667073172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981154929365700886",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @new27brigade: 25/10/23. 波克羅夫斯克前線，數百名俄軍士兵在庫切里夫亞爾(Kucheriv Yar)包圍網內已投降，據點已正式收復，烏軍已插上國旗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1981222895667073172",
+        "created_at": "2025-10-23T04:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981222895667073172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1254084570275655680",
+              "start": 3,
+              "username": "new27brigade"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981222895667073172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981154929365700886",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @new27brigade: 25/10/23. 波克羅夫斯克前線，數百名俄軍士兵在庫切里夫亞爾(Kucheriv Yar)包圍網內已投降，據點已正式收復，烏軍已插上國旗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254084570275655680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1981154929365700886",
+        "created_at": "2025-10-23T00:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T01:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981154929365700886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/astraiaintel/s…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/astraiaintel/status/1981063015706267964",
+              "start": 71,
+              "url": "https://t.co/IyKQfThzV6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981154929365700886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4272,
+          "like_count": 91,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981063015706267964",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "25/10/23. 波克羅夫斯克前線，數百名俄軍士兵在庫切里夫亞爾(Kucheriv Yar)包圍網內已投降，據點已正式收復，烏軍已插上國旗 https://t.co/IyKQfThzV6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 2000,
+          "like_count": 34363,
+          "listed_count": 12,
+          "media_count": 1160,
+          "tweet_count": 17076
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-25T16:27:34.000Z",
+        "description": "本站主旨：戰史研究、戰略安全、軍事科技、政治作戰\n組織本土軍隊意識，建立在地軍事認知\n拒絕黃埔軍閥壟斷，豎立高砂國魂認同",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/New27b",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/New27b",
+                "start": 0,
+                "url": "https://t.co/sWvzy8QslJ"
+              }
+            ]
+          }
+        },
+        "id": "1254084570275655680",
+        "name": "新‧二七部隊 軍事雜談 (New 27 Brigade)🇹🇼🇺🇦🇮🇱",
+        "pinned_tweet_id": "1496692135021924355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947292012920905728/aHiyyUqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106721,
+          "following_count": 393,
+          "like_count": 451,
+          "listed_count": 665,
+          "media_count": 11024,
+          "tweet_count": 47915
+        },
+        "url": "https://t.co/sWvzy8QslJ",
+        "username": "new27brigade",
+        "verified": false
+      }
+    ]
+  }
+}

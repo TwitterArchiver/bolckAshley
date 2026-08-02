@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Leader of the UK Labour Party Jeremy Corbyn",
+          "id": "847090575954272256",
+          "name": "Jeremy Corbyn"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Leader of the UK Labour Party Jeremy Corbyn",
+          "id": "847090575954272256",
+          "name": "Jeremy Corbyn"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Leader of the UK Labour Party Jeremy Corbyn",
+          "id": "847090575954272256",
+          "name": "Jeremy Corbyn"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1864896868162949559",
+    "created_at": "2024-12-06T04:57:16.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T05:57:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864896868162949559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "117777690",
+          "start": 3,
+          "username": "jeremycorbyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864896868162949559",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11251
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864645788241960972",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jeremycorbyn: Stop arming Israel."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Leader of the UK Labour Party Jeremy Corbyn",
+              "id": "847090575954272256",
+              "name": "Jeremy Corbyn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Leader of the UK Labour Party Jeremy Corbyn",
+              "id": "847090575954272256",
+              "name": "Jeremy Corbyn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Leader of the UK Labour Party Jeremy Corbyn",
+              "id": "847090575954272256",
+              "name": "Jeremy Corbyn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1864896868162949559",
+        "created_at": "2024-12-06T04:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T05:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864896868162949559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "117777690",
+              "start": 3,
+              "username": "jeremycorbyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864896868162949559",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11251
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864645788241960972",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jeremycorbyn: Stop arming Israel."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "117777690",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Leader of the UK Labour Party Jeremy Corbyn",
+              "id": "847090575954272256",
+              "name": "Jeremy Corbyn"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Leader of the UK Labour Party Jeremy Corbyn",
+              "id": "847090575954272256",
+              "name": "Jeremy Corbyn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Leader of the UK Labour Party Jeremy Corbyn",
+              "id": "847090575954272256",
+              "name": "Jeremy Corbyn"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1864645788241960972",
+        "created_at": "2024-12-05T12:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T13:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864645788241960972"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Israel",
+              "probability": 0.9321,
+              "start": 12,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864645788241960972",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 1231383,
+          "like_count": 64181,
+          "quote_count": 254,
+          "reply_count": 1899,
+          "retweet_count": 11251
+        },
+        "reply_settings": "everyone",
+        "text": "Stop arming Israel."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 1271,
+          "like_count": 17229,
+          "listed_count": 8,
+          "media_count": 572,
+          "tweet_count": 10661
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-26T15:45:23.000Z",
+        "description": "Independent MP for Islington North",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "votecorbyn.com/join",
+                "end": 23,
+                "expanded_url": "http://www.votecorbyn.com/join",
+                "start": 0,
+                "url": "https://t.co/JBvoRsiUSj"
+              }
+            ]
+          }
+        },
+        "id": "117777690",
+        "location": "UK",
+        "name": "Jeremy Corbyn",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1351939685900288007/lcoCyR7S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603613,
+          "following_count": 3221,
+          "like_count": 5086,
+          "listed_count": 7524,
+          "media_count": 5553,
+          "tweet_count": 17706
+        },
+        "url": "https://t.co/JBvoRsiUSj",
+        "username": "jeremycorbyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "1990621680226779431",
+    "created_at": "2025-11-18T04:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T05:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990635541021516187"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "Taiwan",
+          "probability": 0.9776,
+          "start": 13,
+          "type": "Place"
+        },
+        {
+          "end": 57,
+          "normalized_text": "China",
+          "probability": 0.7906,
+          "start": 53,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1824688188750712832",
+          "start": 0,
+          "username": "N0HopeForUs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990635541021516187",
+    "in_reply_to_user_id": "1824688188750712832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990621680226779431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N0HopeForUs Taiwan is a province of the Republic of China."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1990621680226779431",
+        "created_at": "2025-11-18T04:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T05:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990635541021516187"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Taiwan",
+              "probability": 0.9776,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "China",
+              "probability": 0.7906,
+              "start": 53,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1824688188750712832",
+              "start": 0,
+              "username": "N0HopeForUs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990635541021516187",
+        "in_reply_to_user_id": "1824688188750712832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990621680226779431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N0HopeForUs Taiwan is a province of the Republic of China."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824688188750712832",
+        "conversation_id": "1990621680226779431",
+        "created_at": "2025-11-18T03:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T04:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990621680226779431"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "TAIWAN",
+              "probability": 0.9133,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TaiwanFreedom8…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/TaiwanFreedom89/status/1990385572062417325",
+              "start": 21,
+              "url": "https://t.co/xfy90uhufY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990621680226779431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990385572062417325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "TAIWAN IS A PROVINCE https://t.co/xfy90uhufY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 2025,
+          "like_count": 35151,
+          "listed_count": 12,
+          "media_count": 1198,
+          "tweet_count": 17441
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T06:02:43.000Z",
+        "description": "Socialism🌺| Lacan | Wittgenstein | Marx | 舞萌DX\n德赛先生，你好\n精神病患者\n左翼整合主义\n谢谢你闯入我的生活\n是所有苏马蜘蛛的野爹\n@S_Hyoscine  @ci_shang85157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "S_Hyoscine"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "ci_shang85157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org",
+                "end": 23,
+                "expanded_url": "http://marxists.org",
+                "start": 0,
+                "url": "https://t.co/yy1yNHoF29"
+              }
+            ]
+          }
+        },
+        "id": "1824688188750712832",
+        "location": "日本",
+        "name": "耄耋主义Maodieism🇷🇸",
+        "pinned_tweet_id": "1988658166213800138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989733009902505988/NX8wSshy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 1582,
+          "like_count": 33433,
+          "listed_count": 1,
+          "media_count": 440,
+          "tweet_count": 9784
+        },
+        "url": "https://t.co/yy1yNHoF29",
+        "username": "N0HopeForUs",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1907115914870575104"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1907107686753432035",
+    "created_at": "2025-04-01T17:00:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T18:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907115918112731552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232837627939676160",
+          "start": 0,
+          "username": "Akhromeyev_CCCP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kD3GeJzBXe",
+          "end": 52,
+          "expanded_url": "https://x.com/bolckAshley/status/1907115918112731552/photo/1",
+          "media_key": "3_1907115914870575104",
+          "start": 29,
+          "url": "https://t.co/kD3GeJzBXe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907115918112731552",
+    "in_reply_to_user_id": "1232837627939676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907107686753432035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akhromeyev_CCCP 為什麼不是這個？🤓☝️ https://t.co/kD3GeJzBXe"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1907107686753432035].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1907107686753432035",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1907107686753432035"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_1907115914870575104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gndv0fta0AAm4z9.jpg",
+        "width": 458
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907115914870575104"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "1907107686753432035",
+        "created_at": "2025-04-01T17:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T18:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907115918112731552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232837627939676160",
+              "start": 0,
+              "username": "Akhromeyev_CCCP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kD3GeJzBXe",
+              "end": 52,
+              "expanded_url": "https://x.com/bolckAshley/status/1907115918112731552/photo/1",
+              "media_key": "3_1907115914870575104",
+              "start": 29,
+              "url": "https://t.co/kD3GeJzBXe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907115918112731552",
+        "in_reply_to_user_id": "1232837627939676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907107686753432035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akhromeyev_CCCP 為什麼不是這個？🤓☝️ https://t.co/kD3GeJzBXe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2331,
+          "following_count": 1696,
+          "like_count": 24838,
+          "listed_count": 10,
+          "media_count": 831,
+          "tweet_count": 13072
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "Жила бы страна родная-\nИ нету других забот。願親愛的家鄉美好，願祖國呀萬年長。/政治立場左上/反建制/反修正/反保守/理論學習中/Прощай, края родные,\n3везда победы, нам свети! 再見了，親愛的故鄉，勝利的星會照耀我們！",
+        "id": "1232837627939676160",
+        "location": "苏联陆军白俄罗斯军区 明斯克市",
+        "name": "【VOS】🇷🇺🕊🇺🇦☭🚩📕🎖️阿赫羅梅耶夫元帥歸來 看戈爾巴喬夫蘇修叛徒集團土崩瓦解",
+        "pinned_tweet_id": "1881755792875078132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890086866348843008/F2RoOaVX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 1943,
+          "like_count": 115605,
+          "listed_count": 18,
+          "media_count": 3455,
+          "tweet_count": 19859
+        },
+        "username": "Akhromeyev_CCCP",
+        "verified": false
+      }
+    ]
+  }
+}

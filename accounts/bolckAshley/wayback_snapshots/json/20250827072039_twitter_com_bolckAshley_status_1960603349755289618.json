@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1960573664426123265",
+        "3_1960573664396763136",
+        "3_1960573664510009344",
+        "3_1960573664468066308"
+      ],
+      "media_source_tweet_id": [
+        "1960583058085831170",
+        "1960583058085831170",
+        "1960583058085831170",
+        "1960583058085831170"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1960603349755289618",
+    "created_at": "2025-08-27T07:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T08:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960603349755289618"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "夜守くん、君はどうしたい？",
+          "probability": 0.6079,
+          "start": 58,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453395613282811911",
+          "start": 3,
+          "username": "yofukashi_pr"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z2zS2Pu3pk",
+          "end": 125,
+          "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+          "media_key": "3_1960573664426123265",
+          "start": 102,
+          "url": "https://t.co/Z2zS2Pu3pk"
+        },
+        {
+          "display_url": "pic.x.com/Z2zS2Pu3pk",
+          "end": 125,
+          "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+          "media_key": "3_1960573664396763136",
+          "start": 102,
+          "url": "https://t.co/Z2zS2Pu3pk"
+        },
+        {
+          "display_url": "pic.x.com/Z2zS2Pu3pk",
+          "end": 125,
+          "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+          "media_key": "3_1960573664510009344",
+          "start": 102,
+          "url": "https://t.co/Z2zS2Pu3pk"
+        },
+        {
+          "display_url": "pic.x.com/Z2zS2Pu3pk",
+          "end": 125,
+          "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+          "media_key": "3_1960573664468066308",
+          "start": 102,
+          "url": "https://t.co/Z2zS2Pu3pk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960603349755289618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960583058085831170",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yofukashi_pr: ★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\nあらすじ・先行カット解禁🌙\n ━━━━━━━━━━━★… https://t.co/Z2zS2Pu3pk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1960573664426123265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVbXDga4AEXZ7D.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1960573664396763136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVbXDZa4AACWzf.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1960573664510009344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVbXD0a4AA8SM9.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1960573664468066308",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzVbXDqa4AQ-_UQ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960573664426123265",
+            "3_1960573664396763136",
+            "3_1960573664510009344",
+            "3_1960573664468066308"
+          ],
+          "media_source_tweet_id": [
+            "1960583058085831170",
+            "1960583058085831170",
+            "1960583058085831170",
+            "1960583058085831170"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1960603349755289618",
+        "created_at": "2025-08-27T07:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T08:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960603349755289618"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "夜守くん、君はどうしたい？",
+              "probability": 0.6079,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453395613282811911",
+              "start": 3,
+              "username": "yofukashi_pr"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 125,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664426123265",
+              "start": 102,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            },
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 125,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664396763136",
+              "start": 102,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            },
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 125,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664510009344",
+              "start": 102,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            },
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 125,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664468066308",
+              "start": 102,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960603349755289618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960583058085831170",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yofukashi_pr: ★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\nあらすじ・先行カット解禁🌙\n ━━━━━━━━━━━★… https://t.co/Z2zS2Pu3pk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960573664426123265",
+            "3_1960573664396763136",
+            "3_1960573664510009344",
+            "3_1960573664468066308"
+          ]
+        },
+        "author_id": "1453395613282811911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1960583058085831170",
+        "created_at": "2025-08-27T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960583058085831170"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "夜守くん、君はどうしたい？",
+              "probability": 0.6386,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 106,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664426123265",
+              "start": 83,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            },
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 106,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664396763136",
+              "start": 83,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            },
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 106,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664510009344",
+              "start": 83,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            },
+            {
+              "display_url": "pic.x.com/Z2zS2Pu3pk",
+              "end": 106,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1960583058085831170/photo/1",
+              "media_key": "3_1960573664468066308",
+              "start": 83,
+              "url": "https://t.co/Z2zS2Pu3pk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960583058085831170",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "よふかしのうた"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com/story/",
+                "end": 212,
+                "expanded_url": "https://yofukashi-no-uta.com/story/",
+                "start": 189,
+                "url": "https://t.co/OA2MBY5IAe"
+              }
+            ]
+          },
+          "text": "★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\nあらすじ・先行カット解禁🌙\n ━━━━━━━━━━━★\n \nナズナは餡子との因縁を仲間たちに明かし、「あたしが先輩を止める」と決意する。しかし、ハロウィンの夜、群衆の中で餡子がニコを銃撃。「夜を終わらせにきました」と告げる餡子に、次々と吸血鬼たちは標的にされていく。\nhttps://t.co/OA2MBY5IAe\n\n📺放送情報\n全国フジテレビ系“ノイタミナ”にて8月29日（金）23時30分から\n\n💻配信情報\nPrime Videoにて8月30日（土）0時より見放題独占配信\nTVerにて9月4日（木）0時より一週間限定配信"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 11489,
+          "like_count": 567,
+          "quote_count": 8,
+          "reply_count": 1,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\nあらすじ・先行カット解禁🌙\n ━━━━━━━━━━━★ https://t.co/Z2zS2Pu3pk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955524388197109771/vhZnsIMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 1923,
+          "like_count": 32243,
+          "listed_count": 10,
+          "media_count": 1039,
+          "tweet_count": 15948
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T16:19:52.000Z",
+        "description": "TVアニメ『よふかしのうた Season2』2025年7月4日（金）より全国フジテレビ系“ノイタミナ”にて毎週金曜23時30分から放送\nTVアニメ『よふかしのうた Season1』各プラットフォームにて配信中 原作：コトヤマ（小学館「週刊少年サンデー」刊） 推奨ハッシュタグ： #よふかしのうた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "よふかしのうた"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com",
+                "end": 23,
+                "expanded_url": "https://yofukashi-no-uta.com",
+                "start": 0,
+                "url": "https://t.co/oRunZLf8es"
+              }
+            ]
+          }
+        },
+        "id": "1453395613282811911",
+        "name": "『よふかしのうた』TVアニメ公式",
+        "pinned_tweet_id": "1958907016724062351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199784843005952/Ln9iS_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170572,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 740,
+          "media_count": 786,
+          "tweet_count": 1737
+        },
+        "url": "https://t.co/oRunZLf8es",
+        "username": "yofukashi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

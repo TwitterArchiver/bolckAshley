@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997886557039325184"
+      ],
+      "media_source_tweet_id": [
+        "1997886559887266112"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "The Bundestag is the German federal parliament.",
+          "id": "1099777660912263168",
+          "name": "German Bundestag"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The Bundestag is the German federal parliament.",
+          "id": "1099777660912263168",
+          "name": "German Bundestag"
+        }
+      }
+    ],
+    "conversation_id": "1998186529702002903",
+    "created_at": "2025-12-09T00:22:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T01:22:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998186529702002903"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "AfD",
+          "probability": 0.4095,
+          "start": 25,
+          "type": "Other"
+        },
+        {
+          "end": 41,
+          "normalized_text": "Linke",
+          "probability": 0.4482,
+          "start": 37,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1426513156776480768",
+          "start": 3,
+          "username": "RaccoonOfFiume"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sIz4tbEavM",
+          "end": 88,
+          "expanded_url": "https://x.com/RaccoonOfFiume/status/1997886559887266112/photo/1",
+          "media_key": "3_1997886557039325184",
+          "start": 65,
+          "url": "https://t.co/sIz4tbEavM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998186529702002903",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997886559887266112",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RaccoonOfFiume: Both AfD and Die Linke for no fucking reason https://t.co/sIz4tbEavM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_1997886557039325184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7nrPQXbcAAUqO6.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997886557039325184"
+          ],
+          "media_source_tweet_id": [
+            "1997886559887266112"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          }
+        ],
+        "conversation_id": "1998186529702002903",
+        "created_at": "2025-12-09T00:22:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998186529702002903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "AfD",
+              "probability": 0.4095,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Linke",
+              "probability": 0.4482,
+              "start": 37,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1426513156776480768",
+              "start": 3,
+              "username": "RaccoonOfFiume"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIz4tbEavM",
+              "end": 88,
+              "expanded_url": "https://x.com/RaccoonOfFiume/status/1997886559887266112/photo/1",
+              "media_key": "3_1997886557039325184",
+              "start": 65,
+              "url": "https://t.co/sIz4tbEavM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998186529702002903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997886559887266112",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RaccoonOfFiume: Both AfD and Die Linke for no fucking reason https://t.co/sIz4tbEavM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997886557039325184"
+          ]
+        },
+        "author_id": "1426513156776480768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          }
+        ],
+        "conversation_id": "1997886559887266112",
+        "created_at": "2025-12-08T04:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T05:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997886559887266112"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "AfD",
+              "probability": 0.6566,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 21,
+              "normalized_text": "Die Linke",
+              "probability": 0.6574,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sIz4tbEavM",
+              "end": 68,
+              "expanded_url": "https://x.com/RaccoonOfFiume/status/1997886559887266112/photo/1",
+              "media_key": "3_1997886557039325184",
+              "start": 45,
+              "url": "https://t.co/sIz4tbEavM"
+            },
+            {
+              "display_url": "x.com/HistoricVotes/…",
+              "end": 92,
+              "expanded_url": "https://twitter.com/HistoricVotes/status/1997003420109091222",
+              "start": 69,
+              "url": "https://t.co/emGkHjKQ9l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997886559887266112",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 71310,
+          "like_count": 2478,
+          "quote_count": 27,
+          "reply_count": 44,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997003420109091222",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Both AfD and Die Linke for no fucking reason https://t.co/sIz4tbEavM https://t.co/emGkHjKQ9l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 2047,
+          "like_count": 35855,
+          "listed_count": 12,
+          "media_count": 1221,
+          "tweet_count": 17775
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:57:26.000Z",
+        "description": "Good vibes only",
+        "id": "1426513156776480768",
+        "name": "Mami🇮🇩",
+        "pinned_tweet_id": "1795783037608935592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993593805497647104/POsm22dg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 912,
+          "like_count": 96013,
+          "listed_count": 8,
+          "media_count": 2540,
+          "tweet_count": 10605
+        },
+        "username": "RaccoonOfFiume",
+        "verified": false
+      }
+    ]
+  }
+}

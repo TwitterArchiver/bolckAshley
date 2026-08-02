@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1892239852957028354"
+      ],
+      "media_source_tweet_id": [
+        "1892295841542443027"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1484601166080081920",
+          "name": "Russo-Ukrainian conflict"
+        }
+      }
+    ],
+    "conversation_id": "1892560797328421217",
+    "created_at": "2025-02-20T13:03:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-20T14:03:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892560797328421217"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Ukraine",
+          "probability": 0.9591,
+          "start": 22,
+          "type": "Place"
+        },
+        {
+          "end": 48,
+          "normalized_text": "StandWithUkraine",
+          "probability": 0.5959,
+          "start": 33,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 32,
+          "tag": "StandWithUkraine"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "53347647",
+          "start": 3,
+          "username": "EPPGroup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oYbPfszoXR",
+          "end": 73,
+          "expanded_url": "https://x.com/EPPGroup/status/1892295841542443027/photo/1",
+          "media_key": "3_1892239852957028354",
+          "start": 50,
+          "url": "https://t.co/oYbPfszoXR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892560797328421217",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2267
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892295841542443027",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EPPGroup: This is Ukraine.\n\n#StandWithUkraine https://t.co/oYbPfszoXR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1892239852957028354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkKWHulXUAI7Y4h.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892239852957028354"
+          ],
+          "media_source_tweet_id": [
+            "1892295841542443027"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1892560797328421217",
+        "created_at": "2025-02-20T13:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-20T14:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892560797328421217"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Ukraine",
+              "probability": 0.9591,
+              "start": 22,
+              "type": "Place"
+            },
+            {
+              "end": 48,
+              "normalized_text": "StandWithUkraine",
+              "probability": 0.5959,
+              "start": 33,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 32,
+              "tag": "StandWithUkraine"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "53347647",
+              "start": 3,
+              "username": "EPPGroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYbPfszoXR",
+              "end": 73,
+              "expanded_url": "https://x.com/EPPGroup/status/1892295841542443027/photo/1",
+              "media_key": "3_1892239852957028354",
+              "start": 50,
+              "url": "https://t.co/oYbPfszoXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892560797328421217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2267
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892295841542443027",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EPPGroup: This is Ukraine.\n\n#StandWithUkraine https://t.co/oYbPfszoXR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1892239852957028354"
+          ]
+        },
+        "author_id": "53347647",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "1892295841542443027",
+        "created_at": "2025-02-19T19:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T20:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892295841542443027"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Ukraine",
+              "probability": 0.9626,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "StandWithUkraine",
+              "probability": 0.477,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 18,
+              "tag": "StandWithUkraine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYbPfszoXR",
+              "end": 59,
+              "expanded_url": "https://x.com/EPPGroup/status/1892295841542443027/photo/1",
+              "media_key": "3_1892239852957028354",
+              "start": 36,
+              "url": "https://t.co/oYbPfszoXR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892295841542443027",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 336657,
+          "like_count": 18930,
+          "quote_count": 106,
+          "reply_count": 854,
+          "retweet_count": 2267
+        },
+        "reply_settings": "everyone",
+        "text": "This is Ukraine.\n\n#StandWithUkraine https://t.co/oYbPfszoXR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 1555,
+          "like_count": 22171,
+          "listed_count": 9,
+          "media_count": 757,
+          "tweet_count": 12238
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-03T10:01:25.000Z",
+        "description": "The largest political group in the @Europarl_EN.\nWe defend centre-right policies to promote growth & jobs in a more integrated Europe. #JobsJobsJobs",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 135,
+                "tag": "JobsJobsJobs"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Europarl_EN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eppgroup.eu",
+                "end": 23,
+                "expanded_url": "https://www.eppgroup.eu/",
+                "start": 0,
+                "url": "https://t.co/2UFzHZ0Xn8"
+              }
+            ]
+          }
+        },
+        "id": "53347647",
+        "location": "Brussels, Belgium",
+        "name": "EPP Group",
+        "pinned_tweet_id": "1892234229095809398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500531508381106181/qi2IZMZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136910,
+          "following_count": 2938,
+          "like_count": 17697,
+          "listed_count": 1664,
+          "media_count": 26424,
+          "tweet_count": 56653
+        },
+        "url": "https://t.co/2UFzHZ0Xn8",
+        "username": "EPPGroup",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2020672015192190976"
+      ],
+      "media_source_tweet_id": [
+        "2020672176114856363"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735198340304896",
+          "name": "Kenta Izumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735198340304896",
+          "name": "Kenta Izumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735198340304896",
+          "name": "Kenta Izumi"
+        }
+      }
+    ],
+    "conversation_id": "2020805263272329368",
+    "created_at": "2026-02-09T10:21:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T11:21:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020805263272329368"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "中道 泉健太さん",
+          "probability": 0.5303,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1486627828204400641",
+          "start": 3,
+          "username": "dokkanobucho"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3y9G0iooJv",
+          "end": 114,
+          "expanded_url": "https://x.com/dokkanobucho/status/2020672176114856363/video/1",
+          "media_key": "13_2020672015192190976",
+          "start": 91,
+          "url": "https://t.co/3y9G0iooJv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020805263272329368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020672176114856363",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dokkanobucho: 中道 泉健太さん\n\n「負けたことを他のせいにせずに、自分の責任にして、これからまた再生への道を歩んでいきたい」\n\nあなたの人柄に惚れつつあります https://t.co/3y9G0iooJv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 80866,
+        "height": 1920,
+        "media_key": "13_2020672015192190976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020672015192190976/img/qbqITa0KNwkn1EYa.jpg",
+        "public_metrics": {
+          "view_count": 205648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020672015192190976/vid/avc1/480x852/TqJSZ4puNGXUFGV_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020672015192190976/pl/S872NdOcxXkjSkwY.m3u8?v=7e7"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020672015192190976/vid/avc1/1080x1920/lPa1LrBVTMfjX5wl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020672015192190976/vid/avc1/720x1280/2XE3qxBIUzchXUNK.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020672015192190976/vid/avc1/320x568/Qe7gxL6EEWb9UZM2.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020672015192190976"
+          ],
+          "media_source_tweet_id": [
+            "2020672176114856363"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          }
+        ],
+        "conversation_id": "2020805263272329368",
+        "created_at": "2026-02-09T10:21:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:21:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020805263272329368"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "中道 泉健太さん",
+              "probability": 0.5303,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1486627828204400641",
+              "start": 3,
+              "username": "dokkanobucho"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3y9G0iooJv",
+              "end": 114,
+              "expanded_url": "https://x.com/dokkanobucho/status/2020672176114856363/video/1",
+              "media_key": "13_2020672015192190976",
+              "start": 91,
+              "url": "https://t.co/3y9G0iooJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020805263272329368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020672176114856363",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dokkanobucho: 中道 泉健太さん\n\n「負けたことを他のせいにせずに、自分の責任にして、これからまた再生への道を歩んでいきたい」\n\nあなたの人柄に惚れつつあります https://t.co/3y9G0iooJv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020672015192190976"
+          ]
+        },
+        "author_id": "1486627828204400641",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          }
+        ],
+        "conversation_id": "2020672176114856363",
+        "created_at": "2026-02-09T01:32:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T02:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020672176114856363"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "中道 泉健太さん",
+              "probability": 0.519,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3y9G0iooJv",
+              "end": 96,
+              "expanded_url": "https://x.com/dokkanobucho/status/2020672176114856363/video/1",
+              "media_key": "13_2020672015192190976",
+              "start": 73,
+              "url": "https://t.co/3y9G0iooJv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020672176114856363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 492,
+          "impression_count": 410144,
+          "like_count": 12236,
+          "quote_count": 330,
+          "reply_count": 475,
+          "retweet_count": 1756
+        },
+        "reply_settings": "everyone",
+        "text": "中道 泉健太さん\n\n「負けたことを他のせいにせずに、自分の責任にして、これからまた再生への道を歩んでいきたい」\n\nあなたの人柄に惚れつつあります https://t.co/3y9G0iooJv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 1980,
+          "like_count": 38036,
+          "listed_count": 15,
+          "media_count": 1330,
+          "tweet_count": 19127
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-27T09:11:33.000Z",
+        "description": "30代/サラリーマン/2歳の娘/なんちゃって創価 ※動画はご自由にお使いください",
+        "id": "1486627828204400641",
+        "name": "スーツ男子",
+        "pinned_tweet_id": "1507141197826912279",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507291481089794051/QQswuVYs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3374,
+          "following_count": 2261,
+          "like_count": 4115,
+          "listed_count": 7,
+          "media_count": 70,
+          "tweet_count": 1337
+        },
+        "username": "dokkanobucho",
+        "verified": false
+      }
+    ]
+  }
+}

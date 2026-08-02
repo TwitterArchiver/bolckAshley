@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cybersecurity",
+          "id": "898650876658634752",
+          "name": "Cybersecurity"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Information Security",
+          "id": "1047123725525479425",
+          "name": "Information security"
+        }
+      }
+    ],
+    "conversation_id": "2010604459530104985",
+    "created_at": "2026-01-12T06:47:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T07:47:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010604459530104985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010604459530104985",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010601874584408077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: Women are often the target of vicious attacks in the digital world.\n\nThis is part of a broader attack against women’s rights t…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49540,
+        "height": 1350,
+        "media_key": "7_2010601780577439744",
+        "preview_image_url": "https://pbs.twimg.com/media/G-cXv5HWYAAnR1E.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010601780577439744/pu/vid/avc1/320x400/BsWXU8tmm3mFm603.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010601780577439744/pu/vid/avc1/480x600/-BTcKhzF51oe-Ayg.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2010601780577439744/pu/vid/avc1/720x900/CmM0vrKAzVEJOc3v.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2010601780577439744/pu/pl/c0zg4RVXNcjlJ4Ht.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2010604459530104985",
+        "created_at": "2026-01-12T06:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010604459530104985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010604459530104985",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010601874584408077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: Women are often the target of vicious attacks in the digital world.\n\nThis is part of a broader attack against women’s rights t…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2010601780577439744"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          }
+        ],
+        "conversation_id": "2010601874584408077",
+        "created_at": "2026-01-12T06:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T07:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010601874584408077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqUUSplchB",
+              "end": 297,
+              "expanded_url": "https://x.com/PES_PSE/status/2010601874584408077/video/1",
+              "media_key": "7_2010601780577439744",
+              "start": 274,
+              "url": "https://t.co/AqUUSplchB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010601874584408077",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Women are often the target of vicious attacks in the digital world.\n\nThis is part of a broader attack against women’s rights that we cannot tolerate.\nGender equality is not an optional idea – it is a fundamental pillar of our societies.\nWe heard civil society and citizens’ demands, and the PES Congress stated our commitment to a more feminist Europe.\nWe are ready to fight gender-based violence, as well as address the gender pay gap and defend sexual and reproductive health rights."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Women are often the target of vicious attacks in the digital world.\n\nThis is part of a broader attack against women’s rights that we cannot tolerate.\nGender equality is not an optional idea – it is a fundamental pillar of our societies.\nWe heard civil society and citizens’ https://t.co/AqUUSplchB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 1961,
+          "like_count": 37458,
+          "listed_count": 14,
+          "media_count": 1267,
+          "tweet_count": 18581
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79306,
+          "following_count": 5290,
+          "like_count": 8949,
+          "listed_count": 1041,
+          "media_count": 8590,
+          "tweet_count": 51669
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

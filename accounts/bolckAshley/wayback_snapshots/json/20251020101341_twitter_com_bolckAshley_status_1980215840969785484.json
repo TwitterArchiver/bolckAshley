@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1174432578503204864",
+          "name": "PC gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392975566253424640",
+          "name": "Gaming retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392988484256759811",
+          "name": "Steam"
+        }
+      }
+    ],
+    "conversation_id": "1980195726669009012",
+    "created_at": "2025-10-20T10:13:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T11:13:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980215840969785484"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 148,
+          "normalized_text": "Steam",
+          "probability": 0.9801,
+          "start": 144,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1326047744511913984",
+          "start": 0,
+          "username": "Blueish_Volt"
+        },
+        {
+          "end": 25,
+          "id": "1841403473935351808",
+          "start": 14,
+          "username": "howto58973"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980215840969785484",
+    "in_reply_to_user_id": "1326047744511913984",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980215300105830613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blueish_Volt @howto58973 Maybe, mainly because I buy a lot of games but never really play them (\nAt least 70% of the games I have purchased on Steam have a play time of less than 2 hours 😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "1980195726669009012",
+        "created_at": "2025-10-20T10:13:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:13:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980215840969785484"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 148,
+              "normalized_text": "Steam",
+              "probability": 0.9801,
+              "start": 144,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1326047744511913984",
+              "start": 0,
+              "username": "Blueish_Volt"
+            },
+            {
+              "end": 25,
+              "id": "1841403473935351808",
+              "start": 14,
+              "username": "howto58973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980215840969785484",
+        "in_reply_to_user_id": "1326047744511913984",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980215300105830613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blueish_Volt @howto58973 Maybe, mainly because I buy a lot of games but never really play them (\nAt least 70% of the games I have purchased on Steam have a play time of less than 2 hours 😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1326047744511913984",
+        "conversation_id": "1980195726669009012",
+        "created_at": "2025-10-20T10:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980215300105830613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            },
+            {
+              "end": 24,
+              "id": "1841403473935351808",
+              "start": 13,
+              "username": "howto58973"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980215300105830613",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980214807187034266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley @howto58973 That's good to know. The most important thing is that you're happy with your purchase. Do you have any titles you want to play on your pc that you couldn't run on your old?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 1991,
+          "like_count": 34267,
+          "listed_count": 12,
+          "media_count": 1152,
+          "tweet_count": 17043
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-10T06:23:29.000Z",
+        "description": "22 | Politically Homeless | Europe Appreciator | Subcarpathian Retard | Self Proclaimed BfV Agent |",
+        "id": "1326047744511913984",
+        "location": "🇵🇱 in 🇩🇪",
+        "name": "Blue_Volt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883424214914363392/gRGp1ApV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 743,
+          "like_count": 95053,
+          "listed_count": 21,
+          "media_count": 2062,
+          "tweet_count": 13101
+        },
+        "username": "Blueish_Volt",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-02T09:03:09.000Z",
+        "description": "Slava Ukraini, Am Falastin Chai, I block insufferable people",
+        "id": "1841403473935351808",
+        "name": "Doидld Tяцmр (doidld tyatsmr) 🇵🇸🇺🇦🇸🇩🇸🇾",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898087174408380416/uNV04g5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 268,
+          "like_count": 75612,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 1805
+        },
+        "username": "howto58973",
+        "verified": false
+      }
+    ]
+  }
+}

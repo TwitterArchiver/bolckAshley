@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2018994442993320264",
+    "created_at": "2026-02-04T10:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T11:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018994442993320264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1855412462687772672",
+          "start": 3,
+          "username": "XiXiPeeAus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018994442993320264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018928704295202996",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiXiPeeAus: 这就是美式总统制的缺陷\n因为总统选举是零和游戏 赢者全拿，所以很难脱离两党制\n\n如果美国是个奉行比例代表制的议会制国家，aoc sanders估计压根就不会呆在民主党，而是自成一党。同样的道理 maga也不会呆在共和党。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2018994442993320264",
+        "created_at": "2026-02-04T10:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T11:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018994442993320264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1855412462687772672",
+              "start": 3,
+              "username": "XiXiPeeAus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018994442993320264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018928704295202996",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiXiPeeAus: 这就是美式总统制的缺陷\n因为总统选举是零和游戏 赢者全拿，所以很难脱离两党制\n\n如果美国是个奉行比例代表制的议会制国家，aoc sanders估计压根就不会呆在民主党，而是自成一党。同样的道理 maga也不会呆在共和党。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855412462687772672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2018928704295202996",
+        "created_at": "2026-02-04T06:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:04:08.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018928539576529359",
+          "2018928704295202996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dennisottawa/s…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/dennisottawa/status/2018785267411530223",
+              "start": 111,
+              "url": "https://t.co/Gr3fk3HU4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018928704295202996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这就是美式总统制的缺陷\n因为总统选举是零和游戏 赢者全拿，所以很难脱离两党制\n\n如果美国是个奉行比例代表制的议会制国家，aoc sanders估计压根就不会呆在民主党，而是自成一党。同样的道理 maga也不会呆在共和党。 执政基本通过联合政府。不会出现极端声音绑架全国人民这种状况。内阁不会像如今美国总统一样胡作非为"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5041,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018785267411530223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是美式总统制的缺陷\n因为总统选举是零和游戏 赢者全拿，所以很难脱离两党制\n\n如果美国是个奉行比例代表制的议会制国家，aoc sanders估计压根就不会呆在民主党，而是自成一党。同样的道理 maga也不会呆在共和党。 https://t.co/Gr3fk3HU4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2910,
+          "following_count": 1976,
+          "like_count": 37982,
+          "listed_count": 14,
+          "media_count": 1324,
+          "tweet_count": 19049
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T00:49:47.000Z",
+        "description": "因违反美利坚英雄烈士名誉保护法，大号于2025年9月14日被马斯克处以极刑",
+        "id": "1855412462687772672",
+        "name": "XiXiPee🇦🇺🇺🇦🇪🇺",
+        "pinned_tweet_id": "2012773358816186704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015422560259985408/DXVC3BCl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2992,
+          "following_count": 326,
+          "like_count": 2818,
+          "listed_count": 19,
+          "media_count": 287,
+          "tweet_count": 4124
+        },
+        "username": "XiXiPeeAus",
+        "verified": true
+      }
+    ]
+  }
+}

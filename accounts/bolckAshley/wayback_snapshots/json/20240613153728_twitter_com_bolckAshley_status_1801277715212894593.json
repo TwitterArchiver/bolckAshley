@@ -1,0 +1,306 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1220701888179359745",
+          "name": "COVID-19"
+        }
+      }
+    ],
+    "conversation_id": "1801277715212894593",
+    "created_at": "2024-06-13T15:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-13T16:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1801277715212894593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062560079847682048",
+          "start": 3,
+          "username": "kuomintang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1801277715212894593",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1801074237106794813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuomintang: To advance 🇹🇼 3rd wave of democratic reforms, we will hold over 💯nationwide town meetings. Key policies include supporting…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1801277715212894593",
+        "created_at": "2024-06-13T15:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T16:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801277715212894593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062560079847682048",
+              "start": 3,
+              "username": "kuomintang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801277715212894593",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1801074237106794813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuomintang: To advance 🇹🇼 3rd wave of democratic reforms, we will hold over 💯nationwide town meetings. Key policies include supporting…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1801074231947800576"
+          ]
+        },
+        "author_id": "1062560079847682048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1801074237106794813",
+        "created_at": "2024-06-13T02:08:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-13T03:08:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1801074237106794813"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 165,
+              "normalized_text": "NuclearPower",
+              "probability": 0.4372,
+              "start": 154,
+              "type": "Other"
+            },
+            {
+              "end": 275,
+              "normalized_text": "BarthelIndex",
+              "probability": 0.3326,
+              "start": 264,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 141,
+              "start": 123,
+              "tag": "LegislativeReform"
+            },
+            {
+              "end": 166,
+              "start": 153,
+              "tag": "NuclearPower"
+            },
+            {
+              "end": 207,
+              "start": 194,
+              "tag": "DeathPenalty"
+            },
+            {
+              "end": 242,
+              "start": 219,
+              "tag": "LocalFinancialAutonomy"
+            },
+            {
+              "end": 276,
+              "start": 263,
+              "tag": "BarthelIndex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/DvdIARUIjk",
+              "end": 301,
+              "expanded_url": "https://twitter.com/kuomintang/status/1801074237106794813/photo/1",
+              "media_key": "3_1801074231947800576",
+              "start": 278,
+              "url": "https://t.co/DvdIARUIjk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1801074237106794813",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6708,
+          "like_count": 41,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "To advance 🇹🇼 3rd wave of democratic reforms, we will hold over 💯nationwide town meetings. Key policies include supporting #LegislativeReform, extending #NuclearPower, opposing the abolition of #DeathPenalty, enhancing #LocalFinancialAutonomy, and abolishing the #BarthelIndex. https://t.co/DvdIARUIjk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 917,
+          "like_count": 11790,
+          "listed_count": 9,
+          "tweet_count": 7767
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T04:17:19.000Z",
+        "description": "中國國民黨為一個具有完美理想與悠久歷史的政黨。完美之理想在於建設中華民國成為一個自由、民主、富強、尊嚴的現代化國家；悠久之歷史，就是為實現此一完美理想而奮鬥匪懈的光榮記錄。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/i1VppDUGGu"
+              }
+            ]
+          }
+        },
+        "id": "1062560079847682048",
+        "location": "Taipei City, Taiwan (R.O.C.)",
+        "name": "中國國民黨 KMT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315971947210010624/rz-JUhg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85052,
+          "following_count": 155,
+          "like_count": 867,
+          "listed_count": 341,
+          "tweet_count": 1126
+        },
+        "url": "https://t.co/i1VppDUGGu",
+        "username": "kuomintang",
+        "verified": false
+      }
+    ]
+  }
+}

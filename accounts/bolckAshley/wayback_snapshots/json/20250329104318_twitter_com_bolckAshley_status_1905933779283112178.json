@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1905856159950479565",
+    "created_at": "2025-03-29T10:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-29T11:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1905933779283112178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232837627939676160",
+          "start": 0,
+          "username": "Akhromeyev_CCCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905933779283112178",
+    "in_reply_to_user_id": "1232837627939676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1905856159950479565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akhromeyev_CCCP 好一個黨同伐異"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1905856159950479565].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1905856159950479565",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1905856159950479565"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1905856159950479565",
+        "created_at": "2025-03-29T10:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-29T11:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1905933779283112178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232837627939676160",
+              "start": 0,
+              "username": "Akhromeyev_CCCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905933779283112178",
+        "in_reply_to_user_id": "1232837627939676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905856159950479565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akhromeyev_CCCP 好一個黨同伐異"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🕊️🇺🇦🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900058479953637376/51DqQqCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2319,
+          "following_count": 1674,
+          "like_count": 24592,
+          "listed_count": 10,
+          "media_count": 820,
+          "tweet_count": 12973
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "Жила бы страна родная-\nИ нету других забот。願親愛的家鄉美好，願祖國呀萬年長。/政治立場左上/反建制/反修正/反保守/理論學習中/И снег, и ветер,И звёзд ночной полёт 聽風雪喧嚷，看夜空流星飛翔",
+        "id": "1232837627939676160",
+        "location": "苏联陆军白俄罗斯军区 明斯克市",
+        "name": "【VOS】🇷🇺🕊🇺🇦☭🚩📕🎖️阿赫羅梅耶夫元帥歸來 看戈爾巴喬夫蘇修叛徒集團土崩瓦解",
+        "pinned_tweet_id": "1881755792875078132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890086866348843008/F2RoOaVX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1981,
+          "following_count": 1945,
+          "like_count": 115051,
+          "listed_count": 18,
+          "media_count": 3441,
+          "tweet_count": 19678
+        },
+        "username": "Akhromeyev_CCCP",
+        "verified": false
+      }
+    ]
+  }
+}

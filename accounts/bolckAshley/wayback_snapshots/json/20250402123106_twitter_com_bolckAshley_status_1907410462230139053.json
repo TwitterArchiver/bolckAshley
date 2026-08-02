@@ -1,0 +1,486 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Viktor Orban",
+          "id": "899719900863778817",
+          "name": "Viktor Orban"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Viktor Orban",
+          "id": "899719900863778817",
+          "name": "Viktor Orban"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Viktor Orban",
+          "id": "899719900863778817",
+          "name": "Viktor Orban"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1907410462230139053",
+    "created_at": "2025-04-02T12:31:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T13:31:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907410462230139053"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 21,
+          "normalized_text": "PES",
+          "probability": 0.5202,
+          "start": 19,
+          "type": "Organization"
+        },
+        {
+          "end": 55,
+          "normalized_text": "Hungary",
+          "probability": 0.8703,
+          "start": 49,
+          "type": "Place"
+        },
+        {
+          "end": 71,
+          "normalized_text": "Viktor Orbán",
+          "probability": 0.9751,
+          "start": 60,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907410462230139053",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907410066061263175",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🔴 The PES stands with the people of Hungary as Viktor Orbán continues his assault on fundamental rights. Democracy and human r…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1907410462230139053",
+        "created_at": "2025-04-02T12:31:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T13:31:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907410462230139053"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "PES",
+              "probability": 0.5202,
+              "start": 19,
+              "type": "Organization"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Hungary",
+              "probability": 0.8703,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 71,
+              "normalized_text": "Viktor Orbán",
+              "probability": 0.9751,
+              "start": 60,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907410462230139053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907410066061263175",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🔴 The PES stands with the people of Hungary as Viktor Orbán continues his assault on fundamental rights. Democracy and human r…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1907410066061263175",
+        "created_at": "2025-04-02T12:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T13:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907410066061263175"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "PES",
+              "probability": 0.515,
+              "start": 6,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Hungary",
+              "probability": 0.9015,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Viktor Orbán",
+              "probability": 0.964,
+              "start": 47,
+              "type": "Person"
+            },
+            {
+              "end": 202,
+              "normalized_text": "LGBTIQ",
+              "probability": 0.7171,
+              "start": 197,
+              "type": "Place"
+            },
+            {
+              "end": 244,
+              "normalized_text": "Europe",
+              "probability": 0.943,
+              "start": 239,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/TheProgressive…",
+              "end": 270,
+              "expanded_url": "https://twitter.com/TheProgressives/status/1907403605541306635",
+              "start": 247,
+              "url": "https://t.co/UZiPQDDfH7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907410066061263175",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907403605541306635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🔴 The PES stands with the people of Hungary as Viktor Orbán continues his assault on fundamental rights. Democracy and human rights are not optional—they must be defended. We will always fight for LGBTIQ+ rights and the rule of law across Europe. https://t.co/UZiPQDDfH7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2341,
+          "following_count": 1701,
+          "like_count": 24867,
+          "listed_count": 10,
+          "media_count": 833,
+          "tweet_count": 13088
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg254vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg254vV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7kqHo"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79897,
+          "following_count": 5295,
+          "like_count": 8743,
+          "listed_count": 1047,
+          "media_count": 8153,
+          "tweet_count": 50976
+        },
+        "url": "https://t.co/W9LaJ7kqHo",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

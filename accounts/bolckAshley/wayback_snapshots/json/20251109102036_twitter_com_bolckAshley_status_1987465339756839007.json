@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "1987465339756839007",
+    "created_at": "2025-11-09T10:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T11:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987465339756839007"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 74,
+          "normalized_text": "Berlin Wall",
+          "probability": 0.4921,
+          "start": 64,
+          "type": "Place"
+        },
+        {
+          "end": 101,
+          "normalized_text": "Iron Curtain",
+          "probability": 0.6499,
+          "start": 90,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987465339756839007",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987417759471317016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🇩🇪 36 years ago, people’s courage brought down the Berlin Wall and ended the Iron Curtain. Their fight for freedom and unity b…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1987417752349417472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5S56n0XoAA1_Pz.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1987465339756839007",
+        "created_at": "2025-11-09T10:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T11:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987465339756839007"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 74,
+              "normalized_text": "Berlin Wall",
+              "probability": 0.4921,
+              "start": 64,
+              "type": "Place"
+            },
+            {
+              "end": 101,
+              "normalized_text": "Iron Curtain",
+              "probability": 0.6499,
+              "start": 90,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987465339756839007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987417759471317016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🇩🇪 36 years ago, people’s courage brought down the Berlin Wall and ended the Iron Curtain. Their fight for freedom and unity b…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987417752349417472"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1987417759471317016",
+        "created_at": "2025-11-09T07:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T08:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987417759471317016"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "Berlin Wall",
+              "probability": 0.689,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Iron Curtain",
+              "probability": 0.4962,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 140,
+              "normalized_text": "Europe",
+              "probability": 0.9587,
+              "start": 135,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQKr78p0tn",
+              "end": 275,
+              "expanded_url": "https://x.com/PES_PSE/status/1987417759471317016/photo/1",
+              "media_key": "3_1987417752349417472",
+              "start": 252,
+              "url": "https://t.co/yQKr78p0tn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987417759471317016",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 703,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "🇩🇪 36 years ago, people’s courage brought down the Berlin Wall and ended the Iron Curtain. Their fight for freedom and unity built the Europe we share today.\nLet’s keep working for peace, democracy, and solidarity across our continent.\n\nPhoto: Lear 21 https://t.co/yQKr78p0tn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2716,
+          "following_count": 2027,
+          "like_count": 34957,
+          "listed_count": 12,
+          "media_count": 1186,
+          "tweet_count": 17341
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80038,
+          "following_count": 5307,
+          "like_count": 8920,
+          "listed_count": 1035,
+          "media_count": 8513,
+          "tweet_count": 51582
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

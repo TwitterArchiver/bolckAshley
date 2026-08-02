@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042234652514033665"
+      ],
+      "media_source_tweet_id": [
+        "2042234656599204136"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2042250653121335770",
+    "created_at": "2026-04-09T14:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042250653121335770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1848358030749921282",
+          "start": 3,
+          "username": "Antikeburg"
+        },
+        {
+          "end": 30,
+          "id": "16255941",
+          "start": 16,
+          "username": "larsklingbeil"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Cf4LeUPlPc",
+          "end": 54,
+          "expanded_url": "https://x.com/Antikeburg/status/2042234656599204136/photo/1",
+          "media_key": "3_2042234652514033665",
+          "start": 31,
+          "url": "https://t.co/Cf4LeUPlPc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042250653121335770",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042234656599204136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antikeburg: @larsklingbeil https://t.co/Cf4LeUPlPc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2042234652514033665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFd5mKMXoAEYZwv.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042234652514033665"
+          ],
+          "media_source_tweet_id": [
+            "2042234656599204136"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2042250653121335770",
+        "created_at": "2026-04-09T14:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042250653121335770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1848358030749921282",
+              "start": 3,
+              "username": "Antikeburg"
+            },
+            {
+              "end": 30,
+              "id": "16255941",
+              "start": 16,
+              "username": "larsklingbeil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cf4LeUPlPc",
+              "end": 54,
+              "expanded_url": "https://x.com/Antikeburg/status/2042234656599204136/photo/1",
+              "media_key": "3_2042234652514033665",
+              "start": 31,
+              "url": "https://t.co/Cf4LeUPlPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042250653121335770",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042234656599204136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antikeburg: @larsklingbeil https://t.co/Cf4LeUPlPc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042234652514033665"
+          ]
+        },
+        "author_id": "1848358030749921282",
+        "conversation_id": "2042234656599204136",
+        "created_at": "2026-04-09T13:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T14:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042234656599204136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "16255941",
+              "start": 0,
+              "username": "larsklingbeil"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cf4LeUPlPc",
+              "end": 38,
+              "expanded_url": "https://x.com/Antikeburg/status/2042234656599204136/photo/1",
+              "media_key": "3_2042234652514033665",
+              "start": 15,
+              "url": "https://t.co/Cf4LeUPlPc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042234656599204136",
+        "in_reply_to_user_id": "16255941",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 247,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "@larsklingbeil https://t.co/Cf4LeUPlPc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036808158912671744/q5dELKL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 1980,
+          "like_count": 40587,
+          "listed_count": 17,
+          "media_count": 1454,
+          "tweet_count": 20987
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T13:38:00.000Z",
+        "description": "18 | Member of SPD and @Federalists | Founder @Europopfront | Pragmatism and Internationalism | 🇺🇦🇵🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "Federalists"
+              },
+              {
+                "end": 59,
+                "start": 46,
+                "username": "Europopfront"
+              }
+            ]
+          }
+        },
+        "id": "1848358030749921282",
+        "location": "Frankfurt am Main, 🇩🇪",
+        "name": "Michael 🇪🇺🌺",
+        "pinned_tweet_id": "2009660022243111325",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037924794516344833/xWSSu3XF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4510,
+          "following_count": 7500,
+          "like_count": 103100,
+          "listed_count": 54,
+          "media_count": 4686,
+          "tweet_count": 50915
+        },
+        "username": "Antikeburg",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-12T12:58:06.000Z",
+        "description": "MdB Rotenburg I - Heidekreis | Vorsitzender der SPD | Vizekanzler | Bundesfinanzminister | Musik | FCB | Munster",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lars-klingbeil.de/impressum",
+                "end": 23,
+                "expanded_url": "https://www.lars-klingbeil.de/impressum",
+                "start": 0,
+                "url": "https://t.co/OPIKu8bJ3m"
+              }
+            ]
+          }
+        },
+        "id": "16255941",
+        "location": "Munster, Niedersachsen, D",
+        "name": "Lars Klingbeil 🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900824488192950272/aQrFzs0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159238,
+          "following_count": 1557,
+          "like_count": 13977,
+          "listed_count": 1373,
+          "media_count": 1211,
+          "tweet_count": 21913
+        },
+        "url": "https://t.co/OPIKu8bJ3m",
+        "username": "larsklingbeil",
+        "verified": true
+      }
+    ]
+  }
+}

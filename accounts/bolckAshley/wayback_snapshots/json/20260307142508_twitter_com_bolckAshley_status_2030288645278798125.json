@@ -1,0 +1,685 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Alice Weidel",
+          "id": "887788402170445824",
+          "name": "Alice Weidel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Erika Steinbach",
+          "id": "1551526811992879105",
+          "name": "Friedrich Merz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Alice Weidel",
+          "id": "887788402170445824",
+          "name": "Alice Weidel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Erika Steinbach",
+          "id": "1551526811992879105",
+          "name": "Friedrich Merz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alice Weidel",
+          "id": "887788402170445824",
+          "name": "Alice Weidel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534488199598182400",
+          "name": "Germany politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Erika Steinbach",
+          "id": "1551526811992879105",
+          "name": "Friedrich Merz"
+        }
+      }
+    ],
+    "conversation_id": "2030288645278798125",
+    "created_at": "2026-03-07T14:25:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T15:25:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030288645278798125"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Wahlen_DE/stat…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/Wahlen_DE/status/2030001477750546854",
+          "start": 40,
+          "url": "https://t.co/dweS9drzk8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030288645278798125",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030001477750546854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "德國社民黨籍國防部長皮斯托里斯目前仍然是德國最受歡迎的政治家，並且斷崖式領先。 https://t.co/dweS9drzk8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2304,
+        "media_key": "3_2030000871808090112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCwDCZnawAAuvER.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          }
+        ],
+        "conversation_id": "2030288645278798125",
+        "created_at": "2026-03-07T14:25:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T15:25:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030288645278798125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Wahlen_DE/stat…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/Wahlen_DE/status/2030001477750546854",
+              "start": 40,
+              "url": "https://t.co/dweS9drzk8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030288645278798125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030001477750546854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "德國社民黨籍國防部長皮斯托里斯目前仍然是德國最受歡迎的政治家，並且斷崖式領先。 https://t.co/dweS9drzk8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030000871808090112"
+          ]
+        },
+        "author_id": "1080552605854638081",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          }
+        ],
+        "conversation_id": "2030001477750546854",
+        "created_at": "2026-03-06T19:24:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T20:24:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030001477750546854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 273,
+              "start": 267,
+              "tag": "btw29"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Inhaltsverzeichnis — Liste aller Tabellenblätter inkl. Links Table of contents incl. links Die noch nicht existierenden Tabellen zu Landtagswahlen und Kommunalwahlen werden spätestens ergänzt, sobald die jeweilige Wahl stattfindet. The tables for state and local elections that do not yet exist will be added at the latest when the respective election takes place. ↑ Das Logo fungiert als Link zum Inhaltsverzeichnis! The logo functions as a link to the table of contents!",
+              "display_url": "whln.eu/Zustimmungswer…",
+              "end": 266,
+              "expanded_url": "http://whln.eu/ZustimmungswerteDeutschland",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2029665403727732736/lBCptVVp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2029665403727732736/lBCptVVp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 243,
+              "status": 200,
+              "title": "Wahlen in Deutschland",
+              "unwound_url": "https://docs.google.com/spreadsheets/d/1aT2f8yc8p9-XjOqFCTQ1nDeP5GEORu9QZDOtUwF8smI/edit#gid=509834587",
+              "url": "https://t.co/9urIVQpoDd"
+            },
+            {
+              "display_url": "pic.x.com/SWQvmH5JCk",
+              "end": 297,
+              "expanded_url": "https://x.com/Wahlen_DE/status/2030001477750546854/photo/1",
+              "media_key": "3_2030000871808090112",
+              "start": 274,
+              "url": "https://t.co/SWQvmH5JCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030001477750546854",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 15180,
+          "like_count": 93,
+          "quote_count": 9,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Zufriedenheit mit Politikern - Umfrage Infratest dimap/ARD\n\nPistorius (SPD): 55%\nWadephul (CDU): 33%\nKlingbeil (SPD): 33%\nMerz (CDU): 29%\nDobrindt (CSU): 28%\nBas (SPD): 25%\nWeidel (AfD): 25%\nvan Aken (LINKE): 13%\nReiche (CDU): 13%\n…\n\nVerlauf: https://t.co/9urIVQpoDd\n#btw29 https://t.co/SWQvmH5JCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 1983,
+          "like_count": 39247,
+          "listed_count": 16,
+          "media_count": 1374,
+          "tweet_count": 19917
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-02T19:53:11.000Z",
+        "description": "Wahlumfragen und -ergebnisse aus Deutschland. \nÖsterreich: @Wahlen_AT \nhttps://t.co/QmvJjMCeTS\n#ltwbw #ltwrlp #ltwmv #ltwst #aghw #Bundestagswahl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 95,
+                "tag": "ltwbw"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "ltwrlp"
+              },
+              {
+                "end": 116,
+                "start": 110,
+                "tag": "ltwmv"
+              },
+              {
+                "end": 123,
+                "start": 117,
+                "tag": "ltwst"
+              },
+              {
+                "end": 129,
+                "start": 124,
+                "tag": "aghw"
+              },
+              {
+                "end": 145,
+                "start": 130,
+                "tag": "Bundestagswahl"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 69,
+                "start": 59,
+                "username": "Wahlen_AT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/de.whl…",
+                "end": 94,
+                "expanded_url": "https://bsky.app/profile/de.whln.eu",
+                "start": 71,
+                "url": "https://t.co/QmvJjMCeTS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Wahlen_DE",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Wahlen_DE",
+                "start": 0,
+                "url": "https://t.co/eAhkQSV61s"
+              }
+            ]
+          }
+        },
+        "id": "1080552605854638081",
+        "location": "Deutschland",
+        "name": "Deutschland Wählt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894049703156666368/maF2J-LE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85937,
+          "following_count": 73,
+          "like_count": 18,
+          "listed_count": 339,
+          "media_count": 4154,
+          "tweet_count": 7892
+        },
+        "url": "https://t.co/eAhkQSV61s",
+        "username": "Wahlen_DE",
+        "verified": false
+      }
+    ]
+  }
+}

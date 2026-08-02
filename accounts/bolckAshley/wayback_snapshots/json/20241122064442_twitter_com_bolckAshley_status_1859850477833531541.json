@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1859805128473354323",
+    "created_at": "2024-11-22T06:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-22T07:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859850477833531541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1679329911742558208",
+          "start": 0,
+          "username": "Keqing1789"
+        },
+        {
+          "end": 21,
+          "id": "1698360616476606464",
+          "start": 12,
+          "username": "LSDcaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859850477833531541",
+    "in_reply_to_user_id": "1679329911742558208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859835101749887442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Keqing1789 @LSDcaaaa 還真是，去年的老圖了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1859835101749887442].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1859835101749887442",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1859835101749887442"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1859805128473354323",
+        "created_at": "2024-11-22T06:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-22T07:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859850477833531541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1679329911742558208",
+              "start": 0,
+              "username": "Keqing1789"
+            },
+            {
+              "end": 21,
+              "id": "1698360616476606464",
+              "start": 12,
+              "username": "LSDcaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859850477833531541",
+        "in_reply_to_user_id": "1679329911742558208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859835101749887442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Keqing1789 @LSDcaaaa 還真是，去年的老圖了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹||左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||偶爾寫點東西發到這裡||可愛寶寶：@obuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "obuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1821,
+          "following_count": 1191,
+          "like_count": 16368,
+          "listed_count": 7,
+          "tweet_count": 10383
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T03:20:51.000Z",
+        "description": "持有以下帽子：腊左 粉蛆 汉奸 目田 独派狗。华独主义，大一统癌和老保请绕道。在你反驳我之前最好有证据，本人以研究蓝色大陆史为主，误b抱歉。不是我原神入脑，而是你。医学生，不止键政，也可以和我聊生活",
+        "id": "1679329911742558208",
+        "location": "极乐世界",
+        "name": "镌刻晴川万代",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856117341819678723/sHTU0mAF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 900,
+          "like_count": 10470,
+          "listed_count": 6,
+          "tweet_count": 4902
+        },
+        "username": "Keqing1789",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T15:42:18.000Z",
+        "description": "我一直都在看着你👁️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.mps.gov.cn",
+                "end": 23,
+                "expanded_url": "http://m.mps.gov.cn",
+                "start": 0,
+                "url": "https://t.co/PgVmbWM0v6"
+              }
+            ]
+          }
+        },
+        "id": "1698360616476606464",
+        "location": "门口",
+        "name": "晶哥_Official",
+        "pinned_tweet_id": "1780301400808784257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829311258312540160/vhzYwtSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 119,
+          "like_count": 798,
+          "listed_count": 5,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/PgVmbWM0v6",
+        "username": "LSDcaaaa",
+        "verified": true
+      }
+    ]
+  }
+}

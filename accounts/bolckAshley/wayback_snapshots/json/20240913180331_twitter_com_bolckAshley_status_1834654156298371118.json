@@ -1,0 +1,480 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1834654156298371118",
+    "created_at": "2024-09-13T18:03:31.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-13T19:03:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1834654156298371118"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "30354991",
+          "start": 3,
+          "username": "KamalaHarris"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1834654156298371118",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17310
+    },
+    "referenced_tweets": [
+      {
+        "id": "1834248864599015809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KamalaHarris: I will be a president for all Americans."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1834654156298371118",
+        "created_at": "2024-09-13T18:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-13T19:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1834654156298371118"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "30354991",
+              "start": 3,
+              "username": "KamalaHarris"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1834654156298371118",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17310
+        },
+        "referenced_tweets": [
+          {
+            "id": "1834248864599015809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KamalaHarris: I will be a president for all Americans."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "30354991",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1834248864599015809",
+        "created_at": "2024-09-12T15:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-12T16:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1834248864599015809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1834248864599015809",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1291,
+          "impression_count": 7585321,
+          "like_count": 173295,
+          "quote_count": 2840,
+          "reply_count": 28215,
+          "retweet_count": 17310
+        },
+        "reply_settings": "everyone",
+        "text": "I will be a president for all Americans."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍(淡推中)",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819384796780679171/GrxTf02O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1028,
+          "like_count": 13812,
+          "listed_count": 9,
+          "tweet_count": 9434
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-11T00:42:07.000Z",
+        "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 76,
+                "username": "VP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamalaharris.com",
+                "end": 23,
+                "expanded_url": "http://kamalaharris.com",
+                "start": 0,
+                "url": "https://t.co/p56p1nsvZJ"
+              }
+            ]
+          }
+        },
+        "id": "30354991",
+        "location": "Washington, DC",
+        "name": "Kamala Harris",
+        "pinned_tweet_id": "1827077726173384855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21058301,
+          "following_count": 724,
+          "like_count": 363,
+          "listed_count": 29789,
+          "tweet_count": 19202
+        },
+        "url": "https://t.co/p56p1nsvZJ",
+        "username": "KamalaHarris",
+        "verified": true
+      }
+    ]
+  }
+}

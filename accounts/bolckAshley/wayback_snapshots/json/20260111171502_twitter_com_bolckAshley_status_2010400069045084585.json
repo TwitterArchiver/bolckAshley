@@ -1,0 +1,473 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2010400069045084585",
+    "created_at": "2026-01-11T17:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-11T18:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010400069045084585"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 92,
+          "normalized_text": "David Sassoli",
+          "probability": 0.9725,
+          "start": 80,
+          "type": "Person"
+        },
+        {
+          "end": 137,
+          "normalized_text": "European Parliament",
+          "probability": 0.9327,
+          "start": 119,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010400069045084585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010349005893423184",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: Four years ago today, our progressive family lost a guiding light: David Sassoli, former President of the European Parliament.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2010348935605268481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-YxtKVWMAE0YhY.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2010400069045084585",
+        "created_at": "2026-01-11T17:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T18:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010400069045084585"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 92,
+              "normalized_text": "David Sassoli",
+              "probability": 0.9725,
+              "start": 80,
+              "type": "Person"
+            },
+            {
+              "end": 137,
+              "normalized_text": "European Parliament",
+              "probability": 0.9327,
+              "start": 119,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010400069045084585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010349005893423184",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: Four years ago today, our progressive family lost a guiding light: David Sassoli, former President of the European Parliament.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010348935605268481"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2010349005893423184",
+        "created_at": "2026-01-11T13:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T14:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010349005893423184"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "David Sassoli",
+              "probability": 0.9726,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 124,
+              "normalized_text": "European Parliament",
+              "probability": 0.9508,
+              "start": 106,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 270,
+              "id": "13294452",
+              "start": 260,
+              "username": "pdnetwork"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LZAh1XcVCu",
+              "end": 294,
+              "expanded_url": "https://x.com/PES_PSE/status/2010349005893423184/photo/1",
+              "media_key": "3_2010348935605268481",
+              "start": 271,
+              "url": "https://t.co/LZAh1XcVCu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010349005893423184",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 270,
+                "id": "13294452",
+                "start": 260,
+                "username": "pdnetwork"
+              },
+              {
+                "end": 287,
+                "id": "19287037",
+                "start": 271,
+                "username": "TheProgressives"
+              }
+            ]
+          },
+          "text": "Four years ago today, our progressive family lost a guiding light: David Sassoli, former President of the European Parliament. A man defined by dialogue, cooperation, and profound wisdom - qualities that feel more necessary now than ever. His legacy lives on. @pdnetwork @TheProgressives"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 410,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "Four years ago today, our progressive family lost a guiding light: David Sassoli, former President of the European Parliament. A man defined by dialogue, cooperation, and profound wisdom - qualities that feel more necessary now than ever. His legacy lives on. @pdnetwork https://t.co/LZAh1XcVCu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2838,
+          "following_count": 1959,
+          "like_count": 37445,
+          "listed_count": 14,
+          "media_count": 1267,
+          "tweet_count": 18574
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79309,
+          "following_count": 5289,
+          "like_count": 8949,
+          "listed_count": 1040,
+          "media_count": 8589,
+          "tweet_count": 51669
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

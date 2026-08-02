@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918874358321385472"
+      ],
+      "media_source_tweet_id": [
+        "1918874368626577576"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1918895118771278313",
+    "created_at": "2025-05-04T05:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-04T06:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918895118771278313"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 22,
+          "tag": "mtf"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1714170649395261441",
+          "start": 3,
+          "username": "sususuqinger"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mUTdmB2VhY",
+          "end": 50,
+          "expanded_url": "https://x.com/sususuqinger/status/1918874368626577576/photo/1",
+          "media_key": "3_1918874358321385472",
+          "start": 27,
+          "url": "https://t.co/mUTdmB2VhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918895118771278313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918874368626577576",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sususuqinger: 爱我.\n#mtf https://t.co/mUTdmB2VhY"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1918895118771278313].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1918895118771278313",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1918895118771278313"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918874358321385472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GqE2D_BaEAAghHl.jpg",
+        "width": 1534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918874358321385472"
+          ]
+        },
+        "author_id": "1714170649395261441",
+        "conversation_id": "1918874368626577576",
+        "created_at": "2025-05-04T03:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-04T04:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918874368626577576"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 4,
+              "tag": "mtf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mUTdmB2VhY",
+              "end": 32,
+              "expanded_url": "https://x.com/sususuqinger/status/1918874368626577576/photo/1",
+              "media_key": "3_1918874358321385472",
+              "start": 9,
+              "url": "https://t.co/mUTdmB2VhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918874368626577576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 578,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "爱我.\n#mtf https://t.co/mUTdmB2VhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2425,
+          "following_count": 1792,
+          "like_count": 26452,
+          "listed_count": 9,
+          "media_count": 894,
+          "tweet_count": 13650
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-17T06:45:21.000Z",
+        "description": "05大一医学生，mtf ｜HRT｜（23.10.30）MBTI—infp 谢谢你的喜欢（门槛88，得联系方式 小红书 b站同名）",
+        "id": "1714170649395261441",
+        "name": "Sunnysunny晴🏳️‍⚧️",
+        "pinned_tweet_id": "1887145699395199320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709762176839680/UJJW4Zbk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21108,
+          "following_count": 94,
+          "like_count": 3356,
+          "listed_count": 61,
+          "media_count": 134,
+          "tweet_count": 732
+        },
+        "username": "sususuqinger",
+        "verified": false
+      }
+    ]
+  }
+}

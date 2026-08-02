@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1852789274393055232"
+      ],
+      "media_source_tweet_id": [
+        "1852789295527944485"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2020 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Georgia",
+          "id": "1004436112062812160",
+          "name": "Georgia"
+        }
+      }
+    ],
+    "conversation_id": "1853013171973341288",
+    "created_at": "2024-11-03T09:55:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T10:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853013171973341288"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Georgia",
+          "probability": 0.9822,
+          "start": 30,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "30354991",
+          "start": 3,
+          "username": "KamalaHarris"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnQLB0ZPJY",
+          "end": 62,
+          "expanded_url": "https://x.com/KamalaHarris/status/1852789295527944485/photo/1",
+          "media_key": "3_1852789274393055232",
+          "start": 39,
+          "url": "https://t.co/xnQLB0ZPJY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853013171973341288",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12242
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852789295527944485",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KamalaHarris: I love you, Georgia. https://t.co/xnQLB0ZPJY"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Vice President Kamala Harris flashes an \"I love you\" sign while walking on a stage at a political rally. There are enthusiastic supporters in the background, and banners with the words \"FREEDOM\" and \"A PRESIDENT FOR ALL.\" The setting includes a clear blue sky.",
+        "height": 1350,
+        "media_key": "3_1852789274393055232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbZuB0_aEAAd9u_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852789274393055232"
+          ],
+          "media_source_tweet_id": [
+            "1852789295527944485"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          }
+        ],
+        "conversation_id": "1853013171973341288",
+        "created_at": "2024-11-03T09:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T10:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853013171973341288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Georgia",
+              "probability": 0.9822,
+              "start": 30,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "30354991",
+              "start": 3,
+              "username": "KamalaHarris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnQLB0ZPJY",
+              "end": 62,
+              "expanded_url": "https://x.com/KamalaHarris/status/1852789295527944485/photo/1",
+              "media_key": "3_1852789274393055232",
+              "start": 39,
+              "url": "https://t.co/xnQLB0ZPJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853013171973341288",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12242
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852789295527944485",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KamalaHarris: I love you, Georgia. https://t.co/xnQLB0ZPJY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852789274393055232"
+          ]
+        },
+        "author_id": "30354991",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2020 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1852789295527944485",
+        "created_at": "2024-11-02T19:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-02T20:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1852789295527944485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Georgia",
+              "probability": 0.9852,
+              "start": 12,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnQLB0ZPJY",
+              "end": 44,
+              "expanded_url": "https://x.com/KamalaHarris/status/1852789295527944485/photo/1",
+              "media_key": "3_1852789274393055232",
+              "start": 21,
+              "url": "https://t.co/xnQLB0ZPJY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852789295527944485",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1488,
+          "impression_count": 5660610,
+          "like_count": 168042,
+          "quote_count": 1575,
+          "reply_count": 7826,
+          "retweet_count": 12242
+        },
+        "reply_settings": "everyone",
+        "text": "I love you, Georgia. https://t.co/xnQLB0ZPJY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1151,
+          "like_count": 15689,
+          "listed_count": 9,
+          "tweet_count": 10164
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-11T00:42:07.000Z",
+        "description": "Fighting for the people. Wife, Momala, Auntie. She/her. Official account is @VP.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 76,
+                "username": "VP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kamalaharris.com",
+                "end": 23,
+                "expanded_url": "http://kamalaharris.com",
+                "start": 0,
+                "url": "https://t.co/p56p1nsvZJ"
+              }
+            ]
+          }
+        },
+        "id": "30354991",
+        "location": "Washington, DC",
+        "name": "Kamala Harris",
+        "pinned_tweet_id": "1850300205746512354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1592241313700782081/T2pTYU8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21297528,
+          "following_count": 723,
+          "like_count": 363,
+          "listed_count": 30237,
+          "tweet_count": 20023
+        },
+        "url": "https://t.co/p56p1nsvZJ",
+        "username": "KamalaHarris",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,618 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2020522530654801921"
+      ],
+      "media_source_tweet_id": [
+        "2020522538942484846"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735198340304896",
+          "name": "Kenta Izumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735198340304896",
+          "name": "Kenta Izumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese politician",
+          "id": "1070735198340304896",
+          "name": "Kenta Izumi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Kyoto",
+          "id": "855096052789026816",
+          "name": "Kyoto"
+        }
+      }
+    ],
+    "conversation_id": "2020714272758939814",
+    "created_at": "2026-02-09T04:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T05:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020714272758939814"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "中道改革連合",
+          "probability": 0.7286,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 45,
+          "normalized_text": "京都3区",
+          "probability": 0.4771,
+          "start": 42,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2011746229869559815",
+          "start": 3,
+          "username": "CRAJ2026"
+        },
+        {
+          "end": 56,
+          "id": "1453207518",
+          "start": 47,
+          "username": "izmkenta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AIDThQxfxs",
+          "end": 123,
+          "expanded_url": "https://x.com/CRAJ2026/status/2020522538942484846/photo/1",
+          "media_key": "3_2020522530654801921",
+          "start": 100,
+          "url": "https://t.co/AIDThQxfxs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020714272758939814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 828
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020522538942484846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CRAJ2026: 🎊 中道改革連合｜当確速報 🎊\n\n🔵 泉 ケンタ【京都3区】\n𝕏（@izmkenta）\n\n真心のご支援に、心より感謝いたします。\n皆さまのお声を、国政へ届けてまいります。 https://t.co/AIDThQxfxs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2020522530654801921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApWiVRaUAERaUf.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020522530654801921"
+          ],
+          "media_source_tweet_id": [
+            "2020522538942484846"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2020714272758939814",
+        "created_at": "2026-02-09T04:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T05:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020714272758939814"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "中道改革連合",
+              "probability": 0.7286,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 45,
+              "normalized_text": "京都3区",
+              "probability": 0.4771,
+              "start": 42,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2011746229869559815",
+              "start": 3,
+              "username": "CRAJ2026"
+            },
+            {
+              "end": 56,
+              "id": "1453207518",
+              "start": 47,
+              "username": "izmkenta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIDThQxfxs",
+              "end": 123,
+              "expanded_url": "https://x.com/CRAJ2026/status/2020522538942484846/photo/1",
+              "media_key": "3_2020522530654801921",
+              "start": 100,
+              "url": "https://t.co/AIDThQxfxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020714272758939814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 828
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020522538942484846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CRAJ2026: 🎊 中道改革連合｜当確速報 🎊\n\n🔵 泉 ケンタ【京都3区】\n𝕏（@izmkenta）\n\n真心のご支援に、心より感謝いたします。\n皆さまのお声を、国政へ届けてまいります。 https://t.co/AIDThQxfxs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020522530654801921"
+          ]
+        },
+        "author_id": "2011746229869559815",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735198340304896",
+              "name": "Kenta Izumi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2020522538942484846",
+        "created_at": "2026-02-08T15:38:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:38:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020522538942484846"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "中道改革連合",
+              "probability": 0.7207,
+              "start": 3,
+              "type": "Organization"
+            },
+            {
+              "end": 31,
+              "normalized_text": "京都3区",
+              "probability": 0.5047,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 42,
+              "id": "1453207518",
+              "start": 33,
+              "username": "izmkenta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AIDThQxfxs",
+              "end": 109,
+              "expanded_url": "https://x.com/CRAJ2026/status/2020522538942484846/photo/1",
+              "media_key": "3_2020522530654801921",
+              "start": 86,
+              "url": "https://t.co/AIDThQxfxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020522538942484846",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 200336,
+          "like_count": 5718,
+          "quote_count": 108,
+          "reply_count": 194,
+          "retweet_count": 828
+        },
+        "reply_settings": "everyone",
+        "text": "🎊 中道改革連合｜当確速報 🎊\n\n🔵 泉 ケンタ【京都3区】\n𝕏（@izmkenta）\n\n真心のご支援に、心より感謝いたします。\n皆さまのお声を、国政へ届けてまいります。 https://t.co/AIDThQxfxs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 1981,
+          "like_count": 38032,
+          "listed_count": 15,
+          "media_count": 1328,
+          "tweet_count": 19120
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-15T10:25:01.000Z",
+        "description": "中道改革連合（ちゅうどうかいかくれんごう / Centrist Reform Alliance）公式X\n略称：中道（ちゅうどう）  \n\n生活者ファーストを軸に、\n対立に偏らない中道の政治を目指す改革連合です。\n政策・記者会見・動画・現場の動きを発信します。\n\n#中道改革連合 #中道政治 #生活者ファースト",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 137,
+                "start": 130,
+                "tag": "中道改革連合"
+              },
+              {
+                "end": 143,
+                "start": 138,
+                "tag": "中道政治"
+              },
+              {
+                "end": 153,
+                "start": 144,
+                "tag": "生活者ファースト"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "craj.jp",
+                "end": 23,
+                "expanded_url": "https://craj.jp/",
+                "start": 0,
+                "url": "https://t.co/eaHmqphCNs"
+              }
+            ]
+          }
+        },
+        "id": "2011746229869559815",
+        "name": "中道改革連合",
+        "pinned_tweet_id": "2020116584774213633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012031517435052032/zCHAPmVb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58462,
+          "following_count": 202,
+          "like_count": 337,
+          "listed_count": 363,
+          "media_count": 254,
+          "tweet_count": 518
+        },
+        "url": "https://t.co/eaHmqphCNs",
+        "username": "CRAJ2026",
+        "verified": true
+      },
+      {
+        "created_at": "2013-05-24T04:42:42.000Z",
+        "description": "日本を愛し、日本を伸ばす！\n教育、子育て、経済、産業、雇用、外交、防衛、環境、社会保障の「安心社会」を目指す。1974年生/立命大法卒/衆議院当選9回/家族5人＆ウサギ/散歩・DIY・温泉・スポーツが好き。YouTube始めました。登録お願いします↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@izumi-kenta?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@izumi-kenta?si=e7_EUddbkSIuc8lv",
+                "start": 0,
+                "url": "https://t.co/HSj10KP0fX"
+              }
+            ]
+          }
+        },
+        "id": "1453207518",
+        "name": "泉健太🌎京都3区・中道改革連合",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832243192827453440/08EShmyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63141,
+          "following_count": 1846,
+          "like_count": 20518,
+          "listed_count": 1251,
+          "media_count": 3213,
+          "tweet_count": 12401
+        },
+        "url": "https://t.co/HSj10KP0fX",
+        "username": "izmkenta",
+        "verified": true
+      }
+    ]
+  }
+}

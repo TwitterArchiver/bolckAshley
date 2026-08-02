@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Sahra Wagenknecht",
+          "id": "827111688893652993",
+          "name": "Sahra Wagenknecht"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Alice Weidel",
+          "id": "887788402170445824",
+          "name": "Alice Weidel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Sahra Wagenknecht",
+          "id": "827111688893652993",
+          "name": "Sahra Wagenknecht"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Alice Weidel",
+          "id": "887788402170445824",
+          "name": "Alice Weidel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sahra Wagenknecht",
+          "id": "827111688893652993",
+          "name": "Sahra Wagenknecht"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alice Weidel",
+          "id": "887788402170445824",
+          "name": "Alice Weidel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534488199598182400",
+          "name": "Germany politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+          "id": "1840858535829057537",
+          "name": "CBS News 2024 Vice Presidential Debate"
+        }
+      }
+    ],
+    "conversation_id": "1841731387000287634",
+    "created_at": "2024-10-03T06:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T07:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1841731387000287634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/socdemAdam/sta…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/socdemAdam/status/1841584082553074057",
+          "start": 25,
+          "url": "https://t.co/yJ7jDQyGmF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841731387000287634",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841584082553074057",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "這兩人搞什麼辯論啊\n怕不是要相互讚美唱讚歌🤣🤣🤣 https://t.co/yJ7jDQyGmF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1841731387000287634",
+        "created_at": "2024-10-03T06:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T07:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841731387000287634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/socdemAdam/sta…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/socdemAdam/status/1841584082553074057",
+              "start": 25,
+              "url": "https://t.co/yJ7jDQyGmF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841731387000287634",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841584082553074057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這兩人搞什麼辯論啊\n怕不是要相互讚美唱讚歌🤣🤣🤣 https://t.co/yJ7jDQyGmF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1841584079428345856"
+          ]
+        },
+        "author_id": "1728357835669426176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alice Weidel",
+              "id": "887788402170445824",
+              "name": "Alice Weidel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1841584082553074057",
+        "created_at": "2024-10-02T21:00:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T22:00:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841584082553074057"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RvwJjPEpDJ",
+              "end": 189,
+              "expanded_url": "https://x.com/socdemAdam/status/1841584082553074057/photo/1",
+              "media_key": "3_1841584079428345856",
+              "start": 166,
+              "url": "https://t.co/RvwJjPEpDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841584082553074057",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 13540,
+          "like_count": 151,
+          "quote_count": 25,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Next Wednesday, the party leaders of the AfD and BSW, Alice Weidel and Sahra Wagenknecht, will meet for the first time in a two-way debate live on German television. https://t.co/RvwJjPEpDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840985115490463744/MMA4nMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1671,
+          "following_count": 1085,
+          "like_count": 14564,
+          "listed_count": 9,
+          "tweet_count": 9790
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:20:20.000Z",
+        "description": "MAGA 2024 🇺🇸 - They're eating the dogs they're eating the cats",
+        "id": "1728357835669426176",
+        "location": "Hesse, Germany",
+        "name": "Adam",
+        "pinned_tweet_id": "1838320726735986814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840094279441547264/PagYwBHX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2185,
+          "following_count": 4513,
+          "like_count": 8176,
+          "listed_count": 4,
+          "tweet_count": 4758
+        },
+        "username": "socdemAdam",
+        "verified": false
+      }
+    ]
+  }
+}

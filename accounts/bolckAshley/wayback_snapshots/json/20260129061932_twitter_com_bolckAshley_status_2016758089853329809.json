@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2016758089853329809",
+    "created_at": "2026-01-29T06:19:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T07:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016758089853329809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2508919105",
+          "start": 3,
+          "username": "ncysea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016758089853329809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016725405055537294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ncysea: 再次提醒：\n蜘蛛理工男基本上都是油膩、自大、社會、冷血、粉紅、納粹、川粉、反猶、瘋狂內捲、大中華主義、大漢族主義、大男子主義、厭女、家暴、詭計多、爾虞我詐、每天想著草逼、用🍆談戀愛、炒加密貨幣、遊戲黨、不會做飯、對文科一竅不通 🤮 https://t.c…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2016758089853329809].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2016758089853329809",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2016758089853329809"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_2016725318753800195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zY_gnbUAMYm2E.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2016725333463224326",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zZAXabUAYjriu.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016725318753800195",
+            "3_2016725333463224326"
+          ]
+        },
+        "author_id": "2508919105",
+        "conversation_id": "2016725405055537294",
+        "created_at": "2026-01-29T04:09:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T05:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016725405055537294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0U5lkFwPf",
+              "end": 139,
+              "expanded_url": "https://x.com/ncysea/status/2016725405055537294/photo/1",
+              "media_key": "3_2016725318753800195",
+              "start": 116,
+              "url": "https://t.co/A0U5lkFwPf"
+            },
+            {
+              "display_url": "pic.x.com/A0U5lkFwPf",
+              "end": 139,
+              "expanded_url": "https://x.com/ncysea/status/2016725405055537294/photo/1",
+              "media_key": "3_2016725333463224326",
+              "start": 116,
+              "url": "https://t.co/A0U5lkFwPf"
+            },
+            {
+              "display_url": "x.com/ncysea/status/…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/ncysea/status/1923896751892857291",
+              "start": 140,
+              "url": "https://t.co/nEmD5knaiq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016725405055537294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 346,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923896751892857291",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "再次提醒：\n蜘蛛理工男基本上都是油膩、自大、社會、冷血、粉紅、納粹、川粉、反猶、瘋狂內捲、大中華主義、大漢族主義、大男子主義、厭女、家暴、詭計多、爾虞我詐、每天想著草逼、用🍆談戀愛、炒加密貨幣、遊戲黨、不會做飯、對文科一竅不通 🤮 https://t.co/A0U5lkFwPf https://t.co/nEmD5knaiq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2878,
+          "following_count": 1968,
+          "like_count": 37906,
+          "listed_count": 14,
+          "media_count": 1316,
+          "tweet_count": 18934
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-20T01:01:21.000Z",
+        "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸.\nMSc in Computer Science.\nFounder, Federal Councillor and MOFA of @enchenia.\nGloria Encheniae a me defenditur.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "2508919105",
+        "location": "Federation of Enchenia 英雪尼亞聯邦",
+        "name": "Ngok Ching Ying Suet 樂正瑩雪",
+        "pinned_tweet_id": "1979023440695656567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011658810264551424/jsDktjC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667,
+          "following_count": 1823,
+          "like_count": 48670,
+          "listed_count": 11,
+          "media_count": 4100,
+          "tweet_count": 35839
+        },
+        "username": "ncysea",
+        "verified": false
+      }
+    ]
+  }
+}

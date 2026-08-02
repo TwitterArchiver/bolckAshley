@@ -1,0 +1,299 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "1816460224586228027",
+    "created_at": "2024-07-25T13:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-25T14:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1816460224586228027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1253007096871862272",
+          "start": 3,
+          "username": "LevShanko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1816460224586228027",
+    "lang": "ru",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1816437010611007871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LevShanko: Сначала \"щит Запада\" от \"азиатской деспотии\" поддержал Пластилину, а теперь и пекинскую парашу.\n\nОдин только вопрос: Зе там…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1816460224586228027",
+        "created_at": "2024-07-25T13:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T14:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1816460224586228027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1253007096871862272",
+              "start": 3,
+              "username": "LevShanko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816460224586228027",
+        "lang": "ru",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816437010611007871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LevShanko: Сначала \"щит Запада\" от \"азиатской деспотии\" поддержал Пластилину, а теперь и пекинскую парашу.\n\nОдин только вопрос: Зе там…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1253007096871862272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "1816437010611007871",
+        "created_at": "2024-07-25T11:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-25T12:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1816437010611007871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/d_yelisevich/s…",
+              "end": 235,
+              "expanded_url": "https://twitter.com/d_yelisevich/status/1816165416319729846",
+              "start": 212,
+              "url": "https://t.co/efW8ekYnMp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1816437010611007871",
+        "lang": "ru",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1816165416319729846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Сначала \"щит Запада\" от \"азиатской деспотии\" поддержал Пластилину, а теперь и пекинскую парашу.\n\nОдин только вопрос: Зе там решил окончательно себе ногу и х*й своими выстрелами в себя оторвать с такой политикой? https://t.co/efW8ekYnMp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 977,
+          "like_count": 13211,
+          "listed_count": 8,
+          "tweet_count": 8961
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-22T17:06:00.000Z",
+        "description": "Russian Tridemist. Bachelor of History (3rd grade) in orthodox university. Against the war, and for the victory over the Putin. Слава России!",
+        "id": "1253007096871862272",
+        "location": "Москва, Россия",
+        "name": "Leo Shanko 🇷🇺/🇹🇼/🇺🇦",
+        "pinned_tweet_id": "1809509674074398777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790016053940195328/T3h91oCr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 580,
+          "like_count": 80363,
+          "listed_count": 12,
+          "tweet_count": 11013
+        },
+        "username": "LevShanko",
+        "verified": false
+      }
+    ]
+  }
+}

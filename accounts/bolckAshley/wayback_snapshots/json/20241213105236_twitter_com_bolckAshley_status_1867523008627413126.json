@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1439961464555466753",
+          "name": "Olaf Scholz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1439961464555466753",
+          "name": "Olaf Scholz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534488199598182400",
+          "name": "Germany politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      }
+    ],
+    "conversation_id": "1867523008627413126",
+    "created_at": "2024-12-13T10:52:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-13T11:52:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867523008627413126"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 109,
+          "start": 94,
+          "tag": "Mehrwertsteuer"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "26458162",
+          "start": 3,
+          "username": "spdde"
+        },
+        {
+          "end": 74,
+          "id": "38150247",
+          "start": 63,
+          "username": "OlafScholz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867523008627413126",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867245684312899932",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @spdde: Die Lebensmittelpreise müssen runter! Bundeskanzler @OlafScholz  schlägt  vor, die #Mehrwertsteuer auf Lebensmittel zu senken –…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "1867523008627413126",
+        "created_at": "2024-12-13T10:52:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T11:52:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867523008627413126"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 94,
+              "tag": "Mehrwertsteuer"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "26458162",
+              "start": 3,
+              "username": "spdde"
+            },
+            {
+              "end": 74,
+              "id": "38150247",
+              "start": 63,
+              "username": "OlafScholz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867523008627413126",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867245684312899932",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @spdde: Die Lebensmittelpreise müssen runter! Bundeskanzler @OlafScholz  schlägt  vor, die #Mehrwertsteuer auf Lebensmittel zu senken –…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867245387829915648",
+            "3_1867245438069288965"
+          ]
+        },
+        "author_id": "26458162",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "1867245684312899932",
+        "created_at": "2024-12-12T16:30:37.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T17:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867245684312899932"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 83,
+              "tag": "Mehrwertsteuer"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 63,
+              "id": "38150247",
+              "start": 52,
+              "username": "OlafScholz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hHzYh0qL3F",
+              "end": 224,
+              "expanded_url": "https://x.com/spdde/status/1867245684312899932/photo/1",
+              "media_key": "3_1867245387829915648",
+              "start": 201,
+              "url": "https://t.co/hHzYh0qL3F"
+            },
+            {
+              "display_url": "pic.x.com/hHzYh0qL3F",
+              "end": 224,
+              "expanded_url": "https://x.com/spdde/status/1867245684312899932/photo/1",
+              "media_key": "3_1867245438069288965",
+              "start": 201,
+              "url": "https://t.co/hHzYh0qL3F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867245684312899932",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 83,
+                "tag": "Mehrwertsteuer"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 63,
+                "id": "38150247",
+                "start": 52,
+                "username": "OlafScholz"
+              }
+            ]
+          },
+          "text": "Die Lebensmittelpreise müssen runter! Bundeskanzler @OlafScholz  schlägt  vor, die #Mehrwertsteuer auf Lebensmittel zu senken – eine spürbare  Entlastung für alle. Das sehen auch führende Ökonomen so."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 46353,
+          "like_count": 172,
+          "quote_count": 46,
+          "reply_count": 1034,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Die Lebensmittelpreise müssen runter! Bundeskanzler @OlafScholz  schlägt  vor, die #Mehrwertsteuer auf Lebensmittel zu senken – eine spürbare  Entlastung für alle. Das sehen auch führende Ökonomen so. https://t.co/hHzYh0qL3F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1951,
+          "following_count": 1319,
+          "like_count": 17752,
+          "listed_count": 9,
+          "media_count": 589,
+          "tweet_count": 10782
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-25T08:41:02.000Z",
+        "description": "Soziale Politik für Dich.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spd.de/site/impressum/",
+                "end": 23,
+                "expanded_url": "https://www.spd.de/site/impressum/",
+                "start": 0,
+                "url": "https://t.co/2v9OtaMpl1"
+              }
+            ]
+          }
+        },
+        "id": "26458162",
+        "location": "www.spd.de",
+        "name": "SPD Parteivorstand 🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679755682822619136/OJUQwJ1O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421942,
+          "following_count": 3734,
+          "like_count": 41340,
+          "listed_count": 2246,
+          "media_count": 6279,
+          "tweet_count": 59818
+        },
+        "url": "https://t.co/2v9OtaMpl1",
+        "username": "spdde",
+        "verified": true
+      },
+      {
+        "created_at": "2009-05-06T10:08:02.000Z",
+        "description": "Bundestagsabgeordneter für den Wahlkreis 61, Sozialdemokrat @spdde, @bundeskanzler. Hier twittert das Team Olaf Scholz.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "spdde"
+              },
+              {
+                "end": 82,
+                "start": 68,
+                "username": "bundeskanzler"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "olafscholz.de",
+                "end": 23,
+                "expanded_url": "http://www.olafscholz.de",
+                "start": 0,
+                "url": "https://t.co/pDZ6VOLHnA"
+              }
+            ]
+          }
+        },
+        "id": "38150247",
+        "location": "Berlin, Deutschland",
+        "name": "Olaf Scholz",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863884161942953984/AgVpuuVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642980,
+          "following_count": 1329,
+          "like_count": 1106,
+          "listed_count": 3059,
+          "media_count": 1487,
+          "tweet_count": 6930
+        },
+        "url": "https://t.co/pDZ6VOLHnA",
+        "username": "OlafScholz",
+        "verified": false
+      }
+    ]
+  }
+}

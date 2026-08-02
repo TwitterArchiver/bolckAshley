@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1927971501526942036",
+    "created_at": "2025-05-29T06:28:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T07:28:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927975289029808580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "isaactan8964"
+        },
+        {
+          "end": 22,
+          "id": "1868205822511288320",
+          "start": 14,
+          "username": "VicoOci"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927975289029808580",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927971501526942036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaactan8964 @VicoOci 哈氣了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1927971501526942036].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1927971501526942036",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1927971501526942036"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1927971501526942036",
+        "created_at": "2025-05-29T06:28:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T07:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927975289029808580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "isaactan8964"
+            },
+            {
+              "end": 22,
+              "id": "1868205822511288320",
+              "start": 14,
+              "username": "VicoOci"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927975289029808580",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927971501526942036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaactan8964 @VicoOci 哈氣了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 1837,
+          "like_count": 28032,
+          "listed_count": 10,
+          "media_count": 930,
+          "tweet_count": 14138
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "🥺❤️@VicoOci｜永远的好朋友@yangaaa111｜不过陌生人qqqxx｜我的互fo都是很好很好的宝宝",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "VicoOci"
+              },
+              {
+                "end": 29,
+                "start": 18,
+                "username": "yangaaa111"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "Amoy",
+        "name": "cyw能不能冷静一点",
+        "pinned_tweet_id": "1926657048831254945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924858623592951808/OIbCF7ja_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 167,
+          "like_count": 4361,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 1994
+        },
+        "username": "isaactan8964",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "❤️死夹子@isaactan8964 ｜可爱的☺️@Lmao_Quien 妹妹@HyotoChandesuyo 闺蜜@freequan2025 @5mRtist 好厚米@kikyo4000 @LightlyXiaoLu99 @muska56368 @svaghglm @MOLeren198964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 5,
+                "username": "isaactan8964"
+              },
+              {
+                "end": 36,
+                "start": 25,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "HyotoChandesuyo"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "freequan2025"
+              },
+              {
+                "end": 80,
+                "start": 72,
+                "username": "5mRtist"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "username": "kikyo4000"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "LightlyXiaoLu99"
+              },
+              {
+                "end": 123,
+                "start": 112,
+                "username": "muska56368"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "svaghglm"
+              },
+              {
+                "end": 148,
+                "start": 134,
+                "username": "MOLeren198964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "距离2.50km",
+        "name": "vico_oci",
+        "pinned_tweet_id": "1926609676637991303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924857681665523715/uRGVu7Qa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3312,
+          "following_count": 257,
+          "like_count": 10350,
+          "listed_count": 6,
+          "media_count": 151,
+          "tweet_count": 3974
+        },
+        "username": "VicoOci",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1885127933247046050",
+    "created_at": "2025-01-31T00:48:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T01:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885127933247046050"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "WWII",
+          "probability": 0.6006,
+          "start": 49,
+          "type": "Other"
+        },
+        {
+          "end": 61,
+          "normalized_text": "Germany",
+          "probability": 0.9144,
+          "start": 55,
+          "type": "Place"
+        },
+        {
+          "end": 82,
+          "normalized_text": "CDU",
+          "probability": 0.8353,
+          "start": 80,
+          "type": "Organization"
+        },
+        {
+          "end": 86,
+          "normalized_text": "CSU",
+          "probability": 0.6393,
+          "start": 84,
+          "type": "Organization"
+        },
+        {
+          "end": 136,
+          "normalized_text": "AfD",
+          "probability": 0.8332,
+          "start": 134,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19287037",
+          "start": 3,
+          "username": "TheProgressives"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885127933247046050",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 56
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884935645757423731",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheProgressives: ⚠️ For the first time since WWII, Germany’s conservatives (CDU/CSU) passed an anti-migrant motion with far-right AfD s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1885127933247046050",
+        "created_at": "2025-01-31T00:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T01:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885127933247046050"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "WWII",
+              "probability": 0.6006,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Germany",
+              "probability": 0.9144,
+              "start": 55,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "CDU",
+              "probability": 0.8353,
+              "start": 80,
+              "type": "Organization"
+            },
+            {
+              "end": 86,
+              "normalized_text": "CSU",
+              "probability": 0.6393,
+              "start": 84,
+              "type": "Organization"
+            },
+            {
+              "end": 136,
+              "normalized_text": "AfD",
+              "probability": 0.8332,
+              "start": 134,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19287037",
+              "start": 3,
+              "username": "TheProgressives"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885127933247046050",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 56
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884935645757423731",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheProgressives: ⚠️ For the first time since WWII, Germany’s conservatives (CDU/CSU) passed an anti-migrant motion with far-right AfD s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1884935624290865152"
+          ]
+        },
+        "author_id": "19287037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Erika Steinbach",
+              "id": "1551526811992879105",
+              "name": "Friedrich Merz"
+            }
+          }
+        ],
+        "conversation_id": "1884935645757423731",
+        "created_at": "2025-01-30T12:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T13:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884935645757423731"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "WWII",
+              "probability": 0.5852,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Germany",
+              "probability": 0.9469,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 61,
+              "normalized_text": "CDU",
+              "probability": 0.8742,
+              "start": 59,
+              "type": "Organization"
+            },
+            {
+              "end": 65,
+              "normalized_text": "CSU",
+              "probability": 0.54,
+              "start": 63,
+              "type": "Organization"
+            },
+            {
+              "end": 115,
+              "normalized_text": "AfD",
+              "probability": 0.7391,
+              "start": 113,
+              "type": "Organization"
+            },
+            {
+              "end": 139,
+              "normalized_text": "Friedrich Merz",
+              "probability": 0.9775,
+              "start": 126,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdizW08A5e",
+              "end": 300,
+              "expanded_url": "https://x.com/TheProgressives/status/1884935645757423731/photo/1",
+              "media_key": "3_1884935624290865152",
+              "start": 277,
+              "url": "https://t.co/mdizW08A5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884935645757423731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4490,
+          "like_count": 129,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ For the first time since WWII, Germany’s conservatives (CDU/CSU) passed an anti-migrant motion with far-right AfD support. Friedrich Merz just shattered an 80-year firewall against far-right influence - for petty political gain. A dangerous signal. An unforgivable mistake. https://t.co/mdizW08A5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 1475,
+          "like_count": 20769,
+          "listed_count": 9,
+          "media_count": 714,
+          "tweet_count": 11855
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T13:26:48.000Z",
+        "description": "The Socialists and Democrats Group in the European Parliament works for social justice, sustainability & equality for all.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialistsanddemocrats.eu",
+                "end": 23,
+                "expanded_url": "http://www.socialistsanddemocrats.eu",
+                "start": 0,
+                "url": "https://t.co/NnV78Ux4Lc"
+              }
+            ]
+          }
+        },
+        "id": "19287037",
+        "location": "Europe",
+        "name": "S&D Group",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585629855583911937/HG74Hrhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138272,
+          "following_count": 8261,
+          "like_count": 7165,
+          "listed_count": 1841,
+          "media_count": 11602,
+          "tweet_count": 38053
+        },
+        "url": "https://t.co/NnV78Ux4Lc",
+        "username": "TheProgressives",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Turkey - Parliamentary group leader of CHP ",
+          "id": "1392668062541697024",
+          "name": "Ozgur Ozel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Turkey - Parliamentary group leader of CHP ",
+          "id": "1392668062541697024",
+          "name": "Ozgur Ozel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Turkey - Parliamentary group leader of CHP ",
+          "id": "1392668062541697024",
+          "name": "Ozgur Ozel"
+        }
+      }
+    ],
+    "conversation_id": "1950810596724834388",
+    "created_at": "2025-07-31T06:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-31T07:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950810596724834388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "255515879",
+          "start": 3,
+          "username": "herkesicinCHP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950810596724834388",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950809847915585783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @herkesicinCHP: Genel Başkanımız Özgür Özel:\n\n“Şile Meydanı’ndan büyük özgüvenle sesleniyorum, CHP’nin olduğu yerden değil, olmadığı yer…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 158200,
+        "height": 480,
+        "media_key": "13_1950809668185411584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1950809668185411584/img/t2knqEBNp5q3QjIG.jpg",
+        "public_metrics": {
+          "view_count": 53
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950809668185411584/vid/avc1/320x320/eX0pXW-AU6yorxx4.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1950809668185411584/vid/avc1/480x480/htiO1KwIg-IKnve4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1950809668185411584/pl/8YSpABU1TNQ7AjKE.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Turkey - Parliamentary group leader of CHP ",
+              "id": "1392668062541697024",
+              "name": "Ozgur Ozel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Turkey - Parliamentary group leader of CHP ",
+              "id": "1392668062541697024",
+              "name": "Ozgur Ozel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Turkey - Parliamentary group leader of CHP ",
+              "id": "1392668062541697024",
+              "name": "Ozgur Ozel"
+            }
+          }
+        ],
+        "conversation_id": "1950810596724834388",
+        "created_at": "2025-07-31T06:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950810596724834388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "255515879",
+              "start": 3,
+              "username": "herkesicinCHP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950810596724834388",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950809847915585783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @herkesicinCHP: Genel Başkanımız Özgür Özel:\n\n“Şile Meydanı’ndan büyük özgüvenle sesleniyorum, CHP’nin olduğu yerden değil, olmadığı yer…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1950809668185411584"
+          ]
+        },
+        "author_id": "255515879",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Turkey - Parliamentary group leader of CHP ",
+              "id": "1392668062541697024",
+              "name": "Ozgur Ozel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Turkey - Parliamentary group leader of CHP ",
+              "id": "1392668062541697024",
+              "name": "Ozgur Ozel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Turkey - Parliamentary group leader of CHP ",
+              "id": "1392668062541697024",
+              "name": "Ozgur Ozel"
+            }
+          }
+        ],
+        "conversation_id": "1950809847915585783",
+        "created_at": "2025-07-31T06:44:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-31T07:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950809847915585783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eigcgYAuOx",
+              "end": 302,
+              "expanded_url": "https://x.com/herkesicinCHP/status/1950809847915585783/video/1",
+              "media_key": "13_1950809668185411584",
+              "start": 279,
+              "url": "https://t.co/eigcgYAuOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950809847915585783",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1230,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Genel Başkanımız Özgür Özel:\n\n“Şile Meydanı’ndan büyük özgüvenle sesleniyorum, CHP’nin olduğu yerden değil, olmadığı yerden korkun.\n\nÖzgür Özel’in olduğu, CHP’lilerin olduğu hiçbir yerde, değil Cumhuriyet’in kolonlarını kesmek, o kolonlardan birine çivi çaktırırsak şerefsiziz.” https://t.co/eigcgYAuOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 1874,
+          "like_count": 30843,
+          "listed_count": 9,
+          "media_count": 990,
+          "tweet_count": 15177
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-21T14:41:14.000Z",
+        "description": "Cumhuriyet Halk Partisi Resmi Twitter Hesabı",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chp.org.tr",
+                "end": 23,
+                "expanded_url": "http://www.chp.org.tr",
+                "start": 0,
+                "url": "https://t.co/0zhl0JDH2l"
+              }
+            ]
+          }
+        },
+        "id": "255515879",
+        "name": "CHP 🇹🇷",
+        "pinned_tweet_id": "1909304807799640356",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693938065406881792/G8xHyH04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2857128,
+          "following_count": 6,
+          "like_count": 2375,
+          "listed_count": 1991,
+          "media_count": 20850,
+          "tweet_count": 51386
+        },
+        "url": "https://t.co/0zhl0JDH2l",
+        "username": "herkesicinCHP",
+        "verified": true
+      }
+    ]
+  }
+}

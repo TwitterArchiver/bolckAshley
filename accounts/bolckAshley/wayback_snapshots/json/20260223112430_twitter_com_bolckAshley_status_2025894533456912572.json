@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2025894533456912572",
+    "created_at": "2026-02-23T11:24:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:24:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025894533456912572"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "EU",
+          "probability": 0.8059,
+          "start": 23,
+          "type": "Place"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Canada",
+          "probability": 0.8528,
+          "start": 39,
+          "type": "Place"
+        },
+        {
+          "end": 54,
+          "normalized_text": "Horizon",
+          "probability": 0.4782,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1579543776682561536",
+          "start": 3,
+          "username": "EU_Made_Simple"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025894533456912572",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025873014622203983",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EU_Made_Simple: Is EU Accession on Canada’s Horizon? 🇨🇦🇪🇺\n\nA 2026 opinion poll by Research Co finds growing support for this bold idea:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2025807628463411200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0dTg3WkAAyOBA.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2025894533456912572",
+        "created_at": "2026-02-23T11:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025894533456912572"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "EU",
+              "probability": 0.8059,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Canada",
+              "probability": 0.8528,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 54,
+              "normalized_text": "Horizon",
+              "probability": 0.4782,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1579543776682561536",
+              "start": 3,
+              "username": "EU_Made_Simple"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025894533456912572",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025873014622203983",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EU_Made_Simple: Is EU Accession on Canada’s Horizon? 🇨🇦🇪🇺\n\nA 2026 opinion poll by Research Co finds growing support for this bold idea:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025807628463411200"
+          ]
+        },
+        "author_id": "1579543776682561536",
+        "conversation_id": "2025873014622203983",
+        "created_at": "2026-02-23T09:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T10:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025873014622203983"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "EU",
+              "probability": 0.8761,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 24,
+              "normalized_text": "Canada",
+              "probability": 0.8799,
+              "start": 19,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Horizon",
+              "probability": 0.5556,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 146,
+              "normalized_text": "Canada",
+              "probability": 0.952,
+              "start": 141,
+              "type": "Place"
+            },
+            {
+              "end": 189,
+              "normalized_text": "European Union",
+              "probability": 0.4623,
+              "start": 176,
+              "type": "Place"
+            },
+            {
+              "end": 241,
+              "normalized_text": "EU",
+              "probability": 0.8773,
+              "start": 240,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZEI3lc0w1",
+              "end": 302,
+              "expanded_url": "https://x.com/EU_Made_Simple/status/2025873014622203983/photo/1",
+              "media_key": "3_2025807628463411200",
+              "start": 279,
+              "url": "https://t.co/xZEI3lc0w1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025873014622203983",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 821,
+                "start": 814,
+                "tag": "Canada"
+              },
+              {
+                "end": 836,
+                "start": 822,
+                "tag": "EuropeanUnion"
+              },
+              {
+                "end": 843,
+                "start": 837,
+                "tag": "Polls"
+              },
+              {
+                "end": 849,
+                "start": 844,
+                "tag": "EUMS"
+              },
+              {
+                "end": 853,
+                "start": 850,
+                "tag": "EU"
+              },
+              {
+                "end": 861,
+                "start": 854,
+                "tag": "Europe"
+              }
+            ]
+          },
+          "text": "Is EU Accession on Canada’s Horizon? 🇨🇦🇪🇺\n\nA 2026 opinion poll by Research Co finds growing support for this bold idea: 48% of Canadians say Canada should consider joining the European Union, compared to 34% opposed, a net +14% for the pro-EU side.\n\nWhen broken down by party:\n🔴 Liberals (Renew): 56% YES | 28% NO (+28%)\n🟠 NDP (S&D): 56% YES | 29% NO (+27%)\n🔵 Conservatives (EPP/ECR): 44% YES | 45% NO (–1%)\n\nParty EU group approximations are based on each Canadian party’s international alliances and their overlap with European parties.\n\nWhile the prospect of Canada joining the EU remains unlikely in the near term, these results show that the idea is resonating with many Canadians. Is EU accession for Canada becoming a real possibility?\n\nWould you welcome Canada into the EU? Let us know in the comments! 👇\n\n#Canada #EuropeanUnion #Polls #EUMS #EU #Europe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2130,
+          "like_count": 59,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Is EU Accession on Canada’s Horizon? 🇨🇦🇪🇺\n\nA 2026 opinion poll by Research Co finds growing support for this bold idea: 48% of Canadians say Canada should consider joining the European Union, compared to 34% opposed, a net +14% for the pro-EU side.\n\nWhen broken down by party:\n🔴 https://t.co/xZEI3lc0w1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2995,
+          "following_count": 1982,
+          "like_count": 38575,
+          "listed_count": 15,
+          "media_count": 1348,
+          "tweet_count": 19396
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T18:46:30.000Z",
+        "description": "Short, Sweet & Simplified.\n#EUMadeSimple\n🇪🇺 Your go-to source for understanding the EU\n👇 Join us on a journey to demystify the EU",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 27,
+                "tag": "EUMadeSimple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/eumadesimple",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/eumadesimple",
+                "start": 0,
+                "url": "https://t.co/WlNGRTcEho"
+              }
+            ]
+          }
+        },
+        "id": "1579543776682561536",
+        "name": "EU Made Simple",
+        "pinned_tweet_id": "2020628347319951478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876404404774948864/crZak3Yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11377,
+          "following_count": 387,
+          "like_count": 43670,
+          "listed_count": 101,
+          "media_count": 1550,
+          "tweet_count": 5048
+        },
+        "url": "https://t.co/WlNGRTcEho",
+        "username": "EU_Made_Simple",
+        "verified": true
+      }
+    ]
+  }
+}

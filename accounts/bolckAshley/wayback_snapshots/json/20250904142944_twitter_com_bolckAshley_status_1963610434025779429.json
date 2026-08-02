@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1963610434025779429",
+    "created_at": "2025-09-04T14:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T15:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963610434025779429"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "Phigros",
+          "probability": 0.6024,
+          "start": 51,
+          "type": "Other"
+        },
+        {
+          "end": 84,
+          "normalized_text": "maimai でらっくす",
+          "probability": 0.6171,
+          "start": 73,
+          "type": "Other"
+        },
+        {
+          "end": 119,
+          "normalized_text": "NO ONE YES MAN",
+          "probability": 0.6379,
+          "start": 106,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1001107099",
+          "start": 3,
+          "username": "maimai_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963610434025779429",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1983
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963437680139628730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimai_official: 【9/5(金)「Phigros」ちほー登場！】\n音楽ゲーム『Phigros』とのコラボが開催！🕊️\n『maimai でらっくす』にこちらの4曲が追加されます！\n\n🎵 NO ONE YES MAN\n🎵 Luminescence\n🎵 Lea…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1963437487264870400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz-H_e8bsAAaqfo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1963610434025779429",
+        "created_at": "2025-09-04T14:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T15:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963610434025779429"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "Phigros",
+              "probability": 0.6024,
+              "start": 51,
+              "type": "Other"
+            },
+            {
+              "end": 84,
+              "normalized_text": "maimai でらっくす",
+              "probability": 0.6171,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 119,
+              "normalized_text": "NO ONE YES MAN",
+              "probability": 0.6379,
+              "start": 106,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1001107099",
+              "start": 3,
+              "username": "maimai_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963610434025779429",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1983
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963437680139628730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimai_official: 【9/5(金)「Phigros」ちほー登場！】\n音楽ゲーム『Phigros』とのコラボが開催！🕊️\n『maimai でらっくす』にこちらの4曲が追加されます！\n\n🎵 NO ONE YES MAN\n🎵 Luminescence\n🎵 Lea…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963437487264870400"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1963437680139628730",
+        "created_at": "2025-09-04T03:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T04:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963437680139628730"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Phigros",
+              "probability": 0.3895,
+              "start": 8,
+              "type": "Other"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Phigros",
+              "probability": 0.6273,
+              "start": 30,
+              "type": "Other"
+            },
+            {
+              "end": 63,
+              "normalized_text": "maimai でらっくす",
+              "probability": 0.6663,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 98,
+              "normalized_text": "NO ONE YES MAN",
+              "probability": 0.6695,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "9/5(金)「Phigrosちほー」オープン！",
+              "display_url": "info-maimai.sega.jp/7367/",
+              "end": 205,
+              "expanded_url": "https://info-maimai.sega.jp/7367/",
+              "images": [
+                {
+                  "height": 281,
+                  "url": "https://pbs.twimg.com/news_img/1963437513260806144/Y-kmc4KY?format=png&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1963437513260806144/Y-kmc4KY?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 182,
+              "status": 200,
+              "title": "9/5(金)「Phigrosちほー」オープン！",
+              "unwound_url": "https://info-maimai.sega.jp/7367/",
+              "url": "https://t.co/zxLTOw97PN"
+            },
+            {
+              "display_url": "pic.x.com/92F9Nnzhat",
+              "end": 229,
+              "expanded_url": "https://x.com/maimai_official/status/1963437680139628730/photo/1",
+              "media_key": "3_1963437487264870400",
+              "start": 206,
+              "url": "https://t.co/92F9Nnzhat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963437680139628730",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 170,
+          "impression_count": 472106,
+          "like_count": 4684,
+          "quote_count": 859,
+          "reply_count": 49,
+          "retweet_count": 1983
+        },
+        "reply_settings": "everyone",
+        "text": "【9/5(金)「Phigros」ちほー登場！】\n音楽ゲーム『Phigros』とのコラボが開催！🕊️\n『maimai でらっくす』にこちらの4曲が追加されます！\n\n🎵 NO ONE YES MAN\n🎵 Luminescence\n🎵 Leave All Behind\n🎵 Retribution ～ Cycle of Redemption ～\n\n⬇️詳しくはコチラ！\nhttps://t.co/zxLTOw97PN https://t.co/92F9Nnzhat"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955524388197109771/vhZnsIMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2548,
+          "following_count": 1924,
+          "like_count": 32390,
+          "listed_count": 11,
+          "media_count": 1056,
+          "tweet_count": 16066
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "1963437680139628730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172253,
+          "following_count": 26,
+          "like_count": 134,
+          "listed_count": 1377,
+          "media_count": 1256,
+          "tweet_count": 2865
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

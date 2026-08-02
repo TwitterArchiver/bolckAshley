@@ -1,0 +1,835 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1118129644589334528",
+          "name": "Kathleen Van Brempt"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1118129644589334528",
+          "name": "Kathleen Van Brempt"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1118129644589334528",
+          "name": "Kathleen Van Brempt"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+          "id": "1811085126010281984",
+          "name": "2024 Republican National Convention"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+          "id": "1840858535829057537",
+          "name": "CBS News 2024 Vice Presidential Debate"
+        }
+      }
+    ],
+    "conversation_id": "1907840071518269940",
+    "created_at": "2025-04-03T16:58:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T17:58:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907840071518269940"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Donald Trump",
+          "probability": 0.8053,
+          "start": 45,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19287037",
+          "start": 3,
+          "username": "TheProgressives"
+        },
+        {
+          "end": 124,
+          "id": "381540723",
+          "start": 113,
+          "username": "kvanbrempt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907840071518269940",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907788415522771433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheProgressives: No one got liberated on Donald Trump’s “liberation day”, our S&amp;D vice-president and MEP @kvanbrempt explains why 👇 htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84818,
+        "height": 1280,
+        "media_key": "13_1907788176300634112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1907788176300634112/img/k0kBCkXbFm_f56yC.jpg",
+        "public_metrics": {
+          "view_count": 271
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907788176300634112/vid/avc1/320x568/mC_vkzUiTFlld06I.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907788176300634112/vid/avc1/480x852/6Zu9Hg6E82tHJIrp.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1907788176300634112/vid/avc1/720x1280/Q7afQa8gH3ebEXWk.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1907788176300634112/pl/jrz9EV6c5otHNv4g.m3u8?tag=16"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1118129644589334528",
+              "name": "Kathleen Van Brempt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1118129644589334528",
+              "name": "Kathleen Van Brempt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1118129644589334528",
+              "name": "Kathleen Van Brempt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1907840071518269940",
+        "created_at": "2025-04-03T16:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T17:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907840071518269940"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Donald Trump",
+              "probability": 0.8053,
+              "start": 45,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19287037",
+              "start": 3,
+              "username": "TheProgressives"
+            },
+            {
+              "end": 124,
+              "id": "381540723",
+              "start": 113,
+              "username": "kvanbrempt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907840071518269940",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907788415522771433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheProgressives: No one got liberated on Donald Trump’s “liberation day”, our S&amp;D vice-president and MEP @kvanbrempt explains why 👇 htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1907788176300634112"
+          ]
+        },
+        "author_id": "19287037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1118129644589334528",
+              "name": "Kathleen Van Brempt"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1118129644589334528",
+              "name": "Kathleen Van Brempt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1118129644589334528",
+              "name": "Kathleen Van Brempt"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The Republican National Convention is about to convene in Milwaukee to nominate President Donald J. Trump! Tune in live on X starting July 15th at 6pm CT to watch LIVE as we unite for a stronger America!",
+              "id": "1811085126010281984",
+              "name": "2024 Republican National Convention"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1907788415522771433",
+        "created_at": "2025-04-03T13:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T14:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907788415522771433"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Donald Trump",
+              "probability": 0.8806,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 103,
+              "id": "381540723",
+              "start": 92,
+              "username": "kvanbrempt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9H6FcGS0V",
+              "end": 142,
+              "expanded_url": "https://x.com/TheProgressives/status/1907788415522771433/video/1",
+              "media_key": "13_1907788176300634112",
+              "start": 119,
+              "url": "https://t.co/r9H6FcGS0V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907788415522771433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 786,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "No one got liberated on Donald Trump’s “liberation day”, our S&amp;D vice-president and MEP @kvanbrempt explains why 👇 https://t.co/r9H6FcGS0V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 1704,
+          "like_count": 24978,
+          "listed_count": 10,
+          "media_count": 836,
+          "tweet_count": 13128
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T13:26:48.000Z",
+        "description": "The Socialists and Democrats Group in the European Parliament works for social justice, sustainability & equality for all.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialistsanddemocrats.eu",
+                "end": 23,
+                "expanded_url": "http://www.socialistsanddemocrats.eu",
+                "start": 0,
+                "url": "https://t.co/NnV78Ux4Lc"
+              }
+            ]
+          }
+        },
+        "id": "19287037",
+        "location": "Europe",
+        "name": "S&D Group",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585629855583911937/HG74Hrhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138710,
+          "following_count": 8211,
+          "like_count": 7070,
+          "listed_count": 1840,
+          "media_count": 11830,
+          "tweet_count": 38330
+        },
+        "url": "https://t.co/NnV78Ux4Lc",
+        "username": "TheProgressives",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-28T14:20:53.000Z",
+        "description": "Europees Parlementslid. Vicevoorzitter @TheProgressives. Trade, sustainability & human rights. Find me on https://t.co/MHtGKshy2e",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 39,
+                "username": "TheProgressives"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/kvanbr…",
+                "end": 129,
+                "expanded_url": "https://bsky.app/profile/kvanbrempt.bsky.social",
+                "start": 106,
+                "url": "https://t.co/MHtGKshy2e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kathleenvanbrempt.be",
+                "end": 23,
+                "expanded_url": "http://www.kathleenvanbrempt.be",
+                "start": 0,
+                "url": "https://t.co/91Qf2QZ9PC"
+              }
+            ]
+          }
+        },
+        "id": "381540723",
+        "location": "Antwerpen",
+        "name": "Kathleen Van Brempt",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829488410785939456/YEi3q3Xc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15641,
+          "following_count": 1267,
+          "like_count": 4176,
+          "listed_count": 452,
+          "media_count": 1046,
+          "tweet_count": 10364
+        },
+        "url": "https://t.co/91Qf2QZ9PC",
+        "username": "kvanbrempt",
+        "verified": true
+      }
+    ]
+  }
+}

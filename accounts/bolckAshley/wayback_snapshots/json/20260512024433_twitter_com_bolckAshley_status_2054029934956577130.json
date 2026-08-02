@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1173614294082048001",
+          "name": "OPPO Indonesia"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "OPPO",
+          "id": "912729836665237505",
+          "name": "OPPO"
+        }
+      }
+    ],
+    "conversation_id": "2054029934956577130",
+    "created_at": "2026-05-12T02:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T03:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054029934956577130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1682558288247021568",
+          "start": 3,
+          "username": "miumiu_14_dd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054029934956577130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053978118092927118",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miumiu_14_dd: 我见过不少的把各种各样的东西比作老婆的，文学作品里的比喻，广告词\n还有把东西一个比喻成老婆 ，一个比喻成情妇，一个比喻成初恋女友的\n以前我家旁边卖西瓜的都用这种广告词\n但是主体换成女性就激起一堆人的反感了\n老婆可以是这个是那个随便安的\n老公就…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2054029934956577130",
+        "created_at": "2026-05-12T02:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T03:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054029934956577130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1682558288247021568",
+              "start": 3,
+              "username": "miumiu_14_dd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054029934956577130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053978118092927118",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miumiu_14_dd: 我见过不少的把各种各样的东西比作老婆的，文学作品里的比喻，广告词\n还有把东西一个比喻成老婆 ，一个比喻成情妇，一个比喻成初恋女友的\n以前我家旁边卖西瓜的都用这种广告词\n但是主体换成女性就激起一堆人的反感了\n老婆可以是这个是那个随便安的\n老公就…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682558288247021568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1173614294082048001",
+              "name": "OPPO Indonesia"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "OPPO",
+              "id": "912729836665237505",
+              "name": "OPPO"
+            }
+          }
+        ],
+        "conversation_id": "2053978118092927118",
+        "created_at": "2026-05-11T23:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053978118092927118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SJ8075554/stat…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/SJ8075554/status/2053814284258578588",
+              "start": 144,
+              "url": "https://t.co/TBg2MW9u0q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053978118092927118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 892,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053814284258578588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我见过不少的把各种各样的东西比作老婆的，文学作品里的比喻，广告词\n还有把东西一个比喻成老婆 ，一个比喻成情妇，一个比喻成初恋女友的\n以前我家旁边卖西瓜的都用这种广告词\n但是主体换成女性就激起一堆人的反感了\n老婆可以是这个是那个随便安的\n老公就不行了\n父权制就是这样警惕着强力维护自身的。 https://t.co/TBg2MW9u0q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 1975,
+          "like_count": 40993,
+          "listed_count": 21,
+          "media_count": 1532,
+          "tweet_count": 21832
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:09:28.000Z",
+        "description": "比较人机请见谅  ⟡ she/they  ⟡ BPD／CPTSD／OSDD-1a ⟡ 友跨 ⟡ Feminist ⟡ Matriarchy ⟡ 有爱人 ⟡ 不登校家里蹲 ⟡ 百合爱好者 ⟡ \n——⟡⋆˙欢迎互fo⟡⋆˙——",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/miumiu_14_dd",
+                "end": 23,
+                "expanded_url": "https://ngl.link/miumiu_14_dd",
+                "start": 0,
+                "url": "https://t.co/0roPVau7Sn"
+              }
+            ]
+          }
+        },
+        "id": "1682558288247021568",
+        "location": "因特奈特",
+        "name": "透明岚",
+        "pinned_tweet_id": "2042677538519158935",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052887915076968448/XLu9rV3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 505,
+          "like_count": 3325,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 687
+        },
+        "url": "https://t.co/0roPVau7Sn",
+        "username": "miumiu_14_dd",
+        "verified": false
+      }
+    ]
+  }
+}

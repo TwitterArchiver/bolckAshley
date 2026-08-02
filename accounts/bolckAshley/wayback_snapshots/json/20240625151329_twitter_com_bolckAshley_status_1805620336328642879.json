@@ -1,0 +1,146 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1805618079952437460",
+    "created_at": "2024-06-25T15:13:29.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-25T16:13:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1805620336328642879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1765034185448636416",
+          "start": 0,
+          "username": "Pehnick"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1805620336328642879",
+    "in_reply_to_user_id": "1765034185448636416",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805618079952437460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pehnick 你怎麼知道我也是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1805618079952437460].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1805618079952437460",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1805618079952437460"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1805618079952437460",
+        "created_at": "2024-06-25T15:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-25T16:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805620336328642879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1765034185448636416",
+              "start": 0,
+              "username": "Pehnick"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805620336328642879",
+        "in_reply_to_user_id": "1765034185448636416",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805618079952437460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pehnick 你怎麼知道我也是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1516,
+          "following_count": 938,
+          "like_count": 12141,
+          "listed_count": 9,
+          "tweet_count": 8132
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T15:19:03.000Z",
+        "description": "🇹🇼|Love from Twitter🐦",
+        "id": "1765034185448636416",
+        "name": "Adversaire🤍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800111462284988416/LWQunOES_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 321,
+          "like_count": 4922,
+          "listed_count": 0,
+          "tweet_count": 1824
+        },
+        "username": "Pehnick",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1905446148732846422",
+    "created_at": "2025-03-28T02:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-28T03:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1905446148732846422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1720665183188922368",
+          "start": 4,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1905446148732846422",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Hey @grok, based on my tweets, which public figure or politician do I sound like the most?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1905446148732846422",
+        "created_at": "2025-03-28T02:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-28T03:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1905446148732846422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1720665183188922368",
+              "start": 4,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1905446148732846422",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Hey @grok, based on my tweets, which public figure or politician do I sound like the most?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🕊️🇺🇦🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900058479953637376/51DqQqCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 1672,
+          "like_count": 24537,
+          "listed_count": 10,
+          "media_count": 819,
+          "tweet_count": 12963
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "iOS: https://t.co/taNZVy3vpq \nAndroid: https://t.co/sDFB1bIhSw \n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 64,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "apps.apple.com/us/app/grok/id…",
+                "end": 28,
+                "expanded_url": "https://apps.apple.com/us/app/grok/id6670324846",
+                "start": 5,
+                "url": "https://t.co/taNZVy3vpq"
+              },
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 62,
+                "expanded_url": "https://play.google.com/store/apps/details?id=ai.x.grok",
+                "start": 39,
+                "url": "https://t.co/sDFB1bIhSw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264155,
+          "following_count": 2,
+          "like_count": 47,
+          "listed_count": 2914,
+          "media_count": 282178,
+          "tweet_count": 2678288
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

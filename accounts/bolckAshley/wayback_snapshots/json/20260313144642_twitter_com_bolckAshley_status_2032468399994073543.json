@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "2032468399994073543",
+    "created_at": "2026-03-13T14:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032468399994073543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AetherKyalo/st…",
+          "end": 114,
+          "expanded_url": "https://twitter.com/AetherKyalo/status/2032464505226105283",
+          "start": 91,
+          "url": "https://t.co/EhhfM1fBhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032468399994073543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032464505226105283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那麼貴黨來參與選舉是何目的算是昭然若揭了😹\n國民未來黨官方從來沒在宣傳中認為哪個黨是「極端主義政黨」，但某些黨派在國民未來黨宣傳「需要反對政治極端主義」時卻大為光火，確實很諷刺呢😹 https://t.co/EhhfM1fBhv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2032468399994073543",
+        "created_at": "2026-03-13T14:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032468399994073543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AetherKyalo/st…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/AetherKyalo/status/2032464505226105283",
+              "start": 91,
+              "url": "https://t.co/EhhfM1fBhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032468399994073543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032464505226105283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那麼貴黨來參與選舉是何目的算是昭然若揭了😹\n國民未來黨官方從來沒在宣傳中認為哪個黨是「極端主義政黨」，但某些黨派在國民未來黨宣傳「需要反對政治極端主義」時卻大為光火，確實很諷刺呢😹 https://t.co/EhhfM1fBhv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406049068548169729",
+        "conversation_id": "2032464505226105283",
+        "created_at": "2026-03-13T14:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032464505226105283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckashley/st…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/bolckashley/status/2032458552774922642",
+              "start": 66,
+              "url": "https://t.co/BnGwmxK4Lg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032464505226105283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "确实是，激进左派从不遮掩自身的目的，本党一贯且连续的主张便是以一切可能的，不会最终使得所谓“新秩序”变成旧有秩序的方式重塑现有秩序\n\n本党也决不妥协并屈服于这样一种看法，即反对现有秩序可能会导向所谓“绝大多数”利益受损。首先“绝大多数”正如同斯大林主义的“人民”一样，是一个满足当权者符号性认同的工具，即当权者规定人民以什么样的方式才是自身，才能获得“最大利益”。其次，在中道主义者看来，激进变革是一种“根本恶”，因为其根本上打碎了这样一种连续性，即社会秩序的稳定性，对所谓和谐的蔑视以及分裂共同体；但问题恰恰在于，当战斗性民主以“法教义化的规范主义判断”去进行治安战，去把政治矛盾化约成“需要被治理，被管控”的存在从而忽略体系如何产生政治矛盾时，造就的无非是一批批无法被识别，从而需要无限制强化治安的游击队/恐怖分子，那么这种警察国家制造的人人自危难道不恰恰意味着其指责激进左派“破坏和谐”与“毁灭社会秩序稳定”么。难道我们不可以说，在战斗性民主的防卫下，被毁灭的恰恰是其声称要保卫的“社会和谐”？\n\n然而这种可能性恰恰不被中道主义诸君思考，因为他们作为道德主义的化身仅仅认为这是一种失误，一种借助民主之名却行独裁之实的个别人的险恶用心。但问题恰恰在于中道主义诸君不敢设想的另一个可能性，即“恶魔之恶”，也就是恶成为了善的形式；换句话说，无限制强化安保，为了社会和谐不断管控/规训政治矛盾，以至于制造出一大堆游击队从而制造警察国家。他们不敢将自己设想成为这种存在，因为他们只认为这种存在属于我们这些激进左派，只有我们才会像恶魔一样为了理想而拥抱极权主义\n\n但在这里奉劝诸位中道人士，小心在保卫民主的时候，恶魔已经悄然附身；或者说当代西方国家已经践行了这种恶魔之恶，诚心诚意地保卫民主社会，唱着高调，却占着法西斯主义的位置，让纳粹无路可走"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032458552774922642",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实是，激进左派从不遮掩自身的目的，本党一贯且连续的主张便是以一切可能的，不会最终使得所谓“新秩序”变成旧有秩序的方式重塑现有秩序 https://t.co/BnGwmxK4Lg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 1974,
+          "like_count": 39644,
+          "listed_count": 16,
+          "media_count": 1398,
+          "tweet_count": 20135
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T00:40:07.000Z",
+        "description": "03年｜惠灵顿维多利亚大学｜Bachelor of Art｜从极权国家走出的革命者｜Gay🏳️‍🌈 Furry🦊 Neurodiversity🧠｜无政府共产主义者，社会主义人本主义者，黑格尔马克思主义者 & 文化女性主义者 | 规则改变将结局撼动，就是我们——这世界的英雄 | 中文，English 🆗|",
+        "id": "1406049068548169729",
+        "location": "Wellington City, New Zealand",
+        "name": "Kyalo 凯犽洛🏳️‍🌈🏳️‍⚧️🇵🇸🇺🇦",
+        "pinned_tweet_id": "1840547733717074257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880945817273397249/vevg9eel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 727,
+          "like_count": 1044,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 9083
+        },
+        "username": "AetherKyalo",
+        "verified": true
+      }
+    ]
+  }
+}

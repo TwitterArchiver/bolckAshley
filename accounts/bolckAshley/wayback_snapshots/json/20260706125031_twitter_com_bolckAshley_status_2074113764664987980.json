@@ -1,0 +1,439 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Nigel Farage",
+          "id": "857197127251906560",
+          "name": "Nigel Farage"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Nigel Farage",
+          "id": "857197127251906560",
+          "name": "Nigel Farage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nigel Farage",
+          "id": "857197127251906560",
+          "name": "Nigel Farage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2074113764664987980",
+    "created_at": "2026-07-06T12:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074113764664987980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "23456307",
+          "start": 3,
+          "username": "Ipsos_in_the_UK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074113764664987980",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073840475610419310",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ipsos_in_the_UK: 30% say Burnham would make the most capable PM, nearly doubling the 15% who chose Farage, and the 13% who selected Bad…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1077,
+        "media_key": "3_2073840473362345984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMfC7D-XMAAoTr5.png",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2074113764664987980",
+        "created_at": "2026-07-06T12:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074113764664987980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "23456307",
+              "start": 3,
+              "username": "Ipsos_in_the_UK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074113764664987980",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073840475610419310",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ipsos_in_the_UK: 30% say Burnham would make the most capable PM, nearly doubling the 15% who chose Farage, and the 13% who selected Bad…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073840473362345984"
+          ]
+        },
+        "author_id": "23456307",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2073840475610419310",
+        "created_at": "2026-07-05T18:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T19:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073840475610419310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtyX8j7ut8",
+              "end": 148,
+              "expanded_url": "https://x.com/Ipsos_in_the_UK/status/2073840475610419310/photo/1",
+              "media_key": "3_2073840473362345984",
+              "start": 125,
+              "url": "https://t.co/ZtyX8j7ut8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073840475610419310",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4737,
+          "like_count": 71,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "30% say Burnham would make the most capable PM, nearly doubling the 15% who chose Farage, and the 13% who selected Badenoch. https://t.co/ZtyX8j7ut8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073876157041442816/ogHrp4Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4056,
+          "following_count": 2252,
+          "like_count": 42993,
+          "listed_count": 29,
+          "media_count": 1804,
+          "tweet_count": 23267
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-09T16:37:18.000Z",
+        "description": "Leader in market research in the UK, part of @Ipsos.  Follow us for the latest insights 📊\n\nReposts are not always endorsements.\n\nFull reports on our website 👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 45,
+                "username": "Ipsos"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ipsos.com/en-uk",
+                "end": 23,
+                "expanded_url": "https://www.ipsos.com/en-uk",
+                "start": 0,
+                "url": "https://t.co/ybhZnV6tlJ"
+              }
+            ]
+          }
+        },
+        "id": "23456307",
+        "location": "United Kingdom",
+        "name": "Ipsos in the UK",
+        "pinned_tweet_id": "2073801195055898956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663823931155857408/nx1uUtor_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53744,
+          "following_count": 3426,
+          "like_count": 2091,
+          "listed_count": 1204,
+          "media_count": 4377,
+          "tweet_count": 20892
+        },
+        "url": "https://t.co/ybhZnV6tlJ",
+        "username": "Ipsos_in_the_UK",
+        "verified": true
+      }
+    ]
+  }
+}

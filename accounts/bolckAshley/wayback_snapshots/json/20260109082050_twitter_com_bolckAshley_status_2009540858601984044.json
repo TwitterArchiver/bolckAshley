@@ -1,0 +1,729 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "President Trump confirmed the call in a series of Tweets on Friday, adding that the political turmoil in Venezuela was also a subject of a phone conversation with Russia's Vladimir Putin. Referring to the report's conclusion that Russia interfered in the 2016 election while clearing the Trump campaign of conspiracy, Trump said he and Putin discussed the \"Russia Hoax.\"",
+          "id": "1124379225207656448",
+          "name": "Trump says he discussed Venezuela and the Mueller report with Putin in an hour-long call"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2009540858601984044",
+    "created_at": "2026-01-09T08:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T09:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009540858601984044"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 26,
+          "normalized_text": "Trump",
+          "probability": 0.9526,
+          "start": 22,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Venezuela",
+          "probability": 0.9778,
+          "start": 36,
+          "type": "Place"
+        },
+        {
+          "end": 93,
+          "normalized_text": "ICE",
+          "probability": 0.6017,
+          "start": 91,
+          "type": "Organization"
+        },
+        {
+          "end": 121,
+          "normalized_text": "Minneapolis",
+          "probability": 0.9799,
+          "start": 111,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2977725884",
+          "start": 3,
+          "username": "nycDSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009540858601984044",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009392353300369640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nycDSA: Saturday, Trump invaded Venezuela, sacrificing lives for oil. Four days later, ICE forces invading Minneapolis murdered a legal…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009392140783165440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-LLgX3XoAAVjK7.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump confirmed the call in a series of Tweets on Friday, adding that the political turmoil in Venezuela was also a subject of a phone conversation with Russia's Vladimir Putin. Referring to the report's conclusion that Russia interfered in the 2016 election while clearing the Trump campaign of conspiracy, Trump said he and Putin discussed the \"Russia Hoax.\"",
+              "id": "1124379225207656448",
+              "name": "Trump says he discussed Venezuela and the Mueller report with Putin in an hour-long call"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2009540858601984044",
+        "created_at": "2026-01-09T08:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009540858601984044"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Trump",
+              "probability": 0.9526,
+              "start": 22,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Venezuela",
+              "probability": 0.9778,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 93,
+              "normalized_text": "ICE",
+              "probability": 0.6017,
+              "start": 91,
+              "type": "Organization"
+            },
+            {
+              "end": 121,
+              "normalized_text": "Minneapolis",
+              "probability": 0.9799,
+              "start": 111,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2977725884",
+              "start": 3,
+              "username": "nycDSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009540858601984044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009392353300369640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nycDSA: Saturday, Trump invaded Venezuela, sacrificing lives for oil. Four days later, ICE forces invading Minneapolis murdered a legal…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009392140783165440"
+          ]
+        },
+        "author_id": "2977725884",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump confirmed the call in a series of Tweets on Friday, adding that the political turmoil in Venezuela was also a subject of a phone conversation with Russia's Vladimir Putin. Referring to the report's conclusion that Russia interfered in the 2016 election while clearing the Trump campaign of conspiracy, Trump said he and Putin discussed the \"Russia Hoax.\"",
+              "id": "1124379225207656448",
+              "name": "Trump says he discussed Venezuela and the Mueller report with Putin in an hour-long call"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2009392353300369640",
+        "created_at": "2026-01-08T22:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T23:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009392353300369640"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 14,
+              "normalized_text": "Trump",
+              "probability": 0.9649,
+              "start": 10,
+              "type": "Person"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Venezuela",
+              "probability": 0.9834,
+              "start": 24,
+              "type": "Place"
+            },
+            {
+              "end": 81,
+              "normalized_text": "ICE",
+              "probability": 0.695,
+              "start": 79,
+              "type": "Organization"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Minneapolis",
+              "probability": 0.9811,
+              "start": 99,
+              "type": "Place"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Trump",
+              "probability": 0.9558,
+              "start": 164,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjiGVwWNGd",
+              "end": 300,
+              "expanded_url": "https://x.com/nycDSA/status/2009392353300369640/photo/1",
+              "media_key": "3_2009392140783165440",
+              "start": 277,
+              "url": "https://t.co/TjiGVwWNGd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009392353300369640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4345,
+          "like_count": 174,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "Saturday, Trump invaded Venezuela, sacrificing lives for oil. Four days later, ICE forces invading Minneapolis murdered a legal observer recording their activity.\n\nTrump wants to be an emperor &amp; a tyrant. Socialists must fight back.\n\nJoin us 1/11, 1pm, E60th &amp; 5th Ave https://t.co/TjiGVwWNGd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 1952,
+          "like_count": 37332,
+          "listed_count": 14,
+          "media_count": 1256,
+          "tweet_count": 18510
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2015-01-12T21:49:23.000Z",
+        "description": "New York City Democratic Socialists of America https://t.co/L0Zi8hVWS4\nGet Involved: https://t.co/fFdi6WMSvs\n📸 https://t.co/jxOKhmq5hp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "socialists.nyc",
+                "end": 70,
+                "expanded_url": "http://socialists.nyc",
+                "start": 47,
+                "url": "https://t.co/L0Zi8hVWS4"
+              },
+              {
+                "display_url": "socialists.nyc/info",
+                "end": 108,
+                "expanded_url": "http://socialists.nyc/info",
+                "start": 85,
+                "url": "https://t.co/fFdi6WMSvs"
+              },
+              {
+                "display_url": "instagr.am/nycdsa",
+                "end": 134,
+                "expanded_url": "http://instagr.am/nycdsa",
+                "start": 111,
+                "url": "https://t.co/jxOKhmq5hp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nyc_dsa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nyc_dsa",
+                "start": 0,
+                "url": "https://t.co/H9Q5szkG7t"
+              }
+            ]
+          }
+        },
+        "id": "2977725884",
+        "location": "New York City",
+        "name": "NYC-DSA 🌹",
+        "pinned_tweet_id": "1849182975293813145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901330068384645120/p09Hd6Ao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64880,
+          "following_count": 2097,
+          "like_count": 28122,
+          "listed_count": 557,
+          "media_count": 5624,
+          "tweet_count": 28657
+        },
+        "url": "https://t.co/H9Q5szkG7t",
+        "username": "nycDSA",
+        "verified": false
+      }
+    ]
+  }
+}

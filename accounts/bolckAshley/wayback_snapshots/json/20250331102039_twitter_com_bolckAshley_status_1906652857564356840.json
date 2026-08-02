@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1906437066692432266",
+    "created_at": "2025-03-31T10:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T11:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906652857564356840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232837627939676160",
+          "start": 0,
+          "username": "Akhromeyev_CCCP"
+        },
+        {
+          "end": 28,
+          "id": "1794266757995343872",
+          "start": 17,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906652857564356840",
+    "in_reply_to_user_id": "1232837627939676160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906586532062130513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akhromeyev_CCCP @miyuki_114 🗿🗿🗿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1906586532062130513].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1906586532062130513",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1906586532062130513"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1906437066692432266",
+        "created_at": "2025-03-31T10:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T11:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906652857564356840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232837627939676160",
+              "start": 0,
+              "username": "Akhromeyev_CCCP"
+            },
+            {
+              "end": 28,
+              "id": "1794266757995343872",
+              "start": 17,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906652857564356840",
+        "in_reply_to_user_id": "1232837627939676160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906586532062130513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akhromeyev_CCCP @miyuki_114 🗿🗿🗿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2325,
+          "following_count": 1684,
+          "like_count": 24755,
+          "listed_count": 10,
+          "media_count": 829,
+          "tweet_count": 13040
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "Жила бы страна родная-\nИ нету других забот。願親愛的家鄉美好，願祖國呀萬年長。/政治立場左上/反建制/反修正/反保守/理論學習中/Прощай, края родные,\n3везда победы, нам свети! 再見了，親愛的故鄉，勝利的星會照耀我們！",
+        "id": "1232837627939676160",
+        "location": "苏联陆军白俄罗斯军区 明斯克市",
+        "name": "【VOS】🇷🇺🕊🇺🇦☭🚩📕🎖️阿赫羅梅耶夫元帥歸來 看戈爾巴喬夫蘇修叛徒集團土崩瓦解",
+        "pinned_tweet_id": "1881755792875078132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890086866348843008/F2RoOaVX_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 1945,
+          "like_count": 115344,
+          "listed_count": 18,
+          "media_count": 3449,
+          "tweet_count": 19777
+        },
+        "username": "Akhromeyev_CCCP",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "كل المجد لك يا علم العرب",
+        "id": "1794266757995343872",
+        "location": "🇾🇪🇵🇸🇱🇧محور المقاومة‎",
+        "name": "‎☪北京豆汁近卫军☪",
+        "pinned_tweet_id": "1903041189298749618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906589714498424832/dF20dczt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 847,
+          "following_count": 1608,
+          "like_count": 180116,
+          "listed_count": 2,
+          "media_count": 1572,
+          "tweet_count": 32629
+        },
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

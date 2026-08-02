@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1278686104699285505",
+          "name": "Jeffrey Epstein"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      }
+    ],
+    "conversation_id": "2017984115111493867",
+    "created_at": "2026-02-01T15:31:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017984115111493867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1243728830889517056",
+          "start": 3,
+          "username": "MisakaNo8964"
+        },
+        {
+          "end": 26,
+          "id": "1476962939236200451",
+          "start": 18,
+          "username": "AGDugin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017984115111493867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017983449320100071",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MisakaNo8964: @AGDugin 还能说话吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1278686104699285505",
+              "name": "Jeffrey Epstein"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2017984115111493867",
+        "created_at": "2026-02-01T15:31:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017984115111493867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1243728830889517056",
+              "start": 3,
+              "username": "MisakaNo8964"
+            },
+            {
+              "end": 26,
+              "id": "1476962939236200451",
+              "start": 18,
+              "username": "AGDugin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017984115111493867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017983449320100071",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MisakaNo8964: @AGDugin 还能说话吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243728830889517056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1278686104699285505",
+              "name": "Jeffrey Epstein"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          }
+        ],
+        "conversation_id": "2017983449320100071",
+        "created_at": "2026-02-01T15:28:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:28:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017983449320100071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1476962939236200451",
+              "start": 0,
+              "username": "AGDugin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nexta_tv/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/nexta_tv/status/2017934701051211866",
+              "start": 15,
+              "url": "https://t.co/sFQnC3Q57B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017983449320100071",
+        "in_reply_to_user_id": "1476962939236200451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017934701051211866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGDugin 还能说话吗 https://t.co/sFQnC3Q57B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 1974,
+          "like_count": 37961,
+          "listed_count": 14,
+          "media_count": 1320,
+          "tweet_count": 19014
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T02:37:26.000Z",
+        "description": "You forget a thousand things every day.\nHow about you make sure this is one of them?",
+        "id": "1243728830889517056",
+        "location": "水晶棺",
+        "name": "Destroy-🌹↙️↙️↙️",
+        "pinned_tweet_id": "1557392236278878208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991472159919861765/tyx-QSpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5148,
+          "following_count": 4964,
+          "like_count": 11845,
+          "listed_count": 39,
+          "media_count": 1247,
+          "tweet_count": 13570
+        },
+        "username": "MisakaNo8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-31T17:06:31.000Z",
+        "description": "Doctor of Sociology and of Political sciences, PhD of Philosophy. \nFounder of Russian geopolitical school and Eurasian Movement.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/alexanderdugin",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/alexanderdugin",
+                "start": 0,
+                "url": "https://t.co/xDq0V8zVuG"
+              }
+            ]
+          }
+        },
+        "id": "1476962939236200451",
+        "name": "Alexander Dugin",
+        "pinned_tweet_id": "2017530083943108824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979876819311513600/DhA4jAng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400979,
+          "following_count": 694,
+          "like_count": 8456,
+          "listed_count": 1649,
+          "media_count": 4273,
+          "tweet_count": 20788
+        },
+        "url": "https://t.co/xDq0V8zVuG",
+        "username": "AGDugin",
+        "verified": false
+      }
+    ]
+  }
+}

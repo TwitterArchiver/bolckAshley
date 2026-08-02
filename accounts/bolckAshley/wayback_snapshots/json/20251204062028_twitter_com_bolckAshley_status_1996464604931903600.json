@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1486403178232905730",
+          "name": "Yoon Suk-yeol"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1486403178232905730",
+          "name": "Yoon Suk-yeol"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1996464604931903600",
+    "created_at": "2025-12-04T06:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996464604931903600"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "尹大統領",
+          "probability": 0.4514,
+          "start": 32,
+          "type": "Person"
+        },
+        {
+          "end": 61,
+          "normalized_text": "韓国",
+          "probability": 0.9775,
+          "start": 60,
+          "type": "Place"
+        },
+        {
+          "end": 68,
+          "normalized_text": "尹錫悦大統領",
+          "probability": 0.5596,
+          "start": 63,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1186294324201324545",
+          "start": 3,
+          "username": "lran1986"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996464604931903600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996344946769457164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lran1986: おはようございます！本日12月4日は尹大統領による非常戒厳が解除された日です。\n2024年、韓国の尹錫悦大統領は、「反国家勢力」に対抗するためと称して非常戒厳を布告し、軍や警察を出動させます。\nしかし国会が全会一致で非常戒厳の解除を決議したことで、尹…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1995924701718413312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Ly8PxagAA4rsP.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1486403178232905730",
+              "name": "Yoon Suk-yeol"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1486403178232905730",
+              "name": "Yoon Suk-yeol"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1996464604931903600",
+        "created_at": "2025-12-04T06:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996464604931903600"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "尹大統領",
+              "probability": 0.4514,
+              "start": 32,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "韓国",
+              "probability": 0.9775,
+              "start": 60,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "尹錫悦大統領",
+              "probability": 0.5596,
+              "start": 63,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1186294324201324545",
+              "start": 3,
+              "username": "lran1986"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996464604931903600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996344946769457164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lran1986: おはようございます！本日12月4日は尹大統領による非常戒厳が解除された日です。\n2024年、韓国の尹錫悦大統領は、「反国家勢力」に対抗するためと称して非常戒厳を布告し、軍や警察を出動させます。\nしかし国会が全会一致で非常戒厳の解除を決議したことで、尹…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995924701718413312"
+          ]
+        },
+        "author_id": "1186294324201324545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1486403178232905730",
+              "name": "Yoon Suk-yeol"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1486403178232905730",
+              "name": "Yoon Suk-yeol"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1996344946769457164",
+        "created_at": "2025-12-03T22:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T23:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996344946769457164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "尹大統領",
+              "probability": 0.4552,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "韓国",
+              "probability": 0.9767,
+              "start": 46,
+              "type": "Place"
+            },
+            {
+              "end": 54,
+              "normalized_text": "尹錫悦大統領",
+              "probability": 0.5705,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "尹大統領",
+              "probability": 0.5416,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aXpHZmFfM",
+              "end": 168,
+              "expanded_url": "https://x.com/lran1986/status/1996344946769457164/photo/1",
+              "media_key": "3_1995924701718413312",
+              "start": 145,
+              "url": "https://t.co/9aXpHZmFfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996344946769457164",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4521,
+          "like_count": 287,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます！本日12月4日は尹大統領による非常戒厳が解除された日です。\n2024年、韓国の尹錫悦大統領は、「反国家勢力」に対抗するためと称して非常戒厳を布告し、軍や警察を出動させます。\nしかし国会が全会一致で非常戒厳の解除を決議したことで、尹大統領の目論見は数時間で頓挫しました。 https://t.co/9aXpHZmFfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2775,
+          "following_count": 2039,
+          "like_count": 35616,
+          "listed_count": 12,
+          "media_count": 1212,
+          "tweet_count": 17659
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-21T14:53:18.000Z",
+        "description": "世界史や国際情勢を題材にしたポーランドボールのコミックを投稿しています。",
+        "id": "1186294324201324545",
+        "location": "悪の帝国",
+        "name": "レガレガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675831416981172227/CvQI5pOK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20656,
+          "following_count": 296,
+          "like_count": 25031,
+          "listed_count": 79,
+          "media_count": 2513,
+          "tweet_count": 18714
+        },
+        "username": "lran1986",
+        "verified": true
+      }
+    ]
+  }
+}

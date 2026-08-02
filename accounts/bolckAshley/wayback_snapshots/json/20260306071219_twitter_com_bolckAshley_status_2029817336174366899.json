@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2029536551835930647",
+    "created_at": "2026-03-06T07:12:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T08:12:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029817336174366899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1716658913641410560",
+          "start": 0,
+          "username": "PoW_R09"
+        },
+        {
+          "end": 16,
+          "id": "2508919105",
+          "start": 9,
+          "username": "ncysea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029817336174366899",
+    "in_reply_to_user_id": "1716658913641410560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029816507463802953",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoW_R09 @ncysea 😭😭😭😭為什麼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029816507463802953].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029816507463802953",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029816507463802953"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2029536551835930647",
+        "created_at": "2026-03-06T07:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T08:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029817336174366899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1716658913641410560",
+              "start": 0,
+              "username": "PoW_R09"
+            },
+            {
+              "end": 16,
+              "id": "2508919105",
+              "start": 9,
+              "username": "ncysea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029817336174366899",
+        "in_reply_to_user_id": "1716658913641410560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029816507463802953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoW_R09 @ncysea 😭😭😭😭為什麼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3028,
+          "following_count": 1983,
+          "like_count": 39192,
+          "listed_count": 16,
+          "media_count": 1368,
+          "tweet_count": 19877
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-24T03:33:13.000Z",
+        "description": "前世的友列內圈帳｜都是碎碎念的帳號｜01.03.26後掛本帳號連結的皆為仿冒/踩縫紉機bot//",
+        "id": "1716658913641410560",
+        "name": "威爾士親王",
+        "pinned_tweet_id": "2029536551835930647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029465461449187328/UDhCCDut_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 119,
+          "like_count": 2021,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 152
+        },
+        "username": "PoW_R09",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-20T01:01:21.000Z",
+        "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸.\nMSc in Computer Science.\nFounder, Federal Councillor and MOFA of @enchenia.\nGloria Encheniae a me defenditur.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "2508919105",
+        "location": "Federation of Enchenia 英雪尼亞聯邦",
+        "name": "Ngok Ching Ying Suet 樂正瑩雪",
+        "pinned_tweet_id": "1979023440695656567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011658810264551424/jsDktjC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1802,
+          "following_count": 1984,
+          "like_count": 49517,
+          "listed_count": 11,
+          "media_count": 4163,
+          "tweet_count": 36459
+        },
+        "username": "ncysea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2015337772215832577",
+    "created_at": "2026-01-25T10:01:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:01:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015364353885950358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015364353885950358",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015337772215832577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 辯證的反建制，靈活的反建制\n在這基礎上，實事求是的反建制"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015337772215832577].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015337772215832577",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015337772215832577"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2015337772215832577",
+        "created_at": "2026-01-25T10:01:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:01:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015364353885950358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015364353885950358",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015337772215832577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 辯證的反建制，靈活的反建制\n在這基礎上，實事求是的反建制"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 1969,
+          "like_count": 37759,
+          "listed_count": 14,
+          "media_count": 1307,
+          "tweet_count": 18832
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Democratic Socialist | For Democracy, Liberty and Equity | Emancipatory Social Science & Humanities",
+        "id": "1715891855983026176",
+        "name": "Mr. Lawrence",
+        "pinned_tweet_id": "2006617804255211886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010625724458385408/hiiTu6lH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 4330,
+          "like_count": 97134,
+          "listed_count": 5,
+          "media_count": 983,
+          "tweet_count": 19411
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      }
+    ]
+  }
+}

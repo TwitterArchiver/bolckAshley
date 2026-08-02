@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1858723854593434087",
+    "created_at": "2024-11-19T04:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-19T05:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1858723854593434087"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 59,
+          "normalized_text": "Senate",
+          "probability": 0.4452,
+          "start": 54,
+          "type": "Organization"
+        },
+        {
+          "end": 114,
+          "normalized_text": "Israel",
+          "probability": 0.9299,
+          "start": 109,
+          "type": "Place"
+        },
+        {
+          "end": 122,
+          "normalized_text": "Bernie",
+          "probability": 0.8604,
+          "start": 117,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "355591226",
+          "start": 3,
+          "username": "DemSocialists"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1858723854593434087",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 118
+    },
+    "referenced_tweets": [
+      {
+        "id": "1858552393505321361",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DemSocialists: For the first time in history, the Senate will be voting on blocking weapons shipments to Israel. Bernie’s Joint Resolut…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1858723854593434087",
+        "created_at": "2024-11-19T04:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-19T05:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1858723854593434087"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Senate",
+              "probability": 0.4452,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 114,
+              "normalized_text": "Israel",
+              "probability": 0.9299,
+              "start": 109,
+              "type": "Place"
+            },
+            {
+              "end": 122,
+              "normalized_text": "Bernie",
+              "probability": 0.8604,
+              "start": 117,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "355591226",
+              "start": 3,
+              "username": "DemSocialists"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858723854593434087",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 118
+        },
+        "referenced_tweets": [
+          {
+            "id": "1858552393505321361",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DemSocialists: For the first time in history, the Senate will be voting on blocking weapons shipments to Israel. Bernie’s Joint Resolut…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "355591226",
+        "conversation_id": "1858552393505321361",
+        "created_at": "2024-11-18T16:46:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-18T17:46:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1858552393505321361"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 40,
+              "normalized_text": "Senate",
+              "probability": 0.6864,
+              "start": 35,
+              "type": "Organization"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Israel",
+              "probability": 0.9065,
+              "start": 90,
+              "type": "Place"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Bernie",
+              "probability": 0.8879,
+              "start": 98,
+              "type": "Person"
+            },
+            {
+              "end": 232,
+              "normalized_text": "Bernie",
+              "probability": 0.8216,
+              "start": 227,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Call your Senators immediately and tell them to support Senator Sanders' bill to end weapons shipments to Israel and to support a full arms embargo on the Israeli government.",
+              "display_url": "jvp.org/stopweapons",
+              "end": 262,
+              "expanded_url": "http://jvp.org/stopweapons",
+              "start": 239,
+              "status": 200,
+              "title": "Call your Senators: No more weapons to Israel. - JVP",
+              "unwound_url": "http://www.jewishvoiceforpeace.org/resource/tell-senators-no-more-weapons-to-israel/",
+              "url": "https://t.co/q4mo1D1euo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1858552393505321361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 10793,
+          "like_count": 338,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "For the first time in history, the Senate will be voting on blocking weapons shipments to Israel. Bernie’s Joint Resolution of Disapproval covers $20 billion of offensive arms sales. Call your senator now and tell them to back Bernie up: \nhttps://t.co/q4mo1D1euo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹||左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||偶爾寫點東西發到這裡||可愛寶寶：@obuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "obuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 1187,
+          "like_count": 16289,
+          "listed_count": 7,
+          "tweet_count": 10365
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-15T16:01:21.000Z",
+        "description": "Democratic Socialists of America is the largest and fastest growing socialist organization in the USA. Students: @ydsa_ 🌹 Tweets are not official statements.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 113,
+                "username": "ydsa_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dsausa.org",
+                "end": 23,
+                "expanded_url": "http://dsausa.org",
+                "start": 0,
+                "url": "https://t.co/vWK8qd1vb8"
+              }
+            ]
+          }
+        },
+        "id": "355591226",
+        "name": "DSA",
+        "pinned_tweet_id": "1854632453912379417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875451834911125505/DgGKFJ8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343408,
+          "following_count": 4676,
+          "like_count": 29770,
+          "listed_count": 2275,
+          "tweet_count": 45736
+        },
+        "url": "https://t.co/vWK8qd1vb8",
+        "username": "DemSocialists",
+        "verified": true
+      }
+    ]
+  }
+}

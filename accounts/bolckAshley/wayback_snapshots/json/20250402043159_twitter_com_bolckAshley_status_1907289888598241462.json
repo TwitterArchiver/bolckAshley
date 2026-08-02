@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      }
+    ],
+    "conversation_id": "1907289888598241462",
+    "created_at": "2025-04-02T04:31:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T05:31:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907289888598241462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19287037",
+          "start": 3,
+          "username": "TheProgressives"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907289888598241462",
+    "lang": "ro",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 204
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907134283732361498",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheProgressives: Thousands protest Erdoğan’s assault on democracy. The unlawful arrest of the Istanbul Mayor Ekrem İmamoğlu and dozens…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1907134276186841089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GneAhQ8WoAE-wIK.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          }
+        ],
+        "conversation_id": "1907289888598241462",
+        "created_at": "2025-04-02T04:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T05:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907289888598241462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19287037",
+              "start": 3,
+              "username": "TheProgressives"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907289888598241462",
+        "lang": "ro",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 204
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907134283732361498",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheProgressives: Thousands protest Erdoğan’s assault on democracy. The unlawful arrest of the Istanbul Mayor Ekrem İmamoğlu and dozens…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907134276186841089"
+          ]
+        },
+        "author_id": "19287037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          }
+        ],
+        "conversation_id": "1907134283732361498",
+        "created_at": "2025-04-01T18:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T19:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907134283732361498"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Erdoğan",
+              "probability": 0.9321,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "Istanbul",
+              "probability": 0.5586,
+              "start": 77,
+              "type": "Place"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Ekrem İmamoğlu",
+              "probability": 0.8789,
+              "start": 92,
+              "type": "Person"
+            },
+            {
+              "end": 244,
+              "normalized_text": "Türkiye",
+              "probability": 0.7288,
+              "start": 238,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1oSOCMlCK",
+              "end": 308,
+              "expanded_url": "https://x.com/TheProgressives/status/1907134283732361498/photo/1",
+              "media_key": "3_1907134276186841089",
+              "start": 285,
+              "url": "https://t.co/x1oSOCMlCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907134283732361498",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Thousands protest Erdoğan’s assault on democracy. The unlawful arrest of the Istanbul Mayor Ekrem İmamoğlu and dozens of others, is yet another attack on fundamental rights. S&Ds demand the immediate release of all unjustly detained. Türkiye’s slide into authoritarianism must not go unchallenged!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 55997,
+          "like_count": 974,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 204
+        },
+        "reply_settings": "everyone",
+        "text": "Thousands protest Erdoğan’s assault on democracy. The unlawful arrest of the Istanbul Mayor Ekrem İmamoğlu and dozens of others, is yet another attack on fundamental rights. S&amp;Ds demand the immediate release of all unjustly detained. Türkiye’s slide into authoritarianism must not https://t.co/x1oSOCMlCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1698,
+          "like_count": 24851,
+          "listed_count": 10,
+          "media_count": 833,
+          "tweet_count": 13078
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T13:26:48.000Z",
+        "description": "The Socialists and Democrats Group in the European Parliament works for social justice, sustainability & equality for all.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialistsanddemocrats.eu",
+                "end": 23,
+                "expanded_url": "http://www.socialistsanddemocrats.eu",
+                "start": 0,
+                "url": "https://t.co/NnV78Ux4Lc"
+              }
+            ]
+          }
+        },
+        "id": "19287037",
+        "location": "Europe",
+        "name": "S&D Group",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585629855583911937/HG74Hrhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138595,
+          "following_count": 8212,
+          "like_count": 7065,
+          "listed_count": 1839,
+          "media_count": 11815,
+          "tweet_count": 38305
+        },
+        "url": "https://t.co/NnV78Ux4Lc",
+        "username": "TheProgressives",
+        "verified": true
+      }
+    ]
+  }
+}

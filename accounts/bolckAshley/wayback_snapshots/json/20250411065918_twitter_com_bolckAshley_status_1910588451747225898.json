@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1910456311025734133",
+    "created_at": "2025-04-11T06:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-11T07:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1910588451747225898"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 75,
+          "normalized_text": "Schröder",
+          "probability": 0.8835,
+          "start": 68,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728357835669426176",
+          "start": 0,
+          "username": "socdemAdam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1910588451747225898",
+    "in_reply_to_user_id": "1728357835669426176",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1910456311025734133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@socdemAdam I have a very similar opinion to you.🤔\nBut I would rank Schröder lower."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1910456311025734133",
+        "created_at": "2025-04-11T06:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-11T07:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1910588451747225898"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Schröder",
+              "probability": 0.8835,
+              "start": 68,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728357835669426176",
+              "start": 0,
+              "username": "socdemAdam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910588451747225898",
+        "in_reply_to_user_id": "1728357835669426176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910456311025734133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@socdemAdam I have a very similar opinion to you.🤔\nBut I would rank Schröder lower."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728357835669426176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1551521578055135232",
+              "name": "Gerhard Schröder"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1551521578055135232",
+              "name": "Gerhard Schröder"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "1910456311025734133",
+        "created_at": "2025-04-10T22:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-10T23:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1910456311025734133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/socdemAdam/sta…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/socdemAdam/status/1910450590842597873",
+              "start": 199,
+              "url": "https://t.co/EW8LEfaUB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1910456311025734133",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6091,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1910450590842597873",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My Ranking of German Chancellors:\n\n1. Brandt (SPD🔴)\n2. Adenauer (CDU⚫️)\n3. Schmidt (SPD🔴)\n4. Merkel (CDU⚫️)\n5. Schröder (SPD🔴)\n6. Kohl (CDU⚫️)\n7. Erhard (CDU⚫️)\n8. Scholz (SPD🔴)\n9. Kiesinger (CDU⚫️) https://t.co/EW8LEfaUB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2353,
+          "following_count": 1715,
+          "like_count": 25331,
+          "listed_count": 10,
+          "media_count": 857,
+          "tweet_count": 13272
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:20:20.000Z",
+        "description": "Law ⚖️ | @spdde",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "spdde"
+              }
+            ]
+          }
+        },
+        "id": "1728357835669426176",
+        "location": "Germany",
+        "name": "Adam 📯🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907420713989947392/gMGGYx-t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 1847,
+          "like_count": 9744,
+          "listed_count": 8,
+          "media_count": 1765,
+          "tweet_count": 6504
+        },
+        "username": "socdemAdam",
+        "verified": false
+      }
+    ]
+  }
+}

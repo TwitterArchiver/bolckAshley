@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "1962535821548151034",
+    "created_at": "2025-09-01T15:19:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T16:19:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962535821548151034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ],
+      "urls": [
+        {
+          "description": "In an unprecedented international operation organised by Reporters Without Borders (RSF) and the global campaigning movement Avaaz, more than 250 news outlets from over 70 countries will simultaneously black out their front pages and website homepages, and interrupt their broadcasting to condemn the murder of journalists by the Israeli army in the Gaza Strip. Together, these newsrooms demand an end to impunity for Israeli crimes against Gaza’s reporters, the emergency evacuation of reporters seeking to leave the Strip and that foreign press be granted independent access to the territory.",
+          "display_url": "rsf.org/en/world-first…",
+          "end": 36,
+          "expanded_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+          "images": [
+            {
+              "height": 456,
+              "url": "https://pbs.twimg.com/news_img/1962350833556926465/vrn4PSef?format=png&name=orig",
+              "width": 1140
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1962350833556926465/vrn4PSef?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "In a world first, over 250 media black out their front pages and broadcasting programmes to protest the killing of journalists in Gaza",
+          "unwound_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+          "url": "https://t.co/XQKdxZI0ln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962535821548151034",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962534460278100255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: https://t.co/XQKdxZI0ln\n\nToday, as newspapers and broadcasters around the world fall silent in protest, the Party of European…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 795,
+        "media_key": "3_1962532956498472960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxRU3QWsAAMFm6.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1962535821548151034",
+        "created_at": "2025-09-01T15:19:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:19:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962535821548151034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ],
+          "urls": [
+            {
+              "description": "In an unprecedented international operation organised by Reporters Without Borders (RSF) and the global campaigning movement Avaaz, more than 250 news outlets from over 70 countries will simultaneously black out their front pages and website homepages, and interrupt their broadcasting to condemn the murder of journalists by the Israeli army in the Gaza Strip. Together, these newsrooms demand an end to impunity for Israeli crimes against Gaza’s reporters, the emergency evacuation of reporters seeking to leave the Strip and that foreign press be granted independent access to the territory.",
+              "display_url": "rsf.org/en/world-first…",
+              "end": 36,
+              "expanded_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+              "images": [
+                {
+                  "height": 456,
+                  "url": "https://pbs.twimg.com/news_img/1962350833556926465/vrn4PSef?format=png&name=orig",
+                  "width": 1140
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962350833556926465/vrn4PSef?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "In a world first, over 250 media black out their front pages and broadcasting programmes to protest the killing of journalists in Gaza",
+              "unwound_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+              "url": "https://t.co/XQKdxZI0ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962535821548151034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962534460278100255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: https://t.co/XQKdxZI0ln\n\nToday, as newspapers and broadcasters around the world fall silent in protest, the Party of European…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962532956498472960"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237072960952750081",
+              "name": "Journalism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278000653416099840",
+              "name": "Writing"
+            }
+          }
+        ],
+        "conversation_id": "1962534460278100255",
+        "created_at": "2025-09-01T15:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:08:14.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962532961674199485",
+          "1962534460278100255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "In an unprecedented international operation organised by Reporters Without Borders (RSF) and the global campaigning movement Avaaz, more than 250 news outlets from over 70 countries will simultaneously black out their front pages and website homepages, and interrupt their broadcasting to condemn the murder of journalists by the Israeli army in the Gaza Strip. Together, these newsrooms demand an end to impunity for Israeli crimes against Gaza’s reporters, the emergency evacuation of reporters seeking to leave the Strip and that foreign press be granted independent access to the territory.",
+              "display_url": "rsf.org/en/world-first…",
+              "end": 23,
+              "expanded_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+              "images": [
+                {
+                  "height": 456,
+                  "url": "https://pbs.twimg.com/news_img/1962350833556926465/vrn4PSef?format=png&name=orig",
+                  "width": 1140
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1962350833556926465/vrn4PSef?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "In a world first, over 250 media black out their front pages and broadcasting programmes to protest the killing of journalists in Gaza",
+              "unwound_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+              "url": "https://t.co/XQKdxZI0ln"
+            },
+            {
+              "display_url": "pic.x.com/3ZNPlp8osg",
+              "end": 300,
+              "expanded_url": "https://x.com/PES_PSE/status/1962534460278100255/photo/1",
+              "media_key": "3_1962532956498472960",
+              "start": 277,
+              "url": "https://t.co/3ZNPlp8osg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962534460278100255",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "rsf.org/en/world-first…",
+                "end": 23,
+                "expanded_url": "https://rsf.org/en/world-first-over-250-media-black-out-their-front-pages-and-broadcasting-programmes-protest-killing",
+                "start": 0,
+                "url": "https://t.co/3VZxoPmaCY"
+              }
+            ]
+          },
+          "text": "https://t.co/3VZxoPmaCY\n\nToday, as newspapers and broadcasters around the world fall silent in protest, the Party of European Socialists joins their call: without free and independent journalism, democracy itself goes dark.\nWe condemn the killings of the brave journalists who lost their lives in Gaza and stand in solidarity with all media professionals who continue to report under the most difficult and dangerous of circumstances"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XQKdxZI0ln\n\nToday, as newspapers and broadcasters around the world fall silent in protest, the Party of European Socialists joins their call: without free and independent journalism, democracy itself goes dark.\nWe condemn the killings of the brave journalists who https://t.co/3ZNPlp8osg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955524388197109771/vhZnsIMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2544,
+          "following_count": 1921,
+          "like_count": 32518,
+          "listed_count": 11,
+          "media_count": 1053,
+          "tweet_count": 16044
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79719,
+          "following_count": 5303,
+          "like_count": 8894,
+          "listed_count": 1041,
+          "media_count": 8348,
+          "tweet_count": 51352
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

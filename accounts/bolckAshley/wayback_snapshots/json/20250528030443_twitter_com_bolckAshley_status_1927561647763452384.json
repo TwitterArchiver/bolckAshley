@@ -1,0 +1,526 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Fuji Television (フジテレビ)",
+          "id": "1034889162371911680",
+          "name": "Fuji Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fuji Television (フジテレビ)",
+          "id": "1034889162371911680",
+          "name": "Fuji Television"
+        }
+      }
+    ],
+    "conversation_id": "1927561647763452384",
+    "created_at": "2025-05-28T03:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-28T04:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927561647763452384"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "フジテレビモール",
+          "probability": 0.5594,
+          "start": 25,
+          "type": "Organization"
+        },
+        {
+          "end": 119,
+          "normalized_text": "フジテレビ",
+          "probability": 0.7453,
+          "start": 115,
+          "type": "Organization"
+        },
+        {
+          "end": 134,
+          "normalized_text": "〜　(関東ローカル",
+          "probability": 0.2363,
+          "start": 126,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 53,
+          "start": 45,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453395613282811911",
+          "start": 3,
+          "username": "yofukashi_pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927561647763452384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927560461815595292",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yofukashi_pr: ‧˚₊*̥∗︎フジテレビモールで掲出中*‧˚₊*̥\n\n#よふかしのうた Season2\n全国フジテレビ系\"ノイタミナ\"にて\n2025年7月4日(金)より毎週金曜23時30分から放送開始\n\n現在、フジテレビ　25:45〜　(関東ローカル)\nSe…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_1927544482544648192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsADforWgAARqAo.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "1927561647763452384",
+        "created_at": "2025-05-28T03:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927561647763452384"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "フジテレビモール",
+              "probability": 0.5594,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 119,
+              "normalized_text": "フジテレビ",
+              "probability": 0.7453,
+              "start": 115,
+              "type": "Organization"
+            },
+            {
+              "end": 134,
+              "normalized_text": "〜　(関東ローカル",
+              "probability": 0.2363,
+              "start": 126,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 45,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453395613282811911",
+              "start": 3,
+              "username": "yofukashi_pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927561647763452384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927560461815595292",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yofukashi_pr: ‧˚₊*̥∗︎フジテレビモールで掲出中*‧˚₊*̥\n\n#よふかしのうた Season2\n全国フジテレビ系\"ノイタミナ\"にて\n2025年7月4日(金)より毎週金曜23時30分から放送開始\n\n現在、フジテレビ　25:45〜　(関東ローカル)\nSe…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1927544482544648192"
+          ]
+        },
+        "author_id": "1453395613282811911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "1927560461815595292",
+        "created_at": "2025-05-28T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-28T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927560461815595292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 27,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「夜はまだ終わらない」TVアニメ『よふかしのうた Season2』 2025年7月より全国フジテレビ系 “ノイタミナ”にて毎週金曜23時30分から放送",
+              "display_url": "yofukashi-no-uta.com",
+              "end": 169,
+              "expanded_url": "https://yofukashi-no-uta.com",
+              "start": 146,
+              "status": 200,
+              "title": "TVアニメ『よふかしのうた Season2』",
+              "unwound_url": "https://yofukashi-no-uta.com",
+              "url": "https://t.co/hIbSdwvmoT"
+            },
+            {
+              "display_url": "pic.x.com/5uIZglSpSo",
+              "end": 193,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1927560461815595292/photo/1",
+              "media_key": "3_1927544482544648192",
+              "start": 170,
+              "url": "https://t.co/5uIZglSpSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927560461815595292",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 483,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "‧˚₊*̥∗︎フジテレビモールで掲出中*‧˚₊*̥\n\n#よふかしのうた Season2\n全国フジテレビ系\"ノイタミナ\"にて\n2025年7月4日(金)より毎週金曜23時30分から放送開始\n\n現在、フジテレビ　25:45〜　(関東ローカル)\nSeason1が再放送中📺️\n\n※放送情報はHPより\nhttps://t.co/hIbSdwvmoT https://t.co/5uIZglSpSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 1831,
+          "like_count": 27914,
+          "listed_count": 10,
+          "media_count": 927,
+          "tweet_count": 14110
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T16:19:52.000Z",
+        "description": "TVアニメ『よふかしのうた Season2』2025年7月4日（金）より全国フジテレビ系“ノイタミナ”にて毎週金曜23時30分から放送\nTVアニメ『よふかしのうた Season1』各プラットフォームにて配信中 原作：コトヤマ（小学館「週刊少年サンデー」刊） 推奨ハッシュタグ： #よふかしのうた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "よふかしのうた"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com",
+                "end": 23,
+                "expanded_url": "https://yofukashi-no-uta.com",
+                "start": 0,
+                "url": "https://t.co/oRunZLf8es"
+              }
+            ]
+          }
+        },
+        "id": "1453395613282811911",
+        "name": "『よふかしのうた』TVアニメ公式",
+        "pinned_tweet_id": "1900200180387111383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199784843005952/Ln9iS_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155426,
+          "following_count": 23,
+          "like_count": 15,
+          "listed_count": 671,
+          "media_count": 512,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/oRunZLf8es",
+        "username": "yofukashi_pr",
+        "verified": false
+      }
+    ]
+  }
+}

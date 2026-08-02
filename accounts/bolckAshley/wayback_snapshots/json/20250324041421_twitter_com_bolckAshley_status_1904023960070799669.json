@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1904023960070799669",
+    "created_at": "2025-03-24T04:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T05:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904023960070799669"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "PES",
+          "probability": 0.5917,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 42,
+          "normalized_text": "Netanyahu",
+          "probability": 0.2948,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Gaza",
+          "probability": 0.9812,
+          "start": 88,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904023960070799669",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902403152348917895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: The PES condemns the Netanyahu government’s latest series of airstrikes on Gaza. Continued violence and settlement expansion u…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1902403140223430658",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmaxk6Ca8AIMmUa.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1904023960070799669",
+        "created_at": "2025-03-24T04:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T05:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904023960070799669"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "PES",
+              "probability": 0.5917,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Netanyahu",
+              "probability": 0.2948,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Gaza",
+              "probability": 0.9812,
+              "start": 88,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904023960070799669",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902403152348917895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: The PES condemns the Netanyahu government’s latest series of airstrikes on Gaza. Continued violence and settlement expansion u…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902403140223430658"
+          ]
+        },
+        "author_id": "21100803",
+        "conversation_id": "1902403152348917895",
+        "created_at": "2025-03-19T16:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T17:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902403152348917895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "PES",
+              "probability": 0.5642,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 29,
+              "normalized_text": "Netanyahu",
+              "probability": 0.3418,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Gaza",
+              "probability": 0.9805,
+              "start": 75,
+              "type": "Place"
+            },
+            {
+              "end": 251,
+              "normalized_text": "EU",
+              "probability": 0.9235,
+              "start": 250,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8Rrr50u3x",
+              "end": 286,
+              "expanded_url": "https://x.com/PES_PSE/status/1902403152348917895/photo/1",
+              "media_key": "3_1902403140223430658",
+              "start": 263,
+              "url": "https://t.co/l8Rrr50u3x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902403152348917895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2458,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "The PES condemns the Netanyahu government’s latest series of airstrikes on Gaza. Continued violence and settlement expansion undermine peace and violate international law. A two-state solution is the only path to lasting security and stability. \nThe EU must act. https://t.co/l8Rrr50u3x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🕊️🇺🇦🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900058479953637376/51DqQqCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2257,
+          "following_count": 1670,
+          "like_count": 24600,
+          "listed_count": 9,
+          "media_count": 816,
+          "tweet_count": 12939
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg254vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg254vV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7kqHo"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79465,
+          "following_count": 5294,
+          "like_count": 8693,
+          "listed_count": 1044,
+          "media_count": 8137,
+          "tweet_count": 50923
+        },
+        "url": "https://t.co/W9LaJ7kqHo",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

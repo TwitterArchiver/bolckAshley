@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1863034642502180864"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1863034645920555393",
+    "created_at": "2024-12-01T01:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-01T02:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1863034645920555393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uyK4t1l4LG",
+          "end": 42,
+          "expanded_url": "https://x.com/bolckAshley/status/1863034645920555393/photo/1",
+          "media_key": "3_1863034642502180864",
+          "start": 19,
+          "url": "https://t.co/uyK4t1l4LG"
+        },
+        {
+          "display_url": "x.com/Sison3325/stat…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/Sison3325/status/1862701224036114689",
+          "start": 43,
+          "url": "https://t.co/PMk5PkhQTP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1863034645920555393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862701224036114689",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "欸，這個時候怎能沒有我威利•勃蘭特😎 https://t.co/uyK4t1l4LG https://t.co/PMk5PkhQTP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 357,
+        "media_key": "3_1863034642502180864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GdrUIvaW4AAqETy.jpg",
+        "width": 474
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1863034642502180864"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1863034645920555393",
+        "created_at": "2024-12-01T01:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-01T02:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1863034645920555393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uyK4t1l4LG",
+              "end": 42,
+              "expanded_url": "https://x.com/bolckAshley/status/1863034645920555393/photo/1",
+              "media_key": "3_1863034642502180864",
+              "start": 19,
+              "url": "https://t.co/uyK4t1l4LG"
+            },
+            {
+              "display_url": "x.com/Sison3325/stat…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/Sison3325/status/1862701224036114689",
+              "start": 43,
+              "url": "https://t.co/PMk5PkhQTP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1863034645920555393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862701224036114689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "欸，這個時候怎能沒有我威利•勃蘭特😎 https://t.co/uyK4t1l4LG https://t.co/PMk5PkhQTP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862701214196277250",
+            "3_1862701214565052416",
+            "3_1862701214556643328",
+            "3_1862701214443741184"
+          ]
+        },
+        "author_id": "1824320875686211584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1862701224036114689",
+        "created_at": "2024-11-30T03:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-30T04:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862701224036114689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIOlke1fvq",
+              "end": 50,
+              "expanded_url": "https://x.com/Sison3325/status/1862701224036114689/photo/1",
+              "media_key": "3_1862701214196277250",
+              "start": 27,
+              "url": "https://t.co/lIOlke1fvq"
+            },
+            {
+              "display_url": "pic.x.com/lIOlke1fvq",
+              "end": 50,
+              "expanded_url": "https://x.com/Sison3325/status/1862701224036114689/photo/1",
+              "media_key": "3_1862701214565052416",
+              "start": 27,
+              "url": "https://t.co/lIOlke1fvq"
+            },
+            {
+              "display_url": "pic.x.com/lIOlke1fvq",
+              "end": 50,
+              "expanded_url": "https://x.com/Sison3325/status/1862701224036114689/photo/1",
+              "media_key": "3_1862701214556643328",
+              "start": 27,
+              "url": "https://t.co/lIOlke1fvq"
+            },
+            {
+              "display_url": "pic.x.com/lIOlke1fvq",
+              "end": 50,
+              "expanded_url": "https://x.com/Sison3325/status/1862701224036114689/photo/1",
+              "media_key": "3_1862701214443741184",
+              "start": 27,
+              "url": "https://t.co/lIOlke1fvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862701224036114689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 122862,
+          "like_count": 515,
+          "quote_count": 20,
+          "reply_count": 267,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "谁年轻时更帅？🤓（安倍晋三，习近平，赖清德，文在寅） https://t.co/lIOlke1fvq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||可愛寶寶：@obuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "obuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1906,
+          "following_count": 1247,
+          "like_count": 16895,
+          "listed_count": 7,
+          "media_count": 558,
+          "tweet_count": 10565
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-16T05:42:56.000Z",
+        "description": "想被图的蜘蛛排好队，一个一个来！大日本帝国-台湾独立-香港独立-澳门独立-大东亚共荣",
+        "id": "1824320875686211584",
+        "location": "Japan",
+        "name": "Sison🇯🇵（觸手魔王）",
+        "pinned_tweet_id": "1859783032624042102",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860172612506464256/mRIe7ZDF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 191,
+          "like_count": 2253,
+          "listed_count": 2,
+          "media_count": 98,
+          "tweet_count": 1264
+        },
+        "username": "Sison3325",
+        "verified": false
+      }
+    ]
+  }
+}

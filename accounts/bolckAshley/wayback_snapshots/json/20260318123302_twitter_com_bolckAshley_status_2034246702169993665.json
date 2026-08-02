@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2034239653327646868",
+    "created_at": "2026-03-18T12:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T13:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034246702169993665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "Lyrica_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034246702169993665",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034239653327646868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyrica_1005 我去，這麼大場面不通知我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2034239653327646868].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2034239653327646868",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2034239653327646868"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2034239653327646868",
+        "created_at": "2026-03-18T12:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T13:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034246702169993665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "Lyrica_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034246702169993665",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034239653327646868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyrica_1005 我去，這麼大場面不通知我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐋𝐢𝐛𝐞𝐫𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🔶🌺 𝐚𝐧𝐝 𝐂𝐞𝐧𝐭𝐞𝐫𝐢𝐬𝐭⚖️🌐 ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌺🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034210332957372417/A9BYrsTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 1983,
+          "like_count": 39964,
+          "listed_count": 16,
+          "media_count": 1412,
+          "tweet_count": 20340
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 伪娘婊子人妖－＞@Ikks0413",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "Ikks0413"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "羊城小林",
+        "pinned_tweet_id": "2029193637041758608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020176914271608832/gx4tbkf9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 565,
+          "like_count": 39441,
+          "listed_count": 2,
+          "media_count": 1296,
+          "tweet_count": 12077
+        },
+        "username": "Lyrica_1005",
+        "verified": false
+      }
+    ]
+  }
+}

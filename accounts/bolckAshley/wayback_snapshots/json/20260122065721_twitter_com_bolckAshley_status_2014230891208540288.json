@@ -1,0 +1,533 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Venezuela Nicolás Maduro",
+          "id": "839575776999583745",
+          "name": "Nicolás Maduro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Venezuela Nicolás Maduro",
+          "id": "839575776999583745",
+          "name": "Nicolás Maduro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Venezuela Nicolás Maduro",
+          "id": "839575776999583745",
+          "name": "Nicolás Maduro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555191995919872000",
+          "name": "Venezuela politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192119840542720",
+          "name": "Venezuela political figures"
+        }
+      }
+    ],
+    "conversation_id": "2014230891208540288",
+    "created_at": "2026-01-22T06:57:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T07:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014230891208540288"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 73,
+          "normalized_text": "Maduro",
+          "probability": 0.9318,
+          "start": 68,
+          "type": "Person"
+        },
+        {
+          "end": 131,
+          "normalized_text": "Venezuela",
+          "probability": 0.9829,
+          "start": 123,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264203540",
+          "start": 3,
+          "username": "joakial_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014230891208540288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014167479833055680",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @joakial_: It is entirely coherent to oppose the brutal dictator Maduro while also opposing American interventionism in Venezuela."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191995919872000",
+              "name": "Venezuela politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192119840542720",
+              "name": "Venezuela political figures"
+            }
+          }
+        ],
+        "conversation_id": "2014230891208540288",
+        "created_at": "2026-01-22T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T07:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014230891208540288"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "Maduro",
+              "probability": 0.9318,
+              "start": 68,
+              "type": "Person"
+            },
+            {
+              "end": 131,
+              "normalized_text": "Venezuela",
+              "probability": 0.9829,
+              "start": 123,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264203540",
+              "start": 3,
+              "username": "joakial_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014230891208540288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014167479833055680",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @joakial_: It is entirely coherent to oppose the brutal dictator Maduro while also opposing American interventionism in Venezuela."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264203540",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191995919872000",
+              "name": "Venezuela politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192119840542720",
+              "name": "Venezuela political figures"
+            }
+          }
+        ],
+        "conversation_id": "2014167479833055680",
+        "created_at": "2026-01-22T02:45:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T03:45:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014167479833055680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 59,
+              "normalized_text": "Maduro",
+              "probability": 0.9505,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Venezuela",
+              "probability": 0.9832,
+              "start": 109,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014167479833055680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 6048,
+          "like_count": 158,
+          "quote_count": 4,
+          "reply_count": 43,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "It is entirely coherent to oppose the brutal dictator Maduro while also opposing American interventionism in Venezuela."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1970,
+          "like_count": 37716,
+          "listed_count": 15,
+          "media_count": 1296,
+          "tweet_count": 18778
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-13T11:22:10.000Z",
+        "description": "26 | Norway Correspondent for @EuropeElects 📊🗳️ Humanist | Vegan | Egalitarian | Member of the Socialist Left Party, @SVparti 🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "EuropeElects"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "SVparti"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/joakial",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/joakial",
+                "start": 0,
+                "url": "https://t.co/EvjmbKGfTe"
+              }
+            ]
+          }
+        },
+        "id": "1264203540",
+        "location": "Kingdom of Norway",
+        "name": "Joakim 🌹🇳🇴🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009315787052347392/Acsl2JAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34124,
+          "following_count": 3624,
+          "like_count": 235028,
+          "listed_count": 195,
+          "media_count": 5761,
+          "tweet_count": 28202
+        },
+        "url": "https://t.co/EvjmbKGfTe",
+        "username": "joakial_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,1226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1484601166080081920",
+          "name": "Russo-Ukrainian conflict"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about US Foreign Policy",
+          "id": "847876936378441729",
+          "name": "United States Foreign Policy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Russia Vladimir Putin",
+          "id": "864931126132985856",
+          "name": "Vladimir Putin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1542094279727652864",
+          "name": "Russian political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "President Trump confirmed the call in a series of Tweets on Friday, adding that the political turmoil in Venezuela was also a subject of a phone conversation with Russia's Vladimir Putin. Referring to the report's conclusion that Russia interfered in the 2016 election while clearing the Trump campaign of conspiracy, Trump said he and Putin discussed the \"Russia Hoax.\"",
+          "id": "1124379225207656448",
+          "name": "Trump says he discussed Venezuela and the Mueller report with Putin in an hour-long call"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "1894536979884470450",
+    "created_at": "2025-02-25T23:56:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-26T00:56:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1894536979884470450"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Russia",
+          "probability": 0.9602,
+          "start": 40,
+          "type": "Place"
+        },
+        {
+          "end": 80,
+          "normalized_text": "SlavaUkraini",
+          "probability": 0.6766,
+          "start": 69,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 68,
+          "tag": "SlavaUkraini"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/BernieSanders/…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/BernieSanders/status/1894149916550680586",
+          "start": 89,
+          "url": "https://t.co/ENLGwnYMpf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894536979884470450",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894149916550680586",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Thank you for telling the truth.\nIt was Russia who started the war.\n#SlavaUkraini 🇺🇦🇺🇦🇺🇦 https://t.co/ENLGwnYMpf"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 47798,
+        "height": 720,
+        "media_key": "13_1894149671771074560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1894149671771074560/img/snbUPuLUWqSN-0bz.jpg",
+        "public_metrics": {
+          "view_count": 1325687
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894149671771074560/vid/avc1/320x320/kSRrG12YPE26R9dm.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894149671771074560/vid/avc1/540x540/aoqLAlKlIMOgXCCD.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1894149671771074560/vid/avc1/720x720/13r5HcCZOq_KzWaA.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1894149671771074560/pl/6IMsSjwMNb5naTXi.m3u8?tag=16&v=1d7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump confirmed the call in a series of Tweets on Friday, adding that the political turmoil in Venezuela was also a subject of a phone conversation with Russia's Vladimir Putin. Referring to the report's conclusion that Russia interfered in the 2016 election while clearing the Trump campaign of conspiracy, Trump said he and Putin discussed the \"Russia Hoax.\"",
+              "id": "1124379225207656448",
+              "name": "Trump says he discussed Venezuela and the Mueller report with Putin in an hour-long call"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1894536979884470450",
+        "created_at": "2025-02-25T23:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T00:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894536979884470450"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Russia",
+              "probability": 0.9602,
+              "start": 40,
+              "type": "Place"
+            },
+            {
+              "end": 80,
+              "normalized_text": "SlavaUkraini",
+              "probability": 0.6766,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 68,
+              "tag": "SlavaUkraini"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BernieSanders/…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/BernieSanders/status/1894149916550680586",
+              "start": 89,
+              "url": "https://t.co/ENLGwnYMpf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894536979884470450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894149916550680586",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Thank you for telling the truth.\nIt was Russia who started the war.\n#SlavaUkraini 🇺🇦🇺🇦🇺🇦 https://t.co/ENLGwnYMpf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1894149671771074560"
+          ]
+        },
+        "author_id": "216776631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Russia Vladimir Putin",
+              "id": "864931126132985856",
+              "name": "Vladimir Putin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1542094279727652864",
+              "name": "Russian political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump confirmed the call in a series of Tweets on Friday, adding that the political turmoil in Venezuela was also a subject of a phone conversation with Russia's Vladimir Putin. Referring to the report's conclusion that Russia interfered in the 2016 election while clearing the Trump campaign of conspiracy, Trump said he and Putin discussed the \"Russia Hoax.\"",
+              "id": "1124379225207656448",
+              "name": "Trump says he discussed Venezuela and the Mueller report with Putin in an hour-long call"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about US Foreign Policy",
+              "id": "847876936378441729",
+              "name": "United States Foreign Policy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Track the 2025 Presidential Inauguration live",
+              "id": "1881173328041332736",
+              "name": "(Test) Second inauguration of Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration is underway, marking the transition to the 47th administration. Watch live as the president and vice president are sworn in and take part in official ceremonies.",
+              "id": "1881220996641767424",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration has concluded, marking the transition to the 47th administration. The president and vice president were sworn in and participated in official ceremonies.\n",
+              "id": "1881365603878871040",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          }
+        ],
+        "conversation_id": "1894149916550680586",
+        "created_at": "2025-02-24T22:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T23:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894149916550680586"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "Trump",
+              "probability": 0.9549,
+              "start": 96,
+              "type": "Person"
+            },
+            {
+              "end": 144,
+              "normalized_text": "Putin",
+              "probability": 0.9488,
+              "start": 140,
+              "type": "Person"
+            },
+            {
+              "end": 156,
+              "normalized_text": "Ukraine",
+              "probability": 0.9527,
+              "start": 150,
+              "type": "Place"
+            },
+            {
+              "end": 172,
+              "normalized_text": "Russia",
+              "probability": 0.945,
+              "start": 167,
+              "type": "Place"
+            },
+            {
+              "end": 206,
+              "normalized_text": "Ukraine",
+              "probability": 0.9216,
+              "start": 200,
+              "type": "Place"
+            },
+            {
+              "end": 214,
+              "normalized_text": "Putin",
+              "probability": 0.9552,
+              "start": 210,
+              "type": "Person"
+            },
+            {
+              "end": 244,
+              "normalized_text": "Zelensky",
+              "probability": 0.9555,
+              "start": 237,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dgVYPORii",
+              "end": 270,
+              "expanded_url": "https://x.com/BernieSanders/status/1894149916550680586/video/1",
+              "media_key": "13_1894149671771074560",
+              "start": 247,
+              "url": "https://t.co/6dgVYPORii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894149916550680586",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2345,
+          "impression_count": 3209156,
+          "like_count": 122550,
+          "quote_count": 1463,
+          "reply_count": 12898,
+          "retweet_count": 22862
+        },
+        "reply_settings": "everyone",
+        "text": "I don’t want to hear any Republicans talk about “freedom” unless they have the guts to call out Trump for the lies that he is telling about Putin and Ukraine.\n\nIt was Russia that started the war, not Ukraine.\n\nPutin is the dictator, not Zelensky. https://t.co/6dgVYPORii"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 1583,
+          "like_count": 22577,
+          "listed_count": 9,
+          "media_count": 764,
+          "tweet_count": 12362
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-17T17:53:52.000Z",
+        "description": "U.S. Senator for Vermont. Not me, us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BernieSanders.com",
+                "end": 23,
+                "expanded_url": "https://BernieSanders.com",
+                "start": 0,
+                "url": "https://t.co/jpg8Sp1GhR"
+              }
+            ]
+          }
+        },
+        "id": "216776631",
+        "location": "Vermont",
+        "name": "Bernie Sanders",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14919826,
+          "following_count": 1389,
+          "like_count": 910,
+          "listed_count": 22726,
+          "media_count": 4315,
+          "tweet_count": 21893
+        },
+        "url": "https://t.co/jpg8Sp1GhR",
+        "username": "BernieSanders",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853009771064156161"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1852922437492429106",
+    "created_at": "2024-11-03T09:42:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T10:42:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853009775178440860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1618735736093659142",
+          "start": 0,
+          "username": "Philoctetes8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xNXEgmLDW7",
+          "end": 53,
+          "expanded_url": "https://x.com/bolckAshley/status/1853009775178440860/photo/1",
+          "media_key": "3_1853009771064156161",
+          "start": 30,
+          "url": "https://t.co/xNXEgmLDW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853009775178440860",
+    "in_reply_to_user_id": "1618735736093659142",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852922437492429106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Philoctetes8964 我的評價是不如直接上照片 https://t.co/xNXEgmLDW7"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1852922437492429106].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1852922437492429106",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1852922437492429106"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "3_1853009771064156161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gbc2kbGbYAEf4J9.jpg",
+        "width": 408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853009771064156161"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "1852922437492429106",
+        "created_at": "2024-11-03T09:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T10:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853009775178440860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1618735736093659142",
+              "start": 0,
+              "username": "Philoctetes8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xNXEgmLDW7",
+              "end": 53,
+              "expanded_url": "https://x.com/bolckAshley/status/1853009775178440860/photo/1",
+              "media_key": "3_1853009771064156161",
+              "start": 30,
+              "url": "https://t.co/xNXEgmLDW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853009775178440860",
+        "in_reply_to_user_id": "1618735736093659142",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852922437492429106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Philoctetes8964 我的評價是不如直接上照片 https://t.co/xNXEgmLDW7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1151,
+          "like_count": 15679,
+          "listed_count": 9,
+          "tweet_count": 10162
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T22:21:08.000Z",
+        "description": "老号：@aeneas8964 /成分：原神托洛茨基主义/崩铁斯大林主义/巴勒斯坦解放犹太复国主义哈马斯成员/逊尼派抵抗之弧和什叶派抵抗直线的犹太基督徒领导人/黎巴嫩真主党诺斯替教徒/疯狂费拉网左右/#TrumpHarris2024ToSaveMars #JucheMaoism",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 99,
+                "tag": "TrumpHarris2024ToSaveMars"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "tag": "JucheMaoism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "aeneas8964"
+              }
+            ]
+          }
+        },
+        "id": "1618735736093659142",
+        "location": "文明人的土地，野蛮人不得进入，，，",
+        "name": "马尔托夫-Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852924209741357056/emni1P3Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 3324,
+          "like_count": 16745,
+          "listed_count": 0,
+          "tweet_count": 2861
+        },
+        "username": "Philoctetes8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "San Francisco",
+          "id": "908354585005146113",
+          "name": "San Francisco"
+        }
+      }
+    ],
+    "conversation_id": "1974041208034111727",
+    "created_at": "2025-10-03T09:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T10:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974041208034111727"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "San Francisco Treaty",
+          "probability": 0.5859,
+          "start": 23,
+          "type": "Place"
+        },
+        {
+          "end": 57,
+          "normalized_text": "China",
+          "probability": 0.9614,
+          "start": 53,
+          "type": "Place"
+        },
+        {
+          "end": 83,
+          "normalized_text": "Taiwan",
+          "probability": 0.9596,
+          "start": 78,
+          "type": "Place"
+        },
+        {
+          "end": 105,
+          "normalized_text": "Taiwan",
+          "probability": 0.9595,
+          "start": 100,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1698243374581501952",
+          "start": 3,
+          "username": "CLeeChennault"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974041208034111727",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973961082025984493",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CLeeChennault: The San Francisco Treaty outlines China's sovereignty over Taiwan. The idea that Taiwan was \"undetermined\" as a result w…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1411,
+        "media_key": "3_1973961065169027072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2TrIVnaAAANodj.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "1974041208034111727",
+        "created_at": "2025-10-03T09:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T10:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974041208034111727"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "San Francisco Treaty",
+              "probability": 0.5859,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 57,
+              "normalized_text": "China",
+              "probability": 0.9614,
+              "start": 53,
+              "type": "Place"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Taiwan",
+              "probability": 0.9596,
+              "start": 78,
+              "type": "Place"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Taiwan",
+              "probability": 0.9595,
+              "start": 100,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1698243374581501952",
+              "start": 3,
+              "username": "CLeeChennault"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974041208034111727",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973961082025984493",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CLeeChennault: The San Francisco Treaty outlines China's sovereignty over Taiwan. The idea that Taiwan was \"undetermined\" as a result w…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973961065169027072"
+          ]
+        },
+        "author_id": "1698243374581501952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Francisco",
+              "id": "908354585005146113",
+              "name": "San Francisco"
+            }
+          }
+        ],
+        "conversation_id": "1973961082025984493",
+        "created_at": "2025-10-03T03:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973961082025984493"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "San Francisco Treaty",
+              "probability": 0.5764,
+              "start": 4,
+              "type": "Place"
+            },
+            {
+              "end": 38,
+              "normalized_text": "China",
+              "probability": 0.9701,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Taiwan",
+              "probability": 0.9558,
+              "start": 59,
+              "type": "Place"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Taiwan",
+              "probability": 0.953,
+              "start": 81,
+              "type": "Place"
+            },
+            {
+              "end": 203,
+              "normalized_text": "ROC",
+              "probability": 0.467,
+              "start": 201,
+              "type": "Organization"
+            },
+            {
+              "end": 214,
+              "normalized_text": "PRC",
+              "probability": 0.5262,
+              "start": 212,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g822K8eWvy",
+              "end": 293,
+              "expanded_url": "https://x.com/CLeeChennault/status/1973961082025984493/photo/1",
+              "media_key": "3_1973961065169027072",
+              "start": 270,
+              "url": "https://t.co/g822K8eWvy"
+            },
+            {
+              "display_url": "x.com/GordonGChang/s…",
+              "end": 317,
+              "expanded_url": "https://twitter.com/GordonGChang/status/1973872280985035085",
+              "start": 294,
+              "url": "https://t.co/SlVmmW19Ju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973961082025984493",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 899,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973872280985035085",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The San Francisco Treaty outlines China's sovereignty over Taiwan. The idea that Taiwan was \"undetermined\" as a result was originally a pro-communist argument.\n\nThere is no third path. It's either the ROC or the PRC holds sovereignty over it. I'm going with the former. https://t.co/g822K8eWvy https://t.co/SlVmmW19Ju"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2601,
+          "following_count": 1966,
+          "like_count": 33575,
+          "listed_count": 12,
+          "media_count": 1105,
+          "tweet_count": 16688
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T07:55:56.000Z",
+        "description": "Martial law connoisseur & CKS Thought ideologue / Dang Guo China / U.S. Army Sapper",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/kuomintang",
+                "end": 23,
+                "expanded_url": "https://discord.gg/kuomintang",
+                "start": 0,
+                "url": "https://t.co/CVs3fQaLmS"
+              }
+            ]
+          }
+        },
+        "id": "1698243374581501952",
+        "location": "Lone Star State",
+        "name": "Claire Lee Chennault ❂",
+        "pinned_tweet_id": "1870820460801429519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936305040731353088/OKXWmanZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3037,
+          "following_count": 228,
+          "like_count": 6997,
+          "listed_count": 6,
+          "media_count": 1038,
+          "tweet_count": 3385
+        },
+        "url": "https://t.co/CVs3fQaLmS",
+        "username": "CLeeChennault",
+        "verified": true
+      }
+    ]
+  }
+}

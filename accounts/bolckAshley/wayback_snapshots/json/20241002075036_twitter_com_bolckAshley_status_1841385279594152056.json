@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1841361067517075684",
+    "created_at": "2024-10-02T07:50:36.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-02T08:50:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841385279594152056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841385279594152056",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841361067517075684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 我勒個民逗啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1841361067517075684].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1841361067517075684",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1841361067517075684"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1841361067517075684",
+        "created_at": "2024-10-02T07:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T08:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841385279594152056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841385279594152056",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841361067517075684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 我勒個民逗啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840985115490463744/MMA4nMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1661,
+          "following_count": 1082,
+          "like_count": 14462,
+          "listed_count": 9,
+          "tweet_count": 9751
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "无政府主义//亚细亚主义",
+        "id": "1794266757995343872",
+        "location": "秀麗の国秋津州",
+        "name": "正义的来福灵",
+        "pinned_tweet_id": "1840786432237150630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841172165586272256/jgVXfaJT_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1042,
+          "like_count": 70082,
+          "listed_count": 2,
+          "tweet_count": 10105
+        },
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

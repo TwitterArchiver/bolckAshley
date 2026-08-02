@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050235708129128449",
+        "3_2050235762411814912",
+        "3_2050235762415947776",
+        "3_2050235762390831105"
+      ],
+      "media_source_tweet_id": [
+        "2050420011429486655",
+        "2050420011429486655",
+        "2050420011429486655",
+        "2050420011429486655"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2050503662615863470",
+    "created_at": "2026-05-02T09:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050503662615863470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E6hCA3ZoBy",
+          "end": 128,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+          "media_key": "3_2050235708129128449",
+          "start": 105,
+          "url": "https://t.co/E6hCA3ZoBy"
+        },
+        {
+          "display_url": "pic.x.com/E6hCA3ZoBy",
+          "end": 128,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+          "media_key": "3_2050235762411814912",
+          "start": 105,
+          "url": "https://t.co/E6hCA3ZoBy"
+        },
+        {
+          "display_url": "pic.x.com/E6hCA3ZoBy",
+          "end": 128,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+          "media_key": "3_2050235762415947776",
+          "start": 105,
+          "url": "https://t.co/E6hCA3ZoBy"
+        },
+        {
+          "display_url": "pic.x.com/E6hCA3ZoBy",
+          "end": 128,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+          "media_key": "3_2050235762390831105",
+          "start": 105,
+          "url": "https://t.co/E6hCA3ZoBy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050503662615863470",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050420011429486655",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: 近日，广西北海市西场镇修建公路，但该公路直接穿越全国一级保护动物勺嘴鹬的栖息地，据了解，目前勺嘴鹬全球仅存约600只。网友们通过手绘漫画等形势呼吁政府不要让它们消亡。… https://t.co/E6hCA3ZoBy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 891,
+        "media_key": "3_2050235708129128449",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPmg5DbsAEEE7Z.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2050235762411814912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPmkDRbwAAtatb.jpg",
+        "width": 1464
+      },
+      {
+        "height": 1365,
+        "media_key": "3_2050235762415947776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPmkDSa0AAvA7l.jpg",
+        "width": 1442
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2050235762390831105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPmkDMbkAEactS.jpg",
+        "width": 1180
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050235708129128449",
+            "3_2050235762411814912",
+            "3_2050235762415947776",
+            "3_2050235762390831105"
+          ],
+          "media_source_tweet_id": [
+            "2050420011429486655",
+            "2050420011429486655",
+            "2050420011429486655",
+            "2050420011429486655"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2050503662615863470",
+        "created_at": "2026-05-02T09:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050503662615863470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 128,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235708129128449",
+              "start": 105,
+              "url": "https://t.co/E6hCA3ZoBy"
+            },
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 128,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235762411814912",
+              "start": 105,
+              "url": "https://t.co/E6hCA3ZoBy"
+            },
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 128,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235762415947776",
+              "start": 105,
+              "url": "https://t.co/E6hCA3ZoBy"
+            },
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 128,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235762390831105",
+              "start": 105,
+              "url": "https://t.co/E6hCA3ZoBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050503662615863470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050420011429486655",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: 近日，广西北海市西场镇修建公路，但该公路直接穿越全国一级保护动物勺嘴鹬的栖息地，据了解，目前勺嘴鹬全球仅存约600只。网友们通过手绘漫画等形势呼吁政府不要让它们消亡。… https://t.co/E6hCA3ZoBy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050235708129128449",
+            "3_2050235762411814912",
+            "3_2050235762415947776",
+            "3_2050235762390831105"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2050420011429486655",
+        "created_at": "2026-05-02T03:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T04:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050420011429486655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235708129128449",
+              "start": 84,
+              "url": "https://t.co/E6hCA3ZoBy"
+            },
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235762411814912",
+              "start": 84,
+              "url": "https://t.co/E6hCA3ZoBy"
+            },
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235762415947776",
+              "start": 84,
+              "url": "https://t.co/E6hCA3ZoBy"
+            },
+            {
+              "display_url": "pic.x.com/E6hCA3ZoBy",
+              "end": 107,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2050420011429486655/photo/1",
+              "media_key": "3_2050235762390831105",
+              "start": 84,
+              "url": "https://t.co/E6hCA3ZoBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050420011429486655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "近日，广西北海市西场镇修建公路，但该公路直接穿越全国一级保护动物勺嘴鹬的栖息地，据了解，目前勺嘴鹬全球仅存约600只。网友们通过手绘漫画等形势呼吁政府不要让它们消亡。\n\n然而一些网民将“全球仅剩400只勺嘴鹬”的海报与个人自拍照结合，强调：“勺嘴鹬全球仅剩400只，但我全球仅剩下一个”被公众谴此类行为缺乏同理心。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 45902,
+          "like_count": 214,
+          "quote_count": 4,
+          "reply_count": 19,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "近日，广西北海市西场镇修建公路，但该公路直接穿越全国一级保护动物勺嘴鹬的栖息地，据了解，目前勺嘴鹬全球仅存约600只。网友们通过手绘漫画等形势呼吁政府不要让它们消亡。 https://t.co/E6hCA3ZoBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3229,
+          "following_count": 1975,
+          "like_count": 41089,
+          "listed_count": 19,
+          "media_count": 1507,
+          "tweet_count": 21625
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2213315,
+          "following_count": 1041,
+          "like_count": 9450,
+          "listed_count": 8713,
+          "media_count": 46116,
+          "tweet_count": 53204
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

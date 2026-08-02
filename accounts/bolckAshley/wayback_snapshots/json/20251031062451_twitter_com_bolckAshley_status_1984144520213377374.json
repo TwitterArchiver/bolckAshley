@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "New York City",
+          "id": "907978531350519809",
+          "name": "New York City"
+        }
+      }
+    ],
+    "conversation_id": "1984144520213377374",
+    "created_at": "2025-10-31T06:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T07:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984144520213377374"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Cuomo",
+          "probability": 0.6251,
+          "start": 19,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Mamdani",
+          "probability": 0.5503,
+          "start": 38,
+          "type": "Person"
+        },
+        {
+          "end": 66,
+          "normalized_text": "New York City",
+          "probability": 0.9805,
+          "start": 54,
+          "type": "Place"
+        },
+        {
+          "end": 88,
+          "normalized_text": "Democratic Party",
+          "probability": 0.5932,
+          "start": 73,
+          "type": "Organization"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Cuomo",
+          "probability": 0.3652,
+          "start": 107,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "216776631",
+          "start": 3,
+          "username": "BernieSanders"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984144520213377374",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2651
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983954321126613212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BernieSanders: Cuomo says that if Mamdani wins in New York City, the Democratic Party “dies.”\n\nNo, Mr. Cuomo.\n\nThe corporate wing of th…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_1983954317179535360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hr8KYWwAAsk_N.jpg",
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1984144520213377374",
+        "created_at": "2025-10-31T06:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T07:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984144520213377374"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Cuomo",
+              "probability": 0.6251,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Mamdani",
+              "probability": 0.5503,
+              "start": 38,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "New York City",
+              "probability": 0.9805,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Democratic Party",
+              "probability": 0.5932,
+              "start": 73,
+              "type": "Organization"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Cuomo",
+              "probability": 0.3652,
+              "start": 107,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "216776631",
+              "start": 3,
+              "username": "BernieSanders"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984144520213377374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2651
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983954321126613212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BernieSanders: Cuomo says that if Mamdani wins in New York City, the Democratic Party “dies.”\n\nNo, Mr. Cuomo.\n\nThe corporate wing of th…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983954317179535360"
+          ]
+        },
+        "author_id": "216776631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1983954321126613212",
+        "created_at": "2025-10-30T17:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T18:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983954321126613212"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Cuomo",
+              "probability": 0.772,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Mamdani",
+              "probability": 0.5984,
+              "start": 19,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "New York City",
+              "probability": 0.9762,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "Democratic Party",
+              "probability": 0.5529,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Cuomo",
+              "probability": 0.4307,
+              "start": 88,
+              "type": "Person"
+            },
+            {
+              "end": 170,
+              "normalized_text": "Democratic Party",
+              "probability": 0.5428,
+              "start": 155,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIvm00Ta7s",
+              "end": 302,
+              "expanded_url": "https://x.com/BernieSanders/status/1983954321126613212/photo/1",
+              "media_key": "3_1983954317179535360",
+              "start": 279,
+              "url": "https://t.co/ZIvm00Ta7s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983954321126613212",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 293,
+          "impression_count": 487555,
+          "like_count": 17812,
+          "quote_count": 365,
+          "reply_count": 5531,
+          "retweet_count": 2651
+        },
+        "reply_settings": "everyone",
+        "text": "Cuomo says that if Mamdani wins in New York City, the Democratic Party “dies.”\n\nNo, Mr. Cuomo.\n\nThe corporate wing of the Party may die, but a progressive Democratic Party that is prepared to take on oligarchs and fight for the needs of the working class will only get stronger. https://t.co/ZIvm00Ta7s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2701,
+          "following_count": 2019,
+          "like_count": 34651,
+          "listed_count": 12,
+          "media_count": 1174,
+          "tweet_count": 17195
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-17T17:53:52.000Z",
+        "description": "U.S. Senator for Vermont. Not me, us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BernieSanders.com",
+                "end": 23,
+                "expanded_url": "https://BernieSanders.com",
+                "start": 0,
+                "url": "https://t.co/jpg8Sp1GhR"
+              }
+            ]
+          }
+        },
+        "id": "216776631",
+        "location": "Vermont",
+        "name": "Bernie Sanders",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14891513,
+          "following_count": 1387,
+          "like_count": 902,
+          "listed_count": 23033,
+          "media_count": 4586,
+          "tweet_count": 22306
+        },
+        "url": "https://t.co/jpg8Sp1GhR",
+        "username": "BernieSanders",
+        "verified": true
+      }
+    ]
+  }
+}

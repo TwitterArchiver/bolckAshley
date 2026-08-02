@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1914348717496561987",
+    "created_at": "2025-04-21T16:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T17:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1914348717496561987"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/FurinaDF/statu…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/FurinaDF/status/1913983263699292340",
+          "start": 93,
+          "url": "https://t.co/uoklFtvuFN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914348717496561987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913983263699292340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看到那個“批判反動遊戲‘植物大戰殭屍’”就已經繃不住了🤣\n我真的很想相信他是反串，但是就之前那個“馬列毛大群”的情況來看——\n我覺得十有八九不是反串，而是這幫豐礦的網左真的是這麼想的（ https://t.co/uoklFtvuFN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1359,
+        "media_key": "3_1913982618720219136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_VDQ8XMAAA4MC.jpg",
+        "width": 2560
+      },
+      {
+        "height": 1834,
+        "media_key": "3_1913982749225975808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_VK3HXAAAyP6P.jpg",
+        "width": 1080
+      },
+      {
+        "height": 853,
+        "media_key": "3_1913982959108964352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_VXE_XQAA9MVB.jpg",
+        "width": 931
+      },
+      {
+        "height": 3569,
+        "media_key": "3_1913983221366190080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go_VmV-W8AAg3Rf.jpg",
+        "width": 2534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1914348717496561987",
+        "created_at": "2025-04-21T16:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T17:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914348717496561987"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/FurinaDF/statu…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/FurinaDF/status/1913983263699292340",
+              "start": 93,
+              "url": "https://t.co/uoklFtvuFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914348717496561987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913983263699292340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到那個“批判反動遊戲‘植物大戰殭屍’”就已經繃不住了🤣\n我真的很想相信他是反串，但是就之前那個“馬列毛大群”的情況來看——\n我覺得十有八九不是反串，而是這幫豐礦的網左真的是這麼想的（ https://t.co/uoklFtvuFN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913982618720219136",
+            "3_1913982749225975808",
+            "3_1913982959108964352",
+            "3_1913983221366190080"
+          ]
+        },
+        "author_id": "1790370144755351552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1913983263699292340",
+        "created_at": "2025-04-20T15:49:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T16:49:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913983263699292340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "共产主义 马列毛 革命 无产阶级 左 无产阶级文化大革命 社会主义 中国",
+              "display_url": "red1976.org",
+              "end": 23,
+              "expanded_url": "http://red1976.org",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/1913983275271323648/JcluTPuV?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1913983275271323648/JcluTPuV?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "无产阶级解放斗争论坛",
+              "unwound_url": "https://www.red1976.org/",
+              "url": "https://t.co/9Op8bLp7uC"
+            },
+            {
+              "display_url": "pic.x.com/UCxVphTyku",
+              "end": 127,
+              "expanded_url": "https://x.com/FurinaDF/status/1913983263699292340/photo/1",
+              "media_key": "3_1913982618720219136",
+              "start": 104,
+              "url": "https://t.co/UCxVphTyku"
+            },
+            {
+              "display_url": "pic.x.com/UCxVphTyku",
+              "end": 127,
+              "expanded_url": "https://x.com/FurinaDF/status/1913983263699292340/photo/1",
+              "media_key": "3_1913982749225975808",
+              "start": 104,
+              "url": "https://t.co/UCxVphTyku"
+            },
+            {
+              "display_url": "pic.x.com/UCxVphTyku",
+              "end": 127,
+              "expanded_url": "https://x.com/FurinaDF/status/1913983263699292340/photo/1",
+              "media_key": "3_1913982959108964352",
+              "start": 104,
+              "url": "https://t.co/UCxVphTyku"
+            },
+            {
+              "display_url": "pic.x.com/UCxVphTyku",
+              "end": 127,
+              "expanded_url": "https://x.com/FurinaDF/status/1913983263699292340/photo/1",
+              "media_key": "3_1913983221366190080",
+              "start": 104,
+              "url": "https://t.co/UCxVphTyku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913983263699292340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 117003,
+          "like_count": 552,
+          "quote_count": 19,
+          "reply_count": 139,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Op8bLp7uC\n这是一个自称以毛泽东思想为纲领的，以推翻习近平走资派修正主义专制政府为短期目标的，具有固定资金来源的政治论坛，据说已经拥有数千名用户，且影响力正在持续扩大中。 https://t.co/UCxVphTyku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2393,
+          "following_count": 1746,
+          "like_count": 25672,
+          "listed_count": 10,
+          "media_count": 872,
+          "tweet_count": 13396
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T13:15:08.000Z",
+        "description": "太好啦！太好啦！听妈妈说，我手机里的推特自动关注了芙宁娜娜，我不知所云地欢呼起来。芙宁娜娜这个恶俗玩意儿到底是什么呢？爸爸告诉我，她就像一个遍布网络的巨大屎壳郎，把抽象乐子和魔怔烂梗搬运得到处都是。有了芙宁娜娜，咱们的推特就变成了一个小垃圾堆，五洲四海的浪蛆们可以随时进行别样的炒作大战。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zgysd1",
+                "end": 23,
+                "expanded_url": "https://t.me/zgysd1",
+                "start": 0,
+                "url": "https://t.co/UXOSrcIdSv"
+              }
+            ]
+          }
+        },
+        "id": "1790370144755351552",
+        "location": "原教旨主义自由精神党",
+        "name": "芙宁娜娜💙𝐅𝐮𝐫𝐢𝐧𝐚𝐧𝐚",
+        "pinned_tweet_id": "1912207020780028155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909485043128434688/z-ZbsFFG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21836,
+          "following_count": 2038,
+          "like_count": 23613,
+          "listed_count": 57,
+          "media_count": 4173,
+          "tweet_count": 7991
+        },
+        "url": "https://t.co/UXOSrcIdSv",
+        "username": "FurinaDF",
+        "verified": true
+      }
+    ]
+  }
+}

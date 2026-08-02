@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2009597653261418750",
+    "created_at": "2026-01-10T14:49:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T15:49:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010001008718688632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "tanbara_ririka"
+        },
+        {
+          "end": 24,
+          "id": "613074635",
+          "start": 16,
+          "username": "iTZQing"
+        },
+        {
+          "end": 34,
+          "id": "1643490407094030338",
+          "start": 25,
+          "username": "Usam8964"
+        },
+        {
+          "end": 50,
+          "id": "1670362954590728197",
+          "start": 35,
+          "username": "citric_baizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010001008718688632",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010000842653610138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanbara_ririka @iTZQing @Usam8964 @citric_baizhou 帶我一個"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2010000842653610138].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2010000842653610138",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2010000842653610138"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2009597653261418750",
+        "created_at": "2026-01-10T14:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T15:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010001008718688632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "tanbara_ririka"
+            },
+            {
+              "end": 24,
+              "id": "613074635",
+              "start": 16,
+              "username": "iTZQing"
+            },
+            {
+              "end": 34,
+              "id": "1643490407094030338",
+              "start": 25,
+              "username": "Usam8964"
+            },
+            {
+              "end": 50,
+              "id": "1670362954590728197",
+              "start": 35,
+              "username": "citric_baizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010001008718688632",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010000842653610138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanbara_ririka @iTZQing @Usam8964 @citric_baizhou 帶我一個"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2840,
+          "following_count": 1961,
+          "like_count": 37391,
+          "listed_count": 14,
+          "media_count": 1260,
+          "tweet_count": 18543
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 🐖－＞ @citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "citric_baizhou"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "💤",
+        "pinned_tweet_id": "2005214453936361882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004394532914548736/ZH1zsqFd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 604,
+          "like_count": 29809,
+          "listed_count": 1,
+          "media_count": 1126,
+          "tweet_count": 10575
+        },
+        "username": "tanbara_ririka",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-20T02:58:20.000Z",
+        "description": "Amamiya Mafuyu, aka {\"Alexei\"}. 5′31″/114lb, 🚪67CNY 可线下. 是笨蛋。🎈INFP-T. 🎀Mahō Shōjo. 💙💛Slava. 🍛Curry. 樂晴比我还笨！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gravatar.com/itzqing",
+                "end": 23,
+                "expanded_url": "https://gravatar.com/itzqing",
+                "start": 0,
+                "url": "https://t.co/VFMpbDV4j0"
+              }
+            ]
+          }
+        },
+        "id": "613074635",
+        "location": "ﾄｺﾖﾉｸﾆ",
+        "name": "雨宮 真冬💝",
+        "pinned_tweet_id": "1864699964825456644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994818248190418944/Mrwvp3ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2489,
+          "following_count": 1108,
+          "like_count": 31291,
+          "listed_count": 13,
+          "media_count": 1831,
+          "tweet_count": 29559
+        },
+        "url": "https://t.co/VFMpbDV4j0",
+        "username": "iTZQing",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n人と話すのは苦手だけど、優しい交流を求めています✨ 持病（双極性障害など）と通院にご理解を🙏Gganbu:@bolckAshley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "bolckAshley"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "name": "イレンナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998373924263153664/RfLfOjEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3440,
+          "following_count": 1010,
+          "like_count": 32589,
+          "listed_count": 8,
+          "media_count": 466,
+          "tweet_count": 4099
+        },
+        "username": "Usam8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07｜Intel做题果篮长毛人妖垮处｜初めから持ってないのに胸が痛んだ。｜里@kagurazakahyoto｜🐽❤️@tanbara_ririka｜🚪8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "kagurazakahyoto"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "tanbara_ririka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ikukoo0413",
+                "end": 23,
+                "expanded_url": "http://t.me/ikukoo0413",
+                "start": 0,
+                "url": "https://t.co/mTviyCNfgq"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "添加你的位置",
+        "name": "粥白粥粥白🍥",
+        "pinned_tweet_id": "1972936706203783189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009885726067044354/juDOZtFO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 1107,
+          "like_count": 32750,
+          "listed_count": 5,
+          "media_count": 826,
+          "tweet_count": 5074
+        },
+        "url": "https://t.co/mTviyCNfgq",
+        "username": "citric_baizhou",
+        "verified": false
+      }
+    ]
+  }
+}

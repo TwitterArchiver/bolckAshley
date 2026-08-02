@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2012555822857957567",
+    "created_at": "2026-01-17T16:01:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T17:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012555822857957567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1405148200152055810",
+          "start": 3,
+          "username": "IrishPatri0t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012555822857957567",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012530115159134348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @IrishPatri0t: My full post CDP-Komeito merger Japanese election model\n\n🔵 CRA | 26.0% | 184 (+12)\n🟢 LDP | 26.4% | 153 (-38)\n💹 NIK | 10.0…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2012523423910563841",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-3rZChXkAEdZ7c.jpg",
+        "width": 3584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2012555822857957567",
+        "created_at": "2026-01-17T16:01:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T17:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012555822857957567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1405148200152055810",
+              "start": 3,
+              "username": "IrishPatri0t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012555822857957567",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012530115159134348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @IrishPatri0t: My full post CDP-Komeito merger Japanese election model\n\n🔵 CRA | 26.0% | 184 (+12)\n🟢 LDP | 26.4% | 153 (-38)\n💹 NIK | 10.0…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012523423910563841"
+          ]
+        },
+        "author_id": "1405148200152055810",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2012530115159134348",
+        "created_at": "2026-01-17T14:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T14:55:45.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012524244991623538",
+          "2012530115159134348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Az5BdwqdVN",
+              "end": 294,
+              "expanded_url": "https://x.com/IrishPatri0t/status/2012530115159134348/photo/1",
+              "media_key": "3_2012523423910563841",
+              "start": 271,
+              "url": "https://t.co/Az5BdwqdVN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012530115159134348",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4308,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "My full post CDP-Komeito merger Japanese election model\n\n🔵 CRA | 26.0% | 184 (+12)\n🟢 LDP | 26.4% | 153 (-38)\n💹 NIK | 10.0% | 41 (+3)\n🔰 DPFP | 12.2% | 31 (+3)\n🟠 DIY | 9.3% | 20 (+17)\n📕 JCP | 5.8% | 10 (+2)\n🩷 REI | 5.9% | 8 (-1)\n🌊 CPJ | 3.1% | 6 (+3)\n🪻 SDP | 1.3% | 1 (nc) https://t.co/Az5BdwqdVN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 1965,
+          "like_count": 37554,
+          "listed_count": 15,
+          "media_count": 1282,
+          "tweet_count": 18668
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-16T13:00:20.000Z",
+        "description": "",
+        "id": "1405148200152055810",
+        "location": "Belfast, Ireland",
+        "name": "Irish Patriot 🇮🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697107652919148544/DB-lAK1V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18533,
+          "following_count": 87,
+          "like_count": 12359,
+          "listed_count": 90,
+          "media_count": 18826,
+          "tweet_count": 60406
+        },
+        "username": "IrishPatri0t",
+        "verified": true
+      }
+    ]
+  }
+}

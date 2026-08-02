@@ -1,0 +1,702 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1551915644269932544",
+          "name": "Anker"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446727181500416",
+          "name": "Tech industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1551915644269932544",
+          "name": "Anker"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+          "id": "895726179553902594",
+          "name": "Lars Løkke Rasmussen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+          "id": "895726179553902594",
+          "name": "Lars Løkke Rasmussen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+          "id": "895726179553902594",
+          "name": "Lars Løkke Rasmussen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2034899576545845523",
+    "created_at": "2026-03-20T07:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034899576545845523"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "Anker Jørgensen",
+          "probability": 0.9605,
+          "start": 36,
+          "type": "Person"
+        },
+        {
+          "end": 96,
+          "normalized_text": "Danish Social Democrats",
+          "probability": 0.6966,
+          "start": 74,
+          "type": "Organization"
+        },
+        {
+          "end": 126,
+          "normalized_text": "Denmark",
+          "probability": 0.6669,
+          "start": 120,
+          "type": "Place"
+        },
+        {
+          "end": 135,
+          "normalized_text": "WWII",
+          "probability": 0.4879,
+          "start": 132,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034899576545845523",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034887694661153239",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: Ten years ago, we lost Anker Jørgensen, former leader of the Danish Social Democrats and Prime Minister of Denmark.\n\nA WWII re…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2034887689258881024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1fknQXUAA-E88.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1551915644269932544",
+              "name": "Anker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1551915644269932544",
+              "name": "Anker"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2034899576545845523",
+        "created_at": "2026-03-20T07:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034899576545845523"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "Anker Jørgensen",
+              "probability": 0.9605,
+              "start": 36,
+              "type": "Person"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Danish Social Democrats",
+              "probability": 0.6966,
+              "start": 74,
+              "type": "Organization"
+            },
+            {
+              "end": 126,
+              "normalized_text": "Denmark",
+              "probability": 0.6669,
+              "start": 120,
+              "type": "Place"
+            },
+            {
+              "end": 135,
+              "normalized_text": "WWII",
+              "probability": 0.4879,
+              "start": 132,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034899576545845523",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034887694661153239",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: Ten years ago, we lost Anker Jørgensen, former leader of the Danish Social Democrats and Prime Minister of Denmark.\n\nA WWII re…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034887689258881024"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1551915644269932544",
+              "name": "Anker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446727181500416",
+              "name": "Tech industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1551915644269932544",
+              "name": "Anker"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2034887694661153239",
+        "created_at": "2026-03-20T07:00:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034887694661153239"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Anker Jørgensen",
+              "probability": 0.9503,
+              "start": 23,
+              "type": "Person"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Danish Social Democrats",
+              "probability": 0.7739,
+              "start": 61,
+              "type": "Organization"
+            },
+            {
+              "end": 113,
+              "normalized_text": "Denmark",
+              "probability": 0.5525,
+              "start": 107,
+              "type": "Place"
+            },
+            {
+              "end": 122,
+              "normalized_text": "WWII",
+              "probability": 0.5271,
+              "start": 119,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7YqoavbfVM",
+              "end": 302,
+              "expanded_url": "https://x.com/PES_PSE/status/2034887694661153239/photo/1",
+              "media_key": "3_2034887689258881024",
+              "start": 279,
+              "url": "https://t.co/7YqoavbfVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034887694661153239",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Ten years ago, we lost Anker Jørgensen, former leader of the Danish Social Democrats and Prime Minister of Denmark.\n\nA WWII resistance fighter and trade union leader, he dedicated his life to defending freedom, workers’ rights and the welfare state. Even through economic crisis and political divisions, he stood firm for social justice and the people of Denmark.\n\nHis legacy continues to inspire progressives today. 🌹"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 162,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Ten years ago, we lost Anker Jørgensen, former leader of the Danish Social Democrats and Prime Minister of Denmark.\n\nA WWII resistance fighter and trade union leader, he dedicated his life to defending freedom, workers’ rights and the welfare state. Even through economic crisis https://t.co/7YqoavbfVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐋𝐢𝐛𝐞𝐫𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🔶🌺 𝐚𝐧𝐝 𝐂𝐞𝐧𝐭𝐞𝐫𝐢𝐬𝐭⚖️🌐 ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌺🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034210332957372417/A9BYrsTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3039,
+          "following_count": 1986,
+          "like_count": 40049,
+          "listed_count": 16,
+          "media_count": 1415,
+          "tweet_count": 20389
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80068,
+          "following_count": 5275,
+          "like_count": 8940,
+          "listed_count": 1039,
+          "media_count": 8692,
+          "tweet_count": 51830
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

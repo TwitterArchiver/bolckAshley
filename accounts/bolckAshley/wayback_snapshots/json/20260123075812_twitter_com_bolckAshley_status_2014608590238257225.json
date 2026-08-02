@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2014274147506167983",
+    "created_at": "2026-01-23T07:58:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T08:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014608590238257225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851254945984741376",
+          "start": 0,
+          "username": "LastExeX01"
+        },
+        {
+          "end": 27,
+          "id": "1546075741430751232",
+          "start": 12,
+          "username": "sovietpunk2077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20144…",
+          "end": 51,
+          "expanded_url": "https://x.com/i/status/2014422071472804215",
+          "start": 28,
+          "url": "https://t.co/v5BqtA8Ywo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014608590238257225",
+    "in_reply_to_user_id": "1851254945984741376",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014422071472804215",
+        "type": "quoted"
+      },
+      {
+        "id": "2014578546883362920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LastExeX01 @sovietpunk2077 https://t.co/v5BqtA8Ywo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1688,
+        "media_key": "3_2014394430548029440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_SRD9ZXMAA0TYl.jpg",
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2014274147506167983",
+        "created_at": "2026-01-23T07:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T08:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014608590238257225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851254945984741376",
+              "start": 0,
+              "username": "LastExeX01"
+            },
+            {
+              "end": 27,
+              "id": "1546075741430751232",
+              "start": 12,
+              "username": "sovietpunk2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20144…",
+              "end": 51,
+              "expanded_url": "https://x.com/i/status/2014422071472804215",
+              "start": 28,
+              "url": "https://t.co/v5BqtA8Ywo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014608590238257225",
+        "in_reply_to_user_id": "1851254945984741376",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014422071472804215",
+            "type": "quoted"
+          },
+          {
+            "id": "2014578546883362920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LastExeX01 @sovietpunk2077 https://t.co/v5BqtA8Ywo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2014394430548029440"
+          ]
+        },
+        "author_id": "1579543776682561536",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2014422071472804215",
+        "created_at": "2026-01-22T19:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T20:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014422071472804215"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "EU Parliament",
+              "probability": 0.5011,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 73,
+              "normalized_text": "EU",
+              "probability": 0.7634,
+              "start": 72,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Mercosur",
+              "probability": 0.5508,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 139,
+              "normalized_text": "EU Court of Justice",
+              "probability": 0.3664,
+              "start": 121,
+              "type": "Place"
+            },
+            {
+              "end": 144,
+              "normalized_text": "ECJ",
+              "probability": 0.2636,
+              "start": 142,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0sW5fX5GJn",
+              "end": 302,
+              "expanded_url": "https://x.com/EU_Made_Simple/status/2014422071472804215/photo/1",
+              "media_key": "3_2014394430548029440",
+              "start": 279,
+              "url": "https://t.co/0sW5fX5GJn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014422071472804215",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1180,
+                "start": 1177,
+                "tag": "EU"
+              },
+              {
+                "end": 1190,
+                "start": 1181,
+                "tag": "Mercosur"
+              },
+              {
+                "end": 1203,
+                "start": 1191,
+                "tag": "TradePolicy"
+              },
+              {
+                "end": 1221,
+                "start": 1204,
+                "tag": "EUCourtOfJustice"
+              },
+              {
+                "end": 1241,
+                "start": 1222,
+                "tag": "EuropeanParliament"
+              },
+              {
+                "end": 1253,
+                "start": 1242,
+                "tag": "EUPolitics"
+              },
+              {
+                "end": 1266,
+                "start": 1254,
+                "tag": "Agriculture"
+              },
+              {
+                "end": 1279,
+                "start": 1267,
+                "tag": "Geopolitics"
+              }
+            ]
+          },
+          "text": "🇪🇺 EU Parliament Freezes Mercosur Deal ⚖️🌍\nMEPs have voted to delay the EU-Mercosur trade agreement, referring it to the EU Court of Justice (ECJ) for a legal review, putting implementation on ice once again.\n\nThe vote was razor-thin: 46% in favour, 45% against, passing by just 10 MEPs.\n\n📊 By political group:\n🔹 ESN, PfE, The Left: Overwhelming support for sending the deal to the ECJ.\n🔹 Greens/EFA: More than two-thirds voted in favour of the referral.\n🔹 ECR: Nearly split down the middle, 46% yes, 49% no.\n🔹 Renew, S&D, EPP: Similar patterns, with around two-thirds voting no, but over 20% breaking ranks to vote yes.\n\n🔍 What does this vote do?\n• Suspends Parliament’s approval process for the Mercosur agreement.\n• Sends the deal to the ECJ to assess its compatibility with EU treaties.\n• Challenges the Commission’s decision to split the agreement and bypass national parliaments.\n• Raises legal questions over the deal’s “rebalancing mechanism.”\n\n⏳ The Court’s ruling could take over a year, leaving the deal frozen, though the Commission could still attempt provisional application, despite strong political resistance.\n\nWhat do you think is the future of this deal? 🤔\n\n#EU #Mercosur #TradePolicy #EUCourtOfJustice #EuropeanParliament #EUPolitics #Agriculture #Geopolitics"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 10131,
+          "like_count": 181,
+          "quote_count": 9,
+          "reply_count": 13,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "🇪🇺 EU Parliament Freezes Mercosur Deal ⚖️🌍\nMEPs have voted to delay the EU-Mercosur trade agreement, referring it to the EU Court of Justice (ECJ) for a legal review, putting implementation on ice once again.\n\nThe vote was razor-thin: 46% in favour, 45% against, passing by just https://t.co/0sW5fX5GJn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851254945984741376",
+        "conversation_id": "2014274147506167983",
+        "created_at": "2026-01-23T05:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T06:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014578546883362920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            },
+            {
+              "end": 28,
+              "id": "1546075741430751232",
+              "start": 13,
+              "username": "sovietpunk2077"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014578546883362920",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014298439279153353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley @sovietpunk2077 如果这样那我转投SPD了🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 1969,
+          "like_count": 37732,
+          "listed_count": 15,
+          "media_count": 1297,
+          "tweet_count": 18787
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T13:29:13.000Z",
+        "description": "│🏳️‍⚧️MtX│🇺🇳🇪🇺🇺🇦🇵🇸│现代化、进步主义和理性│认同“自由的专制主义”│请坚定不移的拥护胡春华路线",
+        "id": "1851254945984741376",
+        "location": "家住北京中南海",
+        "name": "我早就不是建制派了",
+        "pinned_tweet_id": "2012743322029195448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951149350907944964/a9pbadi4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 292,
+          "like_count": 16198,
+          "listed_count": 4,
+          "media_count": 982,
+          "tweet_count": 7263
+        },
+        "username": "LastExeX01",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-10T10:16:13.000Z",
+        "description": "Liberté, égalité, fraternité /社會主義與普世價值之結合（人文社会主义）/中派馬克思主義/（甚至可能是国家）工團主義/狮子山精神爱好者（廣東國！）/LGBT运动/泛性恋/共青团员/远离键政享受生活（虽然会忍不住）/孩子是男的别再说我是跨了/泛亞主義/❤💛💜",
+        "id": "1546075741430751232",
+        "location": "东柏林",
+        "name": "ZHGR-sovietpunk2077🇲🇾🏳️‍⚧️🏳️‍🌈🇵🇸❀",
+        "pinned_tweet_id": "1974888990764671453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944061582629101568/xfHyp-fZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1478,
+          "following_count": 1672,
+          "like_count": 18298,
+          "listed_count": 11,
+          "media_count": 646,
+          "tweet_count": 11772
+        },
+        "username": "sovietpunk2077",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-10T18:46:30.000Z",
+        "description": "Short, Sweet & Simplified.\n#EUMadeSimple\n🇪🇺 Your go-to source for understanding the EU\n👇 Join us on a journey to demystify the EU",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 27,
+                "tag": "EUMadeSimple"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/eumadesimple",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/eumadesimple",
+                "start": 0,
+                "url": "https://t.co/WlNGRTcEho"
+              }
+            ]
+          }
+        },
+        "id": "1579543776682561536",
+        "name": "EU Made Simple",
+        "pinned_tweet_id": "2013276358286139473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1876404404774948864/crZak3Yd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10852,
+          "following_count": 379,
+          "like_count": 38556,
+          "listed_count": 102,
+          "media_count": 1528,
+          "tweet_count": 4992
+        },
+        "url": "https://t.co/WlNGRTcEho",
+        "username": "EU_Made_Simple",
+        "verified": true
+      }
+    ]
+  }
+}

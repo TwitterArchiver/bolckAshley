@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1876264018954096668",
+    "created_at": "2025-01-06T13:46:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-06T14:46:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1876264018954096668"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "PES",
+          "probability": 0.6074,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 54,
+          "normalized_text": "Costas Simitis",
+          "probability": 0.8781,
+          "start": 41,
+          "type": "Person"
+        },
+        {
+          "end": 113,
+          "normalized_text": "PASOK",
+          "probability": 0.7871,
+          "start": 109,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1876264018954096668",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876232571962425670",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: The PES mourns the death of Costas Simitis, co-founder and former president of our member party PASOK, and for;er prime minist…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1876264018954096668",
+        "created_at": "2025-01-06T13:46:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T14:46:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1876264018954096668"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "PES",
+              "probability": 0.6074,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 54,
+              "normalized_text": "Costas Simitis",
+              "probability": 0.8781,
+              "start": 41,
+              "type": "Person"
+            },
+            {
+              "end": 113,
+              "normalized_text": "PASOK",
+              "probability": 0.7871,
+              "start": 109,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876264018954096668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876232571962425670",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: The PES mourns the death of Costas Simitis, co-founder and former president of our member party PASOK, and for;er prime minist…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876230888981188608"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1876232571962425670",
+        "created_at": "2025-01-06T11:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-06T12:36:56.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876231471226114455",
+          "1876232017387323639",
+          "1876232571962425670"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "PES",
+              "probability": 0.6461,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Costas Simitis",
+              "probability": 0.7716,
+              "start": 28,
+              "type": "Person"
+            },
+            {
+              "end": 100,
+              "normalized_text": "PASOK",
+              "probability": 0.8077,
+              "start": 96,
+              "type": "Organization"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Greece",
+              "probability": 0.9274,
+              "start": 132,
+              "type": "Place"
+            },
+            {
+              "end": 180,
+              "normalized_text": "Greece",
+              "probability": 0.9574,
+              "start": 175,
+              "type": "Place"
+            },
+            {
+              "end": 208,
+              "normalized_text": "Eurozone",
+              "probability": 0.4274,
+              "start": 201,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O5nUk01JSe",
+              "end": 303,
+              "expanded_url": "https://x.com/PES_PSE/status/1876232571962425670/photo/1",
+              "media_key": "3_1876230888981188608",
+              "start": 280,
+              "url": "https://t.co/O5nUk01JSe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876232571962425670",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 441,
+                "start": 434,
+                "tag": "Greece"
+              }
+            ]
+          },
+          "text": "The PES mourns the death of Costas Simitis, co-founder and former president of our member party PASOK, and for;er prime minister of Greece. He was a true pro-European who led Greece’s accession to the Eurozone, and a genuine socialist devoted to the modernisation and prosperity of Greece, its people, and Europe. He was a true democrat who fought against the military dictatorship in Greece and actively worked to restore democracy. #Greece"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2075,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "The PES mourns the death of Costas Simitis, co-founder and former president of our member party PASOK, and for;er prime minister of Greece. He was a true pro-European who led Greece’s accession to the Eurozone, and a genuine socialist devoted to the modernisation and prosperity… https://t.co/O5nUk01JSe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873288350636924928/v2jyeQ24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2051,
+          "following_count": 1386,
+          "like_count": 19184,
+          "listed_count": 8,
+          "media_count": 656,
+          "tweet_count": 11292
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro European. Ecologists. Pro Science. We represent you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79601,
+          "following_count": 5408,
+          "like_count": 8510,
+          "listed_count": 1072,
+          "media_count": 8039,
+          "tweet_count": 50806
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

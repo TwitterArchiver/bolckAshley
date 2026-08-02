@@ -1,0 +1,452 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1996159694130290879",
+    "created_at": "2025-12-03T10:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T11:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996159694130290879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1610089940301533185",
+          "start": 3,
+          "username": "TouSei_EA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996159694130290879",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996109983633866801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TouSei_EA: 談一下這次北京和日本的衝突\n\n在當前東亞及全球地緣政治的情況下，我認為這次的衝突是「完全不可避免」的\n\n習近平、高市早苗、賴清德都被認為是典型的「政治強硬派」。習近平持續強化「民族主義 +…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1996159694130290879",
+        "created_at": "2025-12-03T10:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T11:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996159694130290879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1610089940301533185",
+              "start": 3,
+              "username": "TouSei_EA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996159694130290879",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996109983633866801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TouSei_EA: 談一下這次北京和日本的衝突\n\n在當前東亞及全球地緣政治的情況下，我認為這次的衝突是「完全不可避免」的\n\n習近平、高市早苗、賴清德都被認為是典型的「政治強硬派」。習近平持續強化「民族主義 +…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1610089940301533185",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1996109983633866801",
+        "created_at": "2025-12-03T06:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T07:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996109983633866801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996109983633866801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "談一下這次北京和日本的衝突\n\n在當前東亞及全球地緣政治的情況下，我認為這次的衝突是「完全不可避免」的\n\n習近平、高市早苗、賴清德都被認為是典型的「政治強硬派」。習近平持續強化「民族主義 + 国家統一」的路線；高市早苗被認為是極右翼中的對北京強硬派；賴清德政府相較前幾屆表現出對對岸前所未有的戒備與批判。所以這三人在各自的權力體系裡，碰上台灣這一個敏感神經，只需一點風吹草動就能擦槍走火。故本次衝突幾乎成為中華人民共和國和日本建交以來關係最為緊張的時刻是完全不出意外的\n\n川普政府上台後，地緣政治與政治結盟的格局又進行了重新洗牌。隨著北京和華府的明面上的競爭加劇，日本認為自己需要重新定義自己的政治生態位。高市提及了集體自衛權，提到「台灣有事可能構成日本的存亡危機」，這種將自身和台海危機綁定的行為在我看來是激進且對其國家不負責任的，因為北京對台的戰略始終是一個巨大變數，日本從根本上挑戰了北京的利益與形象。這樣使得一向採取穩定戰略的北京不得不重新考慮去改變對台戰略和對日政策，因為這意味著其在第一島鏈的安全優勢受到挑戰。對習近平與中共高層來說，不對高市的言論做出強硬反應，那是絕對有失形象的事情\n\n北京將高市的言論定義成「日本戰敗後首次對外軍事威脅」，又再次將中日關係上那個始終存在的幽靈——中日戰爭和日本政府對戰爭的態度為工具去批判日方，點燃國內的民族主義情緒，再下架日本電影以及取消日本藝人在陸活動。反應較大的同時我也認為北京依舊在保持高度克制和穩定戰略，這不是我在恭維，這是其維護自身形象和避免未知事件的重要策略\n\n至於該事件會以怎樣的方式收場，我有足夠的把握相信依舊可以參照先前的雙方衝突情況（如核污水排放爭議）。高市不太可能撤回言論，大概強調「基本立場未變」但「不尋求挑釁中國」，日本國內也會向高市施壓以避免遭受更大的經濟創傷。北京大概率會選擇「分階段降溫」：即初期強硬（外交部抗議、媒體批判、經濟施壓），後逐漸降低強度，保留象徵性反制（例依舊限制部分日本產品，減少一定程度官方往來），不會走向全面對抗。接著等待雙邊關係的下一次地震\n\n至於台灣，作為各大勢力戰略角力的中心，被迫成為了全球博弈舞台的一個風暴眼。隨著內部的愈加分裂，越難面對外部的各種挑戰。台灣人民的悲哀在於。無論是自己的政府、中共當局、還是日本人美國人，沒有一個真正在乎這兩千多萬人。在這樣的局勢裡，台灣人需要在夾縫中生存，需要比任何人都堅強"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 222,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "談一下這次北京和日本的衝突\n\n在當前東亞及全球地緣政治的情況下，我認為這次的衝突是「完全不可避免」的\n\n習近平、高市早苗、賴清德都被認為是典型的「政治強硬派」。習近平持續強化「民族主義 +"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2774,
+          "following_count": 2038,
+          "like_count": 35581,
+          "listed_count": 12,
+          "media_count": 1212,
+          "tweet_count": 17633
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-03T01:45:51.000Z",
+        "description": "東亞之聲\n東亞政治歷史文化觀察人  \n#東亞是東亞人的東亞 #東亞共同體 #東亞新秩序 #反北京華府體系 #反西方中心主義 #東升西降勢不可擋 #振興東亞時代使命 \n互相尊重是交流的前提 不喜歡我盡快BLOCK \n｜Daily：@TouSeiZuiKeAi",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 19,
+                "tag": "東亞是東亞人的東亞"
+              },
+              {
+                "end": 36,
+                "start": 30,
+                "tag": "東亞共同體"
+              },
+              {
+                "end": 43,
+                "start": 37,
+                "tag": "東亞新秩序"
+              },
+              {
+                "end": 52,
+                "start": 44,
+                "tag": "反北京華府體系"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "反西方中心主義"
+              },
+              {
+                "end": 71,
+                "start": 62,
+                "tag": "東升西降勢不可擋"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "tag": "振興東亞時代使命"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 128,
+                "start": 114,
+                "username": "TouSeiZuiKeAi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/epW8thkZvp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/epW8thkZvp",
+                "start": 0,
+                "url": "https://t.co/cTipPSRRaI"
+              }
+            ]
+          }
+        },
+        "id": "1610089940301533185",
+        "location": "East Asia",
+        "name": "東聲❂東亞浪人",
+        "pinned_tweet_id": "1976320263810867441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995582553814958080/7bvIUxaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 1270,
+          "like_count": 12259,
+          "listed_count": 10,
+          "media_count": 1819,
+          "tweet_count": 18570
+        },
+        "url": "https://t.co/cTipPSRRaI",
+        "username": "TouSei_EA",
+        "verified": true
+      }
+    ]
+  }
+}

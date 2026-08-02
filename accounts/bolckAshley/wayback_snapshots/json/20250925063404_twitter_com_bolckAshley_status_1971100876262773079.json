@@ -1,0 +1,641 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1971100876262773079",
+    "created_at": "2025-09-25T06:34:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T07:34:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971100876262773079"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TallbarFIN/sta…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/TallbarFIN/status/1970914170175680684",
+          "start": 99,
+          "url": "https://t.co/K0mpaTgmpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971100876262773079",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970914170175680684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "芬蘭總統亞歷山大·斯圖佈在演講中呼籲對聯合國進行改革：「任何國家都不應在聯合國擁有否決權。如果安理會成員國違反《聯合國憲章》，也應在一定期限內失去其投票權。 」🇫🇮🇫🇮🇫🇮\n完全正確的提議！👍👍👍 https://t.co/K0mpaTgmpp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1083,
+        "media_key": "3_1970914044237258752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1oX4YGXIAAMvs2.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1971100876262773079",
+        "created_at": "2025-09-25T06:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T07:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971100876262773079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TallbarFIN/sta…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/TallbarFIN/status/1970914170175680684",
+              "start": 99,
+              "url": "https://t.co/K0mpaTgmpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971100876262773079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970914170175680684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "芬蘭總統亞歷山大·斯圖佈在演講中呼籲對聯合國進行改革：「任何國家都不應在聯合國擁有否決權。如果安理會成員國違反《聯合國憲章》，也應在一定期限內失去其投票權。 」🇫🇮🇫🇮🇫🇮\n完全正確的提議！👍👍👍 https://t.co/K0mpaTgmpp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970914044237258752"
+          ]
+        },
+        "author_id": "1500458317717643267",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1970914170175680684",
+        "created_at": "2025-09-24T18:12:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T19:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970914170175680684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "Alexander Stubb",
+              "probability": 0.9662,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "UN",
+              "probability": 0.8126,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "UN",
+              "probability": 0.8112,
+              "start": 111,
+              "type": "Place"
+            },
+            {
+              "end": 224,
+              "normalized_text": "UN Charter",
+              "probability": 0.6216,
+              "start": 215,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20u5vv9ldo",
+              "end": 293,
+              "expanded_url": "https://x.com/TallbarFIN/status/1970914170175680684/photo/1",
+              "media_key": "3_1970914044237258752",
+              "start": 270,
+              "url": "https://t.co/20u5vv9ldo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970914170175680684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 712029,
+          "like_count": 54223,
+          "quote_count": 490,
+          "reply_count": 1336,
+          "retweet_count": 11162
+        },
+        "reply_settings": "everyone",
+        "text": "Finnish President Alexander Stubb calls reforms to UN in his speech:\n\n\"No single country should have a veto in UN.\n\nA Security Council member should also lose its voting rights for a fixed period if it violates the UN Charter.\"\n\n💯🎯 Our president couldn't be more right! https://t.co/20u5vv9ldo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 1961,
+          "like_count": 33260,
+          "listed_count": 12,
+          "media_count": 1094,
+          "tweet_count": 16558
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-06T13:08:44.000Z",
+        "description": "Ordinary finnish guy interested in history, politics and military. Following closely the events of the war in Ukraine.\n\ntomifin in Bluesky",
+        "id": "1500458317717643267",
+        "location": "Uusimaa, Suomi",
+        "name": "Tomi 🇺🇦🇫🇮🇪🇺",
+        "pinned_tweet_id": "1960946084647260589",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794462918907473920/lhP5ano0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44481,
+          "following_count": 490,
+          "like_count": 5729,
+          "listed_count": 557,
+          "media_count": 4280,
+          "tweet_count": 29954
+        },
+        "username": "TallbarFIN",
+        "verified": false
+      }
+    ]
+  }
+}

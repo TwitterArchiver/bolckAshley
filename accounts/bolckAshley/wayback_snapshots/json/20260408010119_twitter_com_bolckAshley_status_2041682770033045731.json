@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041535561614389248",
+        "3_2041535569684234240",
+        "3_2041535578483912704",
+        "3_2041535605423890432"
+      ],
+      "media_source_tweet_id": [
+        "2041535685346369648",
+        "2041535685346369648",
+        "2041535685346369648",
+        "2041535685346369648"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      }
+    ],
+    "conversation_id": "2041682770033045731",
+    "created_at": "2026-04-08T01:01:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:01:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041682770033045731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1415220833077776386",
+          "start": 3,
+          "username": "AnonymousFilip1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6p1XeRBrb9",
+          "end": 70,
+          "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+          "media_key": "3_2041535561614389248",
+          "start": 47,
+          "url": "https://t.co/6p1XeRBrb9"
+        },
+        {
+          "display_url": "pic.x.com/6p1XeRBrb9",
+          "end": 70,
+          "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+          "media_key": "3_2041535569684234240",
+          "start": 47,
+          "url": "https://t.co/6p1XeRBrb9"
+        },
+        {
+          "display_url": "pic.x.com/6p1XeRBrb9",
+          "end": 70,
+          "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+          "media_key": "3_2041535578483912704",
+          "start": 47,
+          "url": "https://t.co/6p1XeRBrb9"
+        },
+        {
+          "display_url": "pic.x.com/6p1XeRBrb9",
+          "end": 70,
+          "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+          "media_key": "3_2041535605423890432",
+          "start": 47,
+          "url": "https://t.co/6p1XeRBrb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041682770033045731",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 193
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041535685346369648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnonymousFilip1: I love TW threads so much https://t.co/6p1XeRBrb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2041535561614389248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT9xtpacAAD53_.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2041535569684234240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT9yLtagAAbQdE.jpg",
+        "width": 1058
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2041535578483912704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT9ysfa8AA_VY3.jpg",
+        "width": 1058
+      },
+      {
+        "height": 682,
+        "media_key": "3_2041535605423890432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFT90Q2aYAAILz2.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041535561614389248",
+            "3_2041535569684234240",
+            "3_2041535578483912704",
+            "3_2041535605423890432"
+          ],
+          "media_source_tweet_id": [
+            "2041535685346369648",
+            "2041535685346369648",
+            "2041535685346369648",
+            "2041535685346369648"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2041682770033045731",
+        "created_at": "2026-04-08T01:01:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041682770033045731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1415220833077776386",
+              "start": 3,
+              "username": "AnonymousFilip1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 70,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535561614389248",
+              "start": 47,
+              "url": "https://t.co/6p1XeRBrb9"
+            },
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 70,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535569684234240",
+              "start": 47,
+              "url": "https://t.co/6p1XeRBrb9"
+            },
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 70,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535578483912704",
+              "start": 47,
+              "url": "https://t.co/6p1XeRBrb9"
+            },
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 70,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535605423890432",
+              "start": 47,
+              "url": "https://t.co/6p1XeRBrb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041682770033045731",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 193
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041535685346369648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnonymousFilip1: I love TW threads so much https://t.co/6p1XeRBrb9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041535561614389248",
+            "3_2041535569684234240",
+            "3_2041535578483912704",
+            "3_2041535605423890432"
+          ]
+        },
+        "author_id": "1415220833077776386",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2041535685346369648",
+        "created_at": "2026-04-07T15:16:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041535685346369648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 49,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535561614389248",
+              "start": 26,
+              "url": "https://t.co/6p1XeRBrb9"
+            },
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 49,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535569684234240",
+              "start": 26,
+              "url": "https://t.co/6p1XeRBrb9"
+            },
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 49,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535578483912704",
+              "start": 26,
+              "url": "https://t.co/6p1XeRBrb9"
+            },
+            {
+              "display_url": "pic.x.com/6p1XeRBrb9",
+              "end": 49,
+              "expanded_url": "https://x.com/AnonymousFilip1/status/2041535685346369648/photo/1",
+              "media_key": "3_2041535605423890432",
+              "start": 26,
+              "url": "https://t.co/6p1XeRBrb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041535685346369648",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 787,
+          "impression_count": 87467,
+          "like_count": 2165,
+          "quote_count": 16,
+          "reply_count": 22,
+          "retweet_count": 193
+        },
+        "reply_settings": "everyone",
+        "text": "I love TW threads so much https://t.co/6p1XeRBrb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036808158912671744/q5dELKL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 1980,
+          "like_count": 40536,
+          "listed_count": 16,
+          "media_count": 1452,
+          "tweet_count": 20933
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T08:05:37.000Z",
+        "description": "- 菲律賓華裔🇵🇭 \n- 福建人🧧\n- Multilingual🌐 \n- 中文(國語和閩南話), English, Filipino, 日本語 (学)\n- 九二共識 disciple 🇹🇼🇨🇳\n- Bourgeoise Class Traitor tryhard",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "12339.gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.12339.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/VPoBXq9K4P"
+              }
+            ]
+          }
+        },
+        "id": "1415220833077776386",
+        "location": "Somewhere in Greenhills",
+        "name": "王志豪🇵🇭🇹🇼🇨🇳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589358833868021760/wF2PPxZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 552,
+          "like_count": 11374,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 5360
+        },
+        "url": "https://t.co/VPoBXq9K4P",
+        "username": "AnonymousFilip1",
+        "verified": false
+      }
+    ]
+  }
+}

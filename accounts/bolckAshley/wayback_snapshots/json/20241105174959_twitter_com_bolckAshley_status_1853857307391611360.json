@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1853498599201468416"
+      ],
+      "media_source_tweet_id": [
+        "1853498604561834298"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1849514207546355712",
+          "name": "2024 US Election Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Kamala Harris (CA)",
+          "id": "875006493984149509",
+          "name": "Kamala Harris"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1853857307391611360",
+    "created_at": "2024-11-05T17:49:59.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-05T18:49:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1853857307391611360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "803694179079458816",
+          "start": 3,
+          "username": "VP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/K0LtcWK4OZ",
+          "end": 44,
+          "expanded_url": "https://x.com/VP/status/1853498604561834298/photo/1",
+          "media_key": "3_1853498599201468416",
+          "start": 21,
+          "url": "https://t.co/K0LtcWK4OZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1853857307391611360",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8806
+    },
+    "referenced_tweets": [
+      {
+        "id": "1853498604561834298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VP: Trust women. https://t.co/K0LtcWK4OZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "Trust women. Trust them to know what is in their best interest.\n- Vice President Kamala Harris",
+        "height": 2700,
+        "media_key": "3_1853498599201468416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GbjzJ90WcAALADf.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853498599201468416"
+          ],
+          "media_source_tweet_id": [
+            "1853498604561834298"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1853857307391611360",
+        "created_at": "2024-11-05T17:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-05T18:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1853857307391611360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "803694179079458816",
+              "start": 3,
+              "username": "VP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0LtcWK4OZ",
+              "end": 44,
+              "expanded_url": "https://x.com/VP/status/1853498604561834298/photo/1",
+              "media_key": "3_1853498599201468416",
+              "start": 21,
+              "url": "https://t.co/K0LtcWK4OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853857307391611360",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8806
+        },
+        "referenced_tweets": [
+          {
+            "id": "1853498604561834298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VP: Trust women. https://t.co/K0LtcWK4OZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1853498599201468416"
+          ]
+        },
+        "author_id": "803694179079458816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Kamala Harris (CA)",
+              "id": "875006493984149509",
+              "name": "Kamala Harris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1853498604561834298",
+        "created_at": "2024-11-04T18:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-04T19:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1853498604561834298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0LtcWK4OZ",
+              "end": 36,
+              "expanded_url": "https://x.com/VP/status/1853498604561834298/photo/1",
+              "media_key": "3_1853498599201468416",
+              "start": 13,
+              "url": "https://t.co/K0LtcWK4OZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1853498604561834298",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 592,
+          "impression_count": 2871877,
+          "like_count": 60580,
+          "quote_count": 1189,
+          "reply_count": 11443,
+          "retweet_count": 8806
+        },
+        "reply_settings": "everyone",
+        "text": "Trust women. https://t.co/K0LtcWK4OZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 1154,
+          "like_count": 15779,
+          "listed_count": 7,
+          "tweet_count": 10188
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-29T20:16:39.000Z",
+        "description": "Vice President of the United States. Wife to the first @SecondGentleman. Momala. Auntie. Fighting for the people.\n\nText me: 310-861-2977",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 55,
+                "username": "SecondGentleman"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "EconomicOpportunity.gov",
+                "end": 23,
+                "expanded_url": "http://EconomicOpportunity.gov",
+                "start": 0,
+                "url": "https://t.co/xtqSOa0Zl1"
+              }
+            ]
+          }
+        },
+        "id": "803694179079458816",
+        "name": "Vice President Kamala Harris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1380657780865044480/BBxmnji2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15123001,
+          "following_count": 6,
+          "like_count": 1113,
+          "listed_count": 20264,
+          "tweet_count": 11080
+        },
+        "url": "https://t.co/xtqSOa0Zl1",
+        "username": "VP",
+        "verified": true
+      }
+    ]
+  }
+}

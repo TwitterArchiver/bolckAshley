@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1985899684058013696"
+      ],
+      "media_source_tweet_id": [
+        "1985899742044262838"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      }
+    ],
+    "conversation_id": "1985972589114900912",
+    "created_at": "2025-11-05T07:28:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T08:28:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985972589114900912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "266980765",
+          "start": 3,
+          "username": "ZohranKMamdani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cpPF3SPl5g",
+          "end": 43,
+          "expanded_url": "https://x.com/ZohranKMamdani/status/1985899742044262838/video/1",
+          "media_key": "13_1985899684058013696",
+          "start": 20,
+          "url": "https://t.co/cpPF3SPl5g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985972589114900912",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53954
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985899742044262838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZohranKMamdani: https://t.co/cpPF3SPl5g"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10875,
+        "height": 1080,
+        "media_key": "13_1985899684058013696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1985899684058013696/img/c38tTMt1ALOio6SY.jpg",
+        "public_metrics": {
+          "view_count": 2934159
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985899684058013696/vid/avc1/480x270/fVicITLDYrwH9K0e.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985899684058013696/vid/avc1/1920x1080/NSAMy6r6JEr1QcT0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1985899684058013696/pl/Z8olwG5Azp7pMl6E.m3u8?v=956"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985899684058013696/vid/avc1/1280x720/GQSLEoW005qWgVJL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1985899684058013696/vid/avc1/640x360/ahiM42NQeuIS_gWK.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985899684058013696"
+          ],
+          "media_source_tweet_id": [
+            "1985899742044262838"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          }
+        ],
+        "conversation_id": "1985972589114900912",
+        "created_at": "2025-11-05T07:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985972589114900912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "266980765",
+              "start": 3,
+              "username": "ZohranKMamdani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpPF3SPl5g",
+              "end": 43,
+              "expanded_url": "https://x.com/ZohranKMamdani/status/1985899742044262838/video/1",
+              "media_key": "13_1985899684058013696",
+              "start": 20,
+              "url": "https://t.co/cpPF3SPl5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985972589114900912",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53954
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985899742044262838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZohranKMamdani: https://t.co/cpPF3SPl5g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1985899684058013696"
+          ]
+        },
+        "author_id": "266980765",
+        "conversation_id": "1985899742044262838",
+        "created_at": "2025-11-05T02:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985899742044262838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cpPF3SPl5g",
+              "end": 23,
+              "expanded_url": "https://x.com/ZohranKMamdani/status/1985899742044262838/video/1",
+              "media_key": "13_1985899684058013696",
+              "start": 0,
+              "url": "https://t.co/cpPF3SPl5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985899742044262838",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10881,
+          "impression_count": 8200672,
+          "like_count": 327881,
+          "quote_count": 7396,
+          "reply_count": 5862,
+          "retweet_count": 53954
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cpPF3SPl5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 2028,
+          "like_count": 34876,
+          "listed_count": 12,
+          "media_count": 1182,
+          "tweet_count": 17309
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-16T03:57:57.000Z",
+        "description": "Democratic Nominee for Mayor of NYC. Assemblymember. Running to make this city affordable. Democratic Socialist. Early Voting: 10/25 - 11/2. Election Day: 11/4.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ZohranKMamdani",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ZohranKMamdani",
+                "start": 0,
+                "url": "https://t.co/YFSiSG6SLB"
+              }
+            ]
+          }
+        },
+        "id": "266980765",
+        "location": "Astoria, Queens",
+        "name": "Zohran Kwame Mamdani",
+        "pinned_tweet_id": "1849027572006281727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938972577415733249/Oy7_tlj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859189,
+          "following_count": 996,
+          "like_count": 50567,
+          "listed_count": 1824,
+          "media_count": 3491,
+          "tweet_count": 17172
+        },
+        "url": "https://t.co/YFSiSG6SLB",
+        "username": "ZohranKMamdani",
+        "verified": true
+      }
+    ]
+  }
+}

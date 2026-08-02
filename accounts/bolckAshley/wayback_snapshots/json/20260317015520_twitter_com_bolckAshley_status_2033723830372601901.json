@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516798152279425028",
+          "name": "Spain politics"
+        }
+      }
+    ],
+    "conversation_id": "2033722051383677081",
+    "created_at": "2026-03-17T01:55:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T02:55:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033723830372601901"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "PSOE",
+          "probability": 0.9635,
+          "start": 21,
+          "type": "Organization"
+        },
+        {
+          "end": 181,
+          "normalized_text": "SPD",
+          "probability": 0.8526,
+          "start": 179,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1611057683989205011",
+          "start": 0,
+          "username": "Alejandro_SocEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033723830372601901",
+    "in_reply_to_user_id": "1611057683989205011",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033722051383677081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alejandro_SocEU The PSOE has proven through its actions that its left-wing approach is correct, ensuring the party's vitality and preventing the exodus of left-wing members. The SPD needs to learn more from them in this regard."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          }
+        ],
+        "conversation_id": "2033722051383677081",
+        "created_at": "2026-03-17T01:55:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:55:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033723830372601901"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "PSOE",
+              "probability": 0.9635,
+              "start": 21,
+              "type": "Organization"
+            },
+            {
+              "end": 181,
+              "normalized_text": "SPD",
+              "probability": 0.8526,
+              "start": 179,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1611057683989205011",
+              "start": 0,
+              "username": "Alejandro_SocEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033723830372601901",
+        "in_reply_to_user_id": "1611057683989205011",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033722051383677081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alejandro_SocEU The PSOE has proven through its actions that its left-wing approach is correct, ensuring the party's vitality and preventing the exodus of left-wing members. The SPD needs to learn more from them in this regard."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611057683989205011",
+        "conversation_id": "2033722051383677081",
+        "created_at": "2026-03-17T01:48:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T02:48:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033722051383677081"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 167,
+              "normalized_text": "Israel",
+              "probability": 0.894,
+              "start": 162,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/MelvinMiljkovi…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/MelvinMiljkovic/status/2033597630379405763",
+              "start": 281,
+              "url": "https://t.co/n2LuLxhYrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033722051383677081",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I don’t understand a certain type of figure within the European reformist left.\n\nYoung people who are practically anti-left, who treat any critical stance toward Israel as something “extreme,” and who even propose cordons sanitaires against democratic parties simply for declaring themselves anti-Zionist or for criticizing Zionism.\n\nIf that is your political position, honestly:\nwhy be in the social-democratic left?\n\nFor that, there are already liberals, the centre-right, or even conservative parties. And if none of those convince you, you can always build something of your own.\n\nWhat is difficult to understand is joining parties that have historically been a motor of social transformation, only to then try to empty them of their political substance.\n\nAnd then people wonder why parties like the SPD are now at historic lows in some places (5–6% in Baden-Württemberg, around 14-15% nationally).\n\nMaybe that has something to do with it.\n\nBecause if declaring anti-Zionism, or even arguing that Zionism can involve racial or colonial dynamics, is treated as an extreme threat that justifies cordons sanitaires against democratic and ideologically related forces like Die Linke… then the problem is not with those of us who defend these positions.\n\nSo I honestly wonder what they must think of their Spanish socialist counterparts. Many of us — myself included — are deeply pro-Palestinian across the party, especially in the youth organizations, where there are many currents openly discussing ideas such as a one-state solution.\n\nI suppose that, to them, we must look like outright antisemites and little less than a public danger 🤷‍♂️"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033597630379405763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I don’t understand a certain type of figure within the European reformist left.\n\nYoung people who are practically anti-left, who treat any critical stance toward Israel as something “extreme,” and who even propose cordons sanitaires against democratic parties simply for declaring https://t.co/n2LuLxhYrg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3031,
+          "following_count": 1978,
+          "like_count": 39828,
+          "listed_count": 16,
+          "media_count": 1402,
+          "tweet_count": 20231
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T17:51:20.000Z",
+        "description": "19 | Member of @JSE_ORG, @PSOE and @Federalists | Social democrat | For the many, not the few | 🚫 Fascism | 🇺🇦🇵🇸🇻🇦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "JSE_ORG"
+              },
+              {
+                "end": 30,
+                "start": 25,
+                "username": "PSOE"
+              },
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Federalists"
+              }
+            ]
+          }
+        },
+        "id": "1611057683989205011",
+        "location": "🇪🇸🇪🇺",
+        "name": "Alejandro🌹🇪🇺",
+        "pinned_tweet_id": "2032411589031219339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980692672797962240/FRVct7Ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3261,
+          "following_count": 4280,
+          "like_count": 71114,
+          "listed_count": 33,
+          "media_count": 2643,
+          "tweet_count": 26890
+        },
+        "username": "Alejandro_SocEU",
+        "verified": true
+      }
+    ]
+  }
+}

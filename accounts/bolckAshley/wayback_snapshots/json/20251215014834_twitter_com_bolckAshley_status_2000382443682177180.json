@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2000341702868074815",
+    "created_at": "2025-12-15T01:48:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T02:48:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000382443682177180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1768332499510558723",
+          "start": 0,
+          "username": "MiaoMiaoLuCute"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000382443682177180",
+    "in_reply_to_user_id": "1768332499510558723",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000341702868074815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoMiaoLuCute 怎麼沒有iOS26"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2000341702868074815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2000341702868074815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2000341702868074815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2000341702868074815",
+        "created_at": "2025-12-15T01:48:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T02:48:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000382443682177180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1768332499510558723",
+              "start": 0,
+              "username": "MiaoMiaoLuCute"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000382443682177180",
+        "in_reply_to_user_id": "1768332499510558723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000341702868074815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoMiaoLuCute 怎麼沒有iOS26"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998201005243346944/ggX2eX2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2788,
+          "following_count": 1940,
+          "like_count": 36140,
+          "listed_count": 12,
+          "media_count": 1231,
+          "tweet_count": 17998
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T17:45:05.000Z",
+        "description": "中国人🇨🇳 ｜城乡结合部｜养病中｜本土自由派｜劳保｜LGBT不友好｜文化基督徒｜叛教者｜无神论者｜喜多@inoueerii｜星野@QiangGuoYouZi｜小娃梓@Azkawayi｜老台@er_nian3109",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 51,
+                "username": "inoueerii"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "QiangGuoYouZi"
+              },
+              {
+                "end": 91,
+                "start": 82,
+                "username": "Azkawayi"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "er_nian3109"
+              }
+            ]
+          }
+        },
+        "id": "1768332499510558723",
+        "location": "中国",
+        "name": "喵喵露今天吃什么🐱",
+        "pinned_tweet_id": "1905253658297848206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998552613978357760/sGbrshP__normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 996,
+          "like_count": 27878,
+          "listed_count": 6,
+          "media_count": 595,
+          "tweet_count": 6213
+        },
+        "username": "MiaoMiaoLuCute",
+        "verified": false
+      }
+    ]
+  }
+}

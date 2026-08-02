@@ -1,0 +1,666 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      }
+    ],
+    "conversation_id": "1912436757003661386",
+    "created_at": "2025-04-16T09:23:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T10:23:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912436757003661386"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 119,
+          "normalized_text": "Turkey",
+          "probability": 0.9684,
+          "start": 114,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 120,
+          "start": 113,
+          "tag": "Turkey"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 75,
+          "id": "422861505",
+          "start": 60,
+          "username": "ekrem_imamoglu"
+        }
+      ],
+      "urls": [
+        {
+          "description": "My arrest in the government’s attempt to crush dissent shows how important the stability of my country is",
+          "display_url": "ft.com/content/4bf403…",
+          "end": 36,
+          "expanded_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+          "images": [
+            {
+              "height": 394,
+              "url": "https://pbs.twimg.com/news_img/1912356746649034752/HluWFWXL?format=jpg&name=orig",
+              "width": 700
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1912356746649034752/HluWFWXL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "Why Turkey’s democratic future matters for the world",
+          "unwound_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+          "url": "https://t.co/QGJuZlrRaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912436757003661386",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 37
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912423496493232629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: https://t.co/QGJuZlrRaN\nWe stand firmly behind @ekrem_imamoglu in his struggle against autocracy in #Turkey. \nIn his op-ed in…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          }
+        ],
+        "conversation_id": "1912436757003661386",
+        "created_at": "2025-04-16T09:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T10:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912436757003661386"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 119,
+              "normalized_text": "Turkey",
+              "probability": 0.9684,
+              "start": 114,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 120,
+              "start": 113,
+              "tag": "Turkey"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 75,
+              "id": "422861505",
+              "start": 60,
+              "username": "ekrem_imamoglu"
+            }
+          ],
+          "urls": [
+            {
+              "description": "My arrest in the government’s attempt to crush dissent shows how important the stability of my country is",
+              "display_url": "ft.com/content/4bf403…",
+              "end": 36,
+              "expanded_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+              "images": [
+                {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/news_img/1912356746649034752/HluWFWXL?format=jpg&name=orig",
+                  "width": 700
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1912356746649034752/HluWFWXL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "Why Turkey’s democratic future matters for the world",
+              "unwound_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+              "url": "https://t.co/QGJuZlrRaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912436757003661386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 37
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912423496493232629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: https://t.co/QGJuZlrRaN\nWe stand firmly behind @ekrem_imamoglu in his struggle against autocracy in #Turkey. \nIn his op-ed in…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1585285924069335040",
+              "name": "Business & finance news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585285924069335040",
+              "name": "Business & finance news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029267663",
+              "name": "Financial Times"
+            }
+          }
+        ],
+        "conversation_id": "1912423496493232629",
+        "created_at": "2025-04-16T08:31:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T09:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912423496493232629"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 106,
+              "normalized_text": "Turkey",
+              "probability": 0.9645,
+              "start": 101,
+              "type": "Place"
+            },
+            {
+              "end": 231,
+              "normalized_text": "Turkey",
+              "probability": 0.9532,
+              "start": 226,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 107,
+              "start": 100,
+              "tag": "Turkey"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "422861505",
+              "start": 47,
+              "username": "ekrem_imamoglu"
+            },
+            {
+              "end": 133,
+              "id": "18949452",
+              "start": 130,
+              "username": "FT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "My arrest in the government’s attempt to crush dissent shows how important the stability of my country is",
+              "display_url": "ft.com/content/4bf403…",
+              "end": 23,
+              "expanded_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+              "images": [
+                {
+                  "height": 394,
+                  "url": "https://pbs.twimg.com/news_img/1912356746649034752/HluWFWXL?format=jpg&name=orig",
+                  "width": 700
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1912356746649034752/HluWFWXL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Why Turkey’s democratic future matters for the world",
+              "unwound_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+              "url": "https://t.co/QGJuZlrRaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912423496493232629",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 100,
+                "tag": "Turkey"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 62,
+                "id": "422861505",
+                "start": 47,
+                "username": "ekrem_imamoglu"
+              },
+              {
+                "end": 133,
+                "id": "18949452",
+                "start": 130,
+                "username": "FT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ft.com/content/4bf403…",
+                "end": 23,
+                "expanded_url": "https://www.ft.com/content/4bf40350-ea4f-4b24-b8a1-c85d9277e6cc",
+                "start": 0,
+                "url": "https://t.co/8Ep0bebWBG"
+              }
+            ]
+          },
+          "text": "https://t.co/8Ep0bebWBG\nWe stand firmly behind @ekrem_imamoglu in his struggle against autocracy in #Turkey. \nIn his op-ed in the @FT, his message shines brightly, his false imprisonment has triggered a political awakening in Turkey. Hundreds of thousands are standing up for what’s right - disproving the myth that authoritarianism is Turkey’s natural condition."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1674,
+          "like_count": 131,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/QGJuZlrRaN\nWe stand firmly behind @ekrem_imamoglu in his struggle against autocracy in #Turkey. \nIn his op-ed in the @FT, his message shines brightly, his false imprisonment has triggered a political awakening in Turkey. Hundreds of thousands are standing up for"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2370,
+          "following_count": 1735,
+          "like_count": 25410,
+          "listed_count": 10,
+          "media_count": 866,
+          "tweet_count": 13349
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg254vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg254vV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7kqHo"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80052,
+          "following_count": 5295,
+          "like_count": 8779,
+          "listed_count": 1045,
+          "media_count": 8173,
+          "tweet_count": 51028
+        },
+        "url": "https://t.co/W9LaJ7kqHo",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-27T19:45:16.000Z",
+        "description": "İstanbul Büyükşehir Belediye Başkanı / Mayor of İstanbul | Türkiye Belediyeler Birliği Başkanı | For tweets in English, follow: @imamoglu_int",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "imamoglu_int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ekremimamoglu.com",
+                "end": 23,
+                "expanded_url": "https://www.ekremimamoglu.com",
+                "start": 0,
+                "url": "https://t.co/5oah01d2UP"
+              }
+            ]
+          }
+        },
+        "id": "422861505",
+        "location": "İstanbul Büyükşehir Belediyesi",
+        "name": "Ekrem İmamoğlu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558009149530800128/nIihF5ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9756796,
+          "following_count": 828,
+          "like_count": 10585,
+          "listed_count": 3436,
+          "media_count": 15455,
+          "tweet_count": 29778
+        },
+        "url": "https://t.co/5oah01d2UP",
+        "username": "ekrem_imamoglu",
+        "verified": true
+      }
+    ]
+  }
+}

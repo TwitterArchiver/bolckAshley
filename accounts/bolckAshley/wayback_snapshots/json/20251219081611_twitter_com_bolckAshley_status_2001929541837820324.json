@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2001929541837820324",
+    "created_at": "2025-12-19T08:16:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:16:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001929541837820324"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "EU",
+          "probability": 0.9798,
+          "start": 70,
+          "type": "Place"
+        },
+        {
+          "end": 128,
+          "normalized_text": "Ukraine",
+          "probability": 0.9543,
+          "start": 122,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1222773302441148416",
+          "start": 3,
+          "username": "visegrad24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001929541837820324",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001877105014190567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @visegrad24: BREAKING:\n\nAfter negotiating long into the night, the EU announces it has decided to send $106 billion to Ukraine in 2026 a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 864,
+        "media_key": "3_2001877099297054720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gYnYuXIAA2PwV.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2001929541837820324",
+        "created_at": "2025-12-19T08:16:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:16:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001929541837820324"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "EU",
+              "probability": 0.9798,
+              "start": 70,
+              "type": "Place"
+            },
+            {
+              "end": 128,
+              "normalized_text": "Ukraine",
+              "probability": 0.9543,
+              "start": 122,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1222773302441148416",
+              "start": 3,
+              "username": "visegrad24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001929541837820324",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001877105014190567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @visegrad24: BREAKING:\n\nAfter negotiating long into the night, the EU announces it has decided to send $106 billion to Ukraine in 2026 a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001877099297054720"
+          ]
+        },
+        "author_id": "1222773302441148416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "2001877105014190567",
+        "created_at": "2025-12-19T04:47:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T05:47:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001877105014190567"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "EU",
+              "probability": 0.9819,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "Ukraine",
+              "probability": 0.96,
+              "start": 106,
+              "type": "Place"
+            },
+            {
+              "end": 181,
+              "normalized_text": "Russia",
+              "probability": 0.9702,
+              "start": 176,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/umxggtBp2v",
+              "end": 212,
+              "expanded_url": "https://x.com/visegrad24/status/2001877105014190567/photo/1",
+              "media_key": "3_2001877099297054720",
+              "start": 189,
+              "url": "https://t.co/umxggtBp2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001877105014190567",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 43824,
+          "like_count": 1562,
+          "quote_count": 21,
+          "reply_count": 130,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING:\n\nAfter negotiating long into the night, the EU announces it has decided to send $106 billion to Ukraine in 2026 and 2027 to keep the state afloat during the war with Russia\n\n🇪🇺🇺🇦 https://t.co/umxggtBp2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998201005243346944/ggX2eX2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 1939,
+          "like_count": 36339,
+          "listed_count": 13,
+          "media_count": 1238,
+          "tweet_count": 18066
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-30T06:48:04.000Z",
+        "description": "Aggregating and curating news, politics and current affairs.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Visegrad_24",
+                "end": 23,
+                "expanded_url": "http://t.me/Visegrad_24",
+                "start": 0,
+                "url": "https://t.co/O43XinLP5N"
+              }
+            ]
+          }
+        },
+        "id": "1222773302441148416",
+        "location": "Visegrad",
+        "name": "Visegrád 24",
+        "pinned_tweet_id": "2001698614234747059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875625827674591232/OBzjRIZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484480,
+          "following_count": 2120,
+          "like_count": 103726,
+          "listed_count": 10415,
+          "media_count": 53563,
+          "tweet_count": 86625
+        },
+        "url": "https://t.co/O43XinLP5N",
+        "username": "visegrad24",
+        "verified": true
+      }
+    ]
+  }
+}

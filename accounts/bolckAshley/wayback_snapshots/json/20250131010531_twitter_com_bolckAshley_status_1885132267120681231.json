@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1885023037525024779",
+    "created_at": "2025-01-31T01:05:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T02:05:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885132267120681231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885132267120681231",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885023037525024779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 好了，準備去看看這本書了（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1885023037525024779].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1885023037525024779",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1885023037525024779"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1885023037525024779",
+        "created_at": "2025-01-31T01:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T02:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885132267120681231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885132267120681231",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885023037525024779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 好了，準備去看看這本書了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 1475,
+          "like_count": 20767,
+          "listed_count": 9,
+          "media_count": 714,
+          "tweet_count": 11857
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "用浪漫瓦解国家主义的平庸的革命",
+        "id": "1794266757995343872",
+        "location": "AF可能缺少淡水",
+        "name": "☪多々良美由紀☪",
+        "pinned_tweet_id": "1825599772629282949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885034672931115008/aeCJuwmm_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 1436,
+          "like_count": 151939,
+          "listed_count": 2,
+          "media_count": 1271,
+          "tweet_count": 25721
+        },
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

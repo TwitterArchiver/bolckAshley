@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1928058256280215616",
+    "created_at": "2025-05-29T12:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-29T13:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928070373360238769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        },
+        {
+          "end": 24,
+          "id": "1710617857585999872",
+          "start": 12,
+          "username": "forcybercat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928070373360238769",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928060486806806772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 @forcybercat 他一直都是啊"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1928060486806806772].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1928060486806806772",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1928060486806806772"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1928058256280215616",
+        "created_at": "2025-05-29T12:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-29T13:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928070373360238769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            },
+            {
+              "end": 24,
+              "id": "1710617857585999872",
+              "start": 12,
+              "username": "forcybercat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928070373360238769",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928060486806806772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 @forcybercat 他一直都是啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 1838,
+          "like_count": 28100,
+          "listed_count": 10,
+          "media_count": 931,
+          "tweet_count": 14152
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "Večeras ponosno, sjećaju se mudžahidi,\nBraće što su za Bosnu pali k’o šehidi.",
+        "id": "1794266757995343872",
+        "name": "☪خالد بن الوليد‎☪",
+        "pinned_tweet_id": "1909153297228849156",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928034349657772032/zn4cQuHC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 1399,
+          "like_count": 196679,
+          "listed_count": 2,
+          "media_count": 1774,
+          "tweet_count": 36980
+        },
+        "username": "miyuki_114",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-07T11:28:39.000Z",
+        "description": "🏳️",
+        "id": "1710617857585999872",
+        "location": "Manchester, England",
+        "name": "✞NaNa✞",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925582622303952896/s2fZcmxP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 848,
+          "like_count": 14142,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 10459
+        },
+        "username": "forcybercat",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1919387733522317620",
+    "created_at": "2025-05-05T16:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-05T17:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1919423245360496966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1670362954590728197",
+          "start": 0,
+          "username": "Kagurazakahyoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1919423245360496966",
+    "in_reply_to_user_id": "1670362954590728197",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919387733522317620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kagurazakahyoto 啊？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919387733522317620].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919387733522317620",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1919387733522317620"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1919387733522317620",
+        "created_at": "2025-05-05T16:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-05T17:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1919423245360496966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1670362954590728197",
+              "start": 0,
+              "username": "Kagurazakahyoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1919423245360496966",
+        "in_reply_to_user_id": "1670362954590728197",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919387733522317620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kagurazakahyoto 啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2435,
+          "following_count": 1801,
+          "like_count": 26526,
+          "listed_count": 10,
+          "media_count": 895,
+          "tweet_count": 13674
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-18T09:29:12.000Z",
+        "description": "07| MTX🏳️‍⚧️|:HRT：2025/01/14|无证含糖｜Asexuality｜🍋@kiriyama_lemon清酱@heiwawomamore妈妈@asahi_jx 小语@charming_xiaoyu杂鱼兰@Inwal3310 姐姐@VicoOci",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "kiriyama_lemon"
+              },
+              {
+                "end": 77,
+                "start": 63,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 88,
+                "start": 79,
+                "username": "asahi_jx"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "charming_xiaoyu"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Inwal3310"
+              },
+              {
+                "end": 131,
+                "start": 123,
+                "username": "VicoOci"
+              }
+            ]
+          }
+        },
+        "id": "1670362954590728197",
+        "location": "土星",
+        "name": "神樂坂 溫原🍥🏳️‍⚧️🌂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918737542113021952/svJoWWN9_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1055,
+          "like_count": 11168,
+          "listed_count": 2,
+          "media_count": 332,
+          "tweet_count": 2699
+        },
+        "username": "Kagurazakahyoto",
+        "verified": false
+      }
+    ]
+  }
+}

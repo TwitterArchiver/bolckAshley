@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+          "id": "917322098720174080",
+          "name": "California wildfires"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+          "id": "917322098720174080",
+          "name": "California wildfires"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "175",
+          "name": "Emergency Events"
+        },
+        "entity": {
+          "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+          "id": "917322098720174080",
+          "name": "California wildfires"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "1877664258051162494",
+    "created_at": "2025-01-10T10:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T11:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877664258051162494"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 97,
+          "normalized_text": "California",
+          "probability": 0.9915,
+          "start": 88,
+          "type": "Place"
+        },
+        {
+          "end": 106,
+          "normalized_text": "KMT",
+          "probability": 0.5243,
+          "start": 104,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062560079847682048",
+          "start": 3,
+          "username": "kuomintang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877664258051162494",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877637580675780970",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuomintang: Our thoughts are with everyone affected by the devastating wildfires in California. The KMT stands in solidarity with the p…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+              "id": "917322098720174080",
+              "name": "California wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+              "id": "917322098720174080",
+              "name": "California wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+              "id": "917322098720174080",
+              "name": "California wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "1877664258051162494",
+        "created_at": "2025-01-10T10:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T11:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877664258051162494"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 97,
+              "normalized_text": "California",
+              "probability": 0.9915,
+              "start": 88,
+              "type": "Place"
+            },
+            {
+              "end": 106,
+              "normalized_text": "KMT",
+              "probability": 0.5243,
+              "start": 104,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062560079847682048",
+              "start": 3,
+              "username": "kuomintang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877664258051162494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877637580675780970",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuomintang: Our thoughts are with everyone affected by the devastating wildfires in California. The KMT stands in solidarity with the p…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1062560079847682048",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+              "id": "917322098720174080",
+              "name": "California wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+              "id": "917322098720174080",
+              "name": "California wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "175",
+              "name": "Emergency Events"
+            },
+            "entity": {
+              "description": "News and conversation about California wildfires. Evergreen topic, tuning will reflect updates.",
+              "id": "917322098720174080",
+              "name": "California wildfires"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "1877637580675780970",
+        "created_at": "2025-01-10T08:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T09:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877637580675780970"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "California",
+              "probability": 0.9934,
+              "start": 72,
+              "type": "Place"
+            },
+            {
+              "end": 90,
+              "normalized_text": "KMT",
+              "probability": 0.5913,
+              "start": 88,
+              "type": "Organization"
+            },
+            {
+              "end": 139,
+              "normalized_text": "U.S.",
+              "probability": 0.9568,
+              "start": 136,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877637580675780970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 946,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Our thoughts are with everyone affected by the devastating wildfires in California. The KMT stands in solidarity with the people of the U.S. during this difficult time and hopes for a swift recovery. Our appreciation goes to all the first responders and please stay safe. 🇹🇼🤝🇺🇸"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873288350636924928/v2jyeQ24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2066,
+          "following_count": 1397,
+          "like_count": 19421,
+          "listed_count": 8,
+          "media_count": 668,
+          "tweet_count": 11373
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T04:17:19.000Z",
+        "description": "中國國民黨為一個具有完美理想與悠久歷史的政黨。完美之理想在於建設中華民國成為一個自由、民主、富強、尊嚴的現代化國家；悠久之歷史，就是為實現此一完美理想而奮鬥匪懈的光榮記錄。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/i1VppDUGGu"
+              }
+            ]
+          }
+        },
+        "id": "1062560079847682048",
+        "location": "Taipei City, Taiwan (R.O.C.)",
+        "name": "中國國民黨 KMT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315971947210010624/rz-JUhg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91065,
+          "following_count": 160,
+          "like_count": 876,
+          "listed_count": 350,
+          "media_count": 500,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/i1VppDUGGu",
+        "username": "kuomintang",
+        "verified": false
+      }
+    ]
+  }
+}

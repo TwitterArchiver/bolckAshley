@@ -1,0 +1,723 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1985971533819592817",
+    "created_at": "2025-11-05T07:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T08:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985971533819592817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "216776631",
+          "start": 3,
+          "username": "BernieSanders"
+        },
+        {
+          "end": 63,
+          "id": "266980765",
+          "start": 48,
+          "username": "ZohranKMamdani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985971533819592817",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14826
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985903291444728204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BernieSanders: Starting at 1% in the polls, @ZohranKMamdani pulled off one of the great political upsets in modern American history.\n\nY…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1985903287535579136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G49YhKvWsAA95vu.jpg",
+        "width": 1638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1985971533819592817",
+        "created_at": "2025-11-05T07:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T08:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985971533819592817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "216776631",
+              "start": 3,
+              "username": "BernieSanders"
+            },
+            {
+              "end": 63,
+              "id": "266980765",
+              "start": 48,
+              "username": "ZohranKMamdani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985971533819592817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14826
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985903291444728204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BernieSanders: Starting at 1% in the polls, @ZohranKMamdani pulled off one of the great political upsets in modern American history.\n\nY…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985903287535579136"
+          ]
+        },
+        "author_id": "216776631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1985903291444728204",
+        "created_at": "2025-11-05T02:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T03:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985903291444728204"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 235,
+              "normalized_text": "Zohran",
+              "probability": 0.6606,
+              "start": 230,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 44,
+              "id": "266980765",
+              "start": 29,
+              "username": "ZohranKMamdani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dHUP6Yo5xv",
+              "end": 300,
+              "expanded_url": "https://x.com/BernieSanders/status/1985903291444728204/photo/1",
+              "media_key": "3_1985903287535579136",
+              "start": 277,
+              "url": "https://t.co/dHUP6Yo5xv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985903291444728204",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1835,
+          "impression_count": 1649530,
+          "like_count": 148925,
+          "quote_count": 741,
+          "reply_count": 4439,
+          "retweet_count": 14826
+        },
+        "reply_settings": "everyone",
+        "text": "Starting at 1% in the polls, @ZohranKMamdani pulled off one of the great political upsets in modern American history.\n\nYes. We CAN create a government that represents working people and not the 1%.\n\nI look forward to working with Zohran as he builds a city that works for all. https://t.co/dHUP6Yo5xv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 2028,
+          "like_count": 34874,
+          "listed_count": 12,
+          "media_count": 1182,
+          "tweet_count": 17307
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-17T17:53:52.000Z",
+        "description": "U.S. Senator for Vermont. Not me, us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BernieSanders.com",
+                "end": 23,
+                "expanded_url": "https://BernieSanders.com",
+                "start": 0,
+                "url": "https://t.co/jpg8Sp1GhR"
+              }
+            ]
+          }
+        },
+        "id": "216776631",
+        "location": "Vermont",
+        "name": "Bernie Sanders",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14882230,
+          "following_count": 1388,
+          "like_count": 901,
+          "listed_count": 23041,
+          "media_count": 4595,
+          "tweet_count": 22306
+        },
+        "url": "https://t.co/jpg8Sp1GhR",
+        "username": "BernieSanders",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-16T03:57:57.000Z",
+        "description": "Democratic Nominee for Mayor of NYC. Assemblymember. Running to make this city affordable. Democratic Socialist. Early Voting: 10/25 - 11/2. Election Day: 11/4.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ZohranKMamdani",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ZohranKMamdani",
+                "start": 0,
+                "url": "https://t.co/YFSiSG6SLB"
+              }
+            ]
+          }
+        },
+        "id": "266980765",
+        "location": "Astoria, Queens",
+        "name": "Zohran Kwame Mamdani",
+        "pinned_tweet_id": "1849027572006281727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938972577415733249/Oy7_tlj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 858496,
+          "following_count": 996,
+          "like_count": 50567,
+          "listed_count": 1823,
+          "media_count": 3491,
+          "tweet_count": 17172
+        },
+        "url": "https://t.co/YFSiSG6SLB",
+        "username": "ZohranKMamdani",
+        "verified": true
+      }
+    ]
+  }
+}

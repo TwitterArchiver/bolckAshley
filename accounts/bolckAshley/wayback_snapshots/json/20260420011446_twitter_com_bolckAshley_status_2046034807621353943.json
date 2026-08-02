@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046034805440274433"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2046034807621353943",
+    "created_at": "2026-04-20T01:14:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:14:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046034807621353943"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 9,
+          "start": 0,
+          "tag": "Bulgaria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dFc0B6icUO",
+          "end": 181,
+          "expanded_url": "https://x.com/bolckAshley/status/2046034807621353943/photo/1",
+          "media_key": "3_2046034805440274433",
+          "start": 158,
+          "url": "https://t.co/dFc0B6icUO"
+        },
+        {
+          "display_url": "x.com/EuropeElects/s…",
+          "end": 205,
+          "expanded_url": "https://twitter.com/EuropeElects/status/2045994571541410075",
+          "start": 182,
+          "url": "https://t.co/jEZUZg42HG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046034807621353943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045994571541410075",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#Bulgaria 🇧🇬🇧🇬🇧🇬\n保加利亞政壇大地震——由前總統魯門·拉德夫領導的「進步保加利亞」在目前的開票進度為14.8%的情況下奪得了48.7%的選票，而長期主導保加利亞政壇的兩大勢力均大幅萎縮。\n「進步保加利亞」是一個經濟中左翼，文化右翼的「混合型政黨」，其與斯洛伐克的smer或者匈牙利的青民盟十分相似。 https://t.co/dFc0B6icUO https://t.co/jEZUZg42HG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2046034805440274433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT50LBaYAE8cIG.png",
+        "width": 2048
+      },
+      {
+        "height": 700,
+        "media_key": "3_2045994568177631232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGTVODibQAA9asO.jpg",
+        "width": 1215
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046034805440274433"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2046034807621353943",
+        "created_at": "2026-04-20T01:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046034807621353943"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 0,
+              "tag": "Bulgaria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dFc0B6icUO",
+              "end": 181,
+              "expanded_url": "https://x.com/bolckAshley/status/2046034807621353943/photo/1",
+              "media_key": "3_2046034805440274433",
+              "start": 158,
+              "url": "https://t.co/dFc0B6icUO"
+            },
+            {
+              "display_url": "x.com/EuropeElects/s…",
+              "end": 205,
+              "expanded_url": "https://twitter.com/EuropeElects/status/2045994571541410075",
+              "start": 182,
+              "url": "https://t.co/jEZUZg42HG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046034807621353943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045994571541410075",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#Bulgaria 🇧🇬🇧🇬🇧🇬\n保加利亞政壇大地震——由前總統魯門·拉德夫領導的「進步保加利亞」在目前的開票進度為14.8%的情況下奪得了48.7%的選票，而長期主導保加利亞政壇的兩大勢力均大幅萎縮。\n「進步保加利亞」是一個經濟中左翼，文化右翼的「混合型政黨」，其與斯洛伐克的smer或者匈牙利的青民盟十分相似。 https://t.co/dFc0B6icUO https://t.co/jEZUZg42HG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045994568177631232"
+          ]
+        },
+        "author_id": "319677725",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2045994571541410075",
+        "created_at": "2026-04-19T22:34:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T23:34:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045994571541410075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfeOjfWI5W",
+              "end": 303,
+              "expanded_url": "https://x.com/EuropeElects/status/2045994571541410075/photo/1",
+              "media_key": "3_2045994568177631232",
+              "start": 280,
+              "url": "https://t.co/XfeOjfWI5W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045994571541410075",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "europeelects.eu/bulgaria",
+                "end": 394,
+                "expanded_url": "http://europeelects.eu/bulgaria",
+                "start": 371,
+                "url": "https://t.co/l2cCUDd4yt"
+              }
+            ]
+          },
+          "text": "Bulgaria, 14.8% of votes counted:\n\nNational parliament election\n\nPB-*: 43.7% (+43.7)\nPP-DB-RE|EPP: 15.2% (+1.5)\nGERB-SDS-EPP: 12.5% (-13.9)\nV-ESN: 5.0% (-8.4)\nDPS-NN-NI: 4.4% (-7.1)\nVelichie-*: 3.5% (-0.5)\nMECh-*: 3.4% (-1.2)\nSiyanie-G/EFA: 3.2% (+3.2)\nBSPOL-S&D: 3.1% (-4.5)\nAPS-RE: 1.1% (-6.4)\nITN-ECR: 0.9% (-5.9)\nSB→ECR: 0.7% (-0.4)\n\n+/- vs. Last election results\n\n➤ https://t.co/l2cCUDd4yt"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8812,
+          "like_count": 64,
+          "quote_count": 6,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Bulgaria, 14.8% of votes counted:\n\nNational parliament election\n\nPB-*: 43.7% (+43.7)\nPP-DB-RE|EPP: 15.2% (+1.5)\nGERB-SDS-EPP: 12.5% (-13.9)\nV-ESN: 5.0% (-8.4)\nDPS-NN-NI: 4.4% (-7.1)\nVelichie-*: 3.5% (-0.5)\nMECh-*: 3.4% (-1.2)\nSiyanie-G/EFA: 3.2% (+3.2)\nBSPOL-S&amp;D: 3.1% (-4.5) https://t.co/XfeOjfWI5W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3128,
+          "following_count": 1979,
+          "like_count": 40766,
+          "listed_count": 19,
+          "media_count": 1473,
+          "tweet_count": 21292
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-18T14:55:35.000Z",
+        "description": "📊🗺🗳 Poll aggregation and election analysis in Europe #EP2029\n\n📧 contact@europeelects.eu",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "EP2029"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "europeelects.eu",
+                "end": 23,
+                "expanded_url": "http://www.europeelects.eu",
+                "start": 0,
+                "url": "https://t.co/KPiWZ2JHDQ"
+              }
+            ]
+          }
+        },
+        "id": "319677725",
+        "name": "Europe Elects",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/564496462025728002/T_yKRTbR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183259,
+          "following_count": 141,
+          "like_count": 27,
+          "listed_count": 2130,
+          "media_count": 32503,
+          "tweet_count": 51345
+        },
+        "url": "https://t.co/KPiWZ2JHDQ",
+        "username": "EuropeElects",
+        "verified": true
+      }
+    ]
+  }
+}

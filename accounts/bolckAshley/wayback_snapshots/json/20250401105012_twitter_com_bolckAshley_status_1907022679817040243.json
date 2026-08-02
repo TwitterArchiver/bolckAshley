@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1906905554607325184"
+      ],
+      "media_source_tweet_id": [
+        "1906905618616602863"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1907022679817040243",
+    "created_at": "2025-04-01T10:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T11:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907022679817040243"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Liberal",
+          "probability": 0.5082,
+          "start": 31,
+          "type": "Organization"
+        },
+        {
+          "end": 73,
+          "normalized_text": "Halton",
+          "probability": 0.4786,
+          "start": 68,
+          "type": "Person"
+        },
+        {
+          "end": 91,
+          "normalized_text": "CanadaStrong",
+          "probability": 0.6909,
+          "start": 80,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 79,
+          "tag": "CanadaStrong"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "192272849",
+          "start": 3,
+          "username": "MarkJCarney"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UcHeozYVGG",
+          "end": 116,
+          "expanded_url": "https://x.com/MarkJCarney/status/1906905618616602863/video/1",
+          "media_key": "13_1906905554607325184",
+          "start": 93,
+          "url": "https://t.co/UcHeozYVGG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907022679817040243",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 294
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906905618616602863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarkJCarney: Cheers to the Liberal team ready to fight for you, Halton. \n \n#CanadaStrong https://t.co/UcHeozYVGG"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11833,
+        "height": 1080,
+        "media_key": "13_1906905554607325184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1906905554607325184/img/5UOoLZZcBtpOQ7Bo.jpg",
+        "public_metrics": {
+          "view_count": 36368
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906905554607325184/vid/avc1/1080x1080/vAJu6ej6IoCM_eD_.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906905554607325184/vid/avc1/320x320/Fc15m8k3UcrWlYTO.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906905554607325184/pl/KrzeudDVUrjrtMjd.m3u8?tag=16&v=aab"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906905554607325184/vid/avc1/540x540/77BUlyN5ciXYEVtH.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906905554607325184/vid/avc1/720x720/PciRJV1-aL7_87vX.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906905554607325184"
+          ],
+          "media_source_tweet_id": [
+            "1906905618616602863"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "1907022679817040243",
+        "created_at": "2025-04-01T10:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907022679817040243"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Liberal",
+              "probability": 0.5082,
+              "start": 31,
+              "type": "Organization"
+            },
+            {
+              "end": 73,
+              "normalized_text": "Halton",
+              "probability": 0.4786,
+              "start": 68,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "CanadaStrong",
+              "probability": 0.6909,
+              "start": 80,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 79,
+              "tag": "CanadaStrong"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "192272849",
+              "start": 3,
+              "username": "MarkJCarney"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcHeozYVGG",
+              "end": 116,
+              "expanded_url": "https://x.com/MarkJCarney/status/1906905618616602863/video/1",
+              "media_key": "13_1906905554607325184",
+              "start": 93,
+              "url": "https://t.co/UcHeozYVGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907022679817040243",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 294
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906905618616602863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MarkJCarney: Cheers to the Liberal team ready to fight for you, Halton. \n \n#CanadaStrong https://t.co/UcHeozYVGG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906905554607325184"
+          ]
+        },
+        "author_id": "192272849",
+        "conversation_id": "1906905618616602863",
+        "created_at": "2025-04-01T03:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T04:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906905618616602863"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Liberal",
+              "probability": 0.5736,
+              "start": 14,
+              "type": "Organization"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Halton",
+              "probability": 0.5413,
+              "start": 51,
+              "type": "Person"
+            },
+            {
+              "end": 74,
+              "normalized_text": "CanadaStrong",
+              "probability": 0.6638,
+              "start": 63,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 62,
+              "tag": "CanadaStrong"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcHeozYVGG",
+              "end": 99,
+              "expanded_url": "https://x.com/MarkJCarney/status/1906905618616602863/video/1",
+              "media_key": "13_1906905554607325184",
+              "start": 76,
+              "url": "https://t.co/UcHeozYVGG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906905618616602863",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 90128,
+          "like_count": 2436,
+          "quote_count": 46,
+          "reply_count": 557,
+          "retweet_count": 294
+        },
+        "reply_settings": "everyone",
+        "text": "Cheers to the Liberal team ready to fight for you, Halton. \n \n#CanadaStrong https://t.co/UcHeozYVGG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2327,
+          "following_count": 1684,
+          "like_count": 24857,
+          "listed_count": 10,
+          "media_count": 830,
+          "tweet_count": 13063
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-18T17:26:00.000Z",
+        "description": "Prime Minister of Canada and Leader of the Liberal Party | Premier ministre du Canada et chef du Parti libéral",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "markcarney.ca",
+                "end": 23,
+                "expanded_url": "http://markcarney.ca",
+                "start": 0,
+                "url": "https://t.co/wN083ppBrC"
+              }
+            ]
+          }
+        },
+        "id": "192272849",
+        "location": "Ottawa, Canada",
+        "name": "Mark Carney",
+        "pinned_tweet_id": "1906695287000764723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881439600113012736/4Htx60in_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343188,
+          "following_count": 673,
+          "like_count": 563,
+          "listed_count": 1226,
+          "media_count": 669,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/wN083ppBrC",
+        "username": "MarkJCarney",
+        "verified": true
+      }
+    ]
+  }
+}

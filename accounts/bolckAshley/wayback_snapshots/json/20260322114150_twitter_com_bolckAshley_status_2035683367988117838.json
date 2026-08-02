@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      }
+    ],
+    "conversation_id": "2035683367988117838",
+    "created_at": "2026-03-22T11:41:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T12:41:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035683367988117838"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "Chieh Shou Hall",
+          "probability": 0.4407,
+          "start": 23,
+          "type": "Other"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Zhongzheng District",
+          "probability": 0.8398,
+          "start": 42,
+          "type": "Place"
+        },
+        {
+          "end": 68,
+          "normalized_text": "Taipei",
+          "probability": 0.9758,
+          "start": 63,
+          "type": "Place"
+        },
+        {
+          "end": 132,
+          "normalized_text": "China",
+          "probability": 0.7867,
+          "start": 128,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1698243374581501952",
+          "start": 3,
+          "username": "CLeeChennault"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035683367988117838",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035522863860793608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CLeeChennault: The Chieh Shou Hall in Zhongzheng District, Taipei lit up with neon lights in celebration of the Republic of China's Dou…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2035522849553723392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-hPzvXMAAfrb9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2035683367988117838",
+        "created_at": "2026-03-22T11:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T12:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035683367988117838"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Chieh Shou Hall",
+              "probability": 0.4407,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Zhongzheng District",
+              "probability": 0.8398,
+              "start": 42,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Taipei",
+              "probability": 0.9758,
+              "start": 63,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "China",
+              "probability": 0.7867,
+              "start": 128,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1698243374581501952",
+              "start": 3,
+              "username": "CLeeChennault"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035683367988117838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035522863860793608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CLeeChennault: The Chieh Shou Hall in Zhongzheng District, Taipei lit up with neon lights in celebration of the Republic of China's Dou…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035522849553723392"
+          ]
+        },
+        "author_id": "1698243374581501952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2035522863860793608",
+        "created_at": "2026-03-22T01:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T02:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035522863860793608"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Chieh Shou Hall",
+              "probability": 0.4529,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Zhongzheng District",
+              "probability": 0.8596,
+              "start": 23,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Taipei",
+              "probability": 0.9741,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 113,
+              "normalized_text": "China",
+              "probability": 0.8345,
+              "start": 109,
+              "type": "Place"
+            },
+            {
+              "end": 163,
+              "normalized_text": "Begonia Leaf",
+              "probability": 0.4666,
+              "start": 152,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8fv4agf0Q8",
+              "end": 229,
+              "expanded_url": "https://x.com/CLeeChennault/status/2035522863860793608/photo/1",
+              "media_key": "3_2035522849553723392",
+              "start": 206,
+              "url": "https://t.co/8fv4agf0Q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035522863860793608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 5825,
+          "like_count": 236,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "The Chieh Shou Hall in Zhongzheng District, Taipei lit up with neon lights in celebration of the Republic of China's Double Tenth Day, 1984.\n\nThe ROC's Begonia Leaf is put at the forefront of the building. https://t.co/8fv4agf0Q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐋𝐢𝐛𝐞𝐫𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🔶🌺 𝐚𝐧𝐝 𝐂𝐞𝐧𝐭𝐞𝐫𝐢𝐬𝐭⚖️🌐 ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌺🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035276166513487872/bR44e_uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 1988,
+          "like_count": 40054,
+          "listed_count": 16,
+          "media_count": 1420,
+          "tweet_count": 20448
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-03T07:55:56.000Z",
+        "description": "Republic of China & Kuomintang Archive (1920s-1980s) / Chiang Kai-shek Thought Connoisseur / White Sun, Blue Sky, Wholly Red Earth",
+        "id": "1698243374581501952",
+        "location": "ROC / Zhonghua Minguo 中華民國",
+        "name": "Claire Lee Chennault ❂",
+        "pinned_tweet_id": "2020831251373175158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014676956571447296/ovtongY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4407,
+          "following_count": 253,
+          "like_count": 8311,
+          "listed_count": 9,
+          "media_count": 1387,
+          "tweet_count": 4071
+        },
+        "username": "CLeeChennault",
+        "verified": true
+      }
+    ]
+  }
+}

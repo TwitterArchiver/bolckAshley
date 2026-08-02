@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2027770285169250469",
+    "created_at": "2026-02-28T15:38:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:38:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027770285169250469"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "PES",
+          "probability": 0.6234,
+          "start": 17,
+          "type": "Organization"
+        },
+        {
+          "end": 80,
+          "normalized_text": "US",
+          "probability": 0.9592,
+          "start": 79,
+          "type": "Place"
+        },
+        {
+          "end": 91,
+          "normalized_text": "Israel",
+          "probability": 0.9613,
+          "start": 86,
+          "type": "Place"
+        },
+        {
+          "end": 104,
+          "normalized_text": "Iran",
+          "probability": 0.9534,
+          "start": 101,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027770285169250469",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027750694720024662",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: The PES rejects the unilateral military actions undertaken by the US and Israel against Iran. This is a dangerous escalation a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2027750642002104321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQEdyWbEAE6MyH.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2027770285169250469",
+        "created_at": "2026-02-28T15:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027770285169250469"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "PES",
+              "probability": 0.6234,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 80,
+              "normalized_text": "US",
+              "probability": 0.9592,
+              "start": 79,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Israel",
+              "probability": 0.9613,
+              "start": 86,
+              "type": "Place"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Iran",
+              "probability": 0.9534,
+              "start": 101,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027770285169250469",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027750694720024662",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: The PES rejects the unilateral military actions undertaken by the US and Israel against Iran. This is a dangerous escalation a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027750642002104321"
+          ]
+        },
+        "author_id": "21100803",
+        "conversation_id": "2027750694720024662",
+        "created_at": "2026-02-28T14:20:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:20:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027750694720024662"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "PES",
+              "probability": 0.6036,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 67,
+              "normalized_text": "US",
+              "probability": 0.9711,
+              "start": 66,
+              "type": "Place"
+            },
+            {
+              "end": 78,
+              "normalized_text": "Israel",
+              "probability": 0.9654,
+              "start": 73,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "Iran",
+              "probability": 0.9498,
+              "start": 88,
+              "type": "Place"
+            },
+            {
+              "end": 273,
+              "normalized_text": "Guard",
+              "probability": 0.4933,
+              "start": 269,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uudCDQflQL",
+              "end": 298,
+              "expanded_url": "https://x.com/PES_PSE/status/2027750694720024662/photo/1",
+              "media_key": "3_2027750642002104321",
+              "start": 275,
+              "url": "https://t.co/uudCDQflQL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027750694720024662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The PES rejects the unilateral military actions undertaken by the US and Israel against Iran. This is a dangerous escalation and contributes to a more volatile and hostile international order. We likewise condemn the actions of the Iranian regime and the Revolutionary Guard towards the neighbouring countries, and most of all against the people of Iran.\nWe call for immediate de-escalation and total adherence to international law. It is time to replace military force with meaningful dialogue to secure a peaceful, lasting political solution across the whole Middle East."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1014,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "The PES rejects the unilateral military actions undertaken by the US and Israel against Iran. This is a dangerous escalation and contributes to a more volatile and hostile international order. We likewise condemn the actions of the Iranian regime and the Revolutionary Guard https://t.co/uudCDQflQL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 1981,
+          "like_count": 38852,
+          "listed_count": 16,
+          "media_count": 1357,
+          "tweet_count": 19577
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79239,
+          "following_count": 5274,
+          "like_count": 8938,
+          "listed_count": 1039,
+          "media_count": 8658,
+          "tweet_count": 51770
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      }
+    ]
+  }
+}

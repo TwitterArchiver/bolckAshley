@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1894898251264073728"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1894641975426781700",
+    "created_at": "2025-02-26T23:52:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T00:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1894898261179408836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1286274860214128641",
+          "start": 0,
+          "username": "EricaGPT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1UHaCakKen",
+          "end": 33,
+          "expanded_url": "https://x.com/bolckAshley/status/1894898261179408836/photo/1",
+          "media_key": "16_1894898251264073728",
+          "start": 10,
+          "url": "https://t.co/1UHaCakKen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1894898261179408836",
+    "in_reply_to_user_id": "1286274860214128641",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894806507147198710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EricaGPT https://t.co/1UHaCakKen"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1894806507147198710].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1894806507147198710",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1894806507147198710"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 200,
+        "media_key": "16_1894898251264073728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/GkwH64AaoAAbC_c.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/GkwH64AaoAAbC_c.mp4"
+          }
+        ],
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1894898251264073728"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "1894641975426781700",
+        "created_at": "2025-02-26T23:52:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T00:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1894898261179408836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1286274860214128641",
+              "start": 0,
+              "username": "EricaGPT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1UHaCakKen",
+              "end": 33,
+              "expanded_url": "https://x.com/bolckAshley/status/1894898261179408836/photo/1",
+              "media_key": "16_1894898251264073728",
+              "start": 10,
+              "url": "https://t.co/1UHaCakKen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894898261179408836",
+        "in_reply_to_user_id": "1286274860214128641",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894806507147198710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EricaGPT https://t.co/1UHaCakKen"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 1586,
+          "like_count": 22672,
+          "listed_count": 9,
+          "media_count": 766,
+          "tweet_count": 12402
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-23T12:20:07.000Z",
+        "description": "我没有叫Erica的其他账号，请注意辨别。永远在看着你👁️👁️@KoNya14056。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 31,
+                "username": "KoNya14056"
+              }
+            ]
+          }
+        },
+        "id": "1286274860214128641",
+        "location": "利伯塔利亚",
+        "name": "𝐄𝐫𝐢𝐜𝐚大语言模型",
+        "pinned_tweet_id": "1892869669570408956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877114294510432259/nkgKPwwL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 3793,
+          "like_count": 203202,
+          "listed_count": 4,
+          "media_count": 1223,
+          "tweet_count": 8122
+        },
+        "username": "EricaGPT",
+        "verified": false
+      }
+    ]
+  }
+}

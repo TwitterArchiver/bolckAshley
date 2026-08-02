@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2017538205692923913",
+    "created_at": "2026-01-31T10:26:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T11:26:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017545003997024357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1944225210284314624",
+          "start": 0,
+          "username": "NMD_China"
+        },
+        {
+          "end": 20,
+          "id": "715183792697303041",
+          "start": 11,
+          "username": "HuoQubot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017545003997024357",
+    "in_reply_to_user_id": "1944225210284314624",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017538205692923913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NMD_China @HuoQubot"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19200,
+        "height": 1280,
+        "media_key": "13_2017538122318548995",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2017538122318548995/img/JdbdOufKhOy0TgBT.jpg",
+        "public_metrics": {
+          "view_count": 23
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017538122318548995/vid/avc1/320x568/DNxIpmRMsQ8KrLTw.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017538122318548995/vid/avc1/480x852/-m0KJNewgi2F-nk7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2017538122318548995/vid/avc1/720x1280/seuH2yEMEn5Q3700.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2017538122318548995/pl/WqXNA7tfuF8xojh4.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2017538205692923913",
+        "created_at": "2026-01-31T10:26:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T11:26:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017545003997024357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1944225210284314624",
+              "start": 0,
+              "username": "NMD_China"
+            },
+            {
+              "end": 20,
+              "id": "715183792697303041",
+              "start": 11,
+              "username": "HuoQubot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017545003997024357",
+        "in_reply_to_user_id": "1944225210284314624",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017538205692923913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NMD_China @HuoQubot"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2017538122318548995"
+          ]
+        },
+        "author_id": "1944225210284314624",
+        "conversation_id": "2017538205692923913",
+        "created_at": "2026-01-31T09:59:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T10:59:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017538205692923913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WYmoDSgl30",
+              "end": 29,
+              "expanded_url": "https://x.com/NMD_China/status/2017538205692923913/video/1",
+              "media_key": "13_2017538122318548995",
+              "start": 6,
+              "url": "https://t.co/WYmoDSgl30"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017538205692923913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自由的感觉 https://t.co/WYmoDSgl30"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2902,
+          "following_count": 1973,
+          "like_count": 37978,
+          "listed_count": 14,
+          "media_count": 1319,
+          "tweet_count": 19000
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "波尔布特|包蜜|面向未来，目光如炬|入🚪89.64|主人@TheNan19930731|不互fo找自己问题|锁推的和三无号去死|永远是你的波头鹰|加速！加速！崩溃！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 28,
+                "username": "TheNan19930731"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu75Ih"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "波头鹰🇰🇭",
+        "pinned_tweet_id": "2015484545488011424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009065279201095680/OWiNletC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 628,
+          "like_count": 106360,
+          "listed_count": 25,
+          "media_count": 977,
+          "tweet_count": 4118
+        },
+        "url": "https://t.co/APOiQu75Ih",
+        "username": "NMD_China",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-30T14:27:58.000Z",
+        "description": "在推文中提及@HuoQubot 将在几秒回复你相关视频下载链接。 请关注我 获取通知。 视频下载app https://t.co/ZPaYEgLYnp 搜一搜https://t.co/rgOAhOKZij",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "HuoQubot"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "xgetapp.com",
+                "end": 75,
+                "expanded_url": "https://xgetapp.com",
+                "start": 52,
+                "url": "https://t.co/ZPaYEgLYnp"
+              },
+              {
+                "display_url": "x-sou.com",
+                "end": 102,
+                "expanded_url": "https://x-sou.com",
+                "start": 79,
+                "url": "https://t.co/rgOAhOKZij"
+              }
+            ]
+          }
+        },
+        "id": "715183792697303041",
+        "name": "获取影片机器人",
+        "pinned_tweet_id": "2003802260862836911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805124494555750400/A_atuS58_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1345171,
+          "following_count": 113,
+          "like_count": 19,
+          "listed_count": 694,
+          "media_count": 6,
+          "tweet_count": 914886
+        },
+        "username": "HuoQubot",
+        "verified": true
+      }
+    ]
+  }
+}

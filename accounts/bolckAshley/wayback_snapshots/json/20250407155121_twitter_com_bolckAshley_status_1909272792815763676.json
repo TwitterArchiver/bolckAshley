@@ -1,0 +1,423 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1909272792815763676",
+    "created_at": "2025-04-07T15:51:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-07T16:51:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1909272792815763676"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 31,
+          "normalized_text": "Willy Brandt",
+          "probability": 0.7205,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 60,
+          "normalized_text": "EUEnlargement",
+          "probability": 0.3932,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 47,
+          "tag": "EUEnlargement"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 101,
+          "id": "463039236",
+          "start": 85,
+          "username": "giacomofilibeck"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1909272792815763676",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1909272212357455971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: At the Willy Brandt Programme for #EUEnlargement, PES Secretary General @giacomofilibeck emphasised that the position of the P…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2736,
+        "media_key": "3_1909271621694533632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gn8YbJbWMAAGFUI.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1909272792815763676",
+        "created_at": "2025-04-07T15:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T16:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1909272792815763676"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Willy Brandt",
+              "probability": 0.7205,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "EUEnlargement",
+              "probability": 0.3932,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 47,
+              "tag": "EUEnlargement"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 101,
+              "id": "463039236",
+              "start": 85,
+              "username": "giacomofilibeck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909272792815763676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1909272212357455971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: At the Willy Brandt Programme for #EUEnlargement, PES Secretary General @giacomofilibeck emphasised that the position of the P…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1909271621694533632"
+          ]
+        },
+        "author_id": "21100803",
+        "conversation_id": "1909272212357455971",
+        "created_at": "2025-04-07T15:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-07T16:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1909272212357455971"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Willy Brandt",
+              "probability": 0.5965,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 47,
+              "normalized_text": "EUEnlargement",
+              "probability": 0.4006,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "PES",
+              "probability": 0.305,
+              "start": 125,
+              "type": "Other"
+            },
+            {
+              "end": 192,
+              "normalized_text": "Balkans",
+              "probability": 0.7983,
+              "start": 186,
+              "type": "Place"
+            },
+            {
+              "end": 202,
+              "normalized_text": "Turkey",
+              "probability": 0.9292,
+              "start": 197,
+              "type": "Place"
+            },
+            {
+              "end": 237,
+              "normalized_text": "EU",
+              "probability": 0.8957,
+              "start": 236,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 34,
+              "tag": "EUEnlargement"
+            },
+            {
+              "end": 167,
+              "start": 152,
+              "tag": "WesternBalkans"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 88,
+              "id": "463039236",
+              "start": 72,
+              "username": "giacomofilibeck"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ir9RNJjstH",
+              "end": 301,
+              "expanded_url": "https://x.com/PES_PSE/status/1909272212357455971/photo/1",
+              "media_key": "3_1909271621694533632",
+              "start": 278,
+              "url": "https://t.co/ir9RNJjstH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1909272212357455971",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 34,
+                "tag": "EUEnlargement"
+              },
+              {
+                "end": 167,
+                "start": 152,
+                "tag": "WesternBalkans"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 88,
+                "id": "463039236",
+                "start": 72,
+                "username": "giacomofilibeck"
+              },
+              {
+                "end": 295,
+                "id": "19287037",
+                "start": 279,
+                "username": "TheProgressives"
+              },
+              {
+                "end": 308,
+                "id": "90379972",
+                "start": 296,
+                "username": "FEPS_Europe"
+              }
+            ]
+          },
+          "text": "At the Willy Brandt Programme for #EUEnlargement, PES Secretary General @giacomofilibeck emphasised that the position of the PES has not changed on the #WesternBalkans. From the Western Balkans to Turkey, we stand with those who defend EU values, and we will continue to do so.\n\n@TheProgressives @FEPS_Europe"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "At the Willy Brandt Programme for #EUEnlargement, PES Secretary General @giacomofilibeck emphasised that the position of the PES has not changed on the #WesternBalkans. From the Western Balkans to Turkey, we stand with those who defend EU values, and we will continue to do so. https://t.co/ir9RNJjstH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2363,
+          "following_count": 1725,
+          "like_count": 25239,
+          "listed_count": 10,
+          "media_count": 850,
+          "tweet_count": 13219
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg254vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg254vV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7kqHo"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80085,
+          "following_count": 5294,
+          "like_count": 8771,
+          "listed_count": 1046,
+          "media_count": 8163,
+          "tweet_count": 51011
+        },
+        "url": "https://t.co/W9LaJ7kqHo",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-13T17:09:46.000Z",
+        "description": "Secretary General @PES_PSE All views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 18,
+                "username": "PES_PSE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://www.pes.eu",
+                "start": 0,
+                "url": "https://t.co/3too85ciam"
+              }
+            ]
+          }
+        },
+        "id": "463039236",
+        "name": "Giacomo Filibeck",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/378800000701669643/77396a75776fe2fdf47318a903371e4f_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 542,
+          "like_count": 139,
+          "listed_count": 13,
+          "media_count": 9,
+          "tweet_count": 89
+        },
+        "url": "https://t.co/3too85ciam",
+        "username": "giacomofilibeck",
+        "verified": false
+      }
+    ]
+  }
+}

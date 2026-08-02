@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Candidate for Governor of California Gavin Newsom",
+          "id": "999344319885524992",
+          "name": "Gavin Newsom"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Candidate for Governor of California Gavin Newsom",
+          "id": "999344319885524992",
+          "name": "Gavin Newsom"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Candidate for Governor of California Gavin Newsom",
+          "id": "999344319885524992",
+          "name": "Gavin Newsom"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1955917956606779526",
+    "created_at": "2025-08-14T09:02:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T10:02:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955917956606779526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1580634879213318144",
+          "start": 3,
+          "username": "OblivionSnows"
+        },
+        {
+          "end": 31,
+          "id": "1649365408779214848",
+          "start": 19,
+          "username": "bolckAshley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955917956606779526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955914551255499152",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OblivionSnows: @bolckAshley 其实从 AOC 和 Gavin Newsom 发表一系列对抗性言行后支持度上涨这点，就可以感受到选民对于 “寻求共识” 的两党政治权力分配游戏深恶痛绝，他们渴望有政治人物能重构链式连接意义上的对抗性共同框架，整合多…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955917956606779526",
+        "created_at": "2025-08-14T09:02:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T10:02:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955917956606779526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1580634879213318144",
+              "start": 3,
+              "username": "OblivionSnows"
+            },
+            {
+              "end": 31,
+              "id": "1649365408779214848",
+              "start": 19,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955917956606779526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955914551255499152",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OblivionSnows: @bolckAshley 其实从 AOC 和 Gavin Newsom 发表一系列对抗性言行后支持度上涨这点，就可以感受到选民对于 “寻求共识” 的两党政治权力分配游戏深恶痛绝，他们渴望有政治人物能重构链式连接意义上的对抗性共同框架，整合多…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1580634879213318144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for Governor of California Gavin Newsom",
+              "id": "999344319885524992",
+              "name": "Gavin Newsom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1955871073867850132",
+        "created_at": "2025-08-14T08:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T09:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955914551255499152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955914551255499152",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955909490911666302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley 其实从 AOC 和 Gavin Newsom 发表一系列对抗性言行后支持度上涨这点，就可以感受到选民对于 “寻求共识” 的两党政治权力分配游戏深恶痛绝，他们渴望有政治人物能重构链式连接意义上的对抗性共同框架，整合多元群体并在平等性的连接中构建共有政治身份，以动员广泛民众来对抗右翼民粹的抬头"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955524388197109771/vhZnsIMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2509,
+          "following_count": 1901,
+          "like_count": 31587,
+          "listed_count": 9,
+          "media_count": 1009,
+          "tweet_count": 15586
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "霏霏雨雪梅自开，皎皎孤月挂银河。\n故梦无痕空怅惘，庭前花落又一年。\n\nLégère est la blancheur, sur la mer de neige",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oblivionsnows1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oblivionsnows1",
+                "start": 0,
+                "url": "https://t.co/VWeFTlN7Zq"
+              }
+            ]
+          }
+        },
+        "id": "1580634879213318144",
+        "location": "Abyss",
+        "name": "Oliver",
+        "pinned_tweet_id": "1895403407005126732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903517770580684800/rdEF1jFI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 390,
+          "like_count": 20502,
+          "listed_count": 14,
+          "media_count": 334,
+          "tweet_count": 6604
+        },
+        "url": "https://t.co/VWeFTlN7Zq",
+        "username": "OblivionSnows",
+        "verified": false
+      }
+    ]
+  }
+}

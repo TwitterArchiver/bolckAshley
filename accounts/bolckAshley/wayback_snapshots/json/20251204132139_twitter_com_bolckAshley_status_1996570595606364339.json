@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1996497310474481673",
+    "created_at": "2025-12-04T13:21:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T14:21:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996570595606364339"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996570595606364339",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996497310474481673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 我也想吃😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1996497301746102273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7T7t9GaMAEiFV5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_1996497301955846144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7T7t94aoAAjo1w.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1996497310474481673",
+        "created_at": "2025-12-04T13:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T14:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996570595606364339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996570595606364339",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996497310474481673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 我也想吃😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996497301746102273",
+            "3_1996497301955846144"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Recipies/Books",
+              "id": "846736745517350912",
+              "name": "Recipes"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Vegetables",
+              "id": "842797798626009088",
+              "name": "Vegetable recipes"
+            }
+          }
+        ],
+        "conversation_id": "1996497310474481673",
+        "created_at": "2025-12-04T08:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T09:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996497310474481673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KvWbcEeTn7",
+              "end": 40,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1996497310474481673/photo/1",
+              "media_key": "3_1996497301746102273",
+              "start": 17,
+              "url": "https://t.co/KvWbcEeTn7"
+            },
+            {
+              "display_url": "pic.x.com/KvWbcEeTn7",
+              "end": 40,
+              "expanded_url": "https://x.com/SnowfairySerina/status/1996497310474481673/photo/1",
+              "media_key": "3_1996497301955846144",
+              "start": 17,
+              "url": "https://t.co/KvWbcEeTn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996497310474481673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 207,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我吃过最好的鸡天妇罗和炸野菜 https://t.co/KvWbcEeTn7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2776,
+          "following_count": 2040,
+          "like_count": 35632,
+          "listed_count": 12,
+          "media_count": 1212,
+          "tweet_count": 17663
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "无论你是谁，只要刷到我的推，都可以来喝一杯。没有个体不值得被好好对待，世界欠大家一份迟到的温柔。星空礼品店永远在你最需要的地方，不去评判，不来争论，更不吵架，只是送上蛋糕和热茶。吃喝完毕，再出发吧。祝你顺遂平安！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 千载云屏 弥星原畔",
+        "name": "🌈⛩️摇光星辰🏳️‍⚧️✨（云游之星）",
+        "pinned_tweet_id": "1996542438329250223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 852,
+          "following_count": 880,
+          "like_count": 2776,
+          "listed_count": 4,
+          "media_count": 486,
+          "tweet_count": 3558
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

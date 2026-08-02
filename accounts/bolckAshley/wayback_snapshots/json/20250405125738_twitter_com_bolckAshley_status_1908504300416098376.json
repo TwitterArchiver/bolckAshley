@@ -1,0 +1,623 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1908504300416098376",
+    "created_at": "2025-04-05T12:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T13:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908504300416098376"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 32,
+          "normalized_text": "日本",
+          "probability": 0.8726,
+          "start": 31,
+          "type": "Place"
+        },
+        {
+          "end": 52,
+          "normalized_text": "カナダ",
+          "probability": 0.9641,
+          "start": 50,
+          "type": "Place"
+        },
+        {
+          "end": 69,
+          "normalized_text": "トランプ大統領",
+          "probability": 0.6055,
+          "start": 63,
+          "type": "Person"
+        },
+        {
+          "end": 88,
+          "normalized_text": "日本",
+          "probability": 0.8346,
+          "start": 87,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "877452224",
+          "start": 3,
+          "username": "yukionoguchi10"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/egDwvhcq",
+          "end": 139,
+          "start": 118,
+          "url": "https://t.co/egDwvhcq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908504300416098376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 153
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908080384157556893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yukionoguchi10: トランプ関税に対して、日本は特別扱いを求めるのでなく、EUやカナダと共同の論陣を張り、トランプ大統領に誤りを自覚させるべきだ。他方で、日本は、国内産のコメについての保護措置を見直す必要がある。\n\nhttps://t.co/egDwvhcq…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1908504300416098376",
+        "created_at": "2025-04-05T12:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T13:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908504300416098376"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 32,
+              "normalized_text": "日本",
+              "probability": 0.8726,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 52,
+              "normalized_text": "カナダ",
+              "probability": 0.9641,
+              "start": 50,
+              "type": "Place"
+            },
+            {
+              "end": 69,
+              "normalized_text": "トランプ大統領",
+              "probability": 0.6055,
+              "start": 63,
+              "type": "Person"
+            },
+            {
+              "end": 88,
+              "normalized_text": "日本",
+              "probability": 0.8346,
+              "start": 87,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "877452224",
+              "start": 3,
+              "username": "yukionoguchi10"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/egDwvhcq",
+              "end": 139,
+              "start": 118,
+              "url": "https://t.co/egDwvhcq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908504300416098376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 153
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908080384157556893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yukionoguchi10: トランプ関税に対して、日本は特別扱いを求めるのでなく、EUやカナダと共同の論陣を張り、トランプ大統領に誤りを自覚させるべきだ。他方で、日本は、国内産のコメについての保護措置を見直す必要がある。\n\nhttps://t.co/egDwvhcq…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877452224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1908080384157556893",
+        "created_at": "2025-04-04T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1908080384157556893"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "日本",
+              "probability": 0.8606,
+              "start": 11,
+              "type": "Place"
+            },
+            {
+              "end": 32,
+              "normalized_text": "カナダ",
+              "probability": 0.962,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 49,
+              "normalized_text": "トランプ大統領",
+              "probability": 0.6047,
+              "start": 43,
+              "type": "Person"
+            },
+            {
+              "end": 68,
+              "normalized_text": "日本",
+              "probability": 0.8279,
+              "start": 67,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "トランプ大統領の関税政策がアメリカ経済を崩壊させる危機、今こそ日本はEUやカナダと手を組み、自由貿易を守るために戦うべきだ！",
+              "display_url": "gendai.media/articles/-/150…",
+              "end": 121,
+              "expanded_url": "https://gendai.media/articles/-/150328",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1907902023875641344/kzXVrquC?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1907902023875641344/kzXVrquC?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 98,
+              "status": 200,
+              "title": "トランプ関税はアメリカ国民と経済を傷つける…！「いまこそ日本はEU・カナダと共同戦線を張るべき」といえる理由（野口 悠紀雄） | 現代ビジネス | 講談社",
+              "unwound_url": "https://gendai.media/articles/-/150328",
+              "url": "https://t.co/egDwvhcqXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908080384157556893",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 15251,
+          "like_count": 529,
+          "quote_count": 14,
+          "reply_count": 36,
+          "retweet_count": 153
+        },
+        "reply_settings": "everyone",
+        "text": "トランプ関税に対して、日本は特別扱いを求めるのでなく、EUやカナダと共同の論陣を張り、トランプ大統領に誤りを自覚させるべきだ。他方で、日本は、国内産のコメについての保護措置を見直す必要がある。\n\nhttps://t.co/egDwvhcqXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2350,
+          "following_count": 1720,
+          "like_count": 25145,
+          "listed_count": 10,
+          "media_count": 847,
+          "tweet_count": 13190
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-13T09:43:39.000Z",
+        "description": "一人の伝道師として、信念を述べ続けたいと思います。\nそれが正しいと人々が認めてくれる日がいつか来ると信じて。\n\n講演・執筆・ご取材などのご連絡は、https://t.co/psizDYmvKv\nからお受けできます（リモートでの講演もお受けします）。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noguchi.co.jp",
+                "end": 96,
+                "expanded_url": "https://www.noguchi.co.jp/",
+                "start": 73,
+                "url": "https://t.co/psizDYmvKv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "noguchi.co.jp",
+                "end": 23,
+                "expanded_url": "https://www.noguchi.co.jp/",
+                "start": 0,
+                "url": "https://t.co/psizDYmvKv"
+              }
+            ]
+          }
+        },
+        "id": "877452224",
+        "name": "野口悠紀雄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/616889826831249409/rscVCQ04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51927,
+          "following_count": 17,
+          "like_count": 456,
+          "listed_count": 722,
+          "media_count": 22,
+          "tweet_count": 7450
+        },
+        "url": "https://t.co/psizDYmvKv",
+        "username": "yukionoguchi10",
+        "verified": false
+      }
+    ]
+  }
+}

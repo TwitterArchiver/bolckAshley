@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1849514207546355712",
+          "name": "2024 US Election Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1854521709027815627",
+    "created_at": "2024-11-07T13:50:05.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-07T14:50:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854521709027815627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1250295103840612352",
+          "start": 3,
+          "username": "MiryanSender"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854521709027815627",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854217464344973800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MiryanSender: 这次川普横扫各摇摆州以后，看到很多人对民主党极度失望而迅速粉转黑。民主党的施政和纲领确实存在诸多问题，但很多批评过多出于情绪化而不得要领。在大选前很久我就一直觉得情况不妙，不仅是因为Dem的策略失误，更多是难以克服的结构性问题。按照重要性顺序…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1854521709027815627",
+        "created_at": "2024-11-07T13:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-07T14:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854521709027815627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1250295103840612352",
+              "start": 3,
+              "username": "MiryanSender"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854521709027815627",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854217464344973800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MiryanSender: 这次川普横扫各摇摆州以后，看到很多人对民主党极度失望而迅速粉转黑。民主党的施政和纲领确实存在诸多问题，但很多批评过多出于情绪化而不得要领。在大选前很久我就一直觉得情况不妙，不仅是因为Dem的策略失误，更多是难以克服的结构性问题。按照重要性顺序…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1250295103840612352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1849514207546355712",
+              "name": "2024 US Election Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1854217464344973800",
+        "created_at": "2024-11-06T17:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T18:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854217464344973800"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854217464344973800",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 2129,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "这次川普横扫各摇摆州以后，看到很多人对民主党极度失望而迅速粉转黑。民主党的施政和纲领确实存在诸多问题，但很多批评过多出于情绪化而不得要领。在大选前很久我就一直觉得情况不妙，不仅是因为Dem的策略失误，更多是难以克服的结构性问题。按照重要性顺序排列，分别是经济议题、移民议题和文化议题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769,
+          "following_count": 1156,
+          "like_count": 15780,
+          "listed_count": 7,
+          "tweet_count": 10206
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-15T05:29:27.000Z",
+        "description": "Sozialdemokratie",
+        "id": "1250295103840612352",
+        "location": "Darmstadt, Germany",
+        "name": "Miryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853203045221613568/zW_dgCpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 449,
+          "like_count": 3409,
+          "listed_count": 5,
+          "tweet_count": 2937
+        },
+        "username": "MiryanSender",
+        "verified": false
+      }
+    ]
+  }
+}

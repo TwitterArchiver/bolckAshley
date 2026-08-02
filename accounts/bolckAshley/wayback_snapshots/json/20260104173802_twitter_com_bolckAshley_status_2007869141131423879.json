@@ -1,0 +1,565 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime minister (Spain)",
+          "id": "1113478076199886848",
+          "name": "Pedro Sánchez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime minister (Spain)",
+          "id": "1113478076199886848",
+          "name": "Pedro Sánchez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime minister (Spain)",
+          "id": "1113478076199886848",
+          "name": "Pedro Sánchez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516798152279425028",
+          "name": "Spain politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518658080736612352",
+          "name": "Spain political figures"
+        }
+      }
+    ],
+    "conversation_id": "2007869141131423879",
+    "created_at": "2026-01-04T17:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T18:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007869141131423879"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "Venezuela",
+          "probability": 0.9911,
+          "start": 37,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "68740712",
+          "start": 3,
+          "username": "sanchezcastejon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007869141131423879",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 843
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007857902611230927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanchezcastejon: La situación en Venezuela debe resolverse exclusivamente por vías pacíficas, mediante el diálogo, la negociación y el…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658080736612352",
+              "name": "Spain political figures"
+            }
+          }
+        ],
+        "conversation_id": "2007869141131423879",
+        "created_at": "2026-01-04T17:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T18:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007869141131423879"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Venezuela",
+              "probability": 0.9911,
+              "start": 37,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "68740712",
+              "start": 3,
+              "username": "sanchezcastejon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007869141131423879",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 843
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007857902611230927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanchezcastejon: La situación en Venezuela debe resolverse exclusivamente por vías pacíficas, mediante el diálogo, la negociación y el…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "68740712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Central Government (Spain)",
+              "id": "1115208463074750470",
+              "name": "La Moncloa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Central Government (Spain)",
+              "id": "1115208463074750470",
+              "name": "La Moncloa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658080736612352",
+              "name": "Spain political figures"
+            }
+          }
+        ],
+        "conversation_id": "2007857902611230927",
+        "created_at": "2026-01-04T16:53:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:53:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007857902611230927"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Venezuela",
+              "probability": 0.9934,
+              "start": 16,
+              "type": "Place"
+            },
+            {
+              "end": 272,
+              "normalized_text": "España",
+              "probability": 0.9702,
+              "start": 267,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007857902611230927",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "lamoncloa.gob.es/serviciosdepre…",
+                "end": 461,
+                "expanded_url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/Documents/040126%20Comunicado%20VENEZUELA.pdf",
+                "start": 438,
+                "url": "https://t.co/ff8iLZuH4o"
+              }
+            ]
+          },
+          "text": "La situación en Venezuela debe resolverse exclusivamente por vías pacíficas, mediante el diálogo, la negociación y el respeto a la voluntad del pueblo venezolano en todas sus expresiones, sin injerencias externas y en apego al derecho internacional. \n\nEl Gobierno de España, junto a los Gobiernos de Brasil, Chile, Colombia, Uruguay y México, expresamos en este comunicado nuestra preocupación frente a los hechos ocurridos en Venezuela.\nhttps://t.co/ff8iLZuH4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 140936,
+          "like_count": 3310,
+          "quote_count": 202,
+          "reply_count": 1043,
+          "retweet_count": 843
+        },
+        "reply_settings": "everyone",
+        "text": "La situación en Venezuela debe resolverse exclusivamente por vías pacíficas, mediante el diálogo, la negociación y el respeto a la voluntad del pueblo venezolano en todas sus expresiones, sin injerencias externas y en apego al derecho internacional. \n\nEl Gobierno de España, junto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 1954,
+          "like_count": 37210,
+          "listed_count": 14,
+          "media_count": 1253,
+          "tweet_count": 18438
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-25T16:45:56.000Z",
+        "description": "Presidente del Gobierno de España. Secretario gral. del @PSOE y presidente de @Soc_Intl. Padre. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 56,
+                "username": "PSOE"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Soc_Intl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lamoncloa.gob.es",
+                "end": 23,
+                "expanded_url": "http://www.lamoncloa.gob.es",
+                "start": 0,
+                "url": "https://t.co/h8b36qazCM"
+              }
+            ]
+          }
+        },
+        "id": "68740712",
+        "name": "Pedro Sánchez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939599021258969088/3wVYl0Zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029063,
+          "following_count": 5670,
+          "like_count": 4964,
+          "listed_count": 7583,
+          "media_count": 10354,
+          "tweet_count": 35060
+        },
+        "url": "https://t.co/h8b36qazCM",
+        "username": "sanchezcastejon",
+        "verified": true
+      }
+    ]
+  }
+}

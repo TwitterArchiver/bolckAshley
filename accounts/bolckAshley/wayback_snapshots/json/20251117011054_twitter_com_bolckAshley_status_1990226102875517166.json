@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1990226102875517166",
+    "created_at": "2025-11-17T01:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T02:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990226102875517166"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Jeanette Jara",
+          "probability": 0.9743,
+          "start": 21,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1275795387786448897",
+          "start": 3,
+          "username": "ClassicalSocdem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990226102875517166",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990132876612915646",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ClassicalSocdem: Jeanette Jara is backed by the largest left-of-centre alliance in 🇨🇱 history\n\nNow that’s a hell of a big tent: from co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 732,
+        "media_key": "3_1990132870770200576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G55fTUIWEAAnDbr.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1990226102875517166",
+        "created_at": "2025-11-17T01:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T02:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990226102875517166"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Jeanette Jara",
+              "probability": 0.9743,
+              "start": 21,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1275795387786448897",
+              "start": 3,
+              "username": "ClassicalSocdem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990226102875517166",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990132876612915646",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ClassicalSocdem: Jeanette Jara is backed by the largest left-of-centre alliance in 🇨🇱 history\n\nNow that’s a hell of a big tent: from co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990132870770200576"
+          ]
+        },
+        "author_id": "1275795387786448897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1990132876612915646",
+        "created_at": "2025-11-16T19:00:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T20:00:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990132876612915646"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Jeanette Jara",
+              "probability": 0.9802,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OS6No3DuBp",
+              "end": 263,
+              "expanded_url": "https://x.com/ClassicalSocdem/status/1990132876612915646/photo/1",
+              "media_key": "3_1990132870770200576",
+              "start": 240,
+              "url": "https://t.co/OS6No3DuBp"
+            },
+            {
+              "display_url": "x.com/americaelige/s…",
+              "end": 287,
+              "expanded_url": "https://twitter.com/americaelige/status/1990057272404320348",
+              "start": 264,
+              "url": "https://t.co/MPQON0OZHo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990132876612915646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 7271,
+          "like_count": 252,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990057272404320348",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Jeanette Jara is backed by the largest left-of-centre alliance in 🇨🇱 history\n\nNow that’s a hell of a big tent: from communists to christian democrats, including social democrats, demsocs and liberals\n\nWe love to see a massive popular front https://t.co/OS6No3DuBp https://t.co/MPQON0OZHo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715,
+          "following_count": 2024,
+          "like_count": 35055,
+          "listed_count": 12,
+          "media_count": 1192,
+          "tweet_count": 17408
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-24T14:18:26.000Z",
+        "description": "Italian and European 🇮🇹🇪🇺 Social Democrat🌹 Democratic/Reformist Socialist🥂",
+        "id": "1275795387786448897",
+        "location": "Northern Italy",
+        "name": "Andrea 🇮🇹🇪🇺",
+        "pinned_tweet_id": "1757772087932969143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801564091183497216/eUtjyW53_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9853,
+          "following_count": 401,
+          "like_count": 427216,
+          "listed_count": 72,
+          "media_count": 12850,
+          "tweet_count": 52995
+        },
+        "username": "ClassicalSocdem",
+        "verified": false
+      }
+    ]
+  }
+}

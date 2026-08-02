@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1864215102192537609"
+      ],
+      "media_source_tweet_id": [
+        "1864217168847782180"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1864245437252649026",
+    "created_at": "2024-12-04T09:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-04T10:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864245437252649026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1416741039704985601",
+          "start": 3,
+          "username": "Ever_Imagine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Llb78qrLjD",
+          "end": 84,
+          "expanded_url": "https://x.com/Ever_Imagine/status/1864217168847782180/photo/1",
+          "media_key": "3_1864215102192537609",
+          "start": 61,
+          "url": "https://t.co/Llb78qrLjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864245437252649026",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864217168847782180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ever_Imagine: South Korean presidential election be like https://t.co/Llb78qrLjD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 950,
+        "media_key": "3_1864215102192537609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gd8Fwica0Ak4A_o.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864215102192537609"
+          ],
+          "media_source_tweet_id": [
+            "1864217168847782180"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1864245437252649026",
+        "created_at": "2024-12-04T09:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T10:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864245437252649026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1416741039704985601",
+              "start": 3,
+              "username": "Ever_Imagine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Llb78qrLjD",
+              "end": 84,
+              "expanded_url": "https://x.com/Ever_Imagine/status/1864217168847782180/photo/1",
+              "media_key": "3_1864215102192537609",
+              "start": 61,
+              "url": "https://t.co/Llb78qrLjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864245437252649026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864217168847782180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ever_Imagine: South Korean presidential election be like https://t.co/Llb78qrLjD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864215102192537609"
+          ]
+        },
+        "author_id": "1416741039704985601",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1864217168847782180",
+        "created_at": "2024-12-04T07:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-04T08:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864217168847782180"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "South",
+              "probability": 0.4076,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Llb78qrLjD",
+              "end": 66,
+              "expanded_url": "https://x.com/Ever_Imagine/status/1864217168847782180/photo/1",
+              "media_key": "3_1864215102192537609",
+              "start": 43,
+              "url": "https://t.co/Llb78qrLjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864217168847782180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 761,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "South Korean presidential election be like https://t.co/Llb78qrLjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1933,
+          "following_count": 1272,
+          "like_count": 17153,
+          "listed_count": 7,
+          "media_count": 570,
+          "tweet_count": 10643
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-18T13:19:54.000Z",
+        "description": "mtf🏳️‍⚧️ // Socialist🌹// Manchuria💙🤍🖤 //",
+        "id": "1416741039704985601",
+        "name": "Phalanstere🌹",
+        "pinned_tweet_id": "1576042570396086272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787802267154051072/sOpAc_CX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4453,
+          "following_count": 404,
+          "like_count": 43533,
+          "listed_count": 25,
+          "media_count": 453,
+          "tweet_count": 4187
+        },
+        "username": "Ever_Imagine",
+        "verified": false
+      }
+    ]
+  }
+}

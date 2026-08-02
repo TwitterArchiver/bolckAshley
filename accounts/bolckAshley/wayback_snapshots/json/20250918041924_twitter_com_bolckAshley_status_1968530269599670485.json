@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      }
+    ],
+    "conversation_id": "1968530269599670485",
+    "created_at": "2025-09-18T04:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968530269599670485"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "本庄さとし 政務",
+          "probability": 0.2815,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "914762049481084929",
+          "start": 3,
+          "username": "CDP2017"
+        },
+        {
+          "end": 51,
+          "id": "1129584701277069313",
+          "start": 38,
+          "username": "honjosatoshi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "LIVE 本庄さとし 政務調査会長 定例記者会見 @honjosatoshi",
+          "display_url": "x.com/i/broadcasts/1…",
+          "end": 75,
+          "expanded_url": "https://x.com/i/broadcasts/1ypJdqWwnZQxW",
+          "images": [
+            {
+              "height": 1080,
+              "url": "https://pbs.twimg.com/news_img/1968525434041384960/1MZvdbBQ?format=jpg&name=orig",
+              "width": 1920
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1968525434041384960/1MZvdbBQ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 52,
+          "status": 200,
+          "title": "立憲民主党",
+          "unwound_url": "https://twitter.com/i/broadcasts/1ypJdqWwnZQxW",
+          "url": "https://t.co/RrPcqw3IiW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968530269599670485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968525431692571107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CDP2017: LIVE 本庄さとし 政務調査会長 定例記者会見 @honjosatoshi https://t.co/RrPcqw3IiW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1968530269599670485",
+        "created_at": "2025-09-18T04:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968530269599670485"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "本庄さとし 政務",
+              "probability": 0.2815,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "914762049481084929",
+              "start": 3,
+              "username": "CDP2017"
+            },
+            {
+              "end": 51,
+              "id": "1129584701277069313",
+              "start": 38,
+              "username": "honjosatoshi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LIVE 本庄さとし 政務調査会長 定例記者会見 @honjosatoshi",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 75,
+              "expanded_url": "https://x.com/i/broadcasts/1ypJdqWwnZQxW",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1968525434041384960/1MZvdbBQ?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968525434041384960/1MZvdbBQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 52,
+              "status": 200,
+              "title": "立憲民主党",
+              "unwound_url": "https://twitter.com/i/broadcasts/1ypJdqWwnZQxW",
+              "url": "https://t.co/RrPcqw3IiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968530269599670485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968525431692571107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CDP2017: LIVE 本庄さとし 政務調査会長 定例記者会見 @honjosatoshi https://t.co/RrPcqw3IiW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "914762049481084929",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1968525431692571107",
+        "created_at": "2025-09-18T04:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968525431692571107"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "本庄さとし 政務",
+              "probability": 0.2341,
+              "start": 5,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "1129584701277069313",
+              "start": 25,
+              "username": "honjosatoshi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LIVE 本庄さとし 政務調査会長 定例記者会見 @honjosatoshi",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 62,
+              "expanded_url": "https://x.com/i/broadcasts/1ypJdqWwnZQxW",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1968525434041384960/1MZvdbBQ?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968525434041384960/1MZvdbBQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "立憲民主党",
+              "unwound_url": "https://twitter.com/i/broadcasts/1ypJdqWwnZQxW",
+              "url": "https://t.co/RrPcqw3IiW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968525431692571107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1209,
+          "like_count": 23,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "LIVE 本庄さとし 政務調査会長 定例記者会見 @honjosatoshi https://t.co/RrPcqw3IiW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 1948,
+          "like_count": 32983,
+          "listed_count": 10,
+          "media_count": 1079,
+          "tweet_count": 16362
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2017-10-02T08:00:42.000Z",
+        "description": "立憲民主党の公式Xです。The Constitutional Democratic Party of Japan代表は野田佳彦 @NODAYOSHI55  🏢党HPはhttps://t.co/E1gl8L4XsX 📅党日程はhttps://t.co/yJEOttaeuO",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "NODAYOSHI55"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "cdp-japan.jp",
+                "end": 106,
+                "expanded_url": "https://cdp-japan.jp",
+                "start": 83,
+                "url": "https://t.co/E1gl8L4XsX"
+              },
+              {
+                "display_url": "cdp-japan.jp/activities/cal…",
+                "end": 135,
+                "expanded_url": "https://cdp-japan.jp/activities/calendar",
+                "start": 112,
+                "url": "https://t.co/yJEOttaeuO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/rikkenminshu",
+                "end": 23,
+                "expanded_url": "https://lit.link/rikkenminshu",
+                "start": 0,
+                "url": "https://t.co/lhsmGrmfP3"
+              }
+            ]
+          }
+        },
+        "id": "914762049481084929",
+        "name": "立憲民主党",
+        "pinned_tweet_id": "1966094369108152756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1311187310852022272/8TOEuyf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196737,
+          "following_count": 2279,
+          "like_count": 40926,
+          "listed_count": 3060,
+          "media_count": 6759,
+          "tweet_count": 47171
+        },
+        "url": "https://t.co/lhsmGrmfP3",
+        "username": "CDP2017",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-18T03:09:14.000Z",
+        "description": "立憲民主党政務調査会長、千葉県連副代表。衆院予算委員会委員。岡田克也衆院議員の政策秘書として19年、政権時代には副総理・外相秘書官、与党幹事長秘書も務めた。党公募を経て、2019年より千葉8区で活動を始め、21年衆院選で初当選。現在2期目。1974年京都市生まれ、柏市増尾在住。高1の息子と中2の娘。東大法卒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "honjosatoshi.jp",
+                "end": 23,
+                "expanded_url": "http://honjosatoshi.jp",
+                "start": 0,
+                "url": "https://t.co/IJHe4rw5mm"
+              }
+            ]
+          }
+        },
+        "id": "1129584701277069313",
+        "location": "千葉県柏市",
+        "name": "本庄さとし 衆議院議員（千葉8区／柏市）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1378693549915443207/ftlUSeGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4824,
+          "following_count": 997,
+          "like_count": 17312,
+          "listed_count": 141,
+          "media_count": 2327,
+          "tweet_count": 7372
+        },
+        "url": "https://t.co/IJHe4rw5mm",
+        "username": "honjosatoshi",
+        "verified": true
+      }
+    ]
+  }
+}

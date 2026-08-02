@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079594037779259392"
+      ],
+      "media_source_tweet_id": [
+        "2079594064421244966"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2079879244922954175",
+    "created_at": "2026-07-22T10:40:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:40:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079879244922954175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1806849464386416640",
+          "start": 3,
+          "username": "tangeorange"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxL96d2beJ",
+          "end": 77,
+          "expanded_url": "https://x.com/tangeorange/status/2079594064421244966/photo/1",
+          "media_key": "3_2079594037779259392",
+          "start": 54,
+          "url": "https://t.co/XxL96d2beJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079879244922954175",
+    "lang": "cy",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079594064421244966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tangeorange: tyw rap battles with n552aa\nwho wins https://t.co/XxL96d2beJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3575,
+        "media_key": "3_2079594037779259392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwzwlraYAAMK-0.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079594037779259392"
+          ]
+        },
+        "author_id": "1806849464386416640",
+        "conversation_id": "2079594064421244966",
+        "created_at": "2026-07-21T15:47:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:47:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079594064421244966"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxL96d2beJ",
+              "end": 60,
+              "expanded_url": "https://x.com/tangeorange/status/2079594064421244966/photo/1",
+              "media_key": "3_2079594037779259392",
+              "start": 37,
+              "url": "https://t.co/XxL96d2beJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079594064421244966",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10240,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "tyw rap battles with n552aa\nwho wins https://t.co/XxL96d2beJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079594037779259392"
+          ],
+          "media_source_tweet_id": [
+            "2079594064421244966"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2079879244922954175",
+        "created_at": "2026-07-22T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079879244922954175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1806849464386416640",
+              "start": 3,
+              "username": "tangeorange"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxL96d2beJ",
+              "end": 77,
+              "expanded_url": "https://x.com/tangeorange/status/2079594064421244966/photo/1",
+              "media_key": "3_2079594037779259392",
+              "start": 54,
+              "url": "https://t.co/XxL96d2beJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079879244922954175",
+        "lang": "cy",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079594064421244966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tangeorange: tyw rap battles with n552aa\nwho wins https://t.co/XxL96d2beJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇪🇸🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078943489581309952/vxBpUkzl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4242,
+          "following_count": 2264,
+          "like_count": 43201,
+          "listed_count": 29,
+          "media_count": 1886,
+          "tweet_count": 23633
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "Forget. Forgive. Forever.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8kFY7"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2065426474606481620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3342,
+          "following_count": 2895,
+          "like_count": 9194,
+          "listed_count": 5,
+          "media_count": 1433,
+          "tweet_count": 9213
+        },
+        "url": "https://t.co/NqG6Q8kFY7",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

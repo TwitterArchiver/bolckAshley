@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "See you at #TheNextPinnacle! 🟠📷🔴 \nTune in on March 2nd, 14:00 (GMT+1). Advance with Xiaomi in mobile imaging at the #XiaomiLaunch!",
+          "id": "1892791035819888640",
+          "name": "Xiaomi Launch March 2025"
+        }
+      }
+    ],
+    "conversation_id": "1896142080650670200",
+    "created_at": "2025-03-02T10:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-02T11:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896142080650670200"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "TheNextPinnacle",
+          "probability": 0.8879,
+          "start": 34,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "Xiaomi15Series",
+          "probability": 0.4307,
+          "start": 105,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 49,
+          "start": 33,
+          "tag": "TheNextPinnacle"
+        },
+        {
+          "end": 119,
+          "start": 104,
+          "tag": "Xiaomi15Series"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "377228272",
+          "start": 3,
+          "username": "Xiaomi"
+        }
+      ],
+      "urls": [
+        {
+          "description": "小米香港官方網站正品出售小米手機、Redmi手機、小米手環、行動電源、智能硬件、耳機音箱及各種配件。",
+          "display_url": "mi.com/hk",
+          "end": 84,
+          "expanded_url": "http://mi.com/hk",
+          "images": [
+            {
+              "height": 55,
+              "url": "https://pbs.twimg.com/news_img/1893929616689291264/n3Oyq2K0?format=png&name=orig",
+              "width": 55
+            },
+            {
+              "height": 55,
+              "url": "https://pbs.twimg.com/news_img/1893929616689291264/n3Oyq2K0?format=png&name=150x150",
+              "width": 55
+            }
+          ],
+          "start": 61,
+          "status": 200,
+          "title": "小米商城 - 小米香港官網",
+          "unwound_url": "https://www.mi.com/hk",
+          "url": "https://t.co/XEgpwFLLtE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896142080650670200",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893929601090650182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomi: Get ready to witness #TheNextPinnacle with us on https://t.co/XEgpwFLLtE on 2 March for the #Xiaomi15Series and more.\n\n🟠📷🔴 Load…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "See you at #TheNextPinnacle! 🟠📷🔴 \nTune in on March 2nd, 14:00 (GMT+1). Advance with Xiaomi in mobile imaging at the #XiaomiLaunch!",
+              "id": "1892791035819888640",
+              "name": "Xiaomi Launch March 2025"
+            }
+          }
+        ],
+        "conversation_id": "1896142080650670200",
+        "created_at": "2025-03-02T10:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-02T11:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896142080650670200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "TheNextPinnacle",
+              "probability": 0.8879,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "Xiaomi15Series",
+              "probability": 0.4307,
+              "start": 105,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 33,
+              "tag": "TheNextPinnacle"
+            },
+            {
+              "end": 119,
+              "start": 104,
+              "tag": "Xiaomi15Series"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "377228272",
+              "start": 3,
+              "username": "Xiaomi"
+            }
+          ],
+          "urls": [
+            {
+              "description": "小米香港官方網站正品出售小米手機、Redmi手機、小米手環、行動電源、智能硬件、耳機音箱及各種配件。",
+              "display_url": "mi.com/hk",
+              "end": 84,
+              "expanded_url": "http://mi.com/hk",
+              "images": [
+                {
+                  "height": 55,
+                  "url": "https://pbs.twimg.com/news_img/1893929616689291264/n3Oyq2K0?format=png&name=orig",
+                  "width": 55
+                },
+                {
+                  "height": 55,
+                  "url": "https://pbs.twimg.com/news_img/1893929616689291264/n3Oyq2K0?format=png&name=150x150",
+                  "width": 55
+                }
+              ],
+              "start": 61,
+              "status": 200,
+              "title": "小米商城 - 小米香港官網",
+              "unwound_url": "https://www.mi.com/hk",
+              "url": "https://t.co/XEgpwFLLtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896142080650670200",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893929601090650182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaomi: Get ready to witness #TheNextPinnacle with us on https://t.co/XEgpwFLLtE on 2 March for the #Xiaomi15Series and more.\n\n🟠📷🔴 Load…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "See you at #TheNextPinnacle! 🟠📷🔴 \nTune in on March 2nd, 14:00 (GMT+1). Advance with Xiaomi in mobile imaging at the #XiaomiLaunch!",
+              "id": "1892791035819888640",
+              "name": "Xiaomi Launch March 2025"
+            }
+          }
+        ],
+        "conversation_id": "1893929601090650182",
+        "created_at": "2025-02-24T07:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T08:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893929601090650182"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "TheNextPinnacle",
+              "probability": 0.9269,
+              "start": 22,
+              "type": "Other"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Xiaomi15Series",
+              "probability": 0.4022,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 146,
+              "normalized_text": "XiaomiLaunch",
+              "probability": 0.7947,
+              "start": 135,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 21,
+              "tag": "TheNextPinnacle"
+            },
+            {
+              "end": 107,
+              "start": 92,
+              "tag": "Xiaomi15Series"
+            },
+            {
+              "end": 147,
+              "start": 134,
+              "tag": "XiaomiLaunch"
+            }
+          ],
+          "urls": [
+            {
+              "description": "小米香港官方網站正品出售小米手機、Redmi手機、小米手環、行動電源、智能硬件、耳機音箱及各種配件。",
+              "display_url": "mi.com/hk",
+              "end": 72,
+              "expanded_url": "http://mi.com/hk",
+              "images": [
+                {
+                  "height": 55,
+                  "url": "https://pbs.twimg.com/news_img/1893929616689291264/n3Oyq2K0?format=png&name=orig",
+                  "width": 55
+                },
+                {
+                  "height": 55,
+                  "url": "https://pbs.twimg.com/news_img/1893929616689291264/n3Oyq2K0?format=png&name=150x150",
+                  "width": 55
+                }
+              ],
+              "start": 49,
+              "status": 200,
+              "title": "小米商城 - 小米香港官網",
+              "unwound_url": "https://www.mi.com/hk",
+              "url": "https://t.co/XEgpwFLLtE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893929601090650182",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 78398,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Get ready to witness #TheNextPinnacle with us on https://t.co/XEgpwFLLtE on 2 March for the #Xiaomi15Series and more.\n\n🟠📷🔴 Loading...\n#XiaomiLaunch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 1597,
+          "like_count": 22931,
+          "listed_count": 10,
+          "media_count": 776,
+          "tweet_count": 12478
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "🟠📷🔴 loading...\nSee you at the next pinnacle.\n\nFor support, please contact @XiaomiSupport",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 74,
+                "username": "XiaomiSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXboGc"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "1894350340117417991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4398870,
+          "following_count": 358,
+          "like_count": 9860,
+          "listed_count": 3740,
+          "media_count": 8967,
+          "tweet_count": 13667
+        },
+        "url": "https://t.co/U0ZmlXboGc",
+        "username": "Xiaomi",
+        "verified": true
+      }
+    ]
+  }
+}

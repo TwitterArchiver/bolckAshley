@@ -1,0 +1,523 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Nagoya",
+          "id": "859408970473066496",
+          "name": "Nagoya"
+        }
+      }
+    ],
+    "conversation_id": "2044030515628642797",
+    "created_at": "2026-04-14T12:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044030515628642797"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 29,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1848310588717572097",
+          "start": 3,
+          "username": "tohan_art"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044030515628642797",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 48
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039995825015943584",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tohan_art: ／\n名古屋で開催決定✨🦇\n「#よふかしのうた Season2 POPUP STORE -first friend-」\n＼\n\nナズナとキョウコの描きおろしイラストを使用したオリジナルグッズを販売🌙\n\n★場所:紀伊國屋書店mozoワンダーシティ店\n★日…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_2039995787921559552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-FXFpbkAAHntC.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2044030515628642797",
+        "created_at": "2026-04-14T12:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044030515628642797"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1848310588717572097",
+              "start": 3,
+              "username": "tohan_art"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044030515628642797",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039995825015943584",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tohan_art: ／\n名古屋で開催決定✨🦇\n「#よふかしのうた Season2 POPUP STORE -first friend-」\n＼\n\nナズナとキョウコの描きおろしイラストを使用したオリジナルグッズを販売🌙\n\n★場所:紀伊國屋書店mozoワンダーシティ店\n★日…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039995787921559552"
+          ]
+        },
+        "author_id": "1848310588717572097",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "2039995825015943584",
+        "created_at": "2026-04-03T09:18:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T10:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039995825015943584"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 14,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.gd/hwUOp",
+              "end": 169,
+              "expanded_url": "https://x.gd/hwUOp",
+              "start": 146,
+              "status": 404,
+              "unwound_url": "https://tohan-art.jimdofree.com/content/%C3%A3%C2%82%C2%88%C3%A3%C2%81%C2%B5%C3%A3%C2%81%C2%8B%C3%A3%C2%81%C2%97%C3%A3%C2%81%C2%AE%C3%A3%C2%81%C2%86%C3%A3%C2%81%C2%9F/",
+              "url": "https://t.co/EkTtcqNZkK"
+            },
+            {
+              "display_url": "pic.x.com/NDkztP7Q1f",
+              "end": 193,
+              "expanded_url": "https://x.com/tohan_art/status/2039995825015943584/photo/1",
+              "media_key": "3_2039995787921559552",
+              "start": 170,
+              "url": "https://t.co/NDkztP7Q1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039995825015943584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 17449,
+          "like_count": 441,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "／\n名古屋で開催決定✨🦇\n「#よふかしのうた Season2 POPUP STORE -first friend-」\n＼\n\nナズナとキョウコの描きおろしイラストを使用したオリジナルグッズを販売🌙\n\n★場所:紀伊國屋書店mozoワンダーシティ店\n★日時:4/13(月)~5/6(水)\n\n▼詳細\nhttps://t.co/EkTtcqNZkK https://t.co/NDkztP7Q1f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043919274306338816/CZJRlN-k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3087,
+          "following_count": 1978,
+          "like_count": 40634,
+          "listed_count": 18,
+          "media_count": 1461,
+          "tweet_count": 21112
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T10:29:44.000Z",
+        "description": "株式会社トーハンが運営する\n～オタク(o)の推し活(o)を思いっきり(o)応援する(o)プロジェクト～\nイチバン推したいPOPUP １O⁴（イチオシ）Projectです！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tohan-art.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://tohan-art.jimdofree.com/",
+                "start": 0,
+                "url": "https://t.co/dNp8wTCdHH"
+              }
+            ]
+          }
+        },
+        "id": "1848310588717572097",
+        "location": "東京都新宿区",
+        "name": "イチオシBOX運営事務局",
+        "pinned_tweet_id": "2042153914435563851",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848914911034019840/hhEgfBj0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 23,
+          "like_count": 35,
+          "listed_count": 5,
+          "media_count": 236,
+          "tweet_count": 391
+        },
+        "url": "https://t.co/dNp8wTCdHH",
+        "username": "tohan_art",
+        "verified": false
+      }
+    ]
+  }
+}

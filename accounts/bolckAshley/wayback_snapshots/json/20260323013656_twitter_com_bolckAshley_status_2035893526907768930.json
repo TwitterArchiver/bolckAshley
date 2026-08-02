@@ -1,0 +1,558 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2035893526907768930",
+    "created_at": "2026-03-23T01:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T02:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035893526907768930"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 102,
+          "normalized_text": "Denmark",
+          "probability": 0.9601,
+          "start": 96,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 51,
+          "id": "251034857",
+          "start": 42,
+          "username": "Spolitik"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035893526907768930",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035740968586981678",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🗳️ We wish our sister party, @Spolitik, good luck in Tuesday's general election in Denmark!\nIn these challenging times, Prime…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2035740778325307392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBnc7rbcAA1nm-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2035893526907768930",
+        "created_at": "2026-03-23T01:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T02:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035893526907768930"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 102,
+              "normalized_text": "Denmark",
+              "probability": 0.9601,
+              "start": 96,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 51,
+              "id": "251034857",
+              "start": 42,
+              "username": "Spolitik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035893526907768930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035740968586981678",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🗳️ We wish our sister party, @Spolitik, good luck in Tuesday's general election in Denmark!\nIn these challenging times, Prime…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035740778325307392"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Denmark Lars Løkke Rasmussen",
+              "id": "895726179553902594",
+              "name": "Lars Løkke Rasmussen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2035740968586981678",
+        "created_at": "2026-03-22T15:30:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:30:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035740968586981678"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "Denmark",
+              "probability": 0.9489,
+              "start": 83,
+              "type": "Place"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Mette Frederiksen",
+              "probability": 0.9863,
+              "start": 135,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "251034857",
+              "start": 29,
+              "username": "Spolitik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gbHZBBY7lA",
+              "end": 298,
+              "expanded_url": "https://x.com/PES_PSE/status/2035740968586981678/photo/1",
+              "media_key": "3_2035740778325307392",
+              "start": 275,
+              "url": "https://t.co/gbHZBBY7lA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035740968586981678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 38,
+                "id": "251034857",
+                "start": 29,
+                "username": "Spolitik"
+              }
+            ]
+          },
+          "text": "🗳️ We wish our sister party, @Spolitik, good luck in Tuesday's general election in Denmark!\nIn these challenging times, Prime Minister Mette Frederiksen has a proven track record of strong leadership and a clear commitment to social-democratic values: responsibility for one another, an economy that creates jobs, and fairness that supports children, workers, and pensioners.\nWe stand with you! 🌹🇩🇰"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2188,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "🗳️ We wish our sister party, @Spolitik, good luck in Tuesday's general election in Denmark!\nIn these challenging times, Prime Minister Mette Frederiksen has a proven track record of strong leadership and a clear commitment to social-democratic values: responsibility for one https://t.co/gbHZBBY7lA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035276166513487872/bR44e_uo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3070,
+          "following_count": 1987,
+          "like_count": 40067,
+          "listed_count": 16,
+          "media_count": 1421,
+          "tweet_count": 20455
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80075,
+          "following_count": 5275,
+          "like_count": 8943,
+          "listed_count": 1039,
+          "media_count": 8699,
+          "tweet_count": 51840
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-12T09:12:18.000Z",
+        "description": "Lad os passe på fremtiden 🌹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialdemokratiet.dk",
+                "end": 23,
+                "expanded_url": "http://www.socialdemokratiet.dk",
+                "start": 0,
+                "url": "https://t.co/pN6yiorvYu"
+              }
+            ]
+          }
+        },
+        "id": "251034857",
+        "location": "Danmark 🇩🇰",
+        "name": "Socialdemokratiet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726613260290408448/29YtQDrA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63381,
+          "following_count": 407,
+          "like_count": 416,
+          "listed_count": 423,
+          "media_count": 972,
+          "tweet_count": 2827
+        },
+        "url": "https://t.co/pN6yiorvYu",
+        "username": "Spolitik",
+        "verified": false
+      }
+    ]
+  }
+}

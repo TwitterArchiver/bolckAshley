@@ -1,0 +1,403 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10002926010",
+          "name": "Avatar: The Last Airbender"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1263542756669968384",
+          "name": "Avatar: The Last Airbender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263542756669968384",
+          "name": "Avatar: The Last Airbender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1990424835424657502",
+    "created_at": "2025-11-17T14:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-17T15:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990424835424657502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1344047935",
+          "start": 3,
+          "username": "Reichsbanner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990424835424657502",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990413727108075542",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reichsbanner: 70 Jahre Bundeswehr – Rückblick und Ausblick 🇩🇪\n\nWir laden herzlich zur gemeinsamen Veranstaltung mit der Deutschen #Atla…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_1990413719696781312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G59eu36XMAAcHYn.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10002926010",
+              "name": "Avatar: The Last Airbender"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1263542756669968384",
+              "name": "Avatar: The Last Airbender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263542756669968384",
+              "name": "Avatar: The Last Airbender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1990424835424657502",
+        "created_at": "2025-11-17T14:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T15:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990424835424657502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1344047935",
+              "start": 3,
+              "username": "Reichsbanner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990424835424657502",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990413727108075542",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reichsbanner: 70 Jahre Bundeswehr – Rückblick und Ausblick 🇩🇪\n\nWir laden herzlich zur gemeinsamen Veranstaltung mit der Deutschen #Atla…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990413719696781312"
+          ]
+        },
+        "author_id": "1344047935",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1990413727108075542",
+        "created_at": "2025-11-17T13:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T14:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990413727108075542"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 129,
+              "start": 116,
+              "tag": "Atlantischen"
+            },
+            {
+              "end": 197,
+              "start": 188,
+              "tag": "Droßmann"
+            },
+            {
+              "end": 238,
+              "start": 232,
+              "tag": "Nolte"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Reichsbanner Schwarz-Rot-Gold, Bund aktiver Demokraten e.V.",
+              "display_url": "reichsbanner.de/reichsbanner-h…",
+              "end": 272,
+              "expanded_url": "https://www.reichsbanner.de/reichsbanner-heute/veranstaltungen/archiv/2025/70-jahre-bundeswehr-rueckblick-und-ausblick",
+              "start": 249,
+              "status": 200,
+              "title": "70 Jahre Bundeswehr – Rückblick und Ausblick: Reichsbanner Schwarz-Rot-Gold, Bund aktiver Demokraten e.V.",
+              "unwound_url": "https://www.reichsbanner.de/reichsbanner-heute/veranstaltungen/archiv/2025/70-jahre-bundeswehr-rueckblick-und-ausblick",
+              "url": "https://t.co/ZUPgqdTOS0"
+            },
+            {
+              "display_url": "pic.x.com/YN1YYFJSN0",
+              "end": 296,
+              "expanded_url": "https://x.com/Reichsbanner/status/1990413727108075542/photo/1",
+              "media_key": "3_1990413719696781312",
+              "start": 273,
+              "url": "https://t.co/YN1YYFJSN0"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "3078869807f9dd36"
+        },
+        "id": "1990413727108075542",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "70 Jahre Bundeswehr – Rückblick und Ausblick 🇩🇪\n\nWir laden herzlich zur gemeinsamen Veranstaltung mit der Deutschen #Atlantischen Gesellschaft am 1.12., 18.30 Uhr in Berlin. Zu Gast Falko #Droßmann MdB und Historiker Prof. Dr. Paul #Nolte.\n\nMehr ➡️ https://t.co/ZUPgqdTOS0 https://t.co/YN1YYFJSN0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2718,
+          "following_count": 2024,
+          "like_count": 35116,
+          "listed_count": 12,
+          "media_count": 1196,
+          "tweet_count": 17429
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-11T10:13:51.000Z",
+        "description": "Offizieller Kanal. Für Demokratie und Republik - seit 1924.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reichsbanner.de",
+                "end": 23,
+                "expanded_url": "http://www.reichsbanner.de",
+                "start": 0,
+                "url": "https://t.co/w0ZFWdMcNO"
+              }
+            ]
+          }
+        },
+        "id": "1344047935",
+        "location": "Berlin",
+        "name": "Reichsbanner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874618614541619200/3TNcxpxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 94,
+          "like_count": 1425,
+          "listed_count": 14,
+          "media_count": 134,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/w0ZFWdMcNO",
+        "username": "Reichsbanner",
+        "verified": false
+      }
+    ]
+  }
+}

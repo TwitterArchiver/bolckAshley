@@ -1,0 +1,626 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129035372757827584",
+          "name": "Robotics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129035372757827584",
+          "name": "Robotics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2042065148643578000",
+    "created_at": "2026-04-09T02:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042065148643578000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "216776631",
+          "start": 3,
+          "username": "BernieSanders"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042065148643578000",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041968580288221658",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BernieSanders: In the face of the growing threat of AI and robotics, it is more important than ever that workers have a say in their wo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2041967009982824448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFaGLUEXwAAWQiK.jpg",
+        "width": 3277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2042065148643578000",
+        "created_at": "2026-04-09T02:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042065148643578000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "216776631",
+              "start": 3,
+              "username": "BernieSanders"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042065148643578000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041968580288221658",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BernieSanders: In the face of the growing threat of AI and robotics, it is more important than ever that workers have a say in their wo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041967009982824448"
+          ]
+        },
+        "author_id": "216776631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129035372757827584",
+              "name": "Robotics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2041968580288221658",
+        "created_at": "2026-04-08T19:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041968580288221658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 191,
+              "id": "266980765",
+              "start": 176,
+              "username": "ZohranKMamdani"
+            },
+            {
+              "end": 211,
+              "id": "3044739166",
+              "start": 196,
+              "username": "FlyingWithSara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4qZ5v4j1wh",
+              "end": 293,
+              "expanded_url": "https://x.com/BernieSanders/status/2041968580288221658/photo/1",
+              "media_key": "3_2041967009982824448",
+              "start": 270,
+              "url": "https://t.co/4qZ5v4j1wh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041968580288221658",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 91061,
+          "like_count": 2109,
+          "quote_count": 28,
+          "reply_count": 233,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "In the face of the growing threat of AI and robotics, it is more important than ever that workers have a say in their workplace.\n\nNEW YORK: On Sunday, I'm hosting a rally with @ZohranKMamdani and @FlyingWithSara to strengthen the labor movement and expand worker power. https://t.co/4qZ5v4j1wh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036808158912671744/q5dELKL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3083,
+          "following_count": 1980,
+          "like_count": 40574,
+          "listed_count": 17,
+          "media_count": 1453,
+          "tweet_count": 20979
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-17T17:53:52.000Z",
+        "description": "U.S. Senator for Vermont. Not me, us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BernieSanders.com",
+                "end": 23,
+                "expanded_url": "https://BernieSanders.com",
+                "start": 0,
+                "url": "https://t.co/jpg8Sp1GhR"
+              }
+            ]
+          }
+        },
+        "id": "216776631",
+        "location": "Vermont",
+        "name": "Bernie Sanders",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14844516,
+          "following_count": 1385,
+          "like_count": 905,
+          "listed_count": 23154,
+          "media_count": 4703,
+          "tweet_count": 22502
+        },
+        "url": "https://t.co/jpg8Sp1GhR",
+        "username": "BernieSanders",
+        "verified": true
+      }
+    ]
+  }
+}

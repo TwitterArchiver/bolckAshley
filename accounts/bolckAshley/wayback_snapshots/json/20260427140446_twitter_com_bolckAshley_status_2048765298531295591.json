@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048763476680863744"
+      ],
+      "media_source_tweet_id": [
+        "2048763482854900156"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2048765298531295591",
+    "created_at": "2026-04-27T14:04:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T15:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048765298531295591"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "中推模拟选举"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396032943970127872",
+          "start": 3,
+          "username": "_Ertiu_vmo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t16iJMb8z1",
+          "end": 47,
+          "expanded_url": "https://x.com/_Ertiu_vmo/status/2048763482854900156/photo/1",
+          "media_key": "3_2048763476680863744",
+          "start": 24,
+          "url": "https://t.co/t16iJMb8z1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048765298531295591",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048763482854900156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Ertiu_vmo: #中推模拟选举 https://t.co/t16iJMb8z1"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2048765298531295591].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2048765298531295591",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2048765298531295591"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2048763476680863744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6rhvhbcAAJvQU.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048763476680863744"
+          ]
+        },
+        "author_id": "1396032943970127872",
+        "conversation_id": "2048763482854900156",
+        "created_at": "2026-04-27T13:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048763482854900156"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t16iJMb8z1",
+              "end": 31,
+              "expanded_url": "https://x.com/_Ertiu_vmo/status/2048763482854900156/photo/1",
+              "media_key": "3_2048763476680863744",
+              "start": 8,
+              "url": "https://t.co/t16iJMb8z1"
+            },
+            {
+              "display_url": "x.com/prp20260307/st…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/prp20260307/status/2048754594868871651",
+              "start": 32,
+              "url": "https://t.co/eHlaY7IYa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048763482854900156",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048754594868871651",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#中推模拟选举 https://t.co/t16iJMb8z1 https://t.co/eHlaY7IYa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 1978,
+          "like_count": 40949,
+          "listed_count": 19,
+          "media_count": 1493,
+          "tweet_count": 21501
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T09:20:48.000Z",
+        "description": "在推上四處打滾的人　選擧人士　2026中推選擧參與中",
+        "id": "1396032943970127872",
+        "location": "東平洲",
+        "name": "秋鈴_Ertiu_❂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891840114806095874/op0_ql2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 1234,
+          "like_count": 36203,
+          "listed_count": 1,
+          "media_count": 310,
+          "tweet_count": 4380
+        },
+        "username": "_Ertiu_vmo",
+        "verified": false
+      }
+    ]
+  }
+}

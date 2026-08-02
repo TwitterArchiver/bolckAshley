@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192269799428096",
+          "name": "China politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192841529200640",
+          "name": "China political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Family and Life Stages",
+          "id": "864925500627484672",
+          "name": "Family and life stages"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "College students",
+          "id": "847545943922692096",
+          "name": "College students"
+        }
+      }
+    ],
+    "conversation_id": "2016298047987449920",
+    "created_at": "2026-01-28T12:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T13:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016482644733899262"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 128,
+          "normalized_text": "China",
+          "probability": 0.9584,
+          "start": 124,
+          "type": "Place"
+        },
+        {
+          "end": 169,
+          "normalized_text": "Taiwan",
+          "probability": 0.9602,
+          "start": 164,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "163660972",
+          "start": 0,
+          "username": "GoofyWise"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016482644733899262",
+    "in_reply_to_user_id": "163660972",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016298047987449920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GoofyWise It's just college students entertaining themselves; I don't understand why you guys care about this.\nIf mainland China had a political system similar to Taiwan's, such organizations would be everywhere.🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 962,
+        "media_key": "3_2016298042735861760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_tUYxaWIAAzfuS.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "College students",
+              "id": "847545943922692096",
+              "name": "College students"
+            }
+          }
+        ],
+        "conversation_id": "2016298047987449920",
+        "created_at": "2026-01-28T12:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T13:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016482644733899262"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 128,
+              "normalized_text": "China",
+              "probability": 0.9584,
+              "start": 124,
+              "type": "Place"
+            },
+            {
+              "end": 169,
+              "normalized_text": "Taiwan",
+              "probability": 0.9602,
+              "start": 164,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "163660972",
+              "start": 0,
+              "username": "GoofyWise"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016482644733899262",
+        "in_reply_to_user_id": "163660972",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016298047987449920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GoofyWise It's just college students entertaining themselves; I don't understand why you guys care about this.\nIf mainland China had a political system similar to Taiwan's, such organizations would be everywhere.🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016298042735861760"
+          ]
+        },
+        "author_id": "163660972",
+        "conversation_id": "2016298047987449920",
+        "created_at": "2026-01-27T23:51:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T00:51:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016298047987449920"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "RCI",
+              "probability": 0.8471,
+              "start": 14,
+              "type": "Organization"
+            },
+            {
+              "end": 35,
+              "normalized_text": "Marxism",
+              "probability": 0.7161,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Marxist",
+              "probability": 0.8346,
+              "start": 90,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fToXwYYEgm",
+              "end": 157,
+              "expanded_url": "https://x.com/GoofyWise/status/2016298047987449920/photo/1",
+              "media_key": "3_2016298042735861760",
+              "start": 134,
+              "url": "https://t.co/fToXwYYEgm"
+            },
+            {
+              "display_url": "x.com/notxiangyu/sta…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/notxiangyu/status/2016041592683962530",
+              "start": 158,
+              "url": "https://t.co/tJNZuahKtb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016298047987449920",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4813,
+          "like_count": 124,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016041592683962530",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Cope harder!  RCI is Genuine Marxism not that reformist revisionist social democracy with Marxist aesthetics that your obsessed with. https://t.co/fToXwYYEgm https://t.co/tJNZuahKtb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1967,
+          "like_count": 37866,
+          "listed_count": 14,
+          "media_count": 1315,
+          "tweet_count": 18910
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-07T00:06:21.000Z",
+        "description": "@Twitch Partner, Comedy/Commentary/ Communism to the masses via Media🎬, Anime, Video games and Politics. Cohost of @mindfulblerd pod goofywise.gaming@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Twitch"
+              },
+              {
+                "end": 128,
+                "start": 115,
+                "username": "mindfulblerd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "beacons.page/goofywise",
+                "end": 23,
+                "expanded_url": "http://beacons.page/goofywise",
+                "start": 0,
+                "url": "https://t.co/vUFFSwBsn3"
+              }
+            ]
+          }
+        },
+        "id": "163660972",
+        "location": "Sacramento, CA",
+        "name": "GoofyWise 🇵🇸 ☭",
+        "pinned_tweet_id": "1650210789222141952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982535828321497088/joydyL5O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14654,
+          "following_count": 3441,
+          "like_count": 71211,
+          "listed_count": 97,
+          "media_count": 7054,
+          "tweet_count": 41687
+        },
+        "url": "https://t.co/vUFFSwBsn3",
+        "username": "GoofyWise",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1812449025100230952",
+    "created_at": "2024-07-14T12:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T13:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812471037356913151"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1606625890267721728",
+          "start": 0,
+          "username": "Aeneas_troja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812471037356913151",
+    "in_reply_to_user_id": "1606625890267721728",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812449025100230952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aeneas_troja 我現在沒事就喜歡這樣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1812449025100230952].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1812449025100230952",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1812449025100230952"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1812449025100230952",
+        "created_at": "2024-07-14T12:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T13:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812471037356913151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1606625890267721728",
+              "start": 0,
+              "username": "Aeneas_troja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812471037356913151",
+        "in_reply_to_user_id": "1606625890267721728",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812449025100230952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aeneas_troja 我現在沒事就喜歡這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1550,
+          "following_count": 981,
+          "like_count": 12885,
+          "listed_count": 8,
+          "tweet_count": 8713
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T12:20:48.000Z",
+        "description": "从今往后一直淡史坑了，我劝你跟进👋/Worship nothing/An aborigine in a remote county/Only dream is to live in a peaceful life",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wap.cac.gov.cn",
+                "end": 23,
+                "expanded_url": "http://wap.cac.gov.cn/",
+                "start": 0,
+                "url": "https://t.co/CqBWU44dnx"
+              }
+            ]
+          }
+        },
+        "id": "1606625890267721728",
+        "location": "Lelonia",
+        "name": "𝔊𝔞𝔩𝔦𝔷𝔦𝔢𝔫-𝔏𝔬𝔡𝔬𝔪𝔢𝔯𝔦𝔢𝔫（已淡推）",
+        "pinned_tweet_id": "1797593477926240668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810296711912546304/xvVYQFBN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 3389,
+          "like_count": 101300,
+          "listed_count": 8,
+          "tweet_count": 19239
+        },
+        "url": "https://t.co/CqBWU44dnx",
+        "username": "Aeneas_troja",
+        "verified": false
+      }
+    ]
+  }
+}

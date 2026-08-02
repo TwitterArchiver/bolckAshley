@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1974665365646102698",
+    "created_at": "2025-10-05T03:20:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T04:20:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974676037918503003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        },
+        {
+          "end": 33,
+          "id": "1620367275273633792",
+          "start": 17,
+          "username": "Alina_Medverova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974676037918503003",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974670748716556320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 @Alina_Medverova 新選組沒什麼機會上桌\n而且講真話，我覺得新選組還不如高市🌚"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1974670748716556320].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1974670748716556320",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1974670748716556320"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1974665365646102698",
+        "created_at": "2025-10-05T03:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T04:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974676037918503003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            },
+            {
+              "end": 33,
+              "id": "1620367275273633792",
+              "start": 17,
+              "username": "Alina_Medverova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974676037918503003",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974670748716556320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 @Alina_Medverova 新選組沒什麼機會上桌\n而且講真話，我覺得新選組還不如高市🌚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 1964,
+          "like_count": 33631,
+          "listed_count": 12,
+          "media_count": 1111,
+          "tweet_count": 16710
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Democratic Socialist | Anti-Stalinist | Participatory Economics | History, Sociology, Politics, etc. | “自治、公正、团结、多元、效率、可持续”",
+        "id": "1715891855983026176",
+        "name": "Mr. Democracy's follower🏴🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555002357358592/NFv9iHgZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 3932,
+          "like_count": 81774,
+          "listed_count": 5,
+          "media_count": 930,
+          "tweet_count": 17682
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1969744396288737615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1740,
+          "following_count": 1473,
+          "like_count": 69912,
+          "listed_count": 6,
+          "media_count": 910,
+          "tweet_count": 15376
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

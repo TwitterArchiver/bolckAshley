@@ -1,0 +1,458 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "1995439817325514830",
+    "created_at": "2025-12-01T10:28:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T11:28:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995439817325514830"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "中道リベラル政党",
+          "probability": 0.2874,
+          "start": 27,
+          "type": "Organization"
+        },
+        {
+          "end": 75,
+          "normalized_text": "各国",
+          "probability": 0.6034,
+          "start": 74,
+          "type": "Place"
+        },
+        {
+          "end": 107,
+          "normalized_text": "ベルリン",
+          "probability": 0.5547,
+          "start": 104,
+          "type": "Place"
+        },
+        {
+          "end": 129,
+          "normalized_text": "米国",
+          "probability": 0.7203,
+          "start": 128,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "17306975",
+          "start": 3,
+          "username": "livedoornews"
+        }
+      ],
+      "urls": [
+        {
+          "description": "立憲民主党が、各国の中道リベラル政党が参加する国際組織「進歩同盟」（本部・ベルリン）に加盟する方向で調整している。加盟している米国の民主党や英国の労働党などと交流を深めることで、中道政党としての存在",
+          "display_url": "news.livedoor.com/article/detail…",
+          "end": 69,
+          "expanded_url": "https://news.livedoor.com/article/detail/30107816/",
+          "images": [
+            {
+              "height": 400,
+              "url": "https://pbs.twimg.com/news_img/1995298048914911232/BI2hmJC1?format=jpg&name=orig",
+              "width": 541
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1995298048914911232/BI2hmJC1?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 46,
+          "status": 200,
+          "title": "立憲民主、中道リベラル政党の国際組織「進歩同盟」に加盟調整…存在感高める狙い",
+          "unwound_url": "https://news.livedoor.com/article/detail/30107816/",
+          "url": "https://t.co/AQLz9lEafb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995439817325514830",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995298003113099685",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @livedoornews: 【方針】立憲民主、中道リベラル政党の国際組織に加盟調整\nhttps://t.co/AQLz9lEafb\n\n立憲が各国の中道リベラル政党が参加する国際組織「進歩同盟」（本部・ベルリン）に加盟する方向で調整している。加盟する米国の民主党などとの交…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_1995297996758716416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7C49N3aEAA77of.png",
+        "width": 541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1995439817325514830",
+        "created_at": "2025-12-01T10:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T11:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995439817325514830"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "中道リベラル政党",
+              "probability": 0.2874,
+              "start": 27,
+              "type": "Organization"
+            },
+            {
+              "end": 75,
+              "normalized_text": "各国",
+              "probability": 0.6034,
+              "start": 74,
+              "type": "Place"
+            },
+            {
+              "end": 107,
+              "normalized_text": "ベルリン",
+              "probability": 0.5547,
+              "start": 104,
+              "type": "Place"
+            },
+            {
+              "end": 129,
+              "normalized_text": "米国",
+              "probability": 0.7203,
+              "start": 128,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "17306975",
+              "start": 3,
+              "username": "livedoornews"
+            }
+          ],
+          "urls": [
+            {
+              "description": "立憲民主党が、各国の中道リベラル政党が参加する国際組織「進歩同盟」（本部・ベルリン）に加盟する方向で調整している。加盟している米国の民主党や英国の労働党などと交流を深めることで、中道政党としての存在",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 69,
+              "expanded_url": "https://news.livedoor.com/article/detail/30107816/",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1995298048914911232/BI2hmJC1?format=jpg&name=orig",
+                  "width": 541
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995298048914911232/BI2hmJC1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 46,
+              "status": 200,
+              "title": "立憲民主、中道リベラル政党の国際組織「進歩同盟」に加盟調整…存在感高める狙い",
+              "unwound_url": "https://news.livedoor.com/article/detail/30107816/",
+              "url": "https://t.co/AQLz9lEafb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995439817325514830",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995298003113099685",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @livedoornews: 【方針】立憲民主、中道リベラル政党の国際組織に加盟調整\nhttps://t.co/AQLz9lEafb\n\n立憲が各国の中道リベラル政党が参加する国際組織「進歩同盟」（本部・ベルリン）に加盟する方向で調整している。加盟する米国の民主党などとの交…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995297996758716416"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1995298003113099685",
+        "created_at": "2025-12-01T01:04:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:04:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995298003113099685"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "中道リベラル政党",
+              "probability": 0.276,
+              "start": 9,
+              "type": "Organization"
+            },
+            {
+              "end": 57,
+              "normalized_text": "各国",
+              "probability": 0.5893,
+              "start": 56,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "ベルリン",
+              "probability": 0.5425,
+              "start": 86,
+              "type": "Place"
+            },
+            {
+              "end": 111,
+              "normalized_text": "米国",
+              "probability": 0.6637,
+              "start": 110,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "立憲民主党が、各国の中道リベラル政党が参加する国際組織「進歩同盟」（本部・ベルリン）に加盟する方向で調整している。加盟している米国の民主党や英国の労働党などと交流を深めることで、中道政党としての存在",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 51,
+              "expanded_url": "https://news.livedoor.com/article/detail/30107816/",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/1995298048914911232/BI2hmJC1?format=jpg&name=orig",
+                  "width": 541
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1995298048914911232/BI2hmJC1?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 28,
+              "status": 200,
+              "title": "立憲民主、中道リベラル政党の国際組織「進歩同盟」に加盟調整…存在感高める狙い",
+              "unwound_url": "https://news.livedoor.com/article/detail/30107816/",
+              "url": "https://t.co/AQLz9lEafb"
+            },
+            {
+              "display_url": "pic.x.com/CREsniOKUP",
+              "end": 164,
+              "expanded_url": "https://x.com/livedoornews/status/1995298003113099685/photo/1",
+              "media_key": "3_1995297996758716416",
+              "start": 141,
+              "url": "https://t.co/CREsniOKUP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995298003113099685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 261,
+          "impression_count": 457331,
+          "like_count": 1998,
+          "quote_count": 595,
+          "reply_count": 597,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "【方針】立憲民主、中道リベラル政党の国際組織に加盟調整\nhttps://t.co/AQLz9lEafb\n\n立憲が各国の中道リベラル政党が参加する国際組織「進歩同盟」（本部・ベルリン）に加盟する方向で調整している。加盟する米国の民主党などとの交流で、存在感を高める狙いがあるという。 https://t.co/CREsniOKUP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 2033,
+          "like_count": 35494,
+          "listed_count": 12,
+          "media_count": 1211,
+          "tweet_count": 17583
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116168,
+          "following_count": 104,
+          "like_count": 2299,
+          "listed_count": 13724,
+          "media_count": 276973,
+          "tweet_count": 447978
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

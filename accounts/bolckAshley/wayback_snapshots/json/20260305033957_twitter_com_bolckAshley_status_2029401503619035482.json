@@ -1,0 +1,803 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "45th US President, Donald Trump",
+          "id": "799022225751871488",
+          "name": "Donald Trump"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+          "id": "1836137739353292800",
+          "name": "2024 US Election"
+        }
+      }
+    ],
+    "conversation_id": "2029401503619035482",
+    "created_at": "2026-03-05T03:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029401503619035482"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 58,
+          "normalized_text": "Trump",
+          "probability": 0.9741,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 91,
+          "normalized_text": "EU",
+          "probability": 0.855,
+          "start": 90,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19287037",
+          "start": 3,
+          "username": "TheProgressives"
+        },
+        {
+          "end": 41,
+          "id": "53347647",
+          "start": 32,
+          "username": "EPPGroup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029401503619035482",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 284
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029231654116491473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheProgressives: Why is the @EPPGroup siding with Trump instead of standing up for an EU member state⁉️\n\nWe wanted the 🇪🇺Parliament to…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2029231598193770496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HClHYyFWgAATQCo.jpg",
+        "width": 2000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2029401503619035482",
+        "created_at": "2026-03-05T03:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029401503619035482"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 58,
+              "normalized_text": "Trump",
+              "probability": 0.9741,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 91,
+              "normalized_text": "EU",
+              "probability": 0.855,
+              "start": 90,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19287037",
+              "start": 3,
+              "username": "TheProgressives"
+            },
+            {
+              "end": 41,
+              "id": "53347647",
+              "start": 32,
+              "username": "EPPGroup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029401503619035482",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 284
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029231654116491473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheProgressives: Why is the @EPPGroup siding with Trump instead of standing up for an EU member state⁉️\n\nWe wanted the 🇪🇺Parliament to…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029231598193770496"
+          ]
+        },
+        "author_id": "19287037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1707176037577068544",
+              "name": "2nd US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1722429172528611328",
+              "name": "3rd US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "#GOPDebate is happening! Explore the latest Tweets, must-see highlights, and the can’t-miss moments right here.\n\n",
+              "id": "1729551200817717248",
+              "name": "4th US Republican Primary Debate 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1804210159566168064",
+              "name": "2024 US Presidential Debate 1 "
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1828102132739801088",
+              "name": "2024 US Presidential Debate 2"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "2029231654116491473",
+        "created_at": "2026-03-04T16:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029231654116491473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Trump",
+              "probability": 0.9715,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "EU",
+              "probability": 0.8949,
+              "start": 69,
+              "type": "Place"
+            },
+            {
+              "end": 157,
+              "normalized_text": "U.S.",
+              "probability": 0.9257,
+              "start": 154,
+              "type": "Place"
+            },
+            {
+              "end": 179,
+              "normalized_text": "Spain",
+              "probability": 0.9473,
+              "start": 175,
+              "type": "Place"
+            },
+            {
+              "end": 212,
+              "normalized_text": "EU",
+              "probability": 0.9348,
+              "start": 211,
+              "type": "Place"
+            },
+            {
+              "end": 215,
+              "normalized_text": "US",
+              "probability": 0.8809,
+              "start": 214,
+              "type": "Place"
+            },
+            {
+              "end": 258,
+              "normalized_text": "Conservatives",
+              "probability": 0.5259,
+              "start": 246,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "53347647",
+              "start": 11,
+              "username": "EPPGroup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dfKsr8sDIo",
+              "end": 300,
+              "expanded_url": "https://x.com/TheProgressives/status/2029231654116491473/photo/1",
+              "media_key": "3_2029231598193770496",
+              "start": 277,
+              "url": "https://t.co/dfKsr8sDIo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029231654116491473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 20,
+                "id": "53347647",
+                "start": 11,
+                "username": "EPPGroup"
+              }
+            ]
+          },
+          "text": "Why is the @EPPGroup siding with Trump instead of standing up for an EU member state⁉️\n\nWe wanted the 🇪🇺Parliament to hold a plenary debate on the latest U.S. threats against Spain and their potential impact on EU-US trade relations. \n\n❌ But the Conservatives sided with their far-right MAGA allies to block this debate. Yet another betrayal of European citizens, our values and our interests."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 38818,
+          "like_count": 1550,
+          "quote_count": 29,
+          "reply_count": 50,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "Why is the @EPPGroup siding with Trump instead of standing up for an EU member state⁉️\n\nWe wanted the 🇪🇺Parliament to hold a plenary debate on the latest U.S. threats against Spain and their potential impact on EU-US trade relations. \n\n❌ But the Conservatives sided with their https://t.co/dfKsr8sDIo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 1982,
+          "like_count": 39105,
+          "listed_count": 16,
+          "media_count": 1363,
+          "tweet_count": 19804
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T13:26:48.000Z",
+        "description": "The Socialists and Democrats Group in the European Parliament works for social justice, sustainability & equality for all.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialistsanddemocrats.eu",
+                "end": 23,
+                "expanded_url": "http://www.socialistsanddemocrats.eu",
+                "start": 0,
+                "url": "https://t.co/NnV78Ux4Lc"
+              }
+            ]
+          }
+        },
+        "id": "19287037",
+        "location": "Europe",
+        "name": "S&D Group",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585629855583911937/HG74Hrhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138854,
+          "following_count": 8114,
+          "like_count": 7059,
+          "listed_count": 1839,
+          "media_count": 12500,
+          "tweet_count": 39342
+        },
+        "url": "https://t.co/NnV78Ux4Lc",
+        "username": "TheProgressives",
+        "verified": true
+      },
+      {
+        "created_at": "2009-07-03T10:01:25.000Z",
+        "description": "The largest political group in the @Europarl_EN.\nWe defend centre-right policies to promote growth & jobs in a more integrated Europe. #JobsJobsJobs",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 148,
+                "start": 135,
+                "tag": "JobsJobsJobs"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "Europarl_EN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eppgroup.eu",
+                "end": 23,
+                "expanded_url": "https://www.eppgroup.eu/",
+                "start": 0,
+                "url": "https://t.co/2UFzHZ0Xn8"
+              }
+            ]
+          }
+        },
+        "id": "53347647",
+        "location": "Brussels, Belgium",
+        "name": "EPP Group",
+        "pinned_tweet_id": "2028904522303599101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1500531508381106181/qi2IZMZl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138350,
+          "following_count": 2906,
+          "like_count": 17897,
+          "listed_count": 1666,
+          "media_count": 29103,
+          "tweet_count": 59824
+        },
+        "url": "https://t.co/2UFzHZ0Xn8",
+        "username": "EPPGroup",
+        "verified": true
+      }
+    ]
+  }
+}

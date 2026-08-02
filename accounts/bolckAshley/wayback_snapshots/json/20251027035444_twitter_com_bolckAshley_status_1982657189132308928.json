@@ -1,0 +1,508 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1982485488922415105"
+      ],
+      "media_source_tweet_id": [
+        "1982485515464262086"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1982657189132308928",
+    "created_at": "2025-10-27T03:54:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:54:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982657189132308928"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1384504615467692032",
+          "start": 3,
+          "username": "TrackOilPACs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8UNfjhjyU2",
+          "end": 64,
+          "expanded_url": "https://x.com/TrackOilPACs/status/1982485515464262086/photo/1",
+          "media_key": "3_1982485488922415105",
+          "start": 41,
+          "url": "https://t.co/8UNfjhjyU2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982657189132308928",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4542
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982485515464262086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TrackOilPACs: Unbought and unbossed. https://t.co/8UNfjhjyU2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1982485488922415105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4M0DGuWUAEJ3Ue.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982485488922415105"
+          ],
+          "media_source_tweet_id": [
+            "1982485515464262086"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1982657189132308928",
+        "created_at": "2025-10-27T03:54:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:54:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982657189132308928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1384504615467692032",
+              "start": 3,
+              "username": "TrackOilPACs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UNfjhjyU2",
+              "end": 64,
+              "expanded_url": "https://x.com/TrackOilPACs/status/1982485515464262086/photo/1",
+              "media_key": "3_1982485488922415105",
+              "start": 41,
+              "url": "https://t.co/8UNfjhjyU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982657189132308928",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4542
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982485515464262086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TrackOilPACs: Unbought and unbossed. https://t.co/8UNfjhjyU2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982485488922415105"
+          ]
+        },
+        "author_id": "1384504615467692032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1982485515464262086",
+        "created_at": "2025-10-26T16:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T17:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982485515464262086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8UNfjhjyU2",
+              "end": 46,
+              "expanded_url": "https://x.com/TrackOilPACs/status/1982485515464262086/photo/1",
+              "media_key": "3_1982485488922415105",
+              "start": 23,
+              "url": "https://t.co/8UNfjhjyU2"
+            },
+            {
+              "display_url": "x.com/billackman/sta…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/billackman/status/1982237834128785563",
+              "start": 47,
+              "url": "https://t.co/Hj5Pq47qbJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982485515464262086",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1217,
+          "impression_count": 2247790,
+          "like_count": 71262,
+          "quote_count": 84,
+          "reply_count": 587,
+          "retweet_count": 4542
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982237834128785563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Unbought and unbossed. https://t.co/8UNfjhjyU2 https://t.co/Hj5Pq47qbJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 2009,
+          "like_count": 34503,
+          "listed_count": 12,
+          "media_count": 1168,
+          "tweet_count": 17146
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-20T13:50:10.000Z",
+        "description": "Tracking the Fossil Fuel lobby, their influence on our energy policy and debunking climate misinformation🔥#RejectBigOil | @TrackPACs Collective",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 119,
+                "start": 106,
+                "tag": "RejectBigOil"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 132,
+                "start": 122,
+                "username": "TrackPACs"
+              }
+            ]
+          }
+        },
+        "id": "1384504615467692032",
+        "location": "425 PPM of CO2",
+        "name": "Oil PAC Tracker",
+        "pinned_tweet_id": "1940177187560460405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780403892657823744/UIKM6gaI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28815,
+          "following_count": 752,
+          "like_count": 19626,
+          "listed_count": 37,
+          "media_count": 842,
+          "tweet_count": 3968
+        },
+        "username": "TrackOilPACs",
+        "verified": true
+      }
+    ]
+  }
+}

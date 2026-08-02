@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2010664255402766560",
+    "created_at": "2026-01-13T07:22:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T08:22:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010975735746609225"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 134,
+          "normalized_text": "Twitter",
+          "probability": 0.9404,
+          "start": 128,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1669446964893581312",
+          "start": 0,
+          "username": "nemoserves"
+        },
+        {
+          "end": 21,
+          "id": "1885655885306880003",
+          "start": 12,
+          "username": "Linkem78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010975735746609225",
+    "in_reply_to_user_id": "1669446964893581312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010945114818937036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nemoserves @Linkem78 I chose to display my region instead of country for personal safety. Not everyone has the luxury of using Twitter without security concerns. 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2010664255402766560",
+        "created_at": "2026-01-13T07:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010975735746609225"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "Twitter",
+              "probability": 0.9404,
+              "start": 128,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1669446964893581312",
+              "start": 0,
+              "username": "nemoserves"
+            },
+            {
+              "end": 21,
+              "id": "1885655885306880003",
+              "start": 12,
+              "username": "Linkem78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010975735746609225",
+        "in_reply_to_user_id": "1669446964893581312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010945114818937036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nemoserves @Linkem78 I chose to display my region instead of country for personal safety. Not everyone has the luxury of using Twitter without security concerns. 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1669446964893581312",
+        "conversation_id": "2010664255402766560",
+        "created_at": "2026-01-13T05:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010945114818937036"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 147,
+              "normalized_text": "Philippines",
+              "probability": 0.9785,
+              "start": 137,
+              "type": "Place"
+            },
+            {
+              "end": 160,
+              "normalized_text": "Indonesia",
+              "probability": 0.9806,
+              "start": 152,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            },
+            {
+              "end": 22,
+              "id": "1885655885306880003",
+              "start": 13,
+              "username": "Linkem78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010945114818937036",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 238,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010812541362950168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley @Linkem78 You’re not Chinese, you changed your location to region instead of country for a reason. You’re probably from the Philippines or Indonesia."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 1962,
+          "like_count": 37454,
+          "listed_count": 14,
+          "media_count": 1269,
+          "tweet_count": 18599
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-15T20:49:20.000Z",
+        "description": "Engineer • Non-Muslim human rights activist • Professional tennis watcher • Surfing/skiing",
+        "id": "1669446964893581312",
+        "location": "Boston, MA",
+        "name": "Nemo of the Year 🏆",
+        "pinned_tweet_id": "1964516303819198666",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010402463744999424/mcQ9-rIc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 128,
+          "like_count": 187,
+          "listed_count": 2,
+          "media_count": 204,
+          "tweet_count": 7583
+        },
+        "username": "nemoserves",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T11:46:22.000Z",
+        "description": "🇪🇺🇫🇷🇨🇭  •  18yo | He/Him ♂️  •  private: @Linkem78p •  bi 🏳️‍🌈  •  DM's open :33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Linkem78p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/zvF6eeBHAE",
+                "end": 23,
+                "expanded_url": "https://discord.gg/zvF6eeBHAE",
+                "start": 0,
+                "url": "https://t.co/QCPmqgViWZ"
+              }
+            ]
+          }
+        },
+        "id": "1885655885306880003",
+        "location": "Happy land",
+        "name": "Tomyy 🇫🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010704379976777728/N-CD93QT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 151,
+          "like_count": 15008,
+          "listed_count": 9,
+          "media_count": 773,
+          "tweet_count": 3445
+        },
+        "url": "https://t.co/QCPmqgViWZ",
+        "username": "Linkem78",
+        "verified": false
+      }
+    ]
+  }
+}

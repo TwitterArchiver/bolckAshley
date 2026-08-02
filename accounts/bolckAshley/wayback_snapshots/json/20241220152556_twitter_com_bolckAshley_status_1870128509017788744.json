@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1870128509017788744",
+    "created_at": "2024-12-20T15:25:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-20T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1870128509017788744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062560079847682048",
+          "start": 3,
+          "username": "kuomintang"
+        },
+        {
+          "end": 80,
+          "id": "1224953820716945408",
+          "start": 69,
+          "username": "ChingteLai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1870128509017788744",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869926561790734677",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuomintang: Last night, the DPP Legislative Caucus, acting under @ChingteLai directives, resorted to smashing windows to seize the spea…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1870128509017788744",
+        "created_at": "2024-12-20T15:25:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870128509017788744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062560079847682048",
+              "start": 3,
+              "username": "kuomintang"
+            },
+            {
+              "end": 80,
+              "id": "1224953820716945408",
+              "start": 69,
+              "username": "ChingteLai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870128509017788744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869926561790734677",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuomintang: Last night, the DPP Legislative Caucus, acting under @ChingteLai directives, resorted to smashing windows to seize the spea…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869926549727916032"
+          ]
+        },
+        "author_id": "1062560079847682048",
+        "conversation_id": "1869926561790734677",
+        "created_at": "2024-12-20T02:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-20T03:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1869926561790734677"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "DPP",
+              "probability": 0.442,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 37,
+              "normalized_text": "Caucus",
+              "probability": 0.5222,
+              "start": 32,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 64,
+              "id": "1224953820716945408",
+              "start": 53,
+              "username": "ChingteLai"
+            },
+            {
+              "end": 178,
+              "id": "32246010",
+              "start": 168,
+              "username": "DPPonline"
+            },
+            {
+              "end": 217,
+              "id": "1224953820716945408",
+              "start": 206,
+              "username": "ChingteLai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a2yCpCAc0j",
+              "end": 300,
+              "expanded_url": "https://x.com/kuomintang/status/1869926561790734677/photo/1",
+              "media_key": "3_1869926549727916032",
+              "start": 277,
+              "url": "https://t.co/a2yCpCAc0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869926561790734677",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 10628,
+          "like_count": 79,
+          "quote_count": 8,
+          "reply_count": 61,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Last night, the DPP Legislative Caucus, acting under @ChingteLai directives, resorted to smashing windows to seize the speaker’s podium in the LY. We strongly condemns @DPPonline violent actions. We demand @ChingteLai to apologize and resign from his position as the Chairman. https://t.co/a2yCpCAc0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989,
+          "following_count": 1327,
+          "like_count": 18005,
+          "listed_count": 9,
+          "media_count": 603,
+          "tweet_count": 10883
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T04:17:19.000Z",
+        "description": "中國國民黨為一個具有完美理想與悠久歷史的政黨。完美之理想在於建設中華民國成為一個自由、民主、富強、尊嚴的現代化國家；悠久之歷史，就是為實現此一完美理想而奮鬥匪懈的光榮記錄。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/i1VppDUGGu"
+              }
+            ]
+          }
+        },
+        "id": "1062560079847682048",
+        "location": "Taipei City, Taiwan (R.O.C.)",
+        "name": "中國國民黨 KMT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315971947210010624/rz-JUhg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90428,
+          "following_count": 160,
+          "like_count": 876,
+          "listed_count": 347,
+          "media_count": 497,
+          "tweet_count": 1211
+        },
+        "url": "https://t.co/i1VppDUGGu",
+        "username": "kuomintang",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-05T07:12:26.000Z",
+        "description": "President of R.O.C. Taiwan. Chairperson of Democratic Progressive Party.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/chingte/",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/chingte/",
+                "start": 0,
+                "url": "https://t.co/jlskvCNP8H"
+              }
+            ]
+          }
+        },
+        "id": "1224953820716945408",
+        "location": "Taiwan",
+        "name": "賴清德Lai Ching-te",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730152721926516736/K-asKS36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347726,
+          "following_count": 9,
+          "like_count": 162,
+          "listed_count": 1040,
+          "media_count": 304,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/jlskvCNP8H",
+        "username": "ChingteLai",
+        "verified": true
+      }
+    ]
+  }
+}

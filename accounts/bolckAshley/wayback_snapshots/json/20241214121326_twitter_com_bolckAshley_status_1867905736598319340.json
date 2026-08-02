@@ -1,0 +1,485 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "id": "1338565664114581504",
+          "name": "US Electoral College"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Georgia",
+          "id": "1004436112062812160",
+          "name": "Georgia"
+        }
+      }
+    ],
+    "conversation_id": "1867905736598319340",
+    "created_at": "2024-12-14T12:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T13:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1867905736598319340"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/EuropeElects/s…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/EuropeElects/status/1867826861050638426",
+          "start": 36,
+          "url": "https://t.co/0nHbVC0y15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867905736598319340",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867826861050638426",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "格魯吉亞統一主體國民會議（幻視）🤣\n格魯吉亞全國人民代表大會（幻視）🤣 https://t.co/0nHbVC0y15"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1338565664114581504",
+              "name": "US Electoral College"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          }
+        ],
+        "conversation_id": "1867905736598319340",
+        "created_at": "2024-12-14T12:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T13:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867905736598319340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/EuropeElects/s…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/EuropeElects/status/1867826861050638426",
+              "start": 36,
+              "url": "https://t.co/0nHbVC0y15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867905736598319340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867826861050638426",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "格魯吉亞統一主體國民會議（幻視）🤣\n格魯吉亞全國人民代表大會（幻視）🤣 https://t.co/0nHbVC0y15"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867656246460878849"
+          ]
+        },
+        "author_id": "319677725",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1338565664114581504",
+              "name": "US Electoral College"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          }
+        ],
+        "conversation_id": "1867826861050638426",
+        "created_at": "2024-12-14T07:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T08:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867826861050638426"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Georgia",
+              "probability": 0.9585,
+              "start": 0,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "National Parliament Composition National Poll Average This poll average is the result of a smoothing cubic spline fitted to our dataset of all national polls collected in Georgia.…",
+              "display_url": "europeelects.eu/georgia",
+              "end": 193,
+              "expanded_url": "https://europeelects.eu/georgia",
+              "images": [
+                {
+                  "height": 853,
+                  "url": "https://pbs.twimg.com/news_img/1849025625220096000/liOwD2ot?format=png&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1849025625220096000/liOwD2ot?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 170,
+              "status": 200,
+              "title": "Georgia - Europe Elects",
+              "unwound_url": "https://europeelects.eu/georgia",
+              "url": "https://t.co/qjZND4C2vr"
+            },
+            {
+              "display_url": "pic.x.com/AWsEp4H0hT",
+              "end": 217,
+              "expanded_url": "https://x.com/EuropeElects/status/1867826861050638426/photo/1",
+              "media_key": "3_1867656246460878849",
+              "start": 194,
+              "url": "https://t.co/AWsEp4H0hT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867826861050638426",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 17508,
+          "like_count": 114,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "Georgia, presidential election today:\n\n➤ Indirect election \n➤ Eligible voters: 300 electoral college delegates\n➤ 1 candidate running: Kavelashvili (GD/PP~S&amp;D|ECR)\n\n➤ https://t.co/qjZND4C2vr https://t.co/AWsEp4H0hT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1954,
+          "following_count": 1323,
+          "like_count": 17805,
+          "listed_count": 9,
+          "media_count": 591,
+          "tweet_count": 10803
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-18T14:55:35.000Z",
+        "description": "📊🗺🗳 Poll aggregation and election analysis in Europe #EP2029\n\nKeep us running during late election nights—buy us a https://t.co/VOfgeRc4DH",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "EP2029"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ko-fi.com/europeelects",
+                "end": 138,
+                "expanded_url": "http://ko-fi.com/europeelects",
+                "start": 115,
+                "url": "https://t.co/VOfgeRc4DH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "europeelects.eu",
+                "end": 23,
+                "expanded_url": "http://www.europeelects.eu",
+                "start": 0,
+                "url": "https://t.co/KPiWZ2JHDQ"
+              }
+            ]
+          }
+        },
+        "id": "319677725",
+        "location": "Oberroßbach, Deutschland",
+        "name": "Europe Elects",
+        "pinned_tweet_id": "1647065627029381121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/564496462025728002/T_yKRTbR_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176165,
+          "following_count": 142,
+          "like_count": 2,
+          "listed_count": 2113,
+          "media_count": 28161,
+          "tweet_count": 46720
+        },
+        "url": "https://t.co/KPiWZ2JHDQ",
+        "username": "EuropeElects",
+        "verified": true
+      }
+    ]
+  }
+}

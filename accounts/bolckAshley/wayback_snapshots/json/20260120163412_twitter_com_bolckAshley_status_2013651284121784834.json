@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2013651284121784834",
+    "created_at": "2026-01-20T16:34:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T17:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013651284121784834"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "SYRIA",
+          "probability": 0.8571,
+          "start": 43,
+          "type": "Place"
+        },
+        {
+          "end": 55,
+          "normalized_text": "Syria",
+          "probability": 0.7748,
+          "start": 51,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "146958450",
+          "start": 3,
+          "username": "ragipsoylu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013651284121784834",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013633021811818706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ragipsoylu: BREAKING — DEAL REACHED IN SYRIA \n\nSyria grants 4 days to SDF to come up with a detailed administrative and military mechan…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 613,
+        "media_key": "3_2013632668173295616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_HcPjaXYAAzHpU.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2013651284121784834",
+        "created_at": "2026-01-20T16:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013651284121784834"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "SYRIA",
+              "probability": 0.8571,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 55,
+              "normalized_text": "Syria",
+              "probability": 0.7748,
+              "start": 51,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "146958450",
+              "start": 3,
+              "username": "ragipsoylu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013651284121784834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013633021811818706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ragipsoylu: BREAKING — DEAL REACHED IN SYRIA \n\nSyria grants 4 days to SDF to come up with a detailed administrative and military mechan…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013632668173295616"
+          ]
+        },
+        "author_id": "146958450",
+        "conversation_id": "2013633021811818706",
+        "created_at": "2026-01-20T15:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T16:20:15.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013632674347295019",
+          "2013633021811818706"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "SYRIA",
+              "probability": 0.8848,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Syria",
+              "probability": 0.8025,
+              "start": 35,
+              "type": "Place"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Hasakah",
+              "probability": 0.5571,
+              "start": 131,
+              "type": "Place"
+            },
+            {
+              "end": 144,
+              "normalized_text": "Syria",
+              "probability": 0.804,
+              "start": 140,
+              "type": "Place"
+            },
+            {
+              "end": 207,
+              "normalized_text": "SDF",
+              "probability": 0.3944,
+              "start": 205,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CLdJ7rKW2g",
+              "end": 300,
+              "expanded_url": "https://x.com/ragipsoylu/status/2013633021811818706/photo/1",
+              "media_key": "3_2013632668173295616",
+              "start": 277,
+              "url": "https://t.co/CLdJ7rKW2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013633021811818706",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "BREAKING — DEAL REACHED IN SYRIA \n\nSyria grants 4 days to SDF to come up with a detailed administrative and military mechanism for Hasakah, Syria Presidency says, adding a joint understanding reached with SDF \n\n“• In the event of an agreement, the Syrian forces will not enter the centers of the cities of Hasakah and Qamishli and will remain on their outskirts, \n\n• and the timetable and details of the peaceful integration of Hasakah governorate, including the city of Qamishli, will be discussed later.\n\n• It was also confirmed that the Syrian military forces will not enter the Kurdish villages, and that no armed forces will be present in those villages except for local security forces from the region, in accordance with the agreement\n\n• Mr. Mazloum Abdi will propose a candidate from the SDF for the position of Assistant Minister of Defense, in addition to a candidate for the position of Governor of Hasakah, and names for representation in the People's Council and a list of individuals for employment within Syrian state institutions.\n\n• It noted that the implementation of this understanding will begin from 8 pm today.\n\n— SANA"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 59616,
+          "like_count": 378,
+          "quote_count": 31,
+          "reply_count": 33,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING — DEAL REACHED IN SYRIA \n\nSyria grants 4 days to SDF to come up with a detailed administrative and military mechanism for Hasakah, Syria Presidency says, adding a joint understanding reached with SDF \n\n“• In the event of an agreement, the Syrian forces will not enter https://t.co/CLdJ7rKW2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 1964,
+          "like_count": 37666,
+          "listed_count": 15,
+          "media_count": 1291,
+          "tweet_count": 18722
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-22T20:28:01.000Z",
+        "description": "Turkey Bureau Chief @middleeasteye E-mail: ragip.soylu@protonmail.com Türkçe için: @ragipsoyluTR Signal: ragipsoylu.99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "middleeasteye"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "ragipsoyluTR"
+              }
+            ]
+          }
+        },
+        "id": "146958450",
+        "name": "Ragıp Soylu",
+        "pinned_tweet_id": "2013585943312105651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344593617298612229/_mowCFZK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288399,
+          "following_count": 3867,
+          "like_count": 10669,
+          "listed_count": 3663,
+          "media_count": 9050,
+          "tweet_count": 42229
+        },
+        "username": "ragipsoylu",
+        "verified": true
+      }
+    ]
+  }
+}

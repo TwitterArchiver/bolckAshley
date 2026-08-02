@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1860146512552165546",
+    "created_at": "2024-11-23T03:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-23T04:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1860160950135079184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1232837627939676160",
+          "start": 0,
+          "username": "Akhromeyev_CCCP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1860160950135079184",
+    "in_reply_to_user_id": "1232837627939676160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1860146512552165546",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akhromeyev_CCCP 民粹主義的興起\n不過我很好奇為什麼BSW這樣一個AfD的左翼面在前東德居然搶不到什麼票"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1860146512552165546].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1860146512552165546",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1860146512552165546"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1860146512552165546",
+        "created_at": "2024-11-23T03:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-23T04:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1860160950135079184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1232837627939676160",
+              "start": 0,
+              "username": "Akhromeyev_CCCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1860160950135079184",
+        "in_reply_to_user_id": "1232837627939676160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1860146512552165546",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akhromeyev_CCCP 民粹主義的興起\n不過我很好奇為什麼BSW這樣一個AfD的左翼面在前東德居然搶不到什麼票"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹||左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||偶爾寫點東西發到這裡||可愛寶寶：@obuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 100,
+                "username": "obuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 1198,
+          "like_count": 16433,
+          "listed_count": 7,
+          "tweet_count": 10411
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-27T01:19:39.000Z",
+        "description": "Жила бы страна родная-\nИ нету других забот。願親愛的家鄉美好，願祖國呀萬年長。/政治立場左上/反建制/反修正/理論學習中/И снег, и ветер,И звёзд ночной полёт 聽風雪喧嚷，看夜空流星飛翔/НЕ ЗАБУДЬ 9 МАЯ!",
+        "id": "1232837627939676160",
+        "location": "北俄罗斯解放阵线 阿尔汉格尔斯克",
+        "name": "【VOS】🇷🇺🕊🇺🇦☭🚩📕🎖️阿赫羅梅耶夫元帥歸來 看戈爾巴喬夫蘇修叛徒集團土崩瓦解",
+        "pinned_tweet_id": "1829010504603291761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836066293860249600/ZXbt5IwC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 1761,
+          "like_count": 92713,
+          "listed_count": 16,
+          "tweet_count": 16628
+        },
+        "username": "Akhromeyev_CCCP",
+        "verified": false
+      }
+    ]
+  }
+}

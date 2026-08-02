@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "2074645402989834479",
+    "created_at": "2026-07-08T00:03:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:03:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074645402989834479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "213754264",
+          "start": 3,
+          "username": "faureolivier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074645402989834479",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 124
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074567613498200545",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @faureolivier: Marine Le Pen peut savourer sa victoire ce soir. Son père est exaucé avec la complicité du gouvernement et du bloc centra…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074567603834507264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpYPoEW0AAvP80.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2074645402989834479",
+        "created_at": "2026-07-08T00:03:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:03:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074645402989834479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "213754264",
+              "start": 3,
+              "username": "faureolivier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074645402989834479",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 124
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074567613498200545",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @faureolivier: Marine Le Pen peut savourer sa victoire ce soir. Son père est exaucé avec la complicité du gouvernement et du bloc centra…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074567603834507264"
+          ]
+        },
+        "author_id": "213754264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2074567613498200545",
+        "created_at": "2026-07-07T18:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074567613498200545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Afh5DuYhSo",
+              "end": 300,
+              "expanded_url": "https://x.com/faureolivier/status/2074567613498200545/photo/1",
+              "media_key": "3_2074567603834507264",
+              "start": 277,
+              "url": "https://t.co/Afh5DuYhSo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074567613498200545",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {},
+          "text": "Marine Le Pen peut savourer sa victoire ce soir. Son père est exaucé avec la complicité du gouvernement et du bloc central qui ont voté ensemble sans sourciller. Désormais la légitime défense des policiers se présume et n’a plus à être prouvée. C’est une immense régression de notre état de droit. Désormais les familles endeuillées auront à réunir les preuves alors que chacun sait à quel point dans ce genre d’affaires les preuves se recueillent déjà difficilement. Et je n’ose imaginer ce que cette loi, dans les mains d’une extrême droite qui l’aurait emporté , pourrait entraîner. Robert Badinter est au Panthéon mais ce soir les idées de l’extrême droite étaient majoritaires dans l’hémicycle."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 67792,
+          "like_count": 381,
+          "quote_count": 80,
+          "reply_count": 576,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "Marine Le Pen peut savourer sa victoire ce soir. Son père est exaucé avec la complicité du gouvernement et du bloc central qui ont voté ensemble sans sourciller. Désormais la légitime défense des policiers se présume et n’a plus à être prouvée. C’est une immense régression de https://t.co/Afh5DuYhSo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073876157041442816/ogHrp4Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 2254,
+          "like_count": 42754,
+          "listed_count": 29,
+          "media_count": 1813,
+          "tweet_count": 23317
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-09T18:23:51.000Z",
+        "description": "Premier secrétaire du @partisocialiste | Député de la 11ème circonscription de Seine-et-Marne",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "partisocialiste"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/olivier.faure",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/olivier.faure",
+                "start": 0,
+                "url": "https://t.co/IFuVkGi4TD"
+              }
+            ]
+          }
+        },
+        "id": "213754264",
+        "location": "France",
+        "name": "Olivier Faure",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715065097427554304/X1l0gCOB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175534,
+          "following_count": 2876,
+          "like_count": 29147,
+          "listed_count": 1260,
+          "media_count": 4448,
+          "tweet_count": 24971
+        },
+        "url": "https://t.co/IFuVkGi4TD",
+        "username": "faureolivier",
+        "verified": true
+      }
+    ]
+  }
+}

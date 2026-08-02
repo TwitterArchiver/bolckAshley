@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+          "id": "1205247603799019520",
+          "name": "Haruhi Suzumiya"
+        }
+      }
+    ],
+    "conversation_id": "2032291837499851097",
+    "created_at": "2026-03-13T03:05:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T04:05:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032291837499851097"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "涼宮ハルヒ",
+          "probability": 0.6063,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 124,
+          "normalized_text": "Chasing destiny",
+          "probability": 0.6934,
+          "start": 110,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1001107099",
+          "start": 3,
+          "username": "maimai_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032291837499851097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032290601220391298",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimai_official: 【CiRCLE PLUSコラボ情報・第2弾！】\n3/19(木)新バージョン稼働日より「涼宮ハルヒ」シリーズとのコラボが開催！📣\n\n「無敵的ハピネス！(SOS団5人Ver.)」「Chasing destiny」「Colorful Star…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2032290036532854784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDQlBUwbQAAtPae.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          }
+        ],
+        "conversation_id": "2032291837499851097",
+        "created_at": "2026-03-13T03:05:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:05:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032291837499851097"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "涼宮ハルヒ",
+              "probability": 0.6063,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Chasing destiny",
+              "probability": 0.6934,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1001107099",
+              "start": 3,
+              "username": "maimai_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032291837499851097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032290601220391298",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimai_official: 【CiRCLE PLUSコラボ情報・第2弾！】\n3/19(木)新バージョン稼働日より「涼宮ハルヒ」シリーズとのコラボが開催！📣\n\n「無敵的ハピネス！(SOS団5人Ver.)」「Chasing destiny」「Colorful Star…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032290036532854784"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1205247603799019520",
+              "name": "Haruhi Suzumiya"
+            }
+          }
+        ],
+        "conversation_id": "2032290601220391298",
+        "created_at": "2026-03-13T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032290601220391298"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "涼宮ハルヒ",
+              "probability": 0.6289,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Chasing destiny",
+              "probability": 0.6529,
+              "start": 89,
+              "type": "Other"
+            },
+            {
+              "end": 127,
+              "normalized_text": "Colorful Starting Line",
+              "probability": 0.5617,
+              "start": 106,
+              "type": "Other"
+            },
+            {
+              "end": 140,
+              "normalized_text": "SOS団",
+              "probability": 0.4746,
+              "start": 137,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "3/19(木)「涼宮ハルヒちほー」オープン！",
+              "display_url": "info-maimai.sega.jp/8790/",
+              "end": 190,
+              "expanded_url": "https://info-maimai.sega.jp/8790/",
+              "images": [
+                {
+                  "height": 281,
+                  "url": "https://pbs.twimg.com/news_img/2032290644975370241/TsFLxL5A?format=png&name=orig",
+                  "width": 500
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2032290644975370241/TsFLxL5A?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 167,
+              "status": 200,
+              "title": "3/19(木)「涼宮ハルヒちほー」オープン！",
+              "unwound_url": "https://info-maimai.sega.jp/8790/",
+              "url": "https://t.co/ASWNquiIHd"
+            },
+            {
+              "display_url": "pic.x.com/RC9ITz7zPC",
+              "end": 214,
+              "expanded_url": "https://x.com/maimai_official/status/2032290601220391298/photo/1",
+              "media_key": "3_2032290036532854784",
+              "start": 191,
+              "url": "https://t.co/RC9ITz7zPC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032290601220391298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3807,
+          "like_count": 212,
+          "quote_count": 21,
+          "reply_count": 2,
+          "retweet_count": 114
+        },
+        "reply_settings": "everyone",
+        "text": "【CiRCLE PLUSコラボ情報・第2弾！】\n3/19(木)新バージョン稼働日より「涼宮ハルヒ」シリーズとのコラボが開催！📣\n\n「無敵的ハピネス！(SOS団5人Ver.)」「Chasing destiny」「Colorful Starting Line」の3曲が追加！\nSOS団のメンバーもゲットできるよ！🆘\n\n⬇️詳しくはコチラ\nhttps://t.co/ASWNquiIHd https://t.co/RC9ITz7zPC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 1977,
+          "like_count": 39594,
+          "listed_count": 16,
+          "media_count": 1392,
+          "tweet_count": 20100
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "location": "セガ",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "2031205276226060461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180988,
+          "following_count": 27,
+          "like_count": 162,
+          "listed_count": 1357,
+          "media_count": 1344,
+          "tweet_count": 3046
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true
+      }
+    ]
+  }
+}

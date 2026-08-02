@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1892081744297238605",
+    "created_at": "2025-02-19T05:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T06:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892081744297238605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1511185667274907652",
+          "start": 3,
+          "username": "RevolutionTide"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892081744297238605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892039386415476826",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RevolutionTide: 我完全不知道现在读哲学有什么用，因而现在读哲学的要不是一些追求潮酷的学生，要不就是学院派，请问这两种人能带来什么现实的变革吗？读再多也只能让概念在大脑里空转，要不就是写一些让大部分人看不懂的文章，然而真正能连接概念与现实之间的中介-工人阶…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1892081744297238605",
+        "created_at": "2025-02-19T05:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T06:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892081744297238605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1511185667274907652",
+              "start": 3,
+              "username": "RevolutionTide"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892081744297238605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892039386415476826",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RevolutionTide: 我完全不知道现在读哲学有什么用，因而现在读哲学的要不是一些追求潮酷的学生，要不就是学院派，请问这两种人能带来什么现实的变革吗？读再多也只能让概念在大脑里空转，要不就是写一些让大部分人看不懂的文章，然而真正能连接概念与现实之间的中介-工人阶…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511185667274907652",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1892039386415476826",
+        "created_at": "2025-02-19T02:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T03:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892039386415476826"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892039386415476826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 171,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我完全不知道现在读哲学有什么用，因而现在读哲学的要不是一些追求潮酷的学生，要不就是学院派，请问这两种人能带来什么现实的变革吗？读再多也只能让概念在大脑里空转，要不就是写一些让大部分人看不懂的文章，然而真正能连接概念与现实之间的中介-工人阶级，却因为迫于生活压力或者是各种原因而无法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2133,
+          "following_count": 1543,
+          "like_count": 22053,
+          "listed_count": 9,
+          "media_count": 753,
+          "tweet_count": 12211
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T03:35:22.000Z",
+        "description": "毁灭的激情就是创造的幸福 。/后结构无政府主义者",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nightfall.buzz",
+                "end": 23,
+                "expanded_url": "https://nightfall.buzz/",
+                "start": 0,
+                "url": "https://t.co/T8Rq4vYSHW"
+              }
+            ]
+          }
+        },
+        "id": "1511185667274907652",
+        "location": "萨帕塔民族解放军",
+        "name": "Revolutionary Tide",
+        "pinned_tweet_id": "1847619356575817866",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883090331144478720/o0ZnDZdi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4687,
+          "following_count": 2635,
+          "like_count": 76504,
+          "listed_count": 21,
+          "media_count": 319,
+          "tweet_count": 3350
+        },
+        "url": "https://t.co/T8Rq4vYSHW",
+        "username": "RevolutionTide",
+        "verified": false
+      }
+    ]
+  }
+}

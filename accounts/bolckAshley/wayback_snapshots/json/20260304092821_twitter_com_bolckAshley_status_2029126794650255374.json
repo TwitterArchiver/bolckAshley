@@ -1,0 +1,503 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      }
+    ],
+    "conversation_id": "2029126794650255374",
+    "created_at": "2026-03-04T09:28:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T10:28:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029126794650255374"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 56,
+          "normalized_text": "Russia",
+          "probability": 0.9569,
+          "start": 51,
+          "type": "Place"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Iran",
+          "probability": 0.8577,
+          "start": 73,
+          "type": "Place"
+        },
+        {
+          "end": 114,
+          "normalized_text": "China",
+          "probability": 0.9036,
+          "start": 110,
+          "type": "Place"
+        },
+        {
+          "end": 138,
+          "normalized_text": "North Korea",
+          "probability": 0.8002,
+          "start": 128,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1310865983725281281",
+          "start": 3,
+          "username": "Simon_Jacob1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029126794650255374",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029093565381431407",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Simon_Jacob1: International politics is easy:\n\nRussia 🇷🇺: the devil \nIran (Islamic Regime) 🇮🇷: the devil\n\nChina 🇨🇳: bad guy\nNorth Korea…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2029126794650255374",
+        "created_at": "2026-03-04T09:28:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:28:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029126794650255374"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 56,
+              "normalized_text": "Russia",
+              "probability": 0.9569,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Iran",
+              "probability": 0.8577,
+              "start": 73,
+              "type": "Place"
+            },
+            {
+              "end": 114,
+              "normalized_text": "China",
+              "probability": 0.9036,
+              "start": 110,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "North Korea",
+              "probability": 0.8002,
+              "start": 128,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1310865983725281281",
+              "start": 3,
+              "username": "Simon_Jacob1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029126794650255374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029093565381431407",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Simon_Jacob1: International politics is easy:\n\nRussia 🇷🇺: the devil \nIran (Islamic Regime) 🇮🇷: the devil\n\nChina 🇨🇳: bad guy\nNorth Korea…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1310865983725281281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192269799428096",
+              "name": "China politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192841529200640",
+              "name": "China political issues"
+            }
+          }
+        ],
+        "conversation_id": "2029093565381431407",
+        "created_at": "2026-03-04T07:16:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:16:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029093565381431407"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Russia",
+              "probability": 0.9607,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Iran",
+              "probability": 0.85,
+              "start": 55,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "China",
+              "probability": 0.9285,
+              "start": 92,
+              "type": "Place"
+            },
+            {
+              "end": 120,
+              "normalized_text": "North Korea",
+              "probability": 0.8912,
+              "start": 110,
+              "type": "Place"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Cuba",
+              "probability": 0.9481,
+              "start": 134,
+              "type": "Place"
+            },
+            {
+              "end": 158,
+              "normalized_text": "Ukraine",
+              "probability": 0.9544,
+              "start": 152,
+              "type": "Place"
+            },
+            {
+              "end": 178,
+              "normalized_text": "Taiwan",
+              "probability": 0.954,
+              "start": 173,
+              "type": "Place"
+            },
+            {
+              "end": 196,
+              "normalized_text": "NATO",
+              "probability": 0.9647,
+              "start": 193,
+              "type": "Organization"
+            },
+            {
+              "end": 219,
+              "normalized_text": "EU",
+              "probability": 0.9563,
+              "start": 218,
+              "type": "Place"
+            },
+            {
+              "end": 239,
+              "normalized_text": "Japan",
+              "probability": 0.9555,
+              "start": 235,
+              "type": "Place"
+            },
+            {
+              "end": 264,
+              "normalized_text": "South Korea",
+              "probability": 0.9037,
+              "start": 254,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029093565381431407",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 5198,
+          "like_count": 202,
+          "quote_count": 2,
+          "reply_count": 27,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "International politics is easy:\n\nRussia 🇷🇺: the devil \nIran (Islamic Regime) 🇮🇷: the devil\n\nChina 🇨🇳: bad guy\nNorth Korea 🇰🇵: bad guy\nCuba 🇨🇺: bad guy\n\nUkraine 🇺🇦: good guy\nTaiwan 🇹🇼: good guy\nNATO 🇺🇸🇬🇧🇩🇪🇫🇷: good guys\nEU 🇪🇺: good guys\nJapan 🇯🇵: good guy\nSouth Korea 🇰🇷: good guy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 1982,
+          "like_count": 39095,
+          "listed_count": 16,
+          "media_count": 1363,
+          "tweet_count": 19770
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-29T08:56:28.000Z",
+        "description": "Vizepräsident sozialliberale Reformplattform der @spschweiz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "spschweiz"
+              }
+            ]
+          }
+        },
+        "id": "1310865983725281281",
+        "location": "Zumikon, Schweiz",
+        "name": "Simon Jacob🌹",
+        "pinned_tweet_id": "2027660229396017604",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629823703339999232/pWByx-qO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3251,
+          "following_count": 699,
+          "like_count": 157389,
+          "listed_count": 168,
+          "media_count": 1464,
+          "tweet_count": 26222
+        },
+        "username": "Simon_Jacob1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,469 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1812655698209112293",
+    "created_at": "2024-07-15T01:09:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T02:09:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812655698209112293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "355591226",
+          "start": 3,
+          "username": "DemSocialists"
+        }
+      ],
+      "urls": [
+        {
+          "description": "On Sunday, June 23rd, the DSA National Political Committee (NPC) voted to endorse Representative Alexandria Ocasio-Cortez (AOC) so long as she fulfills the following conditions:  This initial endorsement request was considered upon request of New York City DSA’s Steering Committee (NYC-DSA SC). Earlier this week, the NPC received a request from NYC-DSA SC to withdraw…",
+          "display_url": "dsausa.org/statements/sta…",
+          "end": 131,
+          "expanded_url": "https://www.dsausa.org/statements/status-of-dsa-national-endorsement-for-rep-ocasio-cortez/",
+          "images": [
+            {
+              "height": 992,
+              "url": "https://pbs.twimg.com/news_img/1811188314067865600/mkBg7xjA?format=jpg&name=orig",
+              "width": 992
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1811188314067865600/mkBg7xjA?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 108,
+          "status": 200,
+          "title": "Status of DSA National Endorsement for Rep. Ocasio-Cortez - Democratic Socialists of America (DSA)",
+          "unwound_url": "https://www.dsausa.org/statements/status-of-dsa-national-endorsement-for-rep-ocasio-cortez/",
+          "url": "https://t.co/CF9dl7LBS2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812655698209112293",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811846454740427034",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DemSocialists: Read the latest NPC statement: Status of DSA National Endorsement for Rep. Ocasio-Cortez\nhttps://t.co/CF9dl7LBS2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1812655698209112293",
+        "created_at": "2024-07-15T01:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T02:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812655698209112293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "355591226",
+              "start": 3,
+              "username": "DemSocialists"
+            }
+          ],
+          "urls": [
+            {
+              "description": "On Sunday, June 23rd, the DSA National Political Committee (NPC) voted to endorse Representative Alexandria Ocasio-Cortez (AOC) so long as she fulfills the following conditions:  This initial endorsement request was considered upon request of New York City DSA’s Steering Committee (NYC-DSA SC). Earlier this week, the NPC received a request from NYC-DSA SC to withdraw…",
+              "display_url": "dsausa.org/statements/sta…",
+              "end": 131,
+              "expanded_url": "https://www.dsausa.org/statements/status-of-dsa-national-endorsement-for-rep-ocasio-cortez/",
+              "images": [
+                {
+                  "height": 992,
+                  "url": "https://pbs.twimg.com/news_img/1811188314067865600/mkBg7xjA?format=jpg&name=orig",
+                  "width": 992
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1811188314067865600/mkBg7xjA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "Status of DSA National Endorsement for Rep. Ocasio-Cortez - Democratic Socialists of America (DSA)",
+              "unwound_url": "https://www.dsausa.org/statements/status-of-dsa-national-endorsement-for-rep-ocasio-cortez/",
+              "url": "https://t.co/CF9dl7LBS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812655698209112293",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811846454740427034",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DemSocialists: Read the latest NPC statement: Status of DSA National Endorsement for Rep. Ocasio-Cortez\nhttps://t.co/CF9dl7LBS2"
+      },
+      {
+        "attachments": {},
+        "author_id": "355591226",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1811846454740427034",
+        "created_at": "2024-07-12T19:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T20:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811846454740427034"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "NPC",
+              "probability": 0.6219,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 43,
+              "normalized_text": "DSA",
+              "probability": 0.677,
+              "start": 41,
+              "type": "Organization"
+            },
+            {
+              "end": 87,
+              "normalized_text": "Ocasio-Cortez",
+              "probability": 0.9532,
+              "start": 75,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "On Sunday, June 23rd, the DSA National Political Committee (NPC) voted to endorse Representative Alexandria Ocasio-Cortez (AOC) so long as she fulfills the following conditions:  This initial endorsement request was considered upon request of New York City DSA’s Steering Committee (NYC-DSA SC). Earlier this week, the NPC received a request from NYC-DSA SC to withdraw…",
+              "display_url": "dsausa.org/statements/sta…",
+              "end": 112,
+              "expanded_url": "https://www.dsausa.org/statements/status-of-dsa-national-endorsement-for-rep-ocasio-cortez/",
+              "images": [
+                {
+                  "height": 992,
+                  "url": "https://pbs.twimg.com/news_img/1811188314067865600/mkBg7xjA?format=jpg&name=orig",
+                  "width": 992
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1811188314067865600/mkBg7xjA?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 89,
+              "status": 200,
+              "title": "Status of DSA National Endorsement for Rep. Ocasio-Cortez - Democratic Socialists of America (DSA)",
+              "unwound_url": "https://www.dsausa.org/statements/status-of-dsa-national-endorsement-for-rep-ocasio-cortez/",
+              "url": "https://t.co/CF9dl7LBS2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811846454740427034",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 200097,
+          "like_count": 282,
+          "quote_count": 53,
+          "reply_count": 66,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "Read the latest NPC statement: Status of DSA National Endorsement for Rep. Ocasio-Cortez\nhttps://t.co/CF9dl7LBS2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 980,
+          "like_count": 12930,
+          "listed_count": 8,
+          "tweet_count": 8740
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-08-15T16:01:21.000Z",
+        "description": "Democratic Socialists of America is the largest and fastest growing socialist organization in the USA. Students: @ydsa_ 🌹 Tweets are not official statements.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 113,
+                "username": "ydsa_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dsausa.org",
+                "end": 23,
+                "expanded_url": "http://dsausa.org",
+                "start": 0,
+                "url": "https://t.co/vWK8qd1vb8"
+              }
+            ]
+          }
+        },
+        "id": "355591226",
+        "name": "DSA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875451834911125505/DgGKFJ8p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354289,
+          "following_count": 4798,
+          "like_count": 29794,
+          "listed_count": 2331,
+          "tweet_count": 45042
+        },
+        "url": "https://t.co/vWK8qd1vb8",
+        "username": "DemSocialists",
+        "verified": true
+      }
+    ]
+  }
+}

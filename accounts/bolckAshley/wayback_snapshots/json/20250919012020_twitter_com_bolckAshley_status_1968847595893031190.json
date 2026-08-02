@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1968847595893031190",
+    "created_at": "2025-09-19T01:20:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T02:20:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968847595893031190"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Norwegian Monarchy",
+          "probability": 0.6175,
+          "start": 21,
+          "type": "Other"
+        },
+        {
+          "end": 68,
+          "normalized_text": "Norway",
+          "probability": 0.9624,
+          "start": 63,
+          "type": "Place"
+        },
+        {
+          "end": 117,
+          "normalized_text": "Norway",
+          "probability": 0.9659,
+          "start": 112,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264203540",
+          "start": 3,
+          "username": "joakial_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968847595893031190",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968753871242596780",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @joakial_: 🇳🇴 New Norwegian Monarchy poll:\n\nQ: Do you think Norway should remain a monarchy, or do you think Norway should become a repu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1125,
+        "media_key": "3_1968753689914429440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1JrDNGW0AAkIu1.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1968847595893031190",
+        "created_at": "2025-09-19T01:20:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T02:20:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968847595893031190"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Norwegian Monarchy",
+              "probability": 0.6175,
+              "start": 21,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Norway",
+              "probability": 0.9624,
+              "start": 63,
+              "type": "Place"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Norway",
+              "probability": 0.9659,
+              "start": 112,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264203540",
+              "start": 3,
+              "username": "joakial_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968847595893031190",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968753871242596780",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @joakial_: 🇳🇴 New Norwegian Monarchy poll:\n\nQ: Do you think Norway should remain a monarchy, or do you think Norway should become a repu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968753689914429440"
+          ]
+        },
+        "author_id": "1264203540",
+        "conversation_id": "1968753871242596780",
+        "created_at": "2025-09-18T19:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T20:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968753871242596780"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Norwegian Monarchy",
+              "probability": 0.6902,
+              "start": 7,
+              "type": "Other"
+            },
+            {
+              "end": 54,
+              "normalized_text": "Norway",
+              "probability": 0.9642,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 103,
+              "normalized_text": "Norway",
+              "probability": 0.9572,
+              "start": 98,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ACiabF3aBF",
+              "end": 216,
+              "expanded_url": "https://x.com/joakial_/status/1968753871242596780/photo/1",
+              "media_key": "3_1968753689914429440",
+              "start": 193,
+              "url": "https://t.co/ACiabF3aBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968753871242596780",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 16054,
+          "like_count": 261,
+          "quote_count": 9,
+          "reply_count": 29,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "🇳🇴 New Norwegian Monarchy poll:\n\nQ: Do you think Norway should remain a monarchy, or do you think Norway should become a republic?\n\nRemain a monarchy: 72%\nBecome a republic: 16%\nUndecided: 12% https://t.co/ACiabF3aBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2567,
+          "following_count": 1951,
+          "like_count": 33040,
+          "listed_count": 11,
+          "media_count": 1081,
+          "tweet_count": 16389
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-13T11:22:10.000Z",
+        "description": "25 | Norway Correspondent for @EuropeElects 📊🗳️ Humanist | Vegan | Egalitarian | Member of the Socialist Left Party, @SVparti 🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "EuropeElects"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "SVparti"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/joakial",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/joakial",
+                "start": 0,
+                "url": "https://t.co/EvjmbKFI3G"
+              }
+            ]
+          }
+        },
+        "id": "1264203540",
+        "location": "Kingdom of Norway",
+        "name": "Joakim 🌹🇳🇴🇪🇺",
+        "pinned_tweet_id": "1734326468514079038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878862384552386561/oO1NYHt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30623,
+          "following_count": 3529,
+          "like_count": 223091,
+          "listed_count": 146,
+          "media_count": 5414,
+          "tweet_count": 26425
+        },
+        "url": "https://t.co/EvjmbKFI3G",
+        "username": "joakial_",
+        "verified": true
+      }
+    ]
+  }
+}

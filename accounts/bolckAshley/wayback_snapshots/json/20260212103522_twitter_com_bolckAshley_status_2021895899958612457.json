@@ -1,0 +1,491 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2021895899958612457",
+    "created_at": "2026-02-12T10:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T11:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021895899958612457"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Europe",
+          "probability": 0.9572,
+          "start": 18,
+          "type": "Place"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Chi",
+          "probability": 0.4273,
+          "start": 136,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1707319202191962112",
+          "start": 3,
+          "username": "RacePopeIII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021895899958612457",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021747000644120976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RacePopeIII: “Europe is a completely racist propagandized garbage continent”\n\nHoo boy, just wait until you see this country called “Chi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2021746997531914240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA6wLr2aMAAN0gK.jpg",
+        "width": 487
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2021895899958612457",
+        "created_at": "2026-02-12T10:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T11:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021895899958612457"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Europe",
+              "probability": 0.9572,
+              "start": 18,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Chi",
+              "probability": 0.4273,
+              "start": 136,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1707319202191962112",
+              "start": 3,
+              "username": "RacePopeIII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021895899958612457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021747000644120976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RacePopeIII: “Europe is a completely racist propagandized garbage continent”\n\nHoo boy, just wait until you see this country called “Chi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021746997531914240"
+          ]
+        },
+        "author_id": "1707319202191962112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2021747000644120976",
+        "created_at": "2026-02-12T00:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021747000644120976"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Europe",
+              "probability": 0.9612,
+              "start": 1,
+              "type": "Place"
+            },
+            {
+              "end": 123,
+              "normalized_text": "China",
+              "probability": 0.963,
+              "start": 119,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4R7Xv99vKE",
+              "end": 150,
+              "expanded_url": "https://x.com/RacePopeIII/status/2021747000644120976/photo/1",
+              "media_key": "3_2021746997531914240",
+              "start": 127,
+              "url": "https://t.co/4R7Xv99vKE"
+            },
+            {
+              "display_url": "x.com/socialistmma/s…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/socialistmma/status/2021255002904269299",
+              "start": 151,
+              "url": "https://t.co/GqTwIhhZTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021747000644120976",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1217,
+          "like_count": 77,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021255002904269299",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“Europe is a completely racist propagandized garbage continent”\n\nHoo boy, just wait until you see this country called “China”! https://t.co/4R7Xv99vKE https://t.co/GqTwIhhZTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 1980,
+          "like_count": 38130,
+          "listed_count": 15,
+          "media_count": 1334,
+          "tweet_count": 19181
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T09:00:07.000Z",
+        "description": "Aspie, Wasian, INTJ, New Deal Nationalist, Classical Realist, Atlanticist, NWO Supporter, WA Patriot, Bibliophile",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nato.int",
+                "end": 23,
+                "expanded_url": "https://www.nato.int",
+                "start": 0,
+                "url": "https://t.co/UmeL1rnxOZ"
+              }
+            ]
+          }
+        },
+        "id": "1707319202191962112",
+        "location": "Washington, USA",
+        "name": "𝑅𝒶𝒸𝑒𝒫𝑜𝓅𝑒🦅🫏🌹🇺🇸🇪🇺🇺🇳🇯🇵🇰🇷🇹🇼",
+        "pinned_tweet_id": "2021713915433091176",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003976038133399552/z0GLggrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 1799,
+          "like_count": 226150,
+          "listed_count": 11,
+          "media_count": 10582,
+          "tweet_count": 27477
+        },
+        "url": "https://t.co/UmeL1rnxOZ",
+        "username": "RacePopeIII",
+        "verified": true
+      }
+    ]
+  }
+}

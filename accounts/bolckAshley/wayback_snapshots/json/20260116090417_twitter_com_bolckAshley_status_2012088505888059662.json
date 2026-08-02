@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+          "id": "1011352563667558400",
+          "name": "Economic Issues in Japan"
+        }
+      }
+    ],
+    "conversation_id": "2012088505888059662",
+    "created_at": "2026-01-16T09:04:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T10:04:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012088505888059662"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "斉藤代表",
+          "probability": 0.7615,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 104,
+          "normalized_text": "石破さん",
+          "probability": 0.5058,
+          "start": 101,
+          "type": "Person"
+        },
+        {
+          "end": 143,
+          "normalized_text": "日本",
+          "probability": 0.586,
+          "start": 142,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1955482817791709184",
+          "start": 3,
+          "username": "4nti_Populism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012088505888059662",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 925
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011797980391882979",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4nti_Populism: 【斉藤代表、石破前首相にも声掛け「一緒に流れを作っていきましょう」】\n&gt;「この中道改革の軸になるという基本的な考え方の下に、自民党のしかるべき方、率直に言えば石破さんにも、我々の考え方は申し上げました」\n&gt;石破氏からは「そういう方向に日本を…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_2011797920769851393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tXjMtbQAE5QNP.png",
+        "width": 696
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2012088505888059662",
+        "created_at": "2026-01-16T09:04:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T10:04:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012088505888059662"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "斉藤代表",
+              "probability": 0.7615,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 104,
+              "normalized_text": "石破さん",
+              "probability": 0.5058,
+              "start": 101,
+              "type": "Person"
+            },
+            {
+              "end": 143,
+              "normalized_text": "日本",
+              "probability": 0.586,
+              "start": 142,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1955482817791709184",
+              "start": 3,
+              "username": "4nti_Populism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012088505888059662",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 925
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011797980391882979",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4nti_Populism: 【斉藤代表、石破前首相にも声掛け「一緒に流れを作っていきましょう」】\n&gt;「この中道改革の軸になるという基本的な考え方の下に、自民党のしかるべき方、率直に言えば石破さんにも、我々の考え方は申し上げました」\n&gt;石破氏からは「そういう方向に日本を…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011797920769851393"
+          ]
+        },
+        "author_id": "1955482817791709184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation related to the Japanese economy. 日本経済についての会話",
+              "id": "1011352563667558400",
+              "name": "Economic Issues in Japan"
+            }
+          }
+        ],
+        "conversation_id": "2011797980391882979",
+        "created_at": "2026-01-15T13:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011797980391882979"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "斉藤代表",
+              "probability": 0.7682,
+              "start": 1,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "石破さん",
+              "probability": 0.5001,
+              "start": 82,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "石破氏",
+              "probability": 0.391,
+              "start": 109,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XyWJDf74XA",
+              "end": 172,
+              "expanded_url": "https://x.com/4nti_Populism/status/2011797980391882979/photo/1",
+              "media_key": "3_2011797920769851393",
+              "start": 149,
+              "url": "https://t.co/XyWJDf74XA"
+            },
+            {
+              "display_url": "x.com/4nti_Populism/…",
+              "end": 196,
+              "expanded_url": "https://twitter.com/4nti_Populism/status/2011714258757878173",
+              "start": 173,
+              "url": "https://t.co/JbVg9vkHL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011797980391882979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 487392,
+          "like_count": 4888,
+          "quote_count": 181,
+          "reply_count": 249,
+          "retweet_count": 925
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011714258757878173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【斉藤代表、石破前首相にも声掛け「一緒に流れを作っていきましょう」】\n&gt;「この中道改革の軸になるという基本的な考え方の下に、自民党のしかるべき方、率直に言えば石破さんにも、我々の考え方は申し上げました」\n&gt;石破氏からは「そういう方向に日本を持っていきたいね」と好反応だったと明かした。 https://t.co/XyWJDf74XA https://t.co/JbVg9vkHL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2850,
+          "following_count": 1959,
+          "like_count": 37514,
+          "listed_count": 15,
+          "media_count": 1277,
+          "tweet_count": 18645
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-13T04:13:37.000Z",
+        "description": "【非公認】我々は、勇気と真心をもって真実を語る政治、納得と共感によって確かな道を進む政治、謙虚で誠実な温かい政治を取り戻していかねばなりません。このためにも、政党の枠を超えて連帯し、石破茂さんを再び総理に押し上げてまいりたい、そのように考えておるところでございます。",
+        "id": "1955482817791709184",
+        "location": "慶應法→司法修習　※個人の見解を含みます。RT≠賛同。",
+        "name": "石破茂の再登板を求める会",
+        "pinned_tweet_id": "1976580892949983370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006945718431617024/qYCLLVAc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4629,
+          "following_count": 1236,
+          "like_count": 30600,
+          "listed_count": 12,
+          "media_count": 425,
+          "tweet_count": 10367
+        },
+        "username": "4nti_Populism",
+        "verified": false
+      }
+    ]
+  }
+}

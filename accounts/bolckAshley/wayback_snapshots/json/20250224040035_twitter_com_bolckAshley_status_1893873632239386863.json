@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1893873632239386863",
+    "created_at": "2025-02-24T04:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-24T05:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1893873632239386863"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 108,
+          "normalized_text": "SPD",
+          "probability": 0.868,
+          "start": 106,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1462971021888081924",
+          "start": 3,
+          "username": "Cupo_Cupovski"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1893873632239386863",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1893863978607997299",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cupo_Cupovski: 🇩🇪 German election results in 2021 vs. 2025\n\nTo put this in context, the last time the SPD didn't come out of an electio…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1490,
+        "media_key": "3_1893863975193878528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhbQFZXIAAHvUt.jpg",
+        "width": 1125
+      },
+      {
+        "height": 1506,
+        "media_key": "3_1893863975541972992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkhbQGsWoAAS57R.jpg",
+        "width": 1125
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1893873632239386863",
+        "created_at": "2025-02-24T04:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T05:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1893873632239386863"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 108,
+              "normalized_text": "SPD",
+              "probability": 0.868,
+              "start": 106,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1462971021888081924",
+              "start": 3,
+              "username": "Cupo_Cupovski"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893873632239386863",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893863978607997299",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cupo_Cupovski: 🇩🇪 German election results in 2021 vs. 2025\n\nTo put this in context, the last time the SPD didn't come out of an electio…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1893863975193878528",
+            "3_1893863975541972992"
+          ]
+        },
+        "author_id": "1462971021888081924",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1893863978607997299",
+        "created_at": "2025-02-24T03:22:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-24T04:22:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1893863978607997299"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "SPD",
+              "probability": 0.8873,
+              "start": 87,
+              "type": "Organization"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Germany",
+              "probability": 0.8657,
+              "start": 132,
+              "type": "Place"
+            },
+            {
+              "end": 201,
+              "normalized_text": "AfD",
+              "probability": 0.8885,
+              "start": 199,
+              "type": "Organization"
+            },
+            {
+              "end": 216,
+              "normalized_text": "CupoCupovski",
+              "probability": 0.2725,
+              "start": 205,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 217,
+              "start": 204,
+              "tag": "CupoCupovski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DMtZ2AZrqA",
+              "end": 241,
+              "expanded_url": "https://x.com/Cupo_Cupovski/status/1893863978607997299/photo/1",
+              "media_key": "3_1893863975193878528",
+              "start": 218,
+              "url": "https://t.co/DMtZ2AZrqA"
+            },
+            {
+              "display_url": "pic.x.com/DMtZ2AZrqA",
+              "end": 241,
+              "expanded_url": "https://x.com/Cupo_Cupovski/status/1893863978607997299/photo/1",
+              "media_key": "3_1893863975541972992",
+              "start": 218,
+              "url": "https://t.co/DMtZ2AZrqA"
+            },
+            {
+              "display_url": "x.com/Cupo_Cupovski/…",
+              "end": 265,
+              "expanded_url": "https://twitter.com/Cupo_Cupovski/status/1893827701980504524",
+              "start": 242,
+              "url": "https://t.co/8HZMeSV9JJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1893863978607997299",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 225,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1893827701980504524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🇩🇪 German election results in 2021 vs. 2025\n\nTo put this in context, the last time the SPD didn't come out of an election as one of Germany's two biggest parties was 1887!\n\n~ Quite an achievement by AfD\n\n#CupoCupovski https://t.co/DMtZ2AZrqA https://t.co/8HZMeSV9JJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2155,
+          "following_count": 1583,
+          "like_count": 22494,
+          "listed_count": 9,
+          "media_count": 762,
+          "tweet_count": 12343
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-23T02:27:54.000Z",
+        "description": "🌍 Independent 🌍 Analyst 🌍 Geopolitics 🌍Breaking News 🌐https://t.co/KBlr9upa7L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cupocupovski.blogspot.com",
+                "end": 77,
+                "expanded_url": "http://cupocupovski.blogspot.com",
+                "start": 54,
+                "url": "https://t.co/KBlr9upa7L"
+              }
+            ]
+          }
+        },
+        "id": "1462971021888081924",
+        "location": "Republic of Croatia",
+        "name": "Cupo Cupovski",
+        "pinned_tweet_id": "1893860830342529087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892418124319707136/RzqB6Xv7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 183,
+          "like_count": 1470,
+          "listed_count": 1,
+          "media_count": 405,
+          "tweet_count": 636
+        },
+        "username": "Cupo_Cupovski",
+        "verified": false
+      }
+    ]
+  }
+}

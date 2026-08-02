@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025110883899449344"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596161376261",
+          "name": "Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597017083904",
+          "name": "QSR - Dining"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026414829",
+          "name": "KFC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "description": "Fast food",
+          "id": "847865239886417922",
+          "name": "Fast food Restaurants"
+        }
+      }
+    ],
+    "conversation_id": "2025110887615660519",
+    "created_at": "2026-02-21T07:30:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:30:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025110887615660519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aB4WTpnMDI",
+          "end": 153,
+          "expanded_url": "https://x.com/bolckAshley/status/2025110887615660519/photo/1",
+          "media_key": "3_2025110883899449344",
+          "start": 130,
+          "url": "https://t.co/aB4WTpnMDI"
+        },
+        {
+          "display_url": "x.com/Runewaver/stat…",
+          "end": 177,
+          "expanded_url": "https://twitter.com/Runewaver/status/2025091879201890548",
+          "start": 154,
+          "url": "https://t.co/Nqvqt3VgH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025110887615660519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025091879201890548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "暱稱裡掛個🏳️‍🌈卻支持一個反對LGBTQ的社會保守主義政黨?\n典型的Chicken for KFC 😹\n菲佐本人的言論：「我不希望這裡的人們走進來聲稱自己是女性，結果兩腿之間卻長著 20 公分長的東西……你們知道是什麼。」，能支持這種東西的我看也是神人了😹 https://t.co/aB4WTpnMDI https://t.co/Nqvqt3VgH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2025110883899449344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqjnpGaoAAMQWa.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025110883899449344"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596161376261",
+              "name": "Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597017083904",
+              "name": "QSR - Dining"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026414829",
+              "name": "KFC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Fast food",
+              "id": "847865239886417922",
+              "name": "Fast food Restaurants"
+            }
+          }
+        ],
+        "conversation_id": "2025110887615660519",
+        "created_at": "2026-02-21T07:30:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:30:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025110887615660519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aB4WTpnMDI",
+              "end": 153,
+              "expanded_url": "https://x.com/bolckAshley/status/2025110887615660519/photo/1",
+              "media_key": "3_2025110883899449344",
+              "start": 130,
+              "url": "https://t.co/aB4WTpnMDI"
+            },
+            {
+              "display_url": "x.com/Runewaver/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/Runewaver/status/2025091879201890548",
+              "start": 154,
+              "url": "https://t.co/Nqvqt3VgH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025110887615660519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025091879201890548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "暱稱裡掛個🏳️‍🌈卻支持一個反對LGBTQ的社會保守主義政黨?\n典型的Chicken for KFC 😹\n菲佐本人的言論：「我不希望這裡的人們走進來聲稱自己是女性，結果兩腿之間卻長著 20 公分長的東西……你們知道是什麼。」，能支持這種東西的我看也是神人了😹 https://t.co/aB4WTpnMDI https://t.co/Nqvqt3VgH4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1294570215255113728",
+        "conversation_id": "2025091879201890548",
+        "created_at": "2026-02-21T06:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025091879201890548"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MisakaNo8964/s…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/MisakaNo8964/status/2025090729727459513",
+              "start": 135,
+              "url": "https://t.co/uLF2L6CcB6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025091879201890548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025090729727459513",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我都不知道这位先生到底在因为什么精神胜利，似乎在他看来，外交语言就代表了一切，以至于人们必须同时支持一个主张社会民主主义（不是第三条道路式的）的政党与一个主张新自由主义的政党；这样的人并不具有任何真正的意识形态，唯一具有的就是阵营思维……哦，或许还有污言秽语综合症…… https://t.co/uLF2L6CcB6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2989,
+          "following_count": 1980,
+          "like_count": 38400,
+          "listed_count": 15,
+          "media_count": 1343,
+          "tweet_count": 19303
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T09:42:54.000Z",
+        "description": "Socialismo del Tecera Pocision\nMorena-MLP-Libre-FSLN-PH-PSUV-RC-PT-PJ-FA-MAS-PCCh\n理论化学入门/拉美现代当代政治趣味\n偶像梦幻祭/pjsk\n中文/English/Español\n想要一面Wiphala",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mobile.twitter.com/Runewaver",
+                "end": 23,
+                "expanded_url": "https://mobile.twitter.com/Runewaver",
+                "start": 0,
+                "url": "https://t.co/faTILGBade"
+              }
+            ]
+          }
+        },
+        "id": "1294570215255113728",
+        "location": "私立梦之咲学园",
+        "name": "ROK🏳️‍🌈🇧🇴🇦🇷🇮🇪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772223957502185472/tBjfpGqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 706,
+          "following_count": 418,
+          "like_count": 15660,
+          "listed_count": 2,
+          "media_count": 583,
+          "tweet_count": 3556
+        },
+        "url": "https://t.co/faTILGBade",
+        "username": "Runewaver",
+        "verified": false
+      }
+    ]
+  }
+}

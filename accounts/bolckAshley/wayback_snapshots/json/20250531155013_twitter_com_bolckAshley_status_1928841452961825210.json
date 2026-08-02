@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      }
+    ],
+    "conversation_id": "1928841452961825210",
+    "created_at": "2025-05-31T15:50:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-31T16:50:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1928841452961825210"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 128,
+          "normalized_text": "of Law",
+          "probability": 0.5126,
+          "start": 123,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19287037",
+          "start": 3,
+          "username": "TheProgressives"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1928841452961825210",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1928362252215710159",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheProgressives: Spying on journalists doing their job is scandalous. It is a serious threat to media freedom and Rule of Law. Today in…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1928361443818192896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GsLqhClXwAALwyx.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1928841452961825210",
+        "created_at": "2025-05-31T15:50:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-31T16:50:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1928841452961825210"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 128,
+              "normalized_text": "of Law",
+              "probability": 0.5126,
+              "start": 123,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19287037",
+              "start": 3,
+              "username": "TheProgressives"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928841452961825210",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1928362252215710159",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheProgressives: Spying on journalists doing their job is scandalous. It is a serious threat to media freedom and Rule of Law. Today in…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1928361443818192896"
+          ]
+        },
+        "author_id": "19287037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          }
+        ],
+        "conversation_id": "1928362252215710159",
+        "created_at": "2025-05-30T08:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-30T09:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1928362252215710159"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 100,
+              "normalized_text": "Rule",
+              "probability": 0.5343,
+              "start": 97,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "Law",
+              "probability": 0.5697,
+              "start": 105,
+              "type": "Other"
+            },
+            {
+              "end": 122,
+              "normalized_text": "Rome",
+              "probability": 0.989,
+              "start": 119,
+              "type": "Place"
+            },
+            {
+              "end": 214,
+              "normalized_text": "Paragon spyware",
+              "probability": 0.5704,
+              "start": 200,
+              "type": "Other"
+            },
+            {
+              "end": 230,
+              "normalized_text": "EU",
+              "probability": 0.9096,
+              "start": 229,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8dTZWeZ9xu",
+              "end": 297,
+              "expanded_url": "https://x.com/TheProgressives/status/1928362252215710159/photo/1",
+              "media_key": "3_1928361443818192896",
+              "start": 274,
+              "url": "https://t.co/8dTZWeZ9xu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1928362252215710159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1309,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Spying on journalists doing their job is scandalous. It is a serious threat to media freedom and Rule of Law. Today in Rome, we are hearing directly from journalists and civil society targeted in the Paragon spyware scandal. The EU must guarantee their rights and freedoms. https://t.co/8dTZWeZ9xu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2464,
+          "following_count": 1842,
+          "like_count": 28246,
+          "listed_count": 10,
+          "media_count": 933,
+          "tweet_count": 14200
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T13:26:48.000Z",
+        "description": "The Socialists and Democrats Group in the European Parliament works for social justice, sustainability & equality for all.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialistsanddemocrats.eu",
+                "end": 23,
+                "expanded_url": "http://www.socialistsanddemocrats.eu",
+                "start": 0,
+                "url": "https://t.co/NnV78Ux4Lc"
+              }
+            ]
+          }
+        },
+        "id": "19287037",
+        "location": "Europe",
+        "name": "S&D Group",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585629855583911937/HG74Hrhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138441,
+          "following_count": 8207,
+          "like_count": 7067,
+          "listed_count": 1838,
+          "media_count": 11936,
+          "tweet_count": 38498
+        },
+        "url": "https://t.co/NnV78Ux4Lc",
+        "username": "TheProgressives",
+        "verified": true
+      }
+    ]
+  }
+}

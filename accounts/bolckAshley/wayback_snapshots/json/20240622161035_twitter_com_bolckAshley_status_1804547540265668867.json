@@ -1,0 +1,148 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1804503472869605466",
+    "created_at": "2024-06-22T16:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-22T17:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1804547540265668867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1745102755444961280",
+          "start": 0,
+          "username": "miyuki_CNA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1804547540265668867",
+    "in_reply_to_user_id": "1745102755444961280",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1804503472869605466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_CNA 很會穿搭的義大利潮男😎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1804503472869605466].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1804503472869605466",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1804503472869605466"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1804503472869605466",
+        "created_at": "2024-06-22T16:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-22T17:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1804547540265668867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745102755444961280",
+              "start": 0,
+              "username": "miyuki_CNA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804547540265668867",
+        "in_reply_to_user_id": "1745102755444961280",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1804503472869605466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_CNA 很會穿搭的義大利潮男😎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1501,
+          "following_count": 929,
+          "like_count": 12061,
+          "listed_count": 9,
+          "tweet_count": 8060
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T15:18:38.000Z",
+        "description": "万物非主，唯有真主，伊草遥香是真主的使者",
+        "id": "1745102755444961280",
+        "location": "阿门洲",
+        "name": "主才冕永富",
+        "pinned_tweet_id": "1794269329141403845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804479218962878464/DbQiDMSx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 770,
+          "like_count": 77776,
+          "listed_count": 7,
+          "tweet_count": 17304
+        },
+        "username": "miyuki_CNA",
+        "verified": false
+      }
+    ]
+  }
+}

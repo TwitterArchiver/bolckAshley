@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1981087693145841673",
+    "created_at": "2025-10-23T00:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T01:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981157825616499166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981157825616499166",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981087693145841673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 每年一到一個特定的時間點就開始炒作了\n只能說看著早就麻了，口號年年喊，年年無事成\n台獨運動目前最大的成就是「中華民國是台灣」，而這實際上是華獨👋👋👋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981087693145841673].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981087693145841673",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981087693145841673"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1981087693145841673",
+        "created_at": "2025-10-23T00:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T01:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981157825616499166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981157825616499166",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981087693145841673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 每年一到一個特定的時間點就開始炒作了\n只能說看著早就麻了，口號年年喊，年年無事成\n台獨運動目前最大的成就是「中華民國是台灣」，而這實際上是華獨👋👋👋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 1999,
+          "like_count": 34344,
+          "listed_count": 12,
+          "media_count": 1160,
+          "tweet_count": 17071
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Democratic Socialist | Anti-Stalinist | Participatory Economics | History, Sociology, Politics, etc. | “自治、公正、团结、多元、效率、可持续”",
+        "id": "1715891855983026176",
+        "name": "Mr. Democracy's follower🏴🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555002357358592/NFv9iHgZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1153,
+          "following_count": 3942,
+          "like_count": 84455,
+          "listed_count": 5,
+          "media_count": 942,
+          "tweet_count": 18083
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      }
+    ]
+  }
+}

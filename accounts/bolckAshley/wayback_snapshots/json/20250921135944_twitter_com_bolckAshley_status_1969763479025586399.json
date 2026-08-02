@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "1969763479025586399",
+    "created_at": "2025-09-21T13:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969763479025586399"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453395613282811911",
+          "start": 3,
+          "username": "yofukashi_pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969763479025586399",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969688050088226965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yofukashi_pr: ★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n🎙️　よ ふ か し 座 談 会　🎙️\n- アフレコアフタートーク -\n ━━━━━━━━━━━★\n\n第12夜アフレコ後に実施したアフタートークです🌙\nここでしか聴けない…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 664530,
+        "height": 1080,
+        "media_key": "13_1969249235809026049",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1969249235809026049/img/dFVQHejMMqOr2Ozz.jpg",
+        "public_metrics": {
+          "view_count": 3548
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1969249235809026049/pl/RqwbPvSjF1Fj9Kk4.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969249235809026049/vid/avc1/1920x1080/_F6aq4BmJ3CPHfh4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969249235809026049/vid/avc1/1280x720/mlZrAqzH-pBykqy2.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969249235809026049/vid/avc1/480x270/1IROjnz8RpS9Ezi8.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1969249235809026049/vid/avc1/640x360/TrsN6Vun8csAMIfy.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "1969763479025586399",
+        "created_at": "2025-09-21T13:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969763479025586399"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453395613282811911",
+              "start": 3,
+              "username": "yofukashi_pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969763479025586399",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969688050088226965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yofukashi_pr: ★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n🎙️　よ ふ か し 座 談 会　🎙️\n- アフレコアフタートーク -\n ━━━━━━━━━━━★\n\n第12夜アフレコ後に実施したアフタートークです🌙\nここでしか聴けない…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1969249235809026049"
+          ]
+        },
+        "author_id": "1453395613282811911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1969688050088226965",
+        "created_at": "2025-09-21T09:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969688050088226965"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHm0YVVqk4",
+              "end": 181,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1969688050088226965/video/1",
+              "media_key": "13_1969249235809026049",
+              "start": 158,
+              "url": "https://t.co/OHm0YVVqk4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969688050088226965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 19,
+                "tag": "よふかしのうた"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/peOpYPiuYCY",
+                "end": 181,
+                "expanded_url": "https://youtu.be/peOpYPiuYCY",
+                "start": 158,
+                "url": "https://t.co/8pVFnQ52Zq"
+              }
+            ]
+          },
+          "text": "★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n🎙️　よ ふ か し 座 談 会　🎙️\n- アフレコアフタートーク -\n ━━━━━━━━━━━★\n\n第12夜アフレコ後に実施したアフタートークです🌙\nここでしか聴けない出演キャストの収録秘話や、作品の裏話をお届けします\n\n🔻視聴はこちらから\nhttps://t.co/8pVFnQ52Zq\n\n🎙️出演\n佐藤 元（夜守コウ役）\n雨宮 天（七草ナズナ役）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 23273,
+          "like_count": 472,
+          "quote_count": 5,
+          "reply_count": 1,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n🎙️　よ ふ か し 座 談 会　🎙️\n- アフレコアフタートーク -\n ━━━━━━━━━━━★\n\n第12夜アフレコ後に実施したアフタートークです🌙\nここでしか聴けない出演キャストの収録秘話や、作品の裏話をお届けします\n\n🔻視聴はこちらから https://t.co/OHm0YVVqk4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1952,
+          "like_count": 33107,
+          "listed_count": 11,
+          "media_count": 1087,
+          "tweet_count": 16462
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T16:19:52.000Z",
+        "description": "TVアニメ『よふかしのうた Season2』2025年7月4日（金）より全国フジテレビ系“ノイタミナ”にて毎週金曜23時30分から放送\nTVアニメ『よふかしのうた Season1』各プラットフォームにて配信中 原作：コトヤマ（小学館「週刊少年サンデー」刊） 推奨ハッシュタグ： #よふかしのうた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "よふかしのうた"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com",
+                "end": 23,
+                "expanded_url": "https://yofukashi-no-uta.com",
+                "start": 0,
+                "url": "https://t.co/oRunZLf8es"
+              }
+            ]
+          }
+        },
+        "id": "1453395613282811911",
+        "name": "『よふかしのうた』TVアニメ公式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199784843005952/Ln9iS_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175961,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 740,
+          "media_count": 894,
+          "tweet_count": 1903
+        },
+        "url": "https://t.co/oRunZLf8es",
+        "username": "yofukashi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

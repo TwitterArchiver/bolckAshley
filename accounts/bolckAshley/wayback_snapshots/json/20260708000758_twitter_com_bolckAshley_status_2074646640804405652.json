@@ -1,0 +1,1544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "id": "6",
+          "name": "Sports Event"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1466058925661245445",
+          "name": "Jean-Luc Mélenchon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226231832633344",
+          "name": "France"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1466058925661245445",
+          "name": "Jean-Luc Mélenchon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+          "id": "40",
+          "name": "Sports Series"
+        },
+        "entity": {
+          "id": "2046699828441120768",
+          "name": "2026 FIFA World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226231832633344",
+          "name": "France"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286401121641103360",
+          "name": "Sports events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1304474187961044993",
+          "name": "FIFA Men's World Cup"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1466058925661245445",
+          "name": "Jean-Luc Mélenchon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Marine Le Pen",
+          "id": "822153193526169600",
+          "name": "Marine Le Pen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "2074561532575314166",
+    "created_at": "2026-07-08T00:07:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T01:07:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074646640804405652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "410184399",
+          "start": 0,
+          "username": "Clemence_Guette"
+        },
+        {
+          "end": 39,
+          "id": "80820758",
+          "start": 27,
+          "username": "JLMelenchon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20745…",
+          "end": 85,
+          "expanded_url": "https://x.com/i/status/2074561161660412119",
+          "start": 62,
+          "url": "https://t.co/oi3tUN3Nj7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074646640804405652",
+    "in_reply_to_user_id": "410184399",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074561161660412119",
+        "type": "quoted"
+      },
+      {
+        "id": "2074561532575314166",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clemence_Guette 叫你們的那個糟老頭 @JLMelenchon 趕緊退休！\n根本贏不了的玩意也跑來選舉了😹\nhttps://t.co/oi3tUN3Nj7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3059,
+        "media_key": "3_2074561086603337728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpSURfXIAAMRMm.jpg",
+        "width": 2298
+      },
+      {
+        "height": 1098,
+        "media_key": "3_2074561094849368064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMpSUwNXkAAeOc5.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1466058925661245445",
+              "name": "Jean-Luc Mélenchon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1466058925661245445",
+              "name": "Jean-Luc Mélenchon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1466058925661245445",
+              "name": "Jean-Luc Mélenchon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2074561532575314166",
+        "created_at": "2026-07-08T00:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074646640804405652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "410184399",
+              "start": 0,
+              "username": "Clemence_Guette"
+            },
+            {
+              "end": 39,
+              "id": "80820758",
+              "start": 27,
+              "username": "JLMelenchon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20745…",
+              "end": 85,
+              "expanded_url": "https://x.com/i/status/2074561161660412119",
+              "start": 62,
+              "url": "https://t.co/oi3tUN3Nj7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074646640804405652",
+        "in_reply_to_user_id": "410184399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074561161660412119",
+            "type": "quoted"
+          },
+          {
+            "id": "2074561532575314166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clemence_Guette 叫你們的那個糟老頭 @JLMelenchon 趕緊退休！\n根本贏不了的玩意也跑來選舉了😹\nhttps://t.co/oi3tUN3Nj7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074561086603337728",
+            "3_2074561094849368064"
+          ]
+        },
+        "author_id": "1261335549215989760",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of sports events or series, for example 2014 pre-season, a tournament, or round",
+              "id": "40",
+              "name": "Sports Series"
+            },
+            "entity": {
+              "id": "2046699828441120768",
+              "name": "2026 FIFA World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286401121641103360",
+              "name": "Sports events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1304474187961044993",
+              "name": "FIFA Men's World Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2074561161660412119",
+        "created_at": "2026-07-07T18:28:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:28:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074561161660412119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iYKBuV3aJE",
+              "end": 176,
+              "expanded_url": "https://x.com/Polymarket/status/2074561161660412119/photo/1",
+              "media_key": "3_2074561086603337728",
+              "start": 153,
+              "url": "https://t.co/iYKBuV3aJE"
+            },
+            {
+              "display_url": "pic.x.com/iYKBuV3aJE",
+              "end": 176,
+              "expanded_url": "https://x.com/Polymarket/status/2074561161660412119/photo/1",
+              "media_key": "3_2074561094849368064",
+              "start": 153,
+              "url": "https://t.co/iYKBuV3aJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074561161660412119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 149,
+          "impression_count": 203413,
+          "like_count": 5870,
+          "quote_count": 59,
+          "reply_count": 143,
+          "retweet_count": 639
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: National Rally leader Marine Le Pen officially announces she will run for president of France in 2027.\n\nShe's now favored to win the election. https://t.co/iYKBuV3aJE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "410184399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Marine Le Pen",
+              "id": "822153193526169600",
+              "name": "Marine Le Pen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "2074561532575314166",
+        "created_at": "2026-07-07T18:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074561532575314166"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "participer participer Partagez l’appel à soutiens Notre force c’est notre nombre ! Nous avons besoin de vos partages pour atteindre notre objectif de parrainages et lancer la campagne insoumise. Partout où vous le pouvez, partagez notre appel ! Facebook X-twitter Telegram Threads Whatsapp copier le lien envoyer par mail 2 / 150 000 150 000 […]",
+              "display_url": "Melenchon2027.fr",
+              "end": 272,
+              "expanded_url": "http://Melenchon2027.fr",
+              "images": [
+                {
+                  "height": 810,
+                  "url": "https://pbs.twimg.com/news_img/2073910708601819136/0KjfMj8r?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2073910708601819136/0KjfMj8r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 249,
+              "status": 200,
+              "title": "JLM2027 Soutenir la campagne - Mélenchon 2027 : Soutenez ma candidature à l’élection présidentielle",
+              "unwound_url": "https://melenchon2027.fr/",
+              "url": "https://t.co/hkgtqKKOX0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074561532575314166",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 68702,
+          "like_count": 5373,
+          "quote_count": 23,
+          "reply_count": 544,
+          "retweet_count": 1118
+        },
+        "reply_settings": "everyone",
+        "text": "Marine Le Pen est candidate à l'élection présidentielle.\n\nElle est condamnée car elle a volé les Français.\n\nNous la battrons dans les urnes. Elle, et le pantin Bardella. Au premier ou au second tour. Rejoignez-nous : la grande bataille a commencé.\n\nhttps://t.co/hkgtqKKOX0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073876157041442816/ogHrp4Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 2254,
+          "like_count": 42754,
+          "listed_count": 29,
+          "media_count": 1813,
+          "tweet_count": 23319
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-11T19:12:56.000Z",
+        "description": "Vice-présidente Assemblée nationale • Députée de Créteil, Choisy-le-Roi, Orly • Responsable du programme La France insoumise • Co-présidente Institut La Boétie",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemenceguette.fr",
+                "end": 23,
+                "expanded_url": "http://clemenceguette.fr",
+                "start": 0,
+                "url": "https://t.co/hnpFCScen1"
+              }
+            ]
+          }
+        },
+        "id": "410184399",
+        "location": "Créteil - Choisy-le-Roi - Orly",
+        "name": "Clémence Guetté",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864979025757618176/tDxOQVx7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217850,
+          "following_count": 1860,
+          "like_count": 10860,
+          "listed_count": 751,
+          "media_count": 4428,
+          "tweet_count": 11983
+        },
+        "url": "https://t.co/hnpFCScen1",
+        "username": "Clemence_Guette",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-08T10:50:24.000Z",
+        "description": "Candidat de la @FranceInsoumise à l’élection présidentielle de 2027. Co-président de @i_laboetie. JLM ne tweete pas en personne.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 15,
+                "username": "FranceInsoumise"
+              },
+              {
+                "end": 96,
+                "start": 85,
+                "username": "i_laboetie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melenchon2027.fr",
+                "end": 23,
+                "expanded_url": "http://melenchon2027.fr",
+                "start": 0,
+                "url": "https://t.co/jtYFPFSsws"
+              }
+            ]
+          }
+        },
+        "id": "80820758",
+        "location": "France",
+        "name": "Jean-Luc Mélenchon",
+        "pinned_tweet_id": "2063633586801008958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704147641339174912/IcmmvwAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2682885,
+          "following_count": 4304,
+          "like_count": 4050,
+          "listed_count": 5785,
+          "media_count": 17881,
+          "tweet_count": 55231
+        },
+        "url": "https://t.co/jtYFPFSsws",
+        "username": "JLMelenchon",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-15T16:40:13.000Z",
+        "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more. Discord: https://t.co/tzKrbDfF3x",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "polymarket.com/r/discord",
+                "end": 132,
+                "expanded_url": "http://polymarket.com/r/discord",
+                "start": 109,
+                "url": "https://t.co/tzKrbDfF3x"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.com",
+                "end": 23,
+                "expanded_url": "https://polymarket.com/",
+                "start": 0,
+                "url": "https://t.co/tO2XOjFwx4"
+              }
+            ]
+          }
+        },
+        "id": "1261335549215989760",
+        "name": "Polymarket",
+        "pinned_tweet_id": "2069455471866433555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735414,
+          "following_count": 5608,
+          "like_count": 90934,
+          "listed_count": 6654,
+          "media_count": 5611,
+          "tweet_count": 32321
+        },
+        "url": "https://t.co/tO2XOjFwx4",
+        "username": "Polymarket",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Toronto",
+          "id": "861961494438662144",
+          "name": "Toronto"
+        }
+      }
+    ],
+    "conversation_id": "1939573616179552688",
+    "created_at": "2025-06-30T06:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T07:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939573616179552688"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Toronto",
+          "probability": 0.9888,
+          "start": 32,
+          "type": "Place"
+        },
+        {
+          "end": 79,
+          "normalized_text": "Canada",
+          "probability": 0.9789,
+          "start": 74,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "16397147",
+          "start": 3,
+          "username": "liberal_party"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939573616179552688",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939430425002496056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liberal_party: Happy Pride, Toronto!\n\nTogether, let’s keep building a Canada where everyone feels safe to be who they are. https://t.co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1126,
+        "media_key": "3_1939430394090209280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guo9qvpXwAAwr86.jpg",
+        "width": 1408
+      },
+      {
+        "height": 1126,
+        "media_key": "3_1939430405335035904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Guo9rZiWMAATzK5.jpg",
+        "width": 1408
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "1939573616179552688",
+        "created_at": "2025-06-30T06:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T07:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939573616179552688"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Toronto",
+              "probability": 0.9888,
+              "start": 32,
+              "type": "Place"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Canada",
+              "probability": 0.9789,
+              "start": 74,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "16397147",
+              "start": 3,
+              "username": "liberal_party"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939573616179552688",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939430425002496056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liberal_party: Happy Pride, Toronto!\n\nTogether, let’s keep building a Canada where everyone feels safe to be who they are. https://t.co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939430394090209280",
+            "3_1939430405335035904"
+          ]
+        },
+        "author_id": "16397147",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "1939430425002496056",
+        "created_at": "2025-06-29T21:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T22:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939430425002496056"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Pride",
+              "probability": 0.5193,
+              "start": 6,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "Toronto",
+              "probability": 0.9865,
+              "start": 13,
+              "type": "Place"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Canada",
+              "probability": 0.9816,
+              "start": 55,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/skzbzx0U5o",
+              "end": 131,
+              "expanded_url": "https://x.com/liberal_party/status/1939430425002496056/photo/1",
+              "media_key": "3_1939430394090209280",
+              "start": 108,
+              "url": "https://t.co/skzbzx0U5o"
+            },
+            {
+              "display_url": "pic.x.com/skzbzx0U5o",
+              "end": 131,
+              "expanded_url": "https://x.com/liberal_party/status/1939430425002496056/photo/1",
+              "media_key": "3_1939430405335035904",
+              "start": 108,
+              "url": "https://t.co/skzbzx0U5o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939430425002496056",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 53493,
+          "like_count": 1120,
+          "quote_count": 34,
+          "reply_count": 533,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "Happy Pride, Toronto!\n\nTogether, let’s keep building a Canada where everyone feels safe to be who they are. https://t.co/skzbzx0U5o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 1847,
+          "like_count": 29236,
+          "listed_count": 10,
+          "media_count": 950,
+          "tweet_count": 14527
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-09-22T00:29:05.000Z",
+        "description": "🇨🇦 Liberal Party of Canada | Building Canada Strong with @MarkJCarney | En français à : @parti_liberal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "MarkJCarney"
+              },
+              {
+                "end": 102,
+                "start": 88,
+                "username": "parti_liberal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "liberal.ca/links/",
+                "end": 23,
+                "expanded_url": "https://liberal.ca/links/",
+                "start": 0,
+                "url": "https://t.co/jDRbIkW8SE"
+              }
+            ]
+          }
+        },
+        "id": "16397147",
+        "location": "Canada",
+        "name": "Liberal Party",
+        "pinned_tweet_id": "1920494957833375896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929185901646655488/vkFXHST9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448932,
+          "following_count": 4651,
+          "like_count": 5688,
+          "listed_count": 2439,
+          "media_count": 5594,
+          "tweet_count": 32632
+        },
+        "url": "https://t.co/jDRbIkW8SE",
+        "username": "liberal_party",
+        "verified": true
+      }
+    ]
+  }
+}

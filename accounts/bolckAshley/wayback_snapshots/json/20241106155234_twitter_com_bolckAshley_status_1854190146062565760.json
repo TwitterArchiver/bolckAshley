@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Candidate for US President, Andrew Yang",
+          "id": "1140690587714064384",
+          "name": "Andrew Yang"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Candidate for US President, Andrew Yang",
+          "id": "1140690587714064384",
+          "name": "Andrew Yang"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Candidate for US President, Andrew Yang",
+          "id": "1140690587714064384",
+          "name": "Andrew Yang"
+        }
+      }
+    ],
+    "conversation_id": "1854190146062565760",
+    "created_at": "2024-11-06T15:52:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-06T16:52:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1854190146062565760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2228878592",
+          "start": 3,
+          "username": "AndrewYang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1854190146062565760",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 304
+    },
+    "referenced_tweets": [
+      {
+        "id": "1854130480590844180",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndrewYang: We should try to do things differently next time."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for US President, Andrew Yang",
+              "id": "1140690587714064384",
+              "name": "Andrew Yang"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for US President, Andrew Yang",
+              "id": "1140690587714064384",
+              "name": "Andrew Yang"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for US President, Andrew Yang",
+              "id": "1140690587714064384",
+              "name": "Andrew Yang"
+            }
+          }
+        ],
+        "conversation_id": "1854190146062565760",
+        "created_at": "2024-11-06T15:52:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T16:52:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1854190146062565760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2228878592",
+              "start": 3,
+              "username": "AndrewYang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1854190146062565760",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 304
+        },
+        "referenced_tweets": [
+          {
+            "id": "1854130480590844180",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndrewYang: We should try to do things differently next time."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2228878592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Candidate for US President, Andrew Yang",
+              "id": "1140690587714064384",
+              "name": "Andrew Yang"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Candidate for US President, Andrew Yang",
+              "id": "1140690587714064384",
+              "name": "Andrew Yang"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Candidate for US President, Andrew Yang",
+              "id": "1140690587714064384",
+              "name": "Andrew Yang"
+            }
+          }
+        ],
+        "conversation_id": "1854130480590844180",
+        "created_at": "2024-11-06T11:55:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-06T12:55:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1854130480590844180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1854130480590844180",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 383108,
+          "like_count": 6808,
+          "quote_count": 171,
+          "reply_count": 1807,
+          "retweet_count": 304
+        },
+        "reply_settings": "everyone",
+        "text": "We should try to do things differently next time."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1765,
+          "following_count": 1155,
+          "like_count": 15755,
+          "listed_count": 7,
+          "tweet_count": 10197
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-12-03T21:31:03.000Z",
+        "description": "Entrepreneur, Anti-Poverty, Human-Centered Economy, #YangGang, UBI, RCV, Co-chair @fwd_party founder @humanityforward @venture4america board @fairvote",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 52,
+                "tag": "YangGang"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 92,
+                "start": 82,
+                "username": "fwd_party"
+              },
+              {
+                "end": 117,
+                "start": 101,
+                "username": "humanityforward"
+              },
+              {
+                "end": 134,
+                "start": 118,
+                "username": "venture4america"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "username": "fairvote"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "andrewyang.com",
+                "end": 23,
+                "expanded_url": "https://andrewyang.com/",
+                "start": 0,
+                "url": "https://t.co/nzKvkYk4NJ"
+              }
+            ]
+          }
+        },
+        "id": "2228878592",
+        "location": "United States",
+        "name": "Andrew Yang🧢⬆️🇺🇸",
+        "pinned_tweet_id": "1854050593205076205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1554153385087029248/ox_Lf6Xu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603235,
+          "following_count": 9513,
+          "like_count": 13204,
+          "listed_count": 5965,
+          "tweet_count": 40408
+        },
+        "url": "https://t.co/nzKvkYk4NJ",
+        "username": "AndrewYang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,468 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics and current events",
+          "id": "859532947380084738",
+          "name": "Politics & current events books"
+        }
+      }
+    ],
+    "conversation_id": "2032458552774922642",
+    "created_at": "2026-03-13T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032458552774922642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AetherKyalo/st…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/AetherKyalo/status/2032455566803783891",
+          "start": 62,
+          "url": "https://t.co/cdEouI50Xr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032458552774922642",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032455566803783891",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "全文概括：我們要「重塑現有秩序」\n而這恰恰是一種不打自招😹\n舉一個防範極右翼的例子卻能讓「激進左翼」如臨大敵，多麼諷刺啊😹 https://t.co/cdEouI50Xr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2032458552774922642",
+        "created_at": "2026-03-13T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032458552774922642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AetherKyalo/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/AetherKyalo/status/2032455566803783891",
+              "start": 62,
+              "url": "https://t.co/cdEouI50Xr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032458552774922642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032455566803783891",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "全文概括：我們要「重塑現有秩序」\n而這恰恰是一種不打自招😹\n舉一個防範極右翼的例子卻能讓「激進左翼」如臨大敵，多麼諷刺啊😹 https://t.co/cdEouI50Xr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1406049068548169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2032455566803783891",
+        "created_at": "2026-03-13T13:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032455566803783891"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "中推模拟选举"
+            },
+            {
+              "end": 17,
+              "start": 9,
+              "tag": "联合社会革命党"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/dpfp2020/statu…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/dpfp2020/status/2032293758201438503",
+              "start": 125,
+              "url": "https://t.co/cD7J1vUDhm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032455566803783891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "中推模拟选举"
+              },
+              {
+                "end": 17,
+                "start": 9,
+                "tag": "联合社会革命党"
+              }
+            ]
+          },
+          "text": "#中推模拟选举 \n#联合社会革命党\n\n贵党引用极右翼政治人物为希特勒辩护、煽动冲锋队语言、鼓吹重塑现存秩序，以此证明所谓“战斗性民主”的必要性。如果一个自称“中道”的政党最终需要借助新法西斯主义者来辩护自身，那么本党就不得不对战斗式民主进行一些探讨\n\n贵党说，民主不能等到敌人完成对民主制度的破坏才反应。但真正值得追问的是：贵党所谓的“反应”，究竟意味着什么？\n\n战斗性民主的核心界定在于，其以法教义化的规范主义判断取代了政治伦理，换言之，即便一个极权主义政党不满足反民主法律构成要件，即便是极右翼，法院也无可奈何\n\n这也是为什么贵党以afd的新法西斯主义者的言论为战斗性民主引路，因为正是这个党，可以动用一切法律手段并以文字游戏的方式，在实质宣传法西斯主义的同时在宪法法院面前一路畅通无阻；但是，我们激进左派的同志却因为对抗现存秩序的不义而面临监禁，罚款以至于组织解散。换而言之，战斗性民主鼓励在体制下为恶，却从来不思考体制为何作为恶的生产者，本身无可保卫\n\n贵党要求政治垄断\n\n贵党把自己放在高处，仿佛自己不属于任何立场，仿佛自己只是制度本身，只是法秩序本身，只是民主本身。于是，一切真正的政治冲突，都被它改写成对宪法的冒犯；一切真正想改变现状的力量，都被它先放进风险框架里审视；一切不愿服从既定边界的政治实践，都可能被它定义为不够宽容、不够中道、不够民主\n\n一旦真正的冲突出现，一旦真正的问题被提出，一旦对现实的压迫要求公共领域本身改变形式，他们马上就会换一种语言：\n不再叫“意见”，而叫“威胁”；\n不再叫“政治”，而叫“风险”；\n不再叫“对手”，而叫“反民主分子”。\n\n这就是贵党的“宽容”：\n不是承认冲突，而是默杀冲突；\n不是认可政治，而是规训政治；\n不是让人民说话，而是规定人民该怎样“民主地”说话\n\n所以必须把问题说透：\n\n把政治问题变成法律问题，\n把法律问题变成安全问题，\n把安全问题变成治理问题——\n这不是民主变强了，\n这是政治被抽空了。\n\n而一旦政治被抽空，剩下的是什么？\n剩下的是程序，\n剩下的是审查，\n剩下的是风险报告，\n剩下的是秩序维护，\n剩下的是一套不断告诉人民“不要越界”的制度语法。\n\n政治自由意味承认斗争，意味让冲突公开出现，意味群众运动的涌现以至于夺权\n\n而战斗性民主则将压制说成中立，\n将规训说成宽容，\n将排除说成法治，\n最终将这种垄断说成民主本身\n\n而危险恰恰在于凡是宣称自己超越政治的力量，往往最想独占政治；凡是宣称自己没有立场的秩序，往往最想把自己的立场变成唯一立场；凡是把“保卫民主”当成救赎，往往最害怕人民真正进入政治\n\n而口说中道之“战斗性民主”却行法西斯主义之实的afd党员，想必也在“反极端主义”的中道文化中找到了属于万字旗的救赎罢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032293758201438503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#中推模拟选举 \n#联合社会革命党\n\n贵党引用极右翼政治人物为希特勒辩护、煽动冲锋队语言、鼓吹重塑现存秩序，以此证明所谓“战斗性民主”的必要性。如果一个自称“中道”的政党最终需要借助新法西斯主义者来辩护自身，那么本党就不得不对战斗式民主进行一些探讨 https://t.co/cD7J1vUDhm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3023,
+          "following_count": 1974,
+          "like_count": 39637,
+          "listed_count": 16,
+          "media_count": 1398,
+          "tweet_count": 20128
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-19T00:40:07.000Z",
+        "description": "03年｜惠灵顿维多利亚大学｜Bachelor of Art｜从极权国家走出的革命者｜Gay🏳️‍🌈 Furry🦊 Neurodiversity🧠｜无政府共产主义者，社会主义人本主义者，黑格尔马克思主义者 & 文化女性主义者 | 规则改变将结局撼动，就是我们——这世界的英雄 | 中文，English 🆗|",
+        "id": "1406049068548169729",
+        "location": "Wellington City, New Zealand",
+        "name": "Kyalo 凯犽洛🏳️‍🌈🏳️‍⚧️🇵🇸🇺🇦",
+        "pinned_tweet_id": "1840547733717074257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880945817273397249/vevg9eel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 727,
+          "like_count": 1044,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 9081
+        },
+        "username": "AetherKyalo",
+        "verified": true
+      }
+    ]
+  }
+}

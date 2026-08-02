@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1885275401536364545"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1885275481345544701",
+    "created_at": "2025-01-31T10:34:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-31T11:34:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1885275481345544701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 46,
+          "id": "771201219184369664",
+          "start": 30,
+          "username": "ShanghaiNationP"
+        },
+        {
+          "end": 56,
+          "id": "2411954377",
+          "start": 47,
+          "username": "heanquan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RpdFDiL9Ld",
+          "end": 80,
+          "expanded_url": "https://x.com/bolckAshley/status/1885275481345544701/video/1",
+          "media_key": "7_1885275401536364545",
+          "start": 57,
+          "url": "https://t.co/RpdFDiL9Ld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885275481345544701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上海共和國國歌👍👍👍\n我們上海獨立運動實在是太偉大辣😭🖐️\n@ShanghaiNationP @heanquan https://t.co/RpdFDiL9Ld"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 118933,
+        "height": 720,
+        "media_key": "7_1885275401536364545",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1885275401536364545/pu/img/L052ky8AIOB_gzlz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885275401536364545/pu/vid/avc1/450x270/hBWbtUVJokEpMQxH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885275401536364545/pu/vid/avc1/600x360/7pNIyWcepz3AsF4r.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1885275401536364545/pu/vid/avc1/1200x720/2xSvf6TCXUUA3uqW.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1885275401536364545/pu/pl/08bjgTC2SbhiEPIu.m3u8?tag=12"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1885275401536364545"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1885275481345544701",
+        "created_at": "2025-01-31T10:34:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-31T11:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885275481345544701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 46,
+              "id": "771201219184369664",
+              "start": 30,
+              "username": "ShanghaiNationP"
+            },
+            {
+              "end": 56,
+              "id": "2411954377",
+              "start": 47,
+              "username": "heanquan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RpdFDiL9Ld",
+              "end": 80,
+              "expanded_url": "https://x.com/bolckAshley/status/1885275481345544701/video/1",
+              "media_key": "7_1885275401536364545",
+              "start": 57,
+              "url": "https://t.co/RpdFDiL9Ld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885275481345544701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上海共和國國歌👍👍👍\n我們上海獨立運動實在是太偉大辣😭🖐️\n@ShanghaiNationP @heanquan https://t.co/RpdFDiL9Ld"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2102,
+          "following_count": 1478,
+          "like_count": 20803,
+          "listed_count": 11,
+          "media_count": 716,
+          "tweet_count": 11869
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T04:21:13.000Z",
+        "description": "上海民族黨（滬民黨）是上海獨立運動雙層結構之一，美國紐約州註冊。凡各民族獨立分子都可以加入。本推號是滬民黨官方帳號。關注上海民族黨黨員為主。由@heanquan 主持。網站：https://t.co/F5nlBAmUpQ 郵箱：shanghainationalparty@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "heanquan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "shanghainationalparty.com",
+                "end": 110,
+                "expanded_url": "http://shanghainationalparty.com",
+                "start": 87,
+                "url": "https://t.co/F5nlBAmUpQ"
+              }
+            ]
+          }
+        },
+        "id": "771201219184369664",
+        "location": "New York, USA",
+        "name": "上海民族黨 Shanghai National Party",
+        "pinned_tweet_id": "1489312026933538819",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/996498009130176512/IVGH4G4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6512,
+          "following_count": 49,
+          "like_count": 396,
+          "listed_count": 21,
+          "media_count": 133,
+          "tweet_count": 1406
+        },
+        "username": "ShanghaiNationP",
+        "verified": false
+      },
+      {
+        "created_at": "2014-03-26T03:17:19.000Z",
+        "description": "He Anquan | 前上海外科医生Surgeon | 沪裔美国人 Shanghai American | 华尔街日报专访https://t.co/vpVCgubiss",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wsj.com/articles/shang…",
+                "end": 85,
+                "expanded_url": "https://www.wsj.com/articles/shanghai-lockdown-bolsters-a-fringe-independence-movement-11650706204",
+                "start": 62,
+                "url": "https://t.co/vpVCgubiss"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCOBkJ…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCOBkJ9y25vTAb_IugHg5hxw",
+                "start": 0,
+                "url": "https://t.co/LMSWummYmZ"
+              }
+            ]
+          }
+        },
+        "id": "2411954377",
+        "location": "美国纽约",
+        "name": "何岸泉",
+        "pinned_tweet_id": "1885000934062952811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781810725075177472/HRnUVZuK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37898,
+          "following_count": 885,
+          "like_count": 36703,
+          "listed_count": 186,
+          "media_count": 6021,
+          "tweet_count": 38559
+        },
+        "url": "https://t.co/LMSWummYmZ",
+        "username": "heanquan",
+        "verified": true
+      }
+    ]
+  }
+}

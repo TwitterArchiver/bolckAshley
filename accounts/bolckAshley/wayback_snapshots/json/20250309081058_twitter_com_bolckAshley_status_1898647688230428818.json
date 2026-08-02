@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1288793950199771136",
+          "name": "Economics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      }
+    ],
+    "conversation_id": "1898647688230428818",
+    "created_at": "2025-03-09T08:10:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-09T09:10:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898647688230428818"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "DPRK Economy",
+          "probability": 0.6642,
+          "start": 24,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761604497598820352",
+          "start": 3,
+          "username": "austrosillyism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898647688230428818",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898163897171079533",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @austrosillyism: The DPRK Economy: A Primer. (Part 1 of 2)\n\nI. Introduction\n\nOne does not have to have a master degree in economics to r…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_1898163795127898112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gleh6i4bEAAYcR2.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "1898647688230428818",
+        "created_at": "2025-03-09T08:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-09T09:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898647688230428818"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "DPRK Economy",
+              "probability": 0.6642,
+              "start": 24,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761604497598820352",
+              "start": 3,
+              "username": "austrosillyism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898647688230428818",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898163897171079533",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @austrosillyism: The DPRK Economy: A Primer. (Part 1 of 2)\n\nI. Introduction\n\nOne does not have to have a master degree in economics to r…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898163795127898112"
+          ]
+        },
+        "author_id": "1761604497598820352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1288793950199771136",
+              "name": "Economics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "1898163897171079533",
+        "created_at": "2025-03-08T00:08:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-08T01:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898163897171079533"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "DPRK Economy",
+              "probability": 0.7023,
+              "start": 4,
+              "type": "Other"
+            },
+            {
+              "end": 172,
+              "normalized_text": "North Korean Economy",
+              "probability": 0.4502,
+              "start": 153,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNqj20AGis",
+              "end": 303,
+              "expanded_url": "https://x.com/austrosillyism/status/1898163897171079533/photo/1",
+              "media_key": "3_1898163795127898112",
+              "start": 280,
+              "url": "https://t.co/DNqj20AGis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898163897171079533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "The DPRK Economy: A Primer. (Part 1 of 2)\n\nI. Introduction\n\nOne does not have to have a master degree in economics to realize a very elemental truth-the North Korean Economy today is, simply put, not good.\n\nWhat people attribute to such a failure is variant-with some blaming it on US Sanctions, others on the Korean War, others on communism-but one thing is painfully clear, that the economy is as vibrant as a\ndecade-old, un-watered bouquet of roses.\n\nHow so? The evidence sticks out like a sore thumb. Broken, unfinished bridges in Dandong, rural scavengers hunting for leftover potatoes, children dying of malnutrition, antiquated and barely-functional power plants, a GDP per Capita of $1,147 (with military spending taking up a quarter),\n\ndwindling food rations, a loss of free healthcare, a breakdown in a welfare program, buildings lacking electrification, old Volvos, roads chock-full of potholes, smuggled consumer goods, a shortage of many goods, from chemical fertilizers to scrap metal to a very poor industrial capital stock,\n\npoorly maintained but in high demand... in all honesty, there is far more bad things to say about North Korea's current economy then there are good things. In fact, the centrally planned legal economy is so inefficient and cumbersome that the one thing to praise is North Korea relatively liberalizing not by choice-but by economic reality during the Arduous March.\n\nAll while its neighbour, the South, has one of the highest GDP/Capita in the world, is one of the most industrialized nations, has a world-famous high-tech industry and automotive sector, and giant conglomerates like LG and Lotte that are global competitors.\n\nBut it wasn't always this way. In fact, during the 50s to 70s, the narrative was entirely reversed. In 1972, Harrison Salisbury called North Korea \"A tremendous technical and industrial achievement\",  and claimed it was \"on a per Capita basis, the most intensively industrialized country in Asia, with the exception of Japan\".\n\nHotels were up-to-date and retro, GDP exceeded the South 33-fold, and the economy even surpassed Maoist China's, a nation thousands of times larger.\n\nIn contrast, Rhee and Park's South was predicted by USAID specialists to become nothing more than a subsistence agriculture-based, low-tech, impoverished economy producing and selling traditional goods. That is also why at many times the US was far less of a patron than the Soviets and Chinese-they didn't see any path forward for South Korea.\n\nSo what changed? Just what caused such a reversal of the fates? We know it can't just be authoritarianism, as the South was also authoritarian. We know it can't be US sanctions, as the North had access to the entire West AND COMINTERN countries. We know it can't be the Korean War, because bumper harvests and economic growth happened directly after the war. So what?\n\nHistorian Victor Cha posits that this problem is simultaneously endogenous and exogenous. In so that North Korea had massive structural issues that translated to bad policy, and that the events of donors like the Soviets exacerbated such issues... but before that, we need to look briefly at the Korean War and North Korea's economic journey holistically.\n\nII. Kim Il-Sung and the nascent, pre-war DPRK\n\nAugust 1945, a portly man in his 30s, clad in full Soviet uniform, arrives in Wonsan. His name you might recognize-Kim Il Sung, Commander of the 1st Korean Battallion of the 88th independent brigade of the Soviet Army.\n\nKim was set to be the supreme leader of the North Korean State, but he had spent most of his life outside Pyong'yang. He was born in a peasant family in Mangyungdae, but his parents fled due to the Japanese invasion, causing him to spend most of his childhood in present-day Jilin.\n\nHe grew up a devout Christian but renounced it later in life. He joined Communist forces in China not because he necessarily agreed with Marx but rather because they had anti-Japanese colonial sentiments.\n\nHe was a fairly good fighter, commanding guerilla forces against the Japanese to the point of having a bounty placed upon him, but the Japanese cracked down. Some Communists chose to fight in the Civil War, others fled to the USSR. Kim chose the latter.\n\nSkipping the specifics, Kim later got a prestigious title, and was kept in the Soviet Union along with his past guerilla comrades to prepare for a final battle against Japan along with other members of the Soviet Army. However, Japan's defeat happened so quickly such a battle never happened.\n\nTherefore, most guerillas were sent home, but Kim was hand-picked by Stalin to head the nascent Soviet-backed government in the Northern demarcation line along the 38th parallel created through US-Soviet negotiations.\n\nWhy he was chosen, we may never know, but one must suspect that his actual military achievements, high-school education (pretty uncommon in Korea at the time), and camaraderie gained through serving played a major role. Of course, there are other hypotheses, like the idea that Stalin did it because he had no other option.\n\nWhatever the case, Kim was hardly under control of North Korea from 1945-48, as most operations were laser-guided by the Soviets. Soviet advisors, not Kim, drafted the land reform laws, the military police arrested all dissidents, and speeches were pre-read and approved.\n\nAs a more extreme example, the Soviet generals discussed that the North Korean parliament would consist of exactly 231 members. They also decided the exact distribution of seats and even ethnic composition. Such guidelines are still followed decades after the USSR's collapsed.\n\nIn the 1940s, land reform was procured, par for the course. Christians and religious individuals were persecuted and fled in a mass exodus, industries were nationalized, progressive taxes were established, councils and cooperatives were formed... nothing too unusual if one would care to look at every other Marxist-Leninist state.\n\nIII. The War Itself\n\nBy 1948 8/15, the ROK was established in Seoul, and on 9/9, the DPRK in Pyongyang. Both nations considered themselves the true Korea. Both nations also talked about invading the other two to reunify.\n\nHowever, Seoul mostly preoccupied itself on spouting aggressive rhetoric as their ROK army was very poor, lacking tanks, heavy machinery, etc. while the North, armed to the teeth with t-34's and Soviet weaponry, were already meeting with Stalin.\n\nStalin at first was unenthusiastic-he didn't want to confront the US directly. However, with Communists winning the civil war, and with the US being generally poor equipped, poor patrons and not extremely interested, Stalin became more receptive.\n\nIn April 1950, Kim declared the plans for swift victory and two months later, things were ready. Kim began an offensive slightly earlier than Stalin or Mao anticipated-in June 25. The complacency of the Southern forces showed to be near-fatal; The South was steamrolled again and again, and were pushed to a tiny enclave in Pusan.\n\nThe Americans, however began a massive intervention with the UN, and defeated the KPA at Pusan, and went on to counterattack by advancing thru Incheon in an amphibious war. They won the city, and proceeded to retake Seoul in a separate bloody conflict, causing the war to shift in the South's favor.\n\nWithin weeks, the North Korean forces were taken prisoner, killed, or fled to the Chinese border, causing China themselves to intervene-beginning a counterstrike. From then on, brutal fighting remained for three years before in 1953 the new demarcation line was set (the DMZ), which was almost exactly identical to the prior one.\n\nAs BBC puts it: The losses experienced by Britain (1,078) and the United States (37,000) are dwarfed by China's and North Korea's military fatalities, which number perhaps 1.5 million. Civilian and military losses in South Korea also exceeded one million.\n\nThe deaths were severe, the consequences dire-but now, it is time to analyze immediately beyond the war.\n\nIV. Reform\n\nBefore the war, North Korea had a major advantage over South Korea. Japanese forces industrialized the region because of its strategic proximity to Manchuria. Thus, mines and processing plants of coal, iron, magnesium and zinc were built, nitrogen fertilizer plants were built-hence why by 1945 the North possessed 80% of heavy industry capacity and 92% Electricity-generating capabilities.\n\nSo when the North nationalized industries, they had a better deal. In 1945, a power plant in Korea had lines run to the south, allowing the North to just cut off power. Unfortunately for the North, the war had changed that dynamic.\n\nFor one, the separation meant the North's market for semifinished goods were cut off-as was their market for food. Japanese personnel also fled through Kim's redistributions as did entrepreneurs in general, creating brain drain. Also, the industrial base was blown to bits in the war. Therefore, the focus was on the economy. And focus they did.\n\nKim had very generous patrons in Moscow and Beijing dedicated to his cause. As an example, in 1949, Kim went to Moscow and told Stalin a laundry list of his needs, that being: \n\nmachines, equipment, spare parts for industry, communications, transport, technical specialists, irrigation structures, hydroelectricity plants, metallurgical plants, steam engines, electric locomotives, textile machinery, \n\nspare parts, a fifty-eight-kilometer (36-mi) railroad track, transport planes, pilots, teachers, Russian language instructors, automobiles, oil, and $50 million in credits. \n\nTo all this Stalin simply said \"fine\". And so it was done.\n\nBut the aid persisted post-war. In the years following the Cold War, Maoist China and the Soviet Union were practically North Korea's only trade partners. in September of 1953 the USSR granted North Korea $250 million in aid, half to be used for the military, a quarter for light industry, and the final quarter for heavy industry.\n\nIn December 1953 the Soviets cancelled all of North Korea’s war debt and eased the terms of repayment for pre–Korean War loans. \n\nChina also chipped in, giving ~45 percent of North Korea’s total trade in the 1950s with an annual value of about $100 million. And it was estimated the North got ~500M loan credits from China. All in all total revenue from trade amassed to $1,65B. All of this set the stage for temporal success.\n\nV. The 1950s, 60s and early 70s\n\nThe 50s and 60s were the period North Korea experienced the most growth. It is no wonder then, that North Korea still seeks to emulate that bygone era today. In Pyongyang you can witness clean thoroughfares, hotels, public spaces, and towers/statues dedicated to Kim Il-Sung. \n\nHowever, the style is oftentimes not modern and instead resembles that of the Soviet Union-giving it a distinctly \"retro\" look like a Soviet Bloc country stuck in the 60s. \n\nThis is not accidental-it is a simulacrum of better times, back when the North and not the South was one of the more envied developing nations in Asia.\n\nIt's not difficult to see why. Amongst the package the Soviet government gave (aside from aid money), the North Koreans received heavy industrial equipment, power plants, hydroelectric dams, electrified railroads, and irrigation systems from Soviet benefactors. \n\nThey also imported currency by exporting gold, zinc, steel and rare earth materials to their benefactors. They focused tremendously on heavy industry (also to be discussed later) as demonstrated by names like the \" Hŭich’ŏn, Nagwŏn, and Pukch’ang Machine Factories\nSŏngch’ŏn Lead Mine, Hŭngnam Chemical Fertilizer Plant\", etc.\n\nThis industrialization was extremely fast and led to tremendous growth: \n\nUntil the 1960s, North Korea's economy grew much faster than South Korea's. Although Pyongyang was behind in total national output, it was ahead of Seoul in per capita national output, because of its smaller population relative to South Korea. \n\nFor example, in 1960 North Korea's population was slightly over 10 million persons, while South Korea's population was almost 25 million persons. Phenomenal annual economic growth rates of 30 percent and 21 percent during the Three-Year Plan of 1954-56 and the Five-Year Plan of 1957-60, respectively, were reported.\n\n After claiming early fulfillment of the Five-Year Plan in 1959, North Korea officially designated 1960 a \"buffer year\"--a year of adjustment to restore balances among sectors before the next plan became effective in 1961. \n\nNot surprisingly the same phenomenon recurred in subsequent plans. Because the Five-Year Plan was fulfilled early, it became a de facto four-year plan.\"\n\n-Andres Matlas Savada.\n\nIn addition, it led to the increase in material conditions for the average citizen: it's hard to believe but the North was extremely electrified, leagues ahead of the South once. In 1963, the country had reached 71 percent electrification, and by 1970 all households and\nvillages were covered, wherein the South was barely starting to industrialize.\n\nIn 1971, energy consumption in the North (1,326 kW)\nwas more than twice that of the South (521 kW) on a per capita basis, and this would persist to 1988. North Korea also had superior agriculture:\n\nThey planned a modernization program of its irrigation, rural electrification, agricultural mechanization, and chemical fertilization programs. They also built hundreds of pumping stations for irrigation, and furthermore developed 1,700 reservoirs running water through a 40,000-kilometer (24,855 mi) irrigation network to feed 1.4 million hectares of\ncropland.\n\nThe average calorie intake of North Koreans (3,000 calories/day) was higher than that of South Korea. Rural electrification went from just 47 percent in\n1953 up to 92 percent of all towns and villages in 1961.\n\nThe DPRK also used high-quality fertilizer and attained bumper harvests, oftentimes for consecutive years while the South Koreans were stuck to traditional agricultural methods.\n\nIn addition to an abundant load of poultry, pigs and livestock that provided millions of tons of eggs, North Korea also expanded its fisheries industry, going from\n465,000 tons of fisheries equipment in 1960 to 1.14 million just a decade later. \n\nIn the 1970s North Korea exported locomotives to the Soviet Union, synthetics to China, machine tools to Europe, farm machinery and chemical fertilizers to Africa and Latin America. Much of the country's industry was centered around the Hamhung, an extremely economically diverse area.\n\nIt also traded with the Soviet Bloc iron and steel, cement, minerals such as gold and magnesite, and textiles and clothing, and imported foodstuffs, energy, light machinery and equipment, and electronic goods. It also traded with plenty of non-Marxist-Leninist nations, such that in 1974 Communist Bloc nations only made up 51% of total trade. \n\nNorth Korea was trading more with the West and the OECD, as well as Japan. This allowed them to import more hospital equipment, more goods for department stores, and better factory equipment. \n\nThis made North Korea one of the most prosperous post-war economies at the time, ahead of Hong Kong, China, South Korea, and Singapore and behind Japan and Soviet Russia, whom industrialized much earlier.\n\nV. The South in that timeframe\n\nIt must be reiterated that the South was not as good as it could be in that time. As late as 1965, per capita income was only $88 a year (that is not a typo).\n\nSyngman Rhee was a strongman in every sense of the word possible, executing dissidents and consolidating power to the point where student demonstrations happened frequently. A fourth election won by him (when the maximum was two terms, and the election was obviously rigged) led to a violent series of protests that resulted in Rhee being exiled to Hawaii.\n\nThe new leader Chang Myǒn really wasn't much better, not meeting the demands of the students or the unionists enough, and causing double-digit inflation. That combined with increased demands for negotiations with Pyongyang, a reunification sentiment (in the favor of the North) and US Soldiers pushing out led to a incredibly unfortunate combination of events.\n\n13 months later, Park Chung-Hee, a military general violently overthrew the government for the second time in little more than a year. He inherited a pretty ragtag economy: much of South Korean GNP was from the US, $12.6B total, estimated to be around half total of GDP, and most aid was for post-war reconstruction and sector growth, unlike the DPRK.\n\nNot to mention that 1.) Rhee's government misallocated and procured much of the funds for political purposes, and 2.) refused to trade with Japan in rice and seaweed reserves because of anti-Japanese sentiment, and instead procured intensive import-substitution industrialization, which was not successful.\n\nThough urbanization and infrastructure increased South Korea was in a poor spot. Park Chung-Hee was sorely aware of this when advisor Yi Hu-rak traveled to North Korea for the first time in 1972 and was thoroughly impressed by Pyongyang's at-the-time modern roads, infrastructure and monuments. He told Park Chung-Hee, drawing the worry of both.\n\nThis was as Marxist-Leninism remained popular in the South, being seen as anti-imperialist, and many Koreans-in-exile who returned to the country after 1945 joined the Korean Communist Party in the South. In general communism was seen as a means to uplift an oppressed minority and provide better material conditions.\n\nIt seemed to Park that this was what was happening which discomforted him, to say the least.\n\nVI: The Decline in the 80s-90s\n\nOf course, this trend reversed in the mid 1970s. The specific reasons for the failure will be discussed much more thoroughly in the \"five mistakes\" section. But what's important to note is that the North Korean semblance of progress eventually halted.\n\nNorth Korea ended up defaulting with multiple countries, such as France, Britain, Czechia and its second seven-year plan (1978-84) was a failure:\n\n\"From all indications, the Second Seven-Year Plan was not successful. North Korea generally downplayed the accomplishments of the plan, and no other plan received less official fanfare. \n\nIt was officially claimed that the economy had grown at an annual rate of 8.8 percent during the plan, somewhat below the planned rate of 9.6 percent. \n\nDuring the plan, the target annual output of 10 million tons of grains (cereals and pulses) was attained. However, by official admission, the targets of only five other commodities were fulfilled.\"\n\nThe South Korean government's estimate placed North Korea's GNP in 1991 at US$22.9 billion, or US$1,038 per capita. \n\nThis estimate of economic accomplishment pales next to South Korea's GNP of US$237.9 billion with a per capita income of US$5,569 that same year.\n\nNorth Korea's GNP in 1991 showed a 5.2 percent decline over 1989, and preliminary indications were that the decline would continue. In contrast, South Korea's GNP grew by 9.3 percent and 8.4 percent, respectively, in 1990 and 1991.\n\nIn addition to the general domestic and international decline, food rations generally declined, electric power shortages ran rampant, consumer goods frequently ran short, productivity ran short, Japanese machines were now decades old and thus depreciating, \n\nSoviet-built factories were poorly maintained (more on that later), all the while heavy industry allocation was exorbitantly high. Meanwhile, the South was thriving at astronomically high rates.\n\nThrough a guided policy of infant industry protection,  strategic nationalization of banks and monetary institutions, and an export-targeted economy, combined with an emphasis on free trade and giant conglomerates responsible for electronics (LG), technology (Samsung), consumer goods (Lotte), and automobiles (Hyundai)....\n\nThe South grew like never before. GDP growth reached 8,6%, which was twice as large as Japan and three times the United States, child mortality dropped 59%, and exports grew 312X from 1960 to 1977. Industries like shipbuilding became the second-largest in the world by the 80s, and steel production increased 14X from 1972 to 1982. The North, of course was painfully aware.\n\nThe North, unfortunately, resorted to terrorism and warmongering. In August 1976, North Korean soldiers bludgeoned to death with axes a team of American and Korean soldiers trimming poplar trees on the \"Bridge of No Return\" on the demarcation line. \n\nLt. Pak Choel of the DPRK came abruptly to a group of soldiers doing routine pruning, demanded they stop, which caused a fight, ultimately causing North Korean soldiers to outnumber the Americans, and used the axes the soldiers dropped to bludgeon them to death. This sparked a brief international conflict.\n\nOther incidents or near-incidents included an assassination attempt on Park's successor, Chun Doo-hwan twice: one in Gabon, 1982 that was aborted last-minute and a bombing in Rangoon in 1983 that missed because his car was delayed in traffic but killed 21 more, and a bombing of Korean Air 858 over the Andaman Islands that killed 115 en route to Seoul.\n\nNorth Korea also increased mass proliferation of nuclear weapons: As Victor Cha explains, In 1985, the North signed the Nuclear Non- proliferation Treaty (NPT)  to gain access to more Soviet nuclear know-how.\n\nIn addition, Kim Jong-il inspected the Yongbyon nuclear facility and gave scientists and workers gifts, such as Japanese TV sets, as rewards. Two larger reactors—a fifty-megawatt and two-hundred-megawatt facility—were also under construction during this period.\n\nThis diminished North Korea's international reputation, and in addition, the Olympics were also hosted at Seoul. This was disastrous because it gave the South added geopolitical reputation. In 1990, South Korea normalized relationships with the Soviet Union, dealing the final crushing blow to the North Korean economy.\n\nVII: The Arduous March\n\nThe North Korean planned a modicum of economic reforms in the 1980s, such as establishing pseudo-China-style Special Economic Zones in Unggi, Chongjin, and Najin, and encouraged minor entrepreneurship by only taxing businessmen 50% of their returns, so to encourage capital investment. \n\nThe August Third People's Consumer Goods Production Movement, named after the time where Kim Il-Sung visited a light industry factory, emphasized the necessity to invest more in consumer goods, and to increase small private farmholds and garden plots. \n\nThese schemes, unlike China's liberalisation, were not followed up because they seemed to be political ploys. And they could not mitigate the disaster about to happen.\n\nIn the late 1980s, the USSR began to cut state aid to the DPRK, and with it, fertilizer, fuel and herbicide imports. This, along with depreciating technology, led to declining agricultural productivity, which also affected the public distribution system. \n\nThe PDS in North Korea has fifty-one distinct categories of person, each with its own certain right to entitlements based on age, occupation, family background, regime loyalty, and the like. But although not terrible in theory, distribution numbers fluctuated with reducing agricultural output.\n\nIn the 1960s, for instance, white-collar workers were supposedly entitled to and received 700 grams (1.54 pounds) of food per day through the system. But\nthis number gradually decreased to 608 grams (1.34\npounds) by 1973 and to 547 grams (1.2 pounds) by 1987.\n\nIn 1992, the government initiated a “Let’s Eat Two Meals per Day” campaign to help deal with the food shortages that were crippling the PDS. It didn't work. \n\nPrivate markets and illegal mutual aid networks sprang throughout the country, food riots were rampant, kkotjebi (the homeless) scavenged for any leftover food, the defector rate to China soared, and a group of people fled to Pyongyang, whom had to send a good deal back because it was dealing with shortages of its own. \n\nBy 1997 the PDS, was estimated to be supplying just 6 percent of the population, and by 1998 it wasn’t supplying anyone for large portions of the year. The decline was also exacerbated by horrible weather:\n\nOn a particular day in North Hwanghae Province, 877 mm (34.5 inches) of precipitation was recorded in just seven hours, and the flooding flooding was followed by periods of severe drought in 1996\nand 1997, and a typhoon in August 1997. \n\nThis not only wiped out existing crops but also destroyed an estimated 85 percent of the country’s hydroelectric capacity and ravaged its coal-power capabilities.\n\nAlso, the regime trying to keep up with demand by overusing fertilizers and chemicals, and by continuous cropping, eroded the little arable land it had, and also abused arable land further by massively importing goats to graze.\n\nWhatever the cause, hundreds of thousands of North Koreans starved to death in less than a decade...\n\nPart 2: Arduous March (cont'd), Five Big Mistakes, Marketization, Steps For Improvement, Bibliography.\n\nSuggestions welcome!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 480,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "The DPRK Economy: A Primer. (Part 1 of 2)\n\nI. Introduction\n\nOne does not have to have a master degree in economics to realize a very elemental truth-the North Korean Economy today is, simply put, not good.\n\nWhat people attribute to such a failure is variant-with some blaming it… https://t.co/DNqj20AGis"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2215,
+          "following_count": 1630,
+          "like_count": 23477,
+          "listed_count": 9,
+          "media_count": 785,
+          "tweet_count": 12651
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T04:10:24.000Z",
+        "description": "Libertarian || Anarchist || Political economy addict || Fan of reading, cats and Magical Girl animes || Uphold Neo-Hayekian thought (https://t.co/Hm4Dhv0Gpt)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "menghu.substack.com",
+                "end": 156,
+                "expanded_url": "http://menghu.substack.com",
+                "start": 133,
+                "url": "https://t.co/Hm4Dhv0Gpt"
+              }
+            ]
+          }
+        },
+        "id": "1761604497598820352",
+        "location": "germany",
+        "name": "Nikolai Rostov",
+        "pinned_tweet_id": "1897136048322601428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896754112387239936/Nf-I3UrL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 629,
+          "following_count": 1585,
+          "like_count": 486,
+          "listed_count": 2,
+          "media_count": 384,
+          "tweet_count": 5034
+        },
+        "username": "austrosillyism",
+        "verified": true
+      }
+    ]
+  }
+}

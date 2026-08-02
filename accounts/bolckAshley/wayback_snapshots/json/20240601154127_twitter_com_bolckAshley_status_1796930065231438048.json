@@ -1,0 +1,427 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Emmanuel Macron",
+          "id": "822153632002904064",
+          "name": "Emmanuel Macron"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1483822657963397121",
+          "name": "France politics"
+        }
+      }
+    ],
+    "conversation_id": "1796930065231438048",
+    "created_at": "2024-06-01T15:41:27.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T16:41:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796930065231438048"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Gaza",
+          "probability": 0.986,
+          "start": 31,
+          "type": "Place"
+        },
+        {
+          "end": 63,
+          "normalized_text": "US",
+          "probability": 0.9629,
+          "start": 62,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1976143068",
+          "start": 3,
+          "username": "EmmanuelMacron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796930065231438048",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 752
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796855207088783479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EmmanuelMacron: The war in Gaza must end.\n\nWe support the US proposal for a durable peace. Just as we are working with our partners in…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "1796930065231438048",
+        "created_at": "2024-06-01T15:41:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T16:41:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796930065231438048"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Gaza",
+              "probability": 0.986,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "US",
+              "probability": 0.9629,
+              "start": 62,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1976143068",
+              "start": 3,
+              "username": "EmmanuelMacron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796930065231438048",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 752
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796855207088783479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EmmanuelMacron: The war in Gaza must end.\n\nWe support the US proposal for a durable peace. Just as we are working with our partners in…"
+      },
+      {
+        "attachments": {},
+        "author_id": "1976143068",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Emmanuel Macron",
+              "id": "822153632002904064",
+              "name": "Emmanuel Macron"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1483822657963397121",
+              "name": "France politics"
+            }
+          }
+        ],
+        "conversation_id": "1796855207088783479",
+        "created_at": "2024-06-01T10:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T11:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796855207088783479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796855207088783479",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 386236,
+          "like_count": 3814,
+          "quote_count": 146,
+          "reply_count": 1184,
+          "retweet_count": 752
+        },
+        "reply_settings": "everyone",
+        "text": "The war in Gaza must end.\n\nWe support the US proposal for a durable peace. Just as we are working with our partners in the region on peace and security for all.\n\nThe release of the hostages, a permanent ceasefire to work towards peace and progress on the two-state solution."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767220712543236096/w31UL6H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 912,
+          "like_count": 11507,
+          "listed_count": 6,
+          "tweet_count": 7599
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-10-20T19:35:28.000Z",
+        "description": "Président de la République française.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "elysee.fr",
+                "end": 23,
+                "expanded_url": "http://elysee.fr",
+                "start": 0,
+                "url": "https://t.co/n76au37OVm"
+              }
+            ]
+          }
+        },
+        "id": "1976143068",
+        "location": "France",
+        "name": "Emmanuel Macron",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550535324501164032/0lTW_4tj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9743557,
+          "following_count": 724,
+          "like_count": 364,
+          "listed_count": 15214,
+          "tweet_count": 13367
+        },
+        "url": "https://t.co/n76au37OVm",
+        "username": "EmmanuelMacron",
+        "verified": true
+      }
+    ]
+  }
+}

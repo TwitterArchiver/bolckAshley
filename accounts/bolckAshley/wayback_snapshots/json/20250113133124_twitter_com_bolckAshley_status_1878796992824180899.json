@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Investors and patents",
+          "id": "857878402157629440",
+          "name": "Investors and patents"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "1878666957026996248",
+    "created_at": "2025-01-13T13:31:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-13T14:31:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1878796992824180899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865628610608103424",
+          "start": 0,
+          "username": "Proletarian8964"
+        },
+        {
+          "end": 31,
+          "id": "1446461580141490179",
+          "start": 17,
+          "username": "liangjie_2021"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1878796992824180899",
+    "in_reply_to_user_id": "1865628610608103424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878794182070014370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Proletarian8964 @liangjie_2021 如何保證？\n1.累進稅制+財富再分配\n2.建立強大的社會福利保障體系\n3.保護勞動者權益\n4.積極投資公共服務與基礎設施建設\n5.可持續發展的綠色經濟\n6.對市場的監管與調控，避免資本的過度集中\n7.通過公民廣泛參與的民主政治，以確保社會政策的公平性，避免政策被少數利益團體壟斷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Investors and patents",
+              "id": "857878402157629440",
+              "name": "Investors and patents"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "1878666957026996248",
+        "created_at": "2025-01-13T13:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T14:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878796992824180899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865628610608103424",
+              "start": 0,
+              "username": "Proletarian8964"
+            },
+            {
+              "end": 31,
+              "id": "1446461580141490179",
+              "start": 17,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878796992824180899",
+        "in_reply_to_user_id": "1865628610608103424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878794182070014370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Proletarian8964 @liangjie_2021 如何保證？\n1.累進稅制+財富再分配\n2.建立強大的社會福利保障體系\n3.保護勞動者權益\n4.積極投資公共服務與基礎設施建設\n5.可持續發展的綠色經濟\n6.對市場的監管與調控，避免資本的過度集中\n7.通過公民廣泛參與的民主政治，以確保社會政策的公平性，避免政策被少數利益團體壟斷"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865628610608103424",
+        "conversation_id": "1878666957026996248",
+        "created_at": "2025-01-13T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878794182070014370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            },
+            {
+              "end": 27,
+              "id": "1446461580141490179",
+              "start": 13,
+              "username": "liangjie_2021"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878794182070014370",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878751225925284251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley @liangjie_2021 最重要的经济问题呢？社会民主主义怎么保证经济上的公平正义呢，是否支持全民基本收入，是否需要落后国家传播社会民主主义以平衡国际社会的经济不平等，欧洲的制造业是建立在剥削第三世界国家的人民之上，他们获得了廉价的资源和劳动力，第三世界国家的人民是否应该和本国人民获得同样的权利？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 1412,
+          "like_count": 19464,
+          "listed_count": 8,
+          "media_count": 673,
+          "tweet_count": 11423
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-08T05:25:41.000Z",
+        "description": "左派互fo\n马克思主义🚩｜毛泽东思想📕｜国际主义🌏｜民主计划经济｜INTP-A｜非二元性别规范🏳️‍🌈🏳️‍⚧️⚧｜无产阶级专政下的继续革命｜平权主义✊｜民族自决🫱🏼‍🫲🏿｜国家无神论｜知识公有化🏴‍☠️｜反法西斯｜反资本主义｜反犹太复国主义",
+        "id": "1865628610608103424",
+        "location": "普罗列塔利亚社会主义共和国联盟",
+        "name": "☭辉夜📕🚩🏴‍☠️🇨🇳🇵🇸🇺🇦",
+        "pinned_tweet_id": "1873593618579263699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872652073252335616/50am70rz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 333,
+          "like_count": 2206,
+          "listed_count": 6,
+          "media_count": 100,
+          "tweet_count": 1282
+        },
+        "username": "Proletarian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-08T13:04:56.000Z",
+        "description": "普兰查斯式民主社会主义者(Democratic socialist with Poulantzas characteristics)，现代性的挑战是无幻象地生活和无法摆脱幻象地生活",
+        "id": "1446461580141490179",
+        "name": "LiangJie🇵🇸🇺🇦🇧🇫🇲🇲",
+        "pinned_tweet_id": "1832651502332129631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877674752762126336/-8gGMvvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 1080,
+          "like_count": 52082,
+          "listed_count": 5,
+          "media_count": 471,
+          "tweet_count": 8838
+        },
+        "username": "liangjie_2021",
+        "verified": false
+      }
+    ]
+  }
+}

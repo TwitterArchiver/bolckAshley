@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1940400904219574445",
+    "created_at": "2025-07-02T16:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-02T17:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940447674148528286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1548876654843674624",
+          "start": 0,
+          "username": "RoMaNov_304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940447674148528286",
+    "in_reply_to_user_id": "1548876654843674624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1940400904219574445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RoMaNov_304 有一說一這個共產黨旗似乎其實是越共的（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1940400904219574445].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1940400904219574445",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1940400904219574445"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1940400904219574445",
+        "created_at": "2025-07-02T16:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-02T17:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940447674148528286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1548876654843674624",
+              "start": 0,
+              "username": "RoMaNov_304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940447674148528286",
+        "in_reply_to_user_id": "1548876654843674624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940400904219574445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RoMaNov_304 有一說一這個共產黨旗似乎其實是越共的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 1849,
+          "like_count": 29452,
+          "listed_count": 10,
+          "media_count": 952,
+          "tweet_count": 14622
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-18T03:46:01.000Z",
+        "description": "",
+        "id": "1548876654843674624",
+        "name": "Клетка",
+        "pinned_tweet_id": "1936389223558590869",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925546538069360641/vrTojPGH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2828,
+          "following_count": 1208,
+          "like_count": 104439,
+          "listed_count": 23,
+          "media_count": 3201,
+          "tweet_count": 17061
+        },
+        "username": "RoMaNov_304",
+        "verified": false
+      }
+    ]
+  }
+}

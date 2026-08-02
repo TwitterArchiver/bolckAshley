@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1881394387437105473",
+    "created_at": "2025-01-20T17:32:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-20T18:32:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1881394387437105473"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "Israel",
+          "probability": 0.9509,
+          "start": 65,
+          "type": "Place"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Hamas",
+          "probability": 0.4161,
+          "start": 78,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "19287037",
+          "start": 3,
+          "username": "TheProgressives"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1881394387437105473",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1881377934059217250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheProgressives: The provisional ceasefire agreement between Israel &amp; Hamas is a vital step to ending violence in the region.\n\nWe urge…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1881394387437105473",
+        "created_at": "2025-01-20T17:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T18:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1881394387437105473"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "Israel",
+              "probability": 0.9509,
+              "start": 65,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Hamas",
+              "probability": 0.4161,
+              "start": 78,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "19287037",
+              "start": 3,
+              "username": "TheProgressives"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881394387437105473",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1881377934059217250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheProgressives: The provisional ceasefire agreement between Israel &amp; Hamas is a vital step to ending violence in the region.\n\nWe urge…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1881374468657872896"
+          ]
+        },
+        "author_id": "19287037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1881377934059217250",
+        "created_at": "2025-01-20T16:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-20T17:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1881377934059217250"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "Israel",
+              "probability": 0.947,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 61,
+              "normalized_text": "Hamas",
+              "probability": 0.6195,
+              "start": 57,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Main page of the European Parliament’s plenary website. Live streaming, updated speaker list, plenary news, priority information and priority documents.",
+              "display_url": "europarl.europa.eu/plenary/en/hom…",
+              "end": 283,
+              "expanded_url": "https://www.europarl.europa.eu/plenary/en/home.html",
+              "images": [
+                {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/news_img/1881342793077141504/Vhs2cCxl?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1881342793077141504/Vhs2cCxl?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 260,
+              "status": 200,
+              "title": "Home | Plenary | European Parliament",
+              "unwound_url": "https://www.europarl.europa.eu/plenary/en/home.html",
+              "url": "https://t.co/kWmupWHLnf"
+            },
+            {
+              "display_url": "pic.x.com/vzUYEcE5Kt",
+              "end": 307,
+              "expanded_url": "https://x.com/TheProgressives/status/1881377934059217250/photo/1",
+              "media_key": "3_1881374468657872896",
+              "start": 284,
+              "url": "https://t.co/vzUYEcE5Kt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1881377934059217250",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 790,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "The provisional ceasefire agreement between Israel &amp; Hamas is a vital step to ending violence in the region.\n\nWe urge a permanent ceasefire, the release of all hostages, and the unlocking of humanitarian aid to ease the suffering of Palestinians.\n\nDebate: https://t.co/kWmupWHLnf https://t.co/vzUYEcE5Kt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086,
+          "following_count": 1446,
+          "like_count": 20035,
+          "listed_count": 10,
+          "media_count": 692,
+          "tweet_count": 11623
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-21T13:26:48.000Z",
+        "description": "The Socialists and Democrats Group in the European Parliament works for social justice, sustainability & equality for all.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "socialistsanddemocrats.eu",
+                "end": 23,
+                "expanded_url": "http://www.socialistsanddemocrats.eu",
+                "start": 0,
+                "url": "https://t.co/NnV78Ux4Lc"
+              }
+            ]
+          }
+        },
+        "id": "19287037",
+        "location": "Europe",
+        "name": "S&D Group",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585629855583911937/HG74Hrhf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139056,
+          "following_count": 8316,
+          "like_count": 7173,
+          "listed_count": 1854,
+          "media_count": 11554,
+          "tweet_count": 37998
+        },
+        "url": "https://t.co/NnV78Ux4Lc",
+        "username": "TheProgressives",
+        "verified": true
+      }
+    ]
+  }
+}

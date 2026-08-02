@@ -1,0 +1,527 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      }
+    ],
+    "conversation_id": "1809108611341430835",
+    "created_at": "2024-07-05T06:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-05T07:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1809108611341430835"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 126,
+          "normalized_text": "UK",
+          "probability": 0.9466,
+          "start": 125,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 48,
+          "id": "2425571623",
+          "start": 35,
+          "username": "Keir_Starmer"
+        },
+        {
+          "end": 92,
+          "id": "14291684",
+          "start": 83,
+          "username": "UKLabour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1809108611341430835",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809106674428354687",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🇬🇧🌹Congratulations to @Keir_Starmer and to our full member party, the @UKLabour! Your resounding victory in the UK general ele…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          }
+        ],
+        "conversation_id": "1809108611341430835",
+        "created_at": "2024-07-05T06:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T07:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1809108611341430835"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 126,
+              "normalized_text": "UK",
+              "probability": 0.9466,
+              "start": 125,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 48,
+              "id": "2425571623",
+              "start": 35,
+              "username": "Keir_Starmer"
+            },
+            {
+              "end": 92,
+              "id": "14291684",
+              "start": 83,
+              "username": "UKLabour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809108611341430835",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809106674428354687",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🇬🇧🌹Congratulations to @Keir_Starmer and to our full member party, the @UKLabour! Your resounding victory in the UK general ele…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1809106620175003649"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1798397790965387264",
+              "name": "UK General Election 2024"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516797906547712007",
+              "name": "United Kingdom politics"
+            }
+          }
+        ],
+        "conversation_id": "1809106674428354687",
+        "created_at": "2024-07-05T06:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T07:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809106674428354687"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 113,
+              "normalized_text": "UK",
+              "probability": 0.9433,
+              "start": 112,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "2425571623",
+              "start": 22,
+              "username": "Keir_Starmer"
+            },
+            {
+              "end": 79,
+              "id": "14291684",
+              "start": 70,
+              "username": "UKLabour"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/PSMTRxw3jk",
+              "end": 216,
+              "expanded_url": "https://twitter.com/PES_PSE/status/1809106674428354687/photo/1",
+              "media_key": "3_1809106620175003649",
+              "start": 193,
+              "url": "https://t.co/PSMTRxw3jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809106674428354687",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 677,
+          "like_count": 48,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "🇬🇧🌹Congratulations to @Keir_Starmer and to our full member party, the @UKLabour! Your resounding victory in the UK general election marks a historic moment in modern British political history. https://t.co/PSMTRxw3jk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 951,
+          "like_count": 12484,
+          "listed_count": 8,
+          "tweet_count": 8467
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro European. Ecologists. Pro Science. We represent you.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81109,
+          "following_count": 5588,
+          "like_count": 8449,
+          "listed_count": 1087,
+          "tweet_count": 50593
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2014-04-03T12:37:30.000Z",
+        "description": "Labour MP for Holborn and St Pancras and Leader of the Labour Party. Former Director of Public Prosecutions.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "labour.org.uk",
+                "end": 23,
+                "expanded_url": "http://labour.org.uk",
+                "start": 0,
+                "url": "https://t.co/lc4eHHyqlr"
+              }
+            ]
+          }
+        },
+        "id": "2425571623",
+        "location": "United Kingdom",
+        "name": "Keir Starmer",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723990757403475968/w_a64KQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503105,
+          "following_count": 417,
+          "like_count": 269,
+          "listed_count": 4278,
+          "tweet_count": 9815
+        },
+        "url": "https://t.co/lc4eHHyqlr",
+        "username": "Keir_Starmer",
+        "verified": true
+      },
+      {
+        "created_at": "2008-04-03T08:57:48.000Z",
+        "description": "Labour is the party of working people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "labour.org.uk",
+                "end": 23,
+                "expanded_url": "https://labour.org.uk",
+                "start": 0,
+                "url": "https://t.co/GFy3SnGW7Q"
+              }
+            ]
+          }
+        },
+        "id": "14291684",
+        "name": "The Labour Party",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572133535703605249/Ap0Mz-Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035074,
+          "following_count": 10936,
+          "like_count": 368,
+          "listed_count": 5452,
+          "tweet_count": 37570
+        },
+        "url": "https://t.co/GFy3SnGW7Q",
+        "username": "UKLabour",
+        "verified": true
+      }
+    ]
+  }
+}

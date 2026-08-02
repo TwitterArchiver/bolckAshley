@@ -1,0 +1,495 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735188836081664",
+          "name": "Andy Burnham"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735188836081664",
+          "name": "Andy Burnham"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735188836081664",
+          "name": "Andy Burnham"
+        }
+      }
+    ],
+    "conversation_id": "2015136297057493434",
+    "created_at": "2026-01-24T18:55:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T19:55:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015136297057493434"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 61,
+          "normalized_text": "Labour",
+          "probability": 0.451,
+          "start": 56,
+          "type": "Organization"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Executive",
+          "probability": 0.4979,
+          "start": 74,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "143779403",
+          "start": 3,
+          "username": "AndyBurnhamGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015136297057493434",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1164
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015107556943745277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndyBurnhamGM: I have today written to the Chair of Labour’s National Executive Committee seeking permission to enter the selection pro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_2015107550740406272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cZpBIW4AAb7Vr.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1350,
+        "media_key": "3_2015107551818293251",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cZpFJWIAMIpdG.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          }
+        ],
+        "conversation_id": "2015136297057493434",
+        "created_at": "2026-01-24T18:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T19:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015136297057493434"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 61,
+              "normalized_text": "Labour",
+              "probability": 0.451,
+              "start": 56,
+              "type": "Organization"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Executive",
+              "probability": 0.4979,
+              "start": 74,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "143779403",
+              "start": 3,
+              "username": "AndyBurnhamGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015136297057493434",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1164
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015107556943745277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndyBurnhamGM: I have today written to the Chair of Labour’s National Executive Committee seeking permission to enter the selection pro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015107550740406272",
+            "3_2015107551818293251"
+          ]
+        },
+        "author_id": "143779403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          }
+        ],
+        "conversation_id": "2015107556943745277",
+        "created_at": "2026-01-24T17:00:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T18:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015107556943745277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Labour",
+              "probability": 0.592,
+              "start": 37,
+              "type": "Organization"
+            },
+            {
+              "end": 177,
+              "normalized_text": "Denton",
+              "probability": 0.2748,
+              "start": 172,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwKgADsuSB",
+              "end": 239,
+              "expanded_url": "https://x.com/AndyBurnhamGM/status/2015107556943745277/photo/1",
+              "media_key": "3_2015107550740406272",
+              "start": 216,
+              "url": "https://t.co/TwKgADsuSB"
+            },
+            {
+              "display_url": "pic.x.com/TwKgADsuSB",
+              "end": 239,
+              "expanded_url": "https://x.com/AndyBurnhamGM/status/2015107556943745277/photo/1",
+              "media_key": "3_2015107551818293251",
+              "start": 216,
+              "url": "https://t.co/TwKgADsuSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015107556943745277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 378,
+          "impression_count": 902459,
+          "like_count": 6999,
+          "quote_count": 844,
+          "reply_count": 1255,
+          "retweet_count": 1164
+        },
+        "reply_settings": "everyone",
+        "text": "I have today written to the Chair of Labour’s National Executive Committee seeking permission to enter the selection process for a candidate for the forthcoming Gorton and Denton by-election.\n\nRead my letter here.👇🏻 https://t.co/TwKgADsuSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2876,
+          "following_count": 1971,
+          "like_count": 37740,
+          "listed_count": 15,
+          "media_count": 1306,
+          "tweet_count": 18824
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T11:06:05.000Z",
+        "description": "Mayor of Greater Manchester (Labour & Co-operative)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "greatermanchester-ca.gov.uk/the-mayor",
+                "end": 23,
+                "expanded_url": "http://www.greatermanchester-ca.gov.uk/the-mayor",
+                "start": 0,
+                "url": "https://t.co/5e8IcsTA8E"
+              }
+            ]
+          }
+        },
+        "id": "143779403",
+        "location": "Leigh, Greater Manchester",
+        "name": "Andy Burnham",
+        "pinned_tweet_id": "1785552270752362831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779172902488731648/CYBehdgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580863,
+          "following_count": 3386,
+          "like_count": 19919,
+          "listed_count": 2177,
+          "media_count": 1408,
+          "tweet_count": 29557
+        },
+        "url": "https://t.co/5e8IcsTA8E",
+        "username": "AndyBurnhamGM",
+        "verified": true
+      }
+    ]
+  }
+}

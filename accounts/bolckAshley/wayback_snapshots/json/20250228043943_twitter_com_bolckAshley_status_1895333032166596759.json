@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1895171457266639060",
+    "created_at": "2025-02-28T04:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T05:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895333032166596759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1849500209488752640",
+          "start": 0,
+          "username": "Inevitablewest"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895333032166596759",
+    "in_reply_to_user_id": "1849500209488752640",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895171457266639060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inevitablewest LOL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 37057,
+        "height": 626,
+        "media_key": "13_1895171388920504320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1895171388920504320/img/bN0XezwBBwMrjtVm.jpg",
+        "public_metrics": {
+          "view_count": 1907612
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895171388920504320/vid/avc1/498x270/1AN_28PWjrqy7deU.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895171388920504320/vid/avc1/664x360/wZ8N0wotG_Ggk0K0.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1895171388920504320/vid/avc1/1158x626/ofVU4oISxHMT6F4G.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1895171388920504320/pl/d9ygkNWb4M-Gr-xc.m3u8?tag=16&v=b74"
+          }
+        ],
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1895171457266639060",
+        "created_at": "2025-02-28T04:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T05:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895333032166596759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1849500209488752640",
+              "start": 0,
+              "username": "Inevitablewest"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895333032166596759",
+        "in_reply_to_user_id": "1849500209488752640",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895171457266639060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inevitablewest LOL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1895171388920504320"
+          ]
+        },
+        "author_id": "1849500209488752640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1895171457266639060",
+        "created_at": "2025-02-27T17:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T18:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895171457266639060"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Trump",
+              "probability": 0.9245,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 98,
+              "normalized_text": "Starmer",
+              "probability": 0.9139,
+              "start": 92,
+              "type": "Person"
+            },
+            {
+              "end": 157,
+              "normalized_text": "Starmer",
+              "probability": 0.9203,
+              "start": 151,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/InuAtZjG8w",
+              "end": 197,
+              "expanded_url": "https://x.com/Inevitablewest/status/1895171457266639060/video/1",
+              "media_key": "13_1895171388920504320",
+              "start": 174,
+              "url": "https://t.co/InuAtZjG8w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895171457266639060",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2655,
+          "impression_count": 3492794,
+          "like_count": 32565,
+          "quote_count": 652,
+          "reply_count": 1990,
+          "retweet_count": 6506
+        },
+        "reply_settings": "everyone",
+        "text": "🚨BREAKING: The Trump admin have raised the British flag upside down during the meeting with Starmer\n\nAn upside down British flag is a distress signal. Starmer is in trouble. https://t.co/InuAtZjG8w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 1586,
+          "like_count": 22728,
+          "listed_count": 9,
+          "media_count": 767,
+          "tweet_count": 12418
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-24T17:16:37.000Z",
+        "description": "Defender of Western values and culture. Jesus Christ is king. Account run from England. ✝️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lnevitablewes…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@lnevitablewest?si=0owWmqnmxy2ZLggR",
+                "start": 0,
+                "url": "https://t.co/5mJugRyJ2W"
+              }
+            ]
+          }
+        },
+        "id": "1849500209488752640",
+        "location": "The West",
+        "name": "Inevitable West",
+        "pinned_tweet_id": "1895180781544448461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849508889718312960/cuJBcI8u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232022,
+          "following_count": 743,
+          "like_count": 31446,
+          "listed_count": 817,
+          "media_count": 1046,
+          "tweet_count": 4833
+        },
+        "url": "https://t.co/5mJugRyJ2W",
+        "username": "Inevitablewest",
+        "verified": true
+      }
+    ]
+  }
+}

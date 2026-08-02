@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1831316005639106560"
+      ],
+      "media_source_tweet_id": [
+        "1831316119543832844"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      }
+    ],
+    "conversation_id": "1831367636502114337",
+    "created_at": "2024-09-04T16:24:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-09-04T17:24:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1831367636502114337"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 44,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421085080336834565",
+          "start": 3,
+          "username": "Foolish_potato_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0rea1fztgt",
+          "end": 76,
+          "expanded_url": "https://twitter.com/Foolish_potato_/status/1831316119543832844/video/1",
+          "media_key": "7_1831316005639106560",
+          "start": 53,
+          "url": "https://t.co/0REA1fZtgT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1831367636502114337",
+    "lang": "eu",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1648
+    },
+    "referenced_tweets": [
+      {
+        "id": "1831316119543832844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Foolish_potato_: Nazuna &amp; Nazuna 🎥\n #よふかしのうた https://t.co/0REA1fZtgT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4004,
+        "height": 1080,
+        "media_key": "7_1831316005639106560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1831316005639106560/pu/img/AAQZ-3EmjsPjiuVp.jpg",
+        "public_metrics": {
+          "view_count": 78682
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831316005639106560/pu/vid/avc1/1080x1080/oqe6gO7AoJ-HSkwl.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831316005639106560/pu/vid/avc1/720x720/dXo9QWbWdlzvGzEg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831316005639106560/pu/vid/avc1/540x540/TCEAVrcqwDaq5xxe.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1831316005639106560/pu/pl/768as1Ow5qTXy4U-.m3u8?tag=14"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1831316005639106560/pu/vid/avc1/320x320/7_gi-fQLe7ULA-AQ.mp4?tag=14"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831316005639106560"
+          ],
+          "media_source_tweet_id": [
+            "1831316119543832844"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1831367636502114337",
+        "created_at": "2024-09-04T16:24:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T17:24:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831367636502114337"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 44,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1421085080336834565",
+              "start": 3,
+              "username": "Foolish_potato_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rea1fztgt",
+              "end": 76,
+              "expanded_url": "https://twitter.com/Foolish_potato_/status/1831316119543832844/video/1",
+              "media_key": "7_1831316005639106560",
+              "start": 53,
+              "url": "https://t.co/0REA1fZtgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831367636502114337",
+        "lang": "eu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1648
+        },
+        "referenced_tweets": [
+          {
+            "id": "1831316119543832844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Foolish_potato_: Nazuna &amp; Nazuna 🎥\n #よふかしのうた https://t.co/0REA1fZtgT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1831316005639106560"
+          ]
+        },
+        "author_id": "1421085080336834565",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          }
+        ],
+        "conversation_id": "1831316119543832844",
+        "created_at": "2024-09-04T12:59:21.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-04T13:59:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1831316119543832844"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 23,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rea1fztgt",
+              "end": 55,
+              "expanded_url": "https://twitter.com/Foolish_potato_/status/1831316119543832844/video/1",
+              "media_key": "7_1831316005639106560",
+              "start": 32,
+              "url": "https://t.co/0REA1fZtgT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1831316119543832844",
+        "lang": "eu",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5350,
+          "impression_count": 142246,
+          "like_count": 18126,
+          "quote_count": 20,
+          "reply_count": 29,
+          "retweet_count": 1648
+        },
+        "reply_settings": "everyone",
+        "text": "Nazuna &amp; Nazuna 🎥\n #よふかしのうた https://t.co/0REA1fZtgT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍(淡推中)",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819384796780679171/GrxTf02O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1006,
+          "like_count": 13640,
+          "listed_count": 10,
+          "tweet_count": 9331
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-30T12:27:48.000Z",
+        "description": "Concept Artist, Illustrator zephy \nfan box : https://t.co/DpOED4Yod3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zephypotato.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://zephypotato.fanbox.cc",
+                "start": 45,
+                "url": "https://t.co/DpOED4Yod3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zephypotato.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://zephypotato.fanbox.cc",
+                "start": 0,
+                "url": "https://t.co/DpOED4Yod3"
+              }
+            ]
+          }
+        },
+        "id": "1421085080336834565",
+        "location": "#よふかしのうた",
+        "name": "zephy",
+        "pinned_tweet_id": "1803036050618806554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681138481026965505/77Y-o9qX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161610,
+          "following_count": 421,
+          "like_count": 10751,
+          "listed_count": 807,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/DpOED4Yod3",
+        "username": "Foolish_potato_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1364653904433045506",
+          "name": "Aposto!"
+        }
+      }
+    ],
+    "conversation_id": "1921931252216500335",
+    "created_at": "2025-05-12T14:11:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-12T15:11:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1921931252216500335"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "FEPS",
+          "probability": 0.4352,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 69,
+          "normalized_text": "EuropeDay",
+          "probability": 0.5559,
+          "start": 61,
+          "type": "Place"
+        },
+        {
+          "end": 133,
+          "normalized_text": "European",
+          "probability": 0.4856,
+          "start": 126,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 70,
+          "start": 60,
+          "tag": "EuropeDay"
+        },
+        {
+          "end": 118,
+          "start": 100,
+          "tag": "DemocracyInAction"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "90379972",
+          "start": 3,
+          "username": "FEPS_Europe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1921931252216500335",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1921929131987484733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FEPS_Europe: FEPS newsletter is out! This week's focus: #EuropeDay!\n\n🇪🇺On 10 May, we got to see #DemocracyInAction at the European Parl…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1364653904433045506",
+              "name": "Aposto!"
+            }
+          }
+        ],
+        "conversation_id": "1921931252216500335",
+        "created_at": "2025-05-12T14:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1921931252216500335"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "FEPS",
+              "probability": 0.4352,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 69,
+              "normalized_text": "EuropeDay",
+              "probability": 0.5559,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 133,
+              "normalized_text": "European",
+              "probability": 0.4856,
+              "start": 126,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "EuropeDay"
+            },
+            {
+              "end": 118,
+              "start": 100,
+              "tag": "DemocracyInAction"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "90379972",
+              "start": 3,
+              "username": "FEPS_Europe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921931252216500335",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1921929131987484733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FEPS_Europe: FEPS newsletter is out! This week's focus: #EuropeDay!\n\n🇪🇺On 10 May, we got to see #DemocracyInAction at the European Parl…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90379972",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1364653904433045506",
+              "name": "Aposto!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1495103560295407616",
+              "name": "Society & culture podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1537496663018786819",
+              "name": "LGBTQ podcast"
+            }
+          }
+        ],
+        "conversation_id": "1921929131987484733",
+        "created_at": "2025-05-12T14:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-12T15:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1921929131987484733"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "FEPS",
+              "probability": 0.4078,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "EuropeDay",
+              "probability": 0.5417,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 127,
+              "normalized_text": "European Parliament",
+              "probability": 0.8426,
+              "start": 109,
+              "type": "Organization"
+            },
+            {
+              "end": 179,
+              "normalized_text": "LGBTQ",
+              "probability": 0.883,
+              "start": 175,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 53,
+              "start": 43,
+              "tag": "EuropeDay"
+            },
+            {
+              "end": 101,
+              "start": 83,
+              "tag": "DemocracyInAction"
+            },
+            {
+              "end": 172,
+              "start": 160,
+              "tag": "Enlargement"
+            },
+            {
+              "end": 180,
+              "start": 174,
+              "tag": "LGBTQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1921929131987484733",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "FEPS newsletter is out! This week's focus: #EuropeDay!\n\n🇪🇺On 10 May, we got to see #DemocracyInAction at the European Parliament, and we discuss this alongside #Enlargement, #LGBTQ rights, and the Serbian student protests below👇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2442,
+          "following_count": 1816,
+          "like_count": 26755,
+          "listed_count": 10,
+          "media_count": 910,
+          "tweet_count": 13778
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T12:12:04.000Z",
+        "description": "Foundation for European Progressive Studies\nThink tank inspiring EU progressives\nResearch, policy advice, training & debates \n📖 Magazine @ProgPost_FEPS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 137,
+                "username": "ProgPost_FEPS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "feps-europe.eu",
+                "end": 23,
+                "expanded_url": "https://feps-europe.eu",
+                "start": 0,
+                "url": "https://t.co/yeZMad5GCz"
+              }
+            ]
+          }
+        },
+        "id": "90379972",
+        "location": "Brussels, Belgium",
+        "name": "FEPS",
+        "pinned_tweet_id": "1888881117824000248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431253480463814657/mYKTRtjr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14890,
+          "following_count": 1809,
+          "like_count": 7274,
+          "listed_count": 359,
+          "media_count": 7034,
+          "tweet_count": 19201
+        },
+        "url": "https://t.co/yeZMad5GCz",
+        "username": "FEPS_Europe",
+        "verified": true
+      }
+    ]
+  }
+}

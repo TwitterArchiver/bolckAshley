@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Sahra Wagenknecht",
+          "id": "827111688893652993",
+          "name": "Sahra Wagenknecht"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Sahra Wagenknecht",
+          "id": "827111688893652993",
+          "name": "Sahra Wagenknecht"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sahra Wagenknecht",
+          "id": "827111688893652993",
+          "name": "Sahra Wagenknecht"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534488199598182400",
+          "name": "Germany politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      }
+    ],
+    "conversation_id": "1840985243903230385",
+    "created_at": "2024-10-01T05:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-01T06:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1840985243903230385"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 97,
+          "tag": "BSW"
+        },
+        {
+          "end": 119,
+          "start": 112,
+          "tag": "fckafd"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1491531642787217413",
+          "start": 3,
+          "username": "AntifaMaria"
+        },
+        {
+          "end": 30,
+          "id": "47375691",
+          "start": 17,
+          "username": "SWagenknecht"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1840985243903230385",
+    "lang": "de",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "1840817479292977386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AntifaMaria: @SWagenknecht Eine Krähe hackt der anderen kein Auge aus. So einfach ist das. \n\n#BSW 🇷🇺🫱🏼‍🫲🏻🇷🇺 #fckafd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "1840985243903230385",
+        "created_at": "2024-10-01T05:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-01T06:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840985243903230385"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 97,
+              "tag": "BSW"
+            },
+            {
+              "end": 119,
+              "start": 112,
+              "tag": "fckafd"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1491531642787217413",
+              "start": 3,
+              "username": "AntifaMaria"
+            },
+            {
+              "end": 30,
+              "id": "47375691",
+              "start": 17,
+              "username": "SWagenknecht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840985243903230385",
+        "lang": "de",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840817479292977386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AntifaMaria: @SWagenknecht Eine Krähe hackt der anderen kein Auge aus. So einfach ist das. \n\n#BSW 🇷🇺🫱🏼‍🫲🏻🇷🇺 #fckafd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491531642787217413",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sahra Wagenknecht",
+              "id": "827111688893652993",
+              "name": "Sahra Wagenknecht"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "1840738330113159333",
+        "created_at": "2024-09-30T18:14:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-30T19:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1840817479292977386"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "BSW"
+            },
+            {
+              "end": 102,
+              "start": 95,
+              "tag": "fckafd"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "47375691",
+              "start": 0,
+              "username": "SWagenknecht"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1840817479292977386",
+        "in_reply_to_user_id": "47375691",
+        "lang": "de",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1604,
+          "like_count": 349,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "1840738330113159333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SWagenknecht Eine Krähe hackt der anderen kein Auge aus. So einfach ist das. \n\n#BSW 🇷🇺🫱🏼‍🫲🏻🇷🇺 #fckafd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840985115490463744/MMA4nMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 1067,
+          "like_count": 14310,
+          "listed_count": 9,
+          "tweet_count": 9690
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T21:57:42.000Z",
+        "description": "Jedem Tierchen sein Pläsierchen | Jura, Grundgesetz, Rechtsstaat, Demokratie, Wissenschaft | Gegen Faschismus, Populismus, Fake News, Schwurbler, #fckafd",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 153,
+                "start": 146,
+                "tag": "fckafd"
+              }
+            ]
+          }
+        },
+        "id": "1491531642787217413",
+        "location": "Munich, Germany",
+        "name": "Maria Kron ⚖️🇺🇦🇮🇱🇪🇺",
+        "pinned_tweet_id": "1819381011622318353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1492597152253718530/_IcKIVcP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7442,
+          "following_count": 2994,
+          "like_count": 127218,
+          "listed_count": 7,
+          "tweet_count": 7980
+        },
+        "username": "AntifaMaria",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-15T16:33:09.000Z",
+        "description": "Mitglied des Deutschen Bundestages",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sahra-wagenknecht.de",
+                "end": 23,
+                "expanded_url": "http://www.sahra-wagenknecht.de",
+                "start": 0,
+                "url": "https://t.co/Mt8lQhhbk0"
+              }
+            ]
+          }
+        },
+        "id": "47375691",
+        "location": "Berlin",
+        "name": "Sahra Wagenknecht",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1715727438330613760/GrR81IhO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726807,
+          "following_count": 61,
+          "like_count": 2,
+          "listed_count": 2301,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/Mt8lQhhbk0",
+        "username": "SWagenknecht",
+        "verified": false
+      }
+    ]
+  }
+}

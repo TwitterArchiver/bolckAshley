@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Texas",
+          "id": "855432197297192961",
+          "name": "Texas"
+        }
+      }
+    ],
+    "conversation_id": "2025182090938253781",
+    "created_at": "2026-02-21T12:13:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:13:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025182090938253781"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NoLieWithBTC/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/NoLieWithBTC/status/2024948345215545699",
+          "start": 11,
+          "url": "https://t.co/l67LkhHqI6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025182090938253781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024948345215545699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味，德州翻藍了？ https://t.co/l67LkhHqI6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1356,
+        "media_key": "3_2024948240869658624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoPskmWkAAKjnc.jpg",
+        "width": 1346
+      },
+      {
+        "height": 524,
+        "media_key": "3_2024948291364880384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoPvgtWgAA-c3d.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2025182090938253781",
+        "created_at": "2026-02-21T12:13:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025182090938253781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NoLieWithBTC/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/NoLieWithBTC/status/2024948345215545699",
+              "start": 11,
+              "url": "https://t.co/l67LkhHqI6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025182090938253781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024948345215545699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味，德州翻藍了？ https://t.co/l67LkhHqI6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024948240869658624",
+            "3_2024948291364880384"
+          ]
+        },
+        "author_id": "1268223690480615424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Texas",
+              "id": "855432197297192961",
+              "name": "Texas"
+            }
+          }
+        ],
+        "conversation_id": "2024948345215545699",
+        "created_at": "2026-02-20T20:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T21:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024948345215545699"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Texas",
+              "probability": 0.9754,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 36,
+              "normalized_text": "Democrats",
+              "probability": 0.6368,
+              "start": 28,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5hKvOwthUk",
+              "end": 91,
+              "expanded_url": "https://x.com/NoLieWithBTC/status/2024948345215545699/photo/1",
+              "media_key": "3_2024948240869658624",
+              "start": 68,
+              "url": "https://t.co/5hKvOwthUk"
+            },
+            {
+              "display_url": "pic.x.com/5hKvOwthUk",
+              "end": 91,
+              "expanded_url": "https://x.com/NoLieWithBTC/status/2024948345215545699/photo/1",
+              "media_key": "3_2024948291364880384",
+              "start": 68,
+              "url": "https://t.co/5hKvOwthUk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024948345215545699",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 422,
+          "impression_count": 663661,
+          "like_count": 14009,
+          "quote_count": 134,
+          "reply_count": 194,
+          "retweet_count": 911
+        },
+        "reply_settings": "everyone",
+        "text": "Texas early voting update:\n\nDemocrats: 277,706\nRepublicans: 251,766 https://t.co/5hKvOwthUk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2990,
+          "following_count": 1980,
+          "like_count": 38432,
+          "listed_count": 15,
+          "media_count": 1344,
+          "tweet_count": 19314
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-03T16:51:35.000Z",
+        "description": "Podcast covering the top stories & interviews with the biggest names in politics. Hosted by @briantylercohen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 92,
+                "username": "briantylercohen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/briantylercohen",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/briantylercohen",
+                "start": 0,
+                "url": "https://t.co/vfHQ24oWC5"
+              }
+            ]
+          }
+        },
+        "id": "1268223690480615424",
+        "location": "Los Angeles, CA",
+        "name": "No Lie with Brian Tyler Cohen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917328305151266816/UpmjKKS5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434843,
+          "following_count": 576,
+          "like_count": 4086,
+          "listed_count": 2340,
+          "media_count": 3331,
+          "tweet_count": 12315
+        },
+        "url": "https://t.co/vfHQ24oWC5",
+        "username": "NoLieWithBTC",
+        "verified": true
+      }
+    ]
+  }
+}

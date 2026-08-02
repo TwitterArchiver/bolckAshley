@@ -1,0 +1,487 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1911813348636930408",
+    "created_at": "2025-04-14T16:06:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T17:06:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911813348636930408"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "SDP",
+          "probability": 0.9355,
+          "start": 45,
+          "type": "Organization"
+        },
+        {
+          "end": 119,
+          "normalized_text": "Finland",
+          "probability": 0.9775,
+          "start": 113,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 43,
+          "id": "22262225",
+          "start": 35,
+          "username": "Demarit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911813348636930408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911707565580222745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🇫🇮🗳️ Congratulations, @Demarit!\nSDP took a sweeping victory in this Sunday's municipal elections in Finland. Our sister party,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1911707086368456704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Goe_d2WWwAAsMog.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1911813348636930408",
+        "created_at": "2025-04-14T16:06:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T17:06:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911813348636930408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "SDP",
+              "probability": 0.9355,
+              "start": 45,
+              "type": "Organization"
+            },
+            {
+              "end": 119,
+              "normalized_text": "Finland",
+              "probability": 0.9775,
+              "start": 113,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 43,
+              "id": "22262225",
+              "start": 35,
+              "username": "Demarit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911813348636930408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911707565580222745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🇫🇮🗳️ Congratulations, @Demarit!\nSDP took a sweeping victory in this Sunday's municipal elections in Finland. Our sister party,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1911707086368456704"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1911707565580222745",
+        "created_at": "2025-04-14T09:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T10:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911707565580222745"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "SDP",
+              "probability": 0.9459,
+              "start": 32,
+              "type": "Organization"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Finland",
+              "probability": 0.9736,
+              "start": 100,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 30,
+              "id": "22262225",
+              "start": 22,
+              "username": "Demarit"
+            },
+            {
+              "end": 148,
+              "id": "236378573",
+              "start": 134,
+              "username": "AnttiLindtman"
+            },
+            {
+              "end": 249,
+              "id": "555126030",
+              "start": 235,
+              "username": "NasimaRazmyar"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBTLQTUHfo",
+              "end": 273,
+              "expanded_url": "https://x.com/PES_PSE/status/1911707565580222745/photo/1",
+              "media_key": "3_1911707086368456704",
+              "start": 250,
+              "url": "https://t.co/yBTLQTUHfo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911707565580222745",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1941,
+          "like_count": 50,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇮🗳️ Congratulations, @Demarit!\nSDP took a sweeping victory in this Sunday's municipal elections in Finland. Our sister party, led by @AnttiLindtman received nearly a quarter of the vote, making them the most popular party nationwide.\n@NasimaRazmyar https://t.co/yBTLQTUHfo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 1728,
+          "like_count": 25342,
+          "listed_count": 10,
+          "media_count": 864,
+          "tweet_count": 13329
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg254vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg254vV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7kqHo"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80061,
+          "following_count": 5293,
+          "like_count": 8779,
+          "listed_count": 1045,
+          "media_count": 8170,
+          "tweet_count": 51019
+        },
+        "url": "https://t.co/W9LaJ7kqHo",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-28T15:02:45.000Z",
+        "description": "Sinun puolellasi 🌹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sdp.fi",
+                "end": 23,
+                "expanded_url": "http://www.sdp.fi",
+                "start": 0,
+                "url": "https://t.co/ynoR6EFpUo"
+              }
+            ]
+          }
+        },
+        "id": "22262225",
+        "location": "Finland",
+        "name": "Sosialidemokraatit",
+        "pinned_tweet_id": "849279165283131392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808038551604400129/MLx7aCq1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34867,
+          "following_count": 768,
+          "like_count": 6269,
+          "listed_count": 245,
+          "media_count": 1858,
+          "tweet_count": 21629
+        },
+        "url": "https://t.co/ynoR6EFpUo",
+        "username": "Demarit",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2029532668665455026",
+    "created_at": "2026-03-05T12:21:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T13:21:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029532668665455026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1968187553695272960",
+          "start": 3,
+          "username": "EzraRan_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029532668665455026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029529346407620661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EzraRan_: “工人民主”😆\n是杀人还是政变？出尔反尔还是言而无信？列宁工人民主了吗？斯大林工人民主了吗？你指的民主是终身制干到死还是肃清反对派？还是杀死工农碾死学生？又或是选举失败暴力夺权？\n自己肃清反对派就肃清，非得带个民主皮，杀反对派叫民主？捂嘴叫民主？\n共…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2029532668665455026].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2029532668665455026",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2029532668665455026"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 399,
+        "media_key": "3_2029529344243331072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpWL4ja8AA3fWp.jpg",
+        "width": 500
+      },
+      {
+        "height": 298,
+        "media_key": "3_2029529344130105344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCpWL4IbQAAnqMT.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029529344243331072",
+            "3_2029529344130105344"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2029529346407620661",
+        "created_at": "2026-03-05T12:07:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:07:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029529346407620661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zEgA78g5yN",
+              "end": 166,
+              "expanded_url": "https://x.com/EzraRan_/status/2029529346407620661/photo/1",
+              "media_key": "3_2029529344243331072",
+              "start": 143,
+              "url": "https://t.co/zEgA78g5yN"
+            },
+            {
+              "display_url": "pic.x.com/zEgA78g5yN",
+              "end": 166,
+              "expanded_url": "https://x.com/EzraRan_/status/2029529346407620661/photo/1",
+              "media_key": "3_2029529344130105344",
+              "start": 143,
+              "url": "https://t.co/zEgA78g5yN"
+            },
+            {
+              "display_url": "x.com/Line_XII/statu…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/Line_XII/status/2029512867238834602",
+              "start": 167,
+              "url": "https://t.co/tJPWmZzAj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029529346407620661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029512867238834602",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“工人民主”😆\n是杀人还是政变？出尔反尔还是言而无信？列宁工人民主了吗？斯大林工人民主了吗？你指的民主是终身制干到死还是肃清反对派？还是杀死工农碾死学生？又或是选举失败暴力夺权？\n自己肃清反对派就肃清，非得带个民主皮，杀反对派叫民主？捂嘴叫民主？\n共匪谈民主好似太监谈生育，装模作样🤣 https://t.co/zEgA78g5yN https://t.co/tJPWmZzAj9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 1983,
+          "like_count": 39120,
+          "listed_count": 16,
+          "media_count": 1365,
+          "tweet_count": 19826
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "EzraRanレン エジュラです丨\nSocial Liberalism,Multiculturalism,LIBERALISM丨Liberté Égalité Fraternité🇫🇷丨Egalitarianism&EQUAL opportunity丨\n🇯🇵 #国民民主党 🇹🇼 #民衆党 支持丨ガンディ推",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 136,
+                "start": 130,
+                "tag": "国民民主党"
+              },
+              {
+                "end": 144,
+                "start": 140,
+                "tag": "民衆党"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 2174,
+          "like_count": 29107,
+          "listed_count": 9,
+          "media_count": 1246,
+          "tweet_count": 9166
+        },
+        "username": "EzraRan_",
+        "verified": false
+      }
+    ]
+  }
+}

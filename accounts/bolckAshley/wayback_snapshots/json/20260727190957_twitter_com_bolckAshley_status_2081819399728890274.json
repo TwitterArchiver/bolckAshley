@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081808993983381505",
+        "3_2081808993979150336"
+      ],
+      "media_source_tweet_id": [
+        "2081808997003284921",
+        "2081808997003284921"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2081819399728890274",
+    "created_at": "2026-07-27T19:09:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:09:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081819399728890274"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2035882965671215104",
+          "start": 3,
+          "username": "amber_medusozoa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4zPXfyzlqQ",
+          "end": 62,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2081808997003284921/photo/1",
+          "media_key": "3_2081808993983381505",
+          "start": 39,
+          "url": "https://t.co/4zPXfyzlqQ"
+        },
+        {
+          "display_url": "pic.x.com/4zPXfyzlqQ",
+          "end": 62,
+          "expanded_url": "https://x.com/amber_medusozoa/status/2081808997003284921/photo/1",
+          "media_key": "3_2081808993979150336",
+          "start": 39,
+          "url": "https://t.co/4zPXfyzlqQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081819399728890274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081808997003284921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_medusozoa: 感觉我给人口的时候是我最漂亮的时候 https://t.co/4zPXfyzlqQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2081808993983381505",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQSQAiXwAE43sd.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2081808993979150336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOQSQAhXMAAohK0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081808993983381505",
+            "3_2081808993979150336"
+          ]
+        },
+        "author_id": "2035882965671215104",
+        "conversation_id": "2081808997003284921",
+        "created_at": "2026-07-27T18:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T19:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081808997003284921"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zPXfyzlqQ",
+              "end": 41,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2081808997003284921/photo/1",
+              "media_key": "3_2081808993983381505",
+              "start": 18,
+              "url": "https://t.co/4zPXfyzlqQ"
+            },
+            {
+              "display_url": "pic.x.com/4zPXfyzlqQ",
+              "end": 41,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2081808997003284921/photo/1",
+              "media_key": "3_2081808993979150336",
+              "start": 18,
+              "url": "https://t.co/4zPXfyzlqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081808997003284921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 553,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "感觉我给人口的时候是我最漂亮的时候 https://t.co/4zPXfyzlqQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081808993983381505",
+            "3_2081808993979150336"
+          ],
+          "media_source_tweet_id": [
+            "2081808997003284921",
+            "2081808997003284921"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2081819399728890274",
+        "created_at": "2026-07-27T19:09:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:09:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081819399728890274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2035882965671215104",
+              "start": 3,
+              "username": "amber_medusozoa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4zPXfyzlqQ",
+              "end": 62,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2081808997003284921/photo/1",
+              "media_key": "3_2081808993983381505",
+              "start": 39,
+              "url": "https://t.co/4zPXfyzlqQ"
+            },
+            {
+              "display_url": "pic.x.com/4zPXfyzlqQ",
+              "end": 62,
+              "expanded_url": "https://x.com/amber_medusozoa/status/2081808997003284921/photo/1",
+              "media_key": "3_2081808993979150336",
+              "start": 39,
+              "url": "https://t.co/4zPXfyzlqQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081819399728890274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081808997003284921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_medusozoa: 感觉我给人口的时候是我最漂亮的时候 https://t.co/4zPXfyzlqQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081793403722010624/If4_MAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4248,
+          "following_count": 2260,
+          "like_count": 43421,
+          "listed_count": 29,
+          "media_count": 1907,
+          "tweet_count": 23805
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❤️@noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "https://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/ToeUnTxAbV"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "location": "🇨🇦 Toronto・🚪¥150/240",
+        "name": "amber🪼",
+        "pinned_tweet_id": "2080801154435326152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080483846097629184/ano5UN60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7430,
+          "following_count": 1197,
+          "like_count": 7250,
+          "listed_count": 12,
+          "media_count": 359,
+          "tweet_count": 4120
+        },
+        "url": "https://t.co/ToeUnTxAbV",
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

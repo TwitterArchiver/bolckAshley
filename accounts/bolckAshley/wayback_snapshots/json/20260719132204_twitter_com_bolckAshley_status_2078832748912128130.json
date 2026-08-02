@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2078817744993284530",
+    "created_at": "2026-07-19T13:22:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T14:22:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078832748912128130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1644328501980561409",
+          "start": 0,
+          "username": "LitangHospital2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078832748912128130",
+    "in_reply_to_user_id": "1644328501980561409",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078817744993284530",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LitangHospital2 慘（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078817744993284530].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078817744993284530",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078817744993284530"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2078817744993284530",
+        "created_at": "2026-07-19T13:22:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T14:22:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078832748912128130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1644328501980561409",
+              "start": 0,
+              "username": "LitangHospital2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078832748912128130",
+        "in_reply_to_user_id": "1644328501980561409",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078817744993284530",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LitangHospital2 慘（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078106969454612480/qOWkFSoA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4181,
+          "following_count": 2258,
+          "like_count": 43116,
+          "listed_count": 29,
+          "media_count": 1869,
+          "tweet_count": 23563
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-07T13:17:27.000Z",
+        "description": "因为我们都还肺痒痒，不知烟高雾厚",
+        "id": "1644328501980561409",
+        "location": "理塘",
+        "name": "缅北老丁",
+        "pinned_tweet_id": "2070145424841965673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068155672940929024/AFlQLk7S_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9785,
+          "following_count": 3305,
+          "like_count": 49985,
+          "listed_count": 34,
+          "media_count": 1562,
+          "tweet_count": 13211
+        },
+        "url": "",
+        "username": "LitangHospital2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,699 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1368938385650319360",
+          "name": "Istanbul"
+        }
+      }
+    ],
+    "conversation_id": "1906711634560811411",
+    "created_at": "2025-03-31T14:14:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T15:14:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906711634560811411"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Istanbul",
+          "probability": 0.9838,
+          "start": 28,
+          "type": "Place"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 27,
+          "tag": "Istanbul"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 62,
+          "id": "255515879",
+          "start": 48,
+          "username": "herkesicinCHP"
+        },
+        {
+          "end": 111,
+          "id": "422861505",
+          "start": 96,
+          "username": "ekrem_imamoglu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906711634560811411",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906709008280379865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🇹🇷 We were in #Istanbul to support @herkesicinCHP, the unlawfully imprisoned mayor @ekrem_imamoglu and the hundreds of thousan…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 52133,
+        "height": 1080,
+        "media_key": "7_1906708707494215680",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1906708707494215680/pu/img/vw9xuiTpfklIoWIg.jpg",
+        "public_metrics": {
+          "view_count": 178
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906708707494215680/pu/vid/avc1/320x320/mZ3ERfHHyzC6-R6l.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906708707494215680/pu/vid/avc1/540x540/yuYQYQOKgOJjidTq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1906708707494215680/pu/vid/avc1/720x720/O8LGVGq7maFqHz0O.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1906708707494215680/pu/pl/XY_dZWZnf4axHMbm.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1368938385650319360",
+              "name": "Istanbul"
+            }
+          }
+        ],
+        "conversation_id": "1906711634560811411",
+        "created_at": "2025-03-31T14:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906711634560811411"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Istanbul",
+              "probability": 0.9838,
+              "start": 28,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 27,
+              "tag": "Istanbul"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 62,
+              "id": "255515879",
+              "start": 48,
+              "username": "herkesicinCHP"
+            },
+            {
+              "end": 111,
+              "id": "422861505",
+              "start": 96,
+              "username": "ekrem_imamoglu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906711634560811411",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906709008280379865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🇹🇷 We were in #Istanbul to support @herkesicinCHP, the unlawfully imprisoned mayor @ekrem_imamoglu and the hundreds of thousan…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1906708707494215680"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1368938385650319360",
+              "name": "Istanbul"
+            }
+          }
+        ],
+        "conversation_id": "1906709008280379865",
+        "created_at": "2025-03-31T14:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T15:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906709008280379865"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Istanbul",
+              "probability": 0.9873,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Turkey",
+              "probability": 0.9624,
+              "start": 147,
+              "type": "Place"
+            },
+            {
+              "end": 228,
+              "normalized_text": "Europe",
+              "probability": 0.9525,
+              "start": 223,
+              "type": "Place"
+            },
+            {
+              "end": 243,
+              "normalized_text": "Turkey",
+              "probability": 0.9469,
+              "start": 238,
+              "type": "Place"
+            },
+            {
+              "end": 253,
+              "normalized_text": "Europe",
+              "probability": 0.9497,
+              "start": 248,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 14,
+              "tag": "Istanbul"
+            },
+            {
+              "end": 153,
+              "start": 146,
+              "tag": "Turkey"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 49,
+              "id": "255515879",
+              "start": 35,
+              "username": "herkesicinCHP"
+            },
+            {
+              "end": 98,
+              "id": "422861505",
+              "start": 83,
+              "username": "ekrem_imamoglu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8iR8JyrIW5",
+              "end": 298,
+              "expanded_url": "https://x.com/PES_PSE/status/1906709008280379865/video/1",
+              "media_key": "7_1906708707494215680",
+              "start": 275,
+              "url": "https://t.co/8iR8JyrIW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906709008280379865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 14,
+                "tag": "Istanbul"
+              },
+              {
+                "end": 153,
+                "start": 146,
+                "tag": "Turkey"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 49,
+                "id": "255515879",
+                "start": 35,
+                "username": "herkesicinCHP"
+              },
+              {
+                "end": 98,
+                "id": "422861505",
+                "start": 83,
+                "username": "ekrem_imamoglu"
+              },
+              {
+                "end": 323,
+                "id": "229515050",
+                "start": 310,
+                "username": "eczozgurozel"
+              },
+              {
+                "end": 340,
+                "id": "463039236",
+                "start": 324,
+                "username": "giacomofilibeck"
+              },
+              {
+                "end": 355,
+                "id": "434505068",
+                "start": 341,
+                "username": "DarioNardella"
+              }
+            ]
+          },
+          "text": "🇹🇷 We were in #Istanbul to support @herkesicinCHP, the unlawfully imprisoned mayor @ekrem_imamoglu and the hundreds of thousands of protestors in #Turkey who are marching in defence of democracy. \nAutocracy has no place in Europe. For us Turkey is Europe. \nWe stand with the Turkish people and the opposition.\n@eczozgurozel @giacomofilibeck @DarioNardella"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 763,
+          "like_count": 46,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "🇹🇷 We were in #Istanbul to support @herkesicinCHP, the unlawfully imprisoned mayor @ekrem_imamoglu and the hundreds of thousands of protestors in #Turkey who are marching in defence of democracy. \nAutocracy has no place in Europe. For us Turkey is Europe. \nWe stand with the https://t.co/8iR8JyrIW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 1687,
+          "like_count": 24789,
+          "listed_count": 10,
+          "media_count": 829,
+          "tweet_count": 13045
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg254vV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg254vV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7kqHo"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79743,
+          "following_count": 5297,
+          "like_count": 8727,
+          "listed_count": 1047,
+          "media_count": 8149,
+          "tweet_count": 50961
+        },
+        "url": "https://t.co/W9LaJ7kqHo",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-21T14:41:14.000Z",
+        "description": "Cumhuriyet Halk Partisi Resmi Twitter Hesabı",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chp.org.tr",
+                "end": 23,
+                "expanded_url": "http://www.chp.org.tr",
+                "start": 0,
+                "url": "https://t.co/0zhl0JDH2l"
+              }
+            ]
+          }
+        },
+        "id": "255515879",
+        "name": "CHP 🇹🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693938065406881792/G8xHyH04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2823256,
+          "following_count": 5,
+          "like_count": 2196,
+          "listed_count": 1956,
+          "media_count": 19903,
+          "tweet_count": 49977
+        },
+        "url": "https://t.co/0zhl0JDH2l",
+        "username": "herkesicinCHP",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-27T19:45:16.000Z",
+        "description": "İstanbul Büyükşehir Belediye Başkanı / Mayor of İstanbul | Türkiye Belediyeler Birliği Başkanı | For tweets in English, follow: @imamoglu_int",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "imamoglu_int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ekremimamoglu.com",
+                "end": 23,
+                "expanded_url": "https://www.ekremimamoglu.com",
+                "start": 0,
+                "url": "https://t.co/5oah01d2UP"
+              }
+            ]
+          }
+        },
+        "id": "422861505",
+        "location": "İstanbul Büyükşehir Belediyesi",
+        "name": "Ekrem İmamoğlu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558009149530800128/nIihF5ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9732714,
+          "following_count": 832,
+          "like_count": 10479,
+          "listed_count": 3436,
+          "media_count": 15439,
+          "tweet_count": 29736
+        },
+        "url": "https://t.co/5oah01d2UP",
+        "username": "ekrem_imamoglu",
+        "verified": true
+      }
+    ]
+  }
+}

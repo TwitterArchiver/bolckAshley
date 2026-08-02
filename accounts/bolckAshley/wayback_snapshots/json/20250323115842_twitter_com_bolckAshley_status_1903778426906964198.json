@@ -1,0 +1,805 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1903778426906964198",
+    "created_at": "2025-03-23T11:58:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T12:58:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903778426906964198"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 72,
+          "normalized_text": "Denver",
+          "probability": 0.9899,
+          "start": 67,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "216776631",
+          "start": 3,
+          "username": "BernieSanders"
+        },
+        {
+          "end": 30,
+          "id": "138203134",
+          "start": 26,
+          "username": "AOC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903778426906964198",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13709
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903253568502534344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BernieSanders: Today, @AOC and I had 34,000 people come out in Denver. \n\nIt is the largest rally that I have ever had. \n\nAnd it tells m…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1366,
+        "media_key": "3_1903253561942691844",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmm3B90XUAQq302.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_1903253561938415616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gmm3B9zWEAAWgT2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1903778426906964198",
+        "created_at": "2025-03-23T11:58:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T12:58:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903778426906964198"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "Denver",
+              "probability": 0.9899,
+              "start": 67,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "216776631",
+              "start": 3,
+              "username": "BernieSanders"
+            },
+            {
+              "end": 30,
+              "id": "138203134",
+              "start": 26,
+              "username": "AOC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903778426906964198",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13709
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903253568502534344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BernieSanders: Today, @AOC and I had 34,000 people come out in Denver. \n\nIt is the largest rally that I have ever had. \n\nAnd it tells m…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1903253561942691844",
+            "3_1903253561938415616"
+          ]
+        },
+        "author_id": "216776631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The 2025 presidential inauguration has concluded, marking the transition to the 47th administration. The president and vice president were sworn in and participated in official ceremonies.\n",
+              "id": "1881365603878871040",
+              "name": "Inauguration Day: Donald Trump Takes Office as 47th US President"
+            }
+          }
+        ],
+        "conversation_id": "1903253568502534344",
+        "created_at": "2025-03-22T01:13:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T02:13:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903253568502534344"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 53,
+              "normalized_text": "Denver",
+              "probability": 0.9898,
+              "start": 48,
+              "type": "Place"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Trump",
+              "probability": 0.9675,
+              "start": 162,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "138203134",
+              "start": 7,
+              "username": "AOC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g8ThlYwmlY",
+              "end": 274,
+              "expanded_url": "https://x.com/BernieSanders/status/1903253568502534344/photo/1",
+              "media_key": "3_1903253561942691844",
+              "start": 251,
+              "url": "https://t.co/g8ThlYwmlY"
+            },
+            {
+              "display_url": "pic.x.com/g8ThlYwmlY",
+              "end": 274,
+              "expanded_url": "https://x.com/BernieSanders/status/1903253568502534344/photo/1",
+              "media_key": "3_1903253561938415616",
+              "start": 251,
+              "url": "https://t.co/g8ThlYwmlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903253568502534344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1818,
+          "impression_count": 3167580,
+          "like_count": 105926,
+          "quote_count": 1168,
+          "reply_count": 8432,
+          "retweet_count": 13709
+        },
+        "reply_settings": "everyone",
+        "text": "Today, @AOC and I had 34,000 people come out in Denver. \n\nIt is the largest rally that I have ever had. \n\nAnd it tells me that the American people will not allow Trump to move us into oligarchy and authoritarianism. \n\nWe will fight back. We will win. https://t.co/g8ThlYwmlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🕊️🇺🇦🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900058479953637376/51DqQqCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2259,
+          "following_count": 1670,
+          "like_count": 24584,
+          "listed_count": 9,
+          "media_count": 815,
+          "tweet_count": 12933
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-17T17:53:52.000Z",
+        "description": "U.S. Senator for Vermont. Not me, us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BernieSanders.com",
+                "end": 23,
+                "expanded_url": "https://BernieSanders.com",
+                "start": 0,
+                "url": "https://t.co/jpg8Sp1GhR"
+              }
+            ]
+          }
+        },
+        "id": "216776631",
+        "location": "Vermont",
+        "name": "Bernie Sanders",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14926801,
+          "following_count": 1388,
+          "like_count": 904,
+          "listed_count": 22779,
+          "media_count": 4354,
+          "tweet_count": 21916
+        },
+        "url": "https://t.co/jpg8Sp1GhR",
+        "username": "BernieSanders",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-28T22:38:40.000Z",
+        "description": "US Congresswoman, NY-14. In a modern, moral, and wealthy society, no American should be too poor to live. People-Funded, takes no lobbyist💰. Personal account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ocasiocortez.com",
+                "end": 23,
+                "expanded_url": "http://www.ocasiocortez.com",
+                "start": 0,
+                "url": "https://t.co/2v0ZEutGyq"
+              }
+            ]
+          }
+        },
+        "id": "138203134",
+        "location": "Bronx + Queens, NYC",
+        "name": "Alexandria Ocasio-Cortez",
+        "pinned_tweet_id": "1799095276382085488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12789756,
+          "following_count": 4342,
+          "like_count": 40733,
+          "listed_count": 26144,
+          "media_count": 1012,
+          "tweet_count": 15805
+        },
+        "url": "https://t.co/2v0ZEutGyq",
+        "username": "AOC",
+        "verified": true
+      }
+    ]
+  }
+}

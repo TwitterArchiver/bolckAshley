@@ -1,0 +1,571 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735188836081664",
+          "name": "Andy Burnham"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735188836081664",
+          "name": "Andy Burnham"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735188836081664",
+          "name": "Andy Burnham"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2015497529786503611",
+    "created_at": "2026-01-25T18:50:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T19:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015497529786503611"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 50,
+          "normalized_text": "NEC",
+          "probability": 0.5806,
+          "start": 48,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "143779403",
+          "start": 3,
+          "username": "AndyBurnhamGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015497529786503611",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015480192093831340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AndyBurnhamGM: I am disappointed by today’s NEC decision and concerned about its potential impact on the important elections ahead of u…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2015497529786503611",
+        "created_at": "2026-01-25T18:50:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T19:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015497529786503611"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 50,
+              "normalized_text": "NEC",
+              "probability": 0.5806,
+              "start": 48,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "143779403",
+              "start": 3,
+              "username": "AndyBurnhamGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015497529786503611",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015480192093831340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AndyBurnhamGM: I am disappointed by today’s NEC decision and concerned about its potential impact on the important elections ahead of u…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "143779403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Manchester",
+              "id": "864489046776492033",
+              "name": "Manchester"
+            }
+          }
+        ],
+        "conversation_id": "2015480192093831340",
+        "created_at": "2026-01-25T17:41:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015480192093831340"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "NEC",
+              "probability": 0.6181,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 143,
+              "normalized_text": "Labour",
+              "probability": 0.5717,
+              "start": 138,
+              "type": "Organization"
+            },
+            {
+              "end": 188,
+              "normalized_text": "Manchester",
+              "probability": 0.8794,
+              "start": 179,
+              "type": "Place"
+            },
+            {
+              "end": 201,
+              "normalized_text": "Tameside",
+              "probability": 0.3988,
+              "start": 194,
+              "type": "Person"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015480192093831340",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 416650,
+          "like_count": 3440,
+          "quote_count": 91,
+          "reply_count": 538,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "I am disappointed by today’s NEC decision and concerned about its potential impact on the important elections ahead of us.\n\nTo whoever is Labour’s candidate and to our members in Manchester and Tameside: you will have my full support and I will be there whenever you need me.\n\n1/2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1967,
+          "like_count": 37782,
+          "listed_count": 14,
+          "media_count": 1307,
+          "tweet_count": 18842
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-14T11:06:05.000Z",
+        "description": "Mayor of Greater Manchester (Labour & Co-operative)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "greatermanchester-ca.gov.uk/the-mayor",
+                "end": 23,
+                "expanded_url": "http://www.greatermanchester-ca.gov.uk/the-mayor",
+                "start": 0,
+                "url": "https://t.co/5e8IcsTA8E"
+              }
+            ]
+          }
+        },
+        "id": "143779403",
+        "location": "Leigh, Greater Manchester",
+        "name": "Andy Burnham",
+        "pinned_tweet_id": "1785552270752362831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1779172902488731648/CYBehdgc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582578,
+          "following_count": 3386,
+          "like_count": 19919,
+          "listed_count": 2182,
+          "media_count": 1408,
+          "tweet_count": 29560
+        },
+        "url": "https://t.co/5e8IcsTA8E",
+        "username": "AndyBurnhamGM",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Giorgia Meloni",
+          "id": "827124208727502849",
+          "name": "Giorgia Meloni"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Frauke Petry",
+          "id": "1570405947628957696",
+          "name": "Tino Chrupalla"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Giorgia Meloni",
+          "id": "827124208727502849",
+          "name": "Giorgia Meloni"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Frauke Petry",
+          "id": "1570405947628957696",
+          "name": "Tino Chrupalla"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Giorgia Meloni",
+          "id": "827124208727502849",
+          "name": "Giorgia Meloni"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534488199598182400",
+          "name": "Germany politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Frauke Petry",
+          "id": "1570405947628957696",
+          "name": "Tino Chrupalla"
+        }
+      }
+    ],
+    "conversation_id": "1794944800032207304",
+    "created_at": "2024-05-27T04:12:43.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-27T05:12:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794944800032207304"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "AfD",
+          "probability": 0.7507,
+          "start": 18,
+          "type": "Organization"
+        },
+        {
+          "end": 42,
+          "normalized_text": "Tino Chrupalla",
+          "probability": 0.8944,
+          "start": 29,
+          "type": "Person"
+        },
+        {
+          "end": 99,
+          "normalized_text": "Giorgia Meloni",
+          "probability": 0.9762,
+          "start": 86,
+          "type": "Person"
+        },
+        {
+          "end": 111,
+          "normalized_text": "AfD",
+          "probability": 0.6554,
+          "start": 109,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "294004971",
+          "start": 3,
+          "username": "BorealBaron"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794944800032207304",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794875935264735667",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BorealBaron: “AfD leader Tino Chrupalla sharply criticized Italian Prime Minister Giorgia Meloni.\n\n“‘The AfD will not bend itself to be…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Frauke Petry",
+              "id": "1570405947628957696",
+              "name": "Tino Chrupalla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Frauke Petry",
+              "id": "1570405947628957696",
+              "name": "Tino Chrupalla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Frauke Petry",
+              "id": "1570405947628957696",
+              "name": "Tino Chrupalla"
+            }
+          }
+        ],
+        "conversation_id": "1794944800032207304",
+        "created_at": "2024-05-27T04:12:43.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T05:12:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794944800032207304"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "AfD",
+              "probability": 0.7507,
+              "start": 18,
+              "type": "Organization"
+            },
+            {
+              "end": 42,
+              "normalized_text": "Tino Chrupalla",
+              "probability": 0.8944,
+              "start": 29,
+              "type": "Person"
+            },
+            {
+              "end": 99,
+              "normalized_text": "Giorgia Meloni",
+              "probability": 0.9762,
+              "start": 86,
+              "type": "Person"
+            },
+            {
+              "end": 111,
+              "normalized_text": "AfD",
+              "probability": 0.6554,
+              "start": 109,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "294004971",
+              "start": 3,
+              "username": "BorealBaron"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794944800032207304",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794875935264735667",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BorealBaron: “AfD leader Tino Chrupalla sharply criticized Italian Prime Minister Giorgia Meloni.\n\n“‘The AfD will not bend itself to be…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794875929157640192"
+          ]
+        },
+        "author_id": "294004971",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Frauke Petry",
+              "id": "1570405947628957696",
+              "name": "Tino Chrupalla"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Frauke Petry",
+              "id": "1570405947628957696",
+              "name": "Tino Chrupalla"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Frauke Petry",
+              "id": "1570405947628957696",
+              "name": "Tino Chrupalla"
+            }
+          }
+        ],
+        "conversation_id": "1794875935264735667",
+        "created_at": "2024-05-26T23:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-27T00:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794875935264735667"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "AfD",
+              "probability": 0.6504,
+              "start": 1,
+              "type": "Organization"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Tino Chrupalla",
+              "probability": 0.8607,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Giorgia Meloni",
+              "probability": 0.9693,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "AfD",
+              "probability": 0.6616,
+              "start": 92,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 267,
+              "start": 253,
+              "tag": "AusländerRaus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/7jUZqSKV4p",
+              "end": 291,
+              "expanded_url": "https://twitter.com/BorealBaron/status/1794875935264735667/photo/1",
+              "media_key": "3_1794875929157640192",
+              "start": 268,
+              "url": "https://t.co/7jUZqSKV4p"
+            },
+            {
+              "display_url": "x.com/ahuxley1963/st…",
+              "end": 315,
+              "expanded_url": "https://twitter.com/ahuxley1963/status/1794821084300329248",
+              "start": 292,
+              "url": "https://t.co/Ppi5p26pSk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794875935264735667",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 5466,
+          "like_count": 278,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794821084300329248",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“AfD leader Tino Chrupalla sharply criticized Italian Prime Minister Giorgia Meloni.\n\n“‘The AfD will not bend itself to become more attractive to others – for us, German interests always come first.’\n\n“‘This melonization (…) will not happen with us.’”\n\n#AusländerRaus https://t.co/7jUZqSKV4p https://t.co/Ppi5p26pSk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767220712543236096/w31UL6H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 909,
+          "like_count": 11361,
+          "listed_count": 6,
+          "tweet_count": 7515
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-06T11:04:11.000Z",
+        "description": "Humanism is cope. Richard Wagner and José Mourinho fan.",
+        "id": "294004971",
+        "location": "Picos de Europa",
+        "name": "βόρειος βαρύς",
+        "pinned_tweet_id": "1753963377561399419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593751330224488449/r3SiAd08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10325,
+          "following_count": 3548,
+          "like_count": 457284,
+          "listed_count": 40,
+          "tweet_count": 32716
+        },
+        "username": "BorealBaron",
+        "verified": true
+      }
+    ]
+  }
+}

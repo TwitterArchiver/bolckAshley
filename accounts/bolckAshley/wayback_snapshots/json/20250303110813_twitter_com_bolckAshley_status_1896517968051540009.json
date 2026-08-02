@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1896508391536923117",
+    "created_at": "2025-03-03T11:08:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-03T12:08:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1896517968051540009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554692587151593472",
+          "start": 0,
+          "username": "zuifeiwu"
+        },
+        {
+          "end": 18,
+          "id": "1834541005577572352",
+          "start": 10,
+          "username": "losb555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1896517968051540009",
+    "in_reply_to_user_id": "1554692587151593472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1896511552418959674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zuifeiwu @losb555 為什麼會形容的這麼澀情這麼可愛😰🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1896511552418959674].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1896511552418959674",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1896511552418959674"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1896508391536923117",
+        "created_at": "2025-03-03T11:08:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-03T12:08:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1896517968051540009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554692587151593472",
+              "start": 0,
+              "username": "zuifeiwu"
+            },
+            {
+              "end": 18,
+              "id": "1834541005577572352",
+              "start": 10,
+              "username": "losb555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1896517968051540009",
+        "in_reply_to_user_id": "1554692587151593472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1896511552418959674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zuifeiwu @losb555 為什麼會形容的這麼澀情這麼可愛😰🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2191,
+          "following_count": 1600,
+          "like_count": 23022,
+          "listed_count": 9,
+          "media_count": 777,
+          "tweet_count": 12492
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-03T04:56:22.000Z",
+        "description": "坚定的六花主义者    坂下六花思想是不落的太阳",
+        "id": "1554692587151593472",
+        "location": "京都 北宇治",
+        "name": "坂下りっか🍬",
+        "pinned_tweet_id": "1895694448933409172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755984772776755200/PpEKO3Iv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1286,
+          "like_count": 52535,
+          "listed_count": 12,
+          "media_count": 455,
+          "tweet_count": 16096
+        },
+        "username": "zuifeiwu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-13T10:34:31.000Z",
+        "description": "三千世界の鸦を杀し  ，主と朝寝がしてみたい。九尺二间に过ぎたるものは ，红の付いたる火吹竹                                  \n画窝头像的大爹@data_syuxchu\n可爱宝宝@inoueerii 老公@squid4046",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 88,
+                "username": "data_syuxchu"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "username": "inoueerii"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "squid4046"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/anblk984",
+                "end": 23,
+                "expanded_url": "https://ngl.link/anblk984",
+                "start": 0,
+                "url": "https://t.co/SPZsmJUVMP"
+              }
+            ]
+          }
+        },
+        "id": "1834541005577572352",
+        "location": "黑石山　      下面是匿名提问箱",
+        "name": "八咫鏡天",
+        "pinned_tweet_id": "1876135513369018449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1887705977505591296/aNUJrl3K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 558,
+          "like_count": 8591,
+          "listed_count": 6,
+          "media_count": 79,
+          "tweet_count": 1601
+        },
+        "url": "https://t.co/SPZsmJUVMP",
+        "username": "losb555",
+        "verified": false
+      }
+    ]
+  }
+}

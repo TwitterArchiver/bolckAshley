@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1897282090913415666",
+    "created_at": "2025-03-05T13:44:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-05T14:44:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897282090913415666"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "CDU",
+          "probability": 0.9247,
+          "start": 66,
+          "type": "Organization"
+        },
+        {
+          "end": 72,
+          "normalized_text": "CSU",
+          "probability": 0.7365,
+          "start": 70,
+          "type": "Organization"
+        },
+        {
+          "end": 80,
+          "normalized_text": "SPD",
+          "probability": 0.8797,
+          "start": 78,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728357835669426176",
+          "start": 3,
+          "username": "socdemAdam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897282090913415666",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897002971667571144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @socdemAdam: Great news from the preliminary talks between the CDU/CSU and SPD:\n\n-&gt; Reform of the debt brake\n-&gt; €500 billion for infrast…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_1897002969708544000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlOCJnNWwAAy4rF.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1897282090913415666",
+        "created_at": "2025-03-05T13:44:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T14:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897282090913415666"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "CDU",
+              "probability": 0.9247,
+              "start": 66,
+              "type": "Organization"
+            },
+            {
+              "end": 72,
+              "normalized_text": "CSU",
+              "probability": 0.7365,
+              "start": 70,
+              "type": "Organization"
+            },
+            {
+              "end": 80,
+              "normalized_text": "SPD",
+              "probability": 0.8797,
+              "start": 78,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728357835669426176",
+              "start": 3,
+              "username": "socdemAdam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897282090913415666",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897002971667571144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @socdemAdam: Great news from the preliminary talks between the CDU/CSU and SPD:\n\n-&gt; Reform of the debt brake\n-&gt; €500 billion for infrast…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1897002969708544000"
+          ]
+        },
+        "author_id": "1728357835669426176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1486451280109182976",
+              "name": "GDP - Gross Domestic Product"
+            }
+          }
+        ],
+        "conversation_id": "1897002971667571144",
+        "created_at": "2025-03-04T19:15:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-04T20:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897002971667571144"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "CDU",
+              "probability": 0.942,
+              "start": 50,
+              "type": "Organization"
+            },
+            {
+              "end": 56,
+              "normalized_text": "CSU",
+              "probability": 0.7897,
+              "start": 54,
+              "type": "Organization"
+            },
+            {
+              "end": 64,
+              "normalized_text": "SPD",
+              "probability": 0.9247,
+              "start": 62,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dEWPuxFOWI",
+              "end": 280,
+              "expanded_url": "https://x.com/socdemAdam/status/1897002971667571144/photo/1",
+              "media_key": "3_1897002969708544000",
+              "start": 257,
+              "url": "https://t.co/dEWPuxFOWI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897002971667571144",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 13554,
+          "like_count": 280,
+          "quote_count": 8,
+          "reply_count": 12,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "Great news from the preliminary talks between the CDU/CSU and SPD:\n\n-&gt; Reform of the debt brake\n-&gt; €500 billion for infrastructure and military (for 10 years)\n-&gt; All defense spending above 1% of GDP would be exempt from the debt brake restrictions https://t.co/dEWPuxFOWI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2189,
+          "following_count": 1608,
+          "like_count": 23182,
+          "listed_count": 9,
+          "media_count": 779,
+          "tweet_count": 12522
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:20:20.000Z",
+        "description": "Law ⚖️ | @spdde",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "spdde"
+              }
+            ]
+          }
+        },
+        "id": "1728357835669426176",
+        "location": "Germany",
+        "name": "Adam 📯",
+        "pinned_tweet_id": "1893753988559855910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842654008004968448/HSSUd0Vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 4342,
+          "like_count": 9637,
+          "listed_count": 13,
+          "media_count": 1694,
+          "tweet_count": 6371
+        },
+        "username": "socdemAdam",
+        "verified": false
+      }
+    ]
+  }
+}

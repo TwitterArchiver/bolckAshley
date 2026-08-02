@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "The New Yorker",
+          "id": "940668978246041600",
+          "name": "The New Yorker"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The New Yorker",
+          "id": "940668978246041600",
+          "name": "The New Yorker"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "london",
+          "id": "855412191050121217",
+          "name": "London"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Hamburg",
+          "id": "864478087580270592",
+          "name": "Hamburg"
+        }
+      }
+    ],
+    "conversation_id": "1918500011182309770",
+    "created_at": "2025-05-03T02:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-03T03:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918500011182309770"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 69,
+          "normalized_text": "Gaza",
+          "probability": 0.9728,
+          "start": 66,
+          "type": "Place"
+        },
+        {
+          "end": 89,
+          "normalized_text": "London",
+          "probability": 0.9505,
+          "start": 84,
+          "type": "Place"
+        },
+        {
+          "end": 98,
+          "normalized_text": "Dresden",
+          "probability": 0.9828,
+          "start": 92,
+          "type": "Place"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Hamburg",
+          "probability": 0.9775,
+          "start": 105,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "14677919",
+          "start": 3,
+          "username": "NewYorker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918500011182309770",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918185374230208624",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NewYorker: Israeli forces have now dropped more explosives in Gaza than fell on London, Dresden, and Hamburg during the Second World Wa…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The New Yorker",
+              "id": "940668978246041600",
+              "name": "The New Yorker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The New Yorker",
+              "id": "940668978246041600",
+              "name": "The New Yorker"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Hamburg",
+              "id": "864478087580270592",
+              "name": "Hamburg"
+            }
+          }
+        ],
+        "conversation_id": "1918500011182309770",
+        "created_at": "2025-05-03T02:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-03T03:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918500011182309770"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 69,
+              "normalized_text": "Gaza",
+              "probability": 0.9728,
+              "start": 66,
+              "type": "Place"
+            },
+            {
+              "end": 89,
+              "normalized_text": "London",
+              "probability": 0.9505,
+              "start": 84,
+              "type": "Place"
+            },
+            {
+              "end": 98,
+              "normalized_text": "Dresden",
+              "probability": 0.9828,
+              "start": 92,
+              "type": "Place"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Hamburg",
+              "probability": 0.9775,
+              "start": 105,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "14677919",
+              "start": 3,
+              "username": "NewYorker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918500011182309770",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918185374230208624",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NewYorker: Israeli forces have now dropped more explosives in Gaza than fell on London, Dresden, and Hamburg during the Second World Wa…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14677919",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The New Yorker",
+              "id": "940668978246041600",
+              "name": "The New Yorker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The New Yorker",
+              "id": "940668978246041600",
+              "name": "The New Yorker"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "id": "1462809912740745216",
+              "name": "Magazines"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Hamburg",
+              "id": "864478087580270592",
+              "name": "Hamburg"
+            }
+          }
+        ],
+        "conversation_id": "1918185374230208624",
+        "created_at": "2025-05-02T06:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T07:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918185374230208624"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Gaza",
+              "probability": 0.9763,
+              "start": 51,
+              "type": "Place"
+            },
+            {
+              "end": 74,
+              "normalized_text": "London",
+              "probability": 0.9599,
+              "start": 69,
+              "type": "Place"
+            },
+            {
+              "end": 83,
+              "normalized_text": "Dresden",
+              "probability": 0.9837,
+              "start": 77,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Hamburg",
+              "probability": 0.9786,
+              "start": 90,
+              "type": "Place"
+            },
+            {
+              "end": 124,
+              "normalized_text": "Second World War",
+              "probability": 0.5116,
+              "start": 109,
+              "type": "Other"
+            },
+            {
+              "end": 216,
+              "normalized_text": "Clayton Dalton",
+              "probability": 0.9547,
+              "start": 203,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "description": "In the ruins of a health-care system, many medical facilities have become graveyards. Doctors continue to deliver lifesaving care—but they risk their own lives in the process.",
+              "display_url": "nyer.cm/ASc8Bhd",
+              "end": 271,
+              "expanded_url": "http://nyer.cm/ASc8Bhd",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1916813574741139456/rqCxGHJT?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1916813574741139456/rqCxGHJT?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 248,
+              "status": 200,
+              "title": "The Last Hospitals in Gaza",
+              "unwound_url": "https://www.newyorker.com/magazine/2025/04/28/hospitals-in-ruins?mbid=social_twitter&utm_medium=social&utm_brand=tny&utm_social-type=owned&utm_source=twitter",
+              "url": "https://t.co/heNoHaltOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918185374230208624",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 30008,
+          "like_count": 106,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "Israeli forces have now dropped more explosives in Gaza than fell on London, Dresden, and Hamburg during the Second World War. The region’s hospitals have not been spared; most are no longer functional. Clayton Dalton writes about the devastation. https://t.co/heNoHaltOL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2420,
+          "following_count": 1793,
+          "like_count": 26278,
+          "listed_count": 9,
+          "media_count": 892,
+          "tweet_count": 13591
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-05-06T19:36:33.000Z",
+        "description": "Unparalleled reporting and commentary on politics and culture, plus humor and cartoons, fiction and poetry. Get our Daily newsletter: https://t.co/CW0Z2jGCyB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nyer.cm/gtI6pVM",
+                "end": 157,
+                "expanded_url": "http://nyer.cm/gtI6pVM",
+                "start": 134,
+                "url": "https://t.co/CW0Z2jGCyB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "newyorker.com",
+                "end": 23,
+                "expanded_url": "http://www.newyorker.com",
+                "start": 0,
+                "url": "https://t.co/HaON4yWi3O"
+              }
+            ]
+          }
+        },
+        "id": "14677919",
+        "location": "New York, NY",
+        "name": "The New Yorker",
+        "pinned_tweet_id": "1916893227602317363",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888969697078431744/T3MUHNH2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8511884,
+          "following_count": 394,
+          "like_count": 1836,
+          "listed_count": 58218,
+          "media_count": 47129,
+          "tweet_count": 180936
+        },
+        "url": "https://t.co/HaON4yWi3O",
+        "username": "NewYorker",
+        "verified": true
+      }
+    ]
+  }
+}

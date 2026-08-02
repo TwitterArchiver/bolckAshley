@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of European Commission",
+          "id": "1151432219002454016",
+          "name": "Ursula von der Leyen"
+        }
+      }
+    ],
+    "conversation_id": "2043488329874952363",
+    "created_at": "2026-04-13T00:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T01:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043488329874952363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1146329871418843136",
+          "start": 3,
+          "username": "vonderleyen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043488329874952363",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4701
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043416848666906954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vonderleyen: Hungary has chosen Europe.\n\nEurope has always chosen Hungary.\n\nA country reclaims its European path.\n\nThe Union grows stro…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          }
+        ],
+        "conversation_id": "2043488329874952363",
+        "created_at": "2026-04-13T00:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043488329874952363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1146329871418843136",
+              "start": 3,
+              "username": "vonderleyen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043488329874952363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4701
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043416848666906954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vonderleyen: Hungary has chosen Europe.\n\nEurope has always chosen Hungary.\n\nA country reclaims its European path.\n\nThe Union grows stro…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1146329871418843136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of European Commission",
+              "id": "1151432219002454016",
+              "name": "Ursula von der Leyen"
+            }
+          }
+        ],
+        "conversation_id": "2043416848666906954",
+        "created_at": "2026-04-12T19:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T20:37:34.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043413232766079040",
+          "2043413820513857630",
+          "2043416848666906954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043416848666906954",
+        "lang": "hu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 594,
+          "impression_count": 773678,
+          "like_count": 32957,
+          "quote_count": 739,
+          "reply_count": 4465,
+          "retweet_count": 4701
+        },
+        "reply_settings": "everyone",
+        "text": "Hungary has chosen Europe.\n\nEurope has always chosen Hungary.\n\nA country reclaims its European path.\n\nThe Union grows stronger.\n\nMagyarország Európát választotta. \n\nEurópa mindig Magyarországot választotta. \n\nEgy ország visszatér az európai útjára. \n\nAz Unió erősebbé válik."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036808158912671744/q5dELKL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3084,
+          "following_count": 1980,
+          "like_count": 40560,
+          "listed_count": 17,
+          "media_count": 1459,
+          "tweet_count": 21046
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-03T08:08:33.000Z",
+        "description": "President of the @EU_Commission. Mother of seven. Brussels-born. European by heart. 🇪🇺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "EU_Commission"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eu-solidarity-ukraine.ec.europa.eu/index_en",
+                "end": 23,
+                "expanded_url": "https://eu-solidarity-ukraine.ec.europa.eu/index_en",
+                "start": 0,
+                "url": "https://t.co/ZdrutmpB6L"
+              }
+            ]
+          }
+        },
+        "id": "1146329871418843136",
+        "name": "Ursula von der Leyen",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1151477036545925121/sUDOL-vE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705040,
+          "following_count": 272,
+          "like_count": 563,
+          "listed_count": 9062,
+          "media_count": 3469,
+          "tweet_count": 6418
+        },
+        "url": "https://t.co/ZdrutmpB6L",
+        "username": "vonderleyen",
+        "verified": true
+      }
+    ]
+  }
+}

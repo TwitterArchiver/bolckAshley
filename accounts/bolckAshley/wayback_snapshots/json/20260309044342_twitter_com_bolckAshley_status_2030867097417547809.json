@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030685341196124162",
+        "3_2030685341204533248",
+        "3_2030685341351620608"
+      ],
+      "media_source_tweet_id": [
+        "2030685349316300843",
+        "2030685349316300843",
+        "2030685349316300843"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "2030867097417547809",
+    "created_at": "2026-03-09T04:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T05:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030867097417547809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547289009201844228",
+          "start": 3,
+          "username": "ji_chunsheng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TZ6ThCtWK0",
+          "end": 68,
+          "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+          "media_key": "3_2030685341196124162",
+          "start": 45,
+          "url": "https://t.co/TZ6ThCtWK0"
+        },
+        {
+          "display_url": "pic.x.com/TZ6ThCtWK0",
+          "end": 68,
+          "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+          "media_key": "3_2030685341204533248",
+          "start": 45,
+          "url": "https://t.co/TZ6ThCtWK0"
+        },
+        {
+          "display_url": "pic.x.com/TZ6ThCtWK0",
+          "end": 68,
+          "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+          "media_key": "3_2030685341351620608",
+          "start": 45,
+          "url": "https://t.co/TZ6ThCtWK0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030867097417547809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030685349316300843",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ji_chunsheng: 台湾网友恶搞蔡英文，蔡英文回复提醒大家还有浩克版。🥶 https://t.co/TZ6ThCtWK0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1407,
+        "media_key": "3_2030685341196124162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5xjwyWgAI4xFV.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1639,
+        "media_key": "3_2030685341204533248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5xjw0W0AA1ByZ.jpg",
+        "width": 1320
+      },
+      {
+        "height": 344,
+        "media_key": "3_2030685341351620608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC5xjxXbMAAElX-.jpg",
+        "width": 486
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030685341196124162",
+            "3_2030685341204533248",
+            "3_2030685341351620608"
+          ],
+          "media_source_tweet_id": [
+            "2030685349316300843",
+            "2030685349316300843",
+            "2030685349316300843"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "2030867097417547809",
+        "created_at": "2026-03-09T04:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T05:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030867097417547809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547289009201844228",
+              "start": 3,
+              "username": "ji_chunsheng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZ6ThCtWK0",
+              "end": 68,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+              "media_key": "3_2030685341196124162",
+              "start": 45,
+              "url": "https://t.co/TZ6ThCtWK0"
+            },
+            {
+              "display_url": "pic.x.com/TZ6ThCtWK0",
+              "end": 68,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+              "media_key": "3_2030685341204533248",
+              "start": 45,
+              "url": "https://t.co/TZ6ThCtWK0"
+            },
+            {
+              "display_url": "pic.x.com/TZ6ThCtWK0",
+              "end": 68,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+              "media_key": "3_2030685341351620608",
+              "start": 45,
+              "url": "https://t.co/TZ6ThCtWK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030867097417547809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030685349316300843",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ji_chunsheng: 台湾网友恶搞蔡英文，蔡英文回复提醒大家还有浩克版。🥶 https://t.co/TZ6ThCtWK0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030685341196124162",
+            "3_2030685341204533248",
+            "3_2030685341351620608"
+          ]
+        },
+        "author_id": "1547289009201844228",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "2030685349316300843",
+        "created_at": "2026-03-08T16:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:41:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030685349316300843"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TZ6ThCtWK0",
+              "end": 50,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+              "media_key": "3_2030685341196124162",
+              "start": 27,
+              "url": "https://t.co/TZ6ThCtWK0"
+            },
+            {
+              "display_url": "pic.x.com/TZ6ThCtWK0",
+              "end": 50,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+              "media_key": "3_2030685341204533248",
+              "start": 27,
+              "url": "https://t.co/TZ6ThCtWK0"
+            },
+            {
+              "display_url": "pic.x.com/TZ6ThCtWK0",
+              "end": 50,
+              "expanded_url": "https://x.com/ji_chunsheng/status/2030685349316300843/photo/1",
+              "media_key": "3_2030685341351620608",
+              "start": 27,
+              "url": "https://t.co/TZ6ThCtWK0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030685349316300843",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 175752,
+          "like_count": 1836,
+          "quote_count": 6,
+          "reply_count": 44,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "台湾网友恶搞蔡英文，蔡英文回复提醒大家还有浩克版。🥶 https://t.co/TZ6ThCtWK0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1985,
+          "like_count": 39320,
+          "listed_count": 16,
+          "media_count": 1378,
+          "tweet_count": 19960
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T18:37:07.000Z",
+        "description": "tech & media | co-host of pretty nuts https://t.co/WSv6ZPezen",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/prettynuts",
+                "end": 61,
+                "expanded_url": "http://linktr.ee/prettynuts",
+                "start": 38,
+                "url": "https://t.co/WSv6ZPezen"
+              }
+            ]
+          }
+        },
+        "id": "1547289009201844228",
+        "location": "New York",
+        "name": "紀春生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608312424825851904/NNjbRcmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11450,
+          "following_count": 2278,
+          "like_count": 31875,
+          "listed_count": 72,
+          "media_count": 5166,
+          "tweet_count": 9083
+        },
+        "username": "ji_chunsheng",
+        "verified": true
+      }
+    ]
+  }
+}

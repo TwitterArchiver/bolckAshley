@@ -1,0 +1,587 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073006968076464128",
+        "3_2073006968130899968"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1228312673298735104",
+          "name": "Roman Polanski"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "The Guardian",
+          "id": "1066122339568386048",
+          "name": "The Guardian"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The Guardian",
+          "id": "1066122339568386048",
+          "name": "The Guardian"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2073006981657596387",
+    "created_at": "2026-07-03T11:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073006981657596387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 56,
+          "id": "3009121256",
+          "start": 43,
+          "username": "ZackPolanski"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JEKyUSYWSX",
+          "end": 104,
+          "expanded_url": "https://x.com/bolckAshley/status/2073006981657596387/photo/1",
+          "media_key": "3_2073006968076464128",
+          "start": 81,
+          "url": "https://t.co/JEKyUSYWSX"
+        },
+        {
+          "display_url": "pic.x.com/JEKyUSYWSX",
+          "end": 104,
+          "expanded_url": "https://x.com/bolckAshley/status/2073006981657596387/photo/1",
+          "media_key": "3_2073006968130899968",
+          "start": 81,
+          "url": "https://t.co/JEKyUSYWSX"
+        },
+        {
+          "display_url": "x.com/LeftieStats/st…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/LeftieStats/status/2070199763614478469",
+          "start": 105,
+          "url": "https://t.co/j3ltXJeYaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073006981657596387",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070199763614478469",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "然而此時Polanski和他的Green正在落後labour與Burnham越來越多\n@ZackPolanski 你覺得人家工黨會需要你這種跳樑小丑的合作嗎？😹 https://t.co/JEKyUSYWSX https://t.co/j3ltXJeYaB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1400,
+        "media_key": "3_2073006968076464128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTM2q0bcAANy98.jpg",
+        "width": 1800
+      },
+      {
+        "height": 1949,
+        "media_key": "3_2073006968130899968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMTM2rBaEAAjU-F.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1314,
+        "media_key": "3_2070199746744967168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrTs4bWYAAimXS.jpg",
+        "width": 1008
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073006968076464128",
+            "3_2073006968130899968"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1228312673298735104",
+              "name": "Roman Polanski"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The Guardian",
+              "id": "1066122339568386048",
+              "name": "The Guardian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Guardian",
+              "id": "1066122339568386048",
+              "name": "The Guardian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2073006981657596387",
+        "created_at": "2026-07-03T11:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073006981657596387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 56,
+              "id": "3009121256",
+              "start": 43,
+              "username": "ZackPolanski"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JEKyUSYWSX",
+              "end": 104,
+              "expanded_url": "https://x.com/bolckAshley/status/2073006981657596387/photo/1",
+              "media_key": "3_2073006968076464128",
+              "start": 81,
+              "url": "https://t.co/JEKyUSYWSX"
+            },
+            {
+              "display_url": "pic.x.com/JEKyUSYWSX",
+              "end": 104,
+              "expanded_url": "https://x.com/bolckAshley/status/2073006981657596387/photo/1",
+              "media_key": "3_2073006968130899968",
+              "start": 81,
+              "url": "https://t.co/JEKyUSYWSX"
+            },
+            {
+              "display_url": "x.com/LeftieStats/st…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/LeftieStats/status/2070199763614478469",
+              "start": 105,
+              "url": "https://t.co/j3ltXJeYaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073006981657596387",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070199763614478469",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然而此時Polanski和他的Green正在落後labour與Burnham越來越多\n@ZackPolanski 你覺得人家工黨會需要你這種跳樑小丑的合作嗎？😹 https://t.co/JEKyUSYWSX https://t.co/j3ltXJeYaB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070199746744967168"
+          ]
+        },
+        "author_id": "1044647459581038594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1228312673298735104",
+              "name": "Roman Polanski"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "The Guardian",
+              "id": "1066122339568386048",
+              "name": "The Guardian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Guardian",
+              "id": "1066122339568386048",
+              "name": "The Guardian"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2070199763614478469",
+        "created_at": "2026-06-25T17:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T18:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070199763614478469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 277,
+              "id": "87818409",
+              "start": 268,
+              "username": "guardian"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CpxJiGJ5Ps",
+              "end": 302,
+              "expanded_url": "https://x.com/LeftieStats/status/2070199763614478469/photo/1",
+              "media_key": "3_2070199746744967168",
+              "start": 279,
+              "url": "https://t.co/CpxJiGJ5Ps"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070199763614478469",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 158953,
+          "like_count": 12410,
+          "quote_count": 171,
+          "reply_count": 467,
+          "retweet_count": 2947
+        },
+        "reply_settings": "everyone",
+        "text": "🚨BREAKING | Zack Polanski says Greens will NOT work with Labour if Burnham continues to support Israel\n\nPolanski said the genocide in Gaza is a \"red line\", and that any co-operation with Burnham would be impossible unless he admits Israel is committing genocide\n\n(Via @Guardian) https://t.co/CpxJiGJ5Ps"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072347062704930816/0yr0fYDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4041,
+          "following_count": 2251,
+          "like_count": 42951,
+          "listed_count": 29,
+          "media_count": 1786,
+          "tweet_count": 23189
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2015-02-03T11:19:38.000Z",
+        "description": "Green Party Leader.\n                                                                     London Assembly Member.\n🏳️‍🌈",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "podcasts.apple.com/podcast/id1837…",
+                "end": 23,
+                "expanded_url": "https://podcasts.apple.com/podcast/id1837201724?i=1000724643828",
+                "start": 0,
+                "url": "https://t.co/G4Mtmegow1"
+              }
+            ]
+          }
+        },
+        "id": "3009121256",
+        "location": "London, England",
+        "name": "Zack Polanski",
+        "pinned_tweet_id": "1978868684601893111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977630432607797248/zzgAtWJE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202149,
+          "following_count": 10665,
+          "like_count": 255098,
+          "listed_count": 1136,
+          "media_count": 3310,
+          "tweet_count": 74138
+        },
+        "url": "https://t.co/G4Mtmegow1",
+        "username": "ZackPolanski",
+        "verified": true
+      },
+      {
+        "created_at": "2018-09-25T17:58:57.000Z",
+        "description": "Stats and election analysis from a progressive, Marxist perspective. Run by @EleanoraStats. All opinions my own. She/her pronouns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "EleanoraStats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "statsforlefties.com",
+                "end": 23,
+                "expanded_url": "http://statsforlefties.com/",
+                "start": 0,
+                "url": "https://t.co/86SMfvI0Lh"
+              }
+            ]
+          }
+        },
+        "id": "1044647459581038594",
+        "location": "She/her",
+        "name": "Stats for Lefties 🍉🏳️‍⚧️",
+        "pinned_tweet_id": "2067347293121229299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047846140000006144/CX2U5nSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100213,
+          "following_count": 916,
+          "like_count": 682,
+          "listed_count": 584,
+          "media_count": 10505,
+          "tweet_count": 56108
+        },
+        "url": "https://t.co/86SMfvI0Lh",
+        "username": "LeftieStats",
+        "verified": true
+      }
+    ]
+  }
+}

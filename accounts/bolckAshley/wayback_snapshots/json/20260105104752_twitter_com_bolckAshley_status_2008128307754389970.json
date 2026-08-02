@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2008128307754389970",
+    "created_at": "2026-01-05T10:47:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T11:47:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008128307754389970"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 48,
+          "normalized_text": "Venezuela",
+          "probability": 0.9669,
+          "start": 40,
+          "type": "Place"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Edmundo González Urrutia",
+          "probability": 0.9231,
+          "start": 53,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1264203540",
+          "start": 3,
+          "username": "joakial_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008128307754389970",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007983045916475834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @joakial_: The rightful president of Venezuela is Edmundo González Urrutia, who won the 2024 election. Only by honouring the clear will…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2007978652202381312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G93F8gkXMAAn4vG.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2008128307754389970",
+        "created_at": "2026-01-05T10:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T11:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008128307754389970"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 48,
+              "normalized_text": "Venezuela",
+              "probability": 0.9669,
+              "start": 40,
+              "type": "Place"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Edmundo González Urrutia",
+              "probability": 0.9231,
+              "start": 53,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1264203540",
+              "start": 3,
+              "username": "joakial_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008128307754389970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007983045916475834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @joakial_: The rightful president of Venezuela is Edmundo González Urrutia, who won the 2024 election. Only by honouring the clear will…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007978652202381312"
+          ]
+        },
+        "author_id": "1264203540",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2007983045916475834",
+        "created_at": "2026-01-05T01:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T02:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007983045916475834"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Venezuela",
+              "probability": 0.9793,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 62,
+              "normalized_text": "Edmundo González Urrutia",
+              "probability": 0.9111,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 162,
+              "normalized_text": "Venezuela",
+              "probability": 0.9807,
+              "start": 154,
+              "type": "Place"
+            },
+            {
+              "end": 220,
+              "normalized_text": "US",
+              "probability": 0.9314,
+              "start": 219,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVnFg3iY6i",
+              "end": 290,
+              "expanded_url": "https://x.com/joakial_/status/2007983045916475834/photo/1",
+              "media_key": "3_2007978652202381312",
+              "start": 267,
+              "url": "https://t.co/UVnFg3iY6i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007983045916475834",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 10665,
+          "like_count": 530,
+          "quote_count": 6,
+          "reply_count": 38,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "The rightful president of Venezuela is Edmundo González Urrutia, who won the 2024 election. Only by honouring the clear will of the Venezuelan people can Venezuela restore democracy and overcome its ongoing crisis. The US must also respect this will. Paz y libertad. https://t.co/UVnFg3iY6i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2844,
+          "following_count": 1955,
+          "like_count": 37227,
+          "listed_count": 14,
+          "media_count": 1254,
+          "tweet_count": 18448
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-13T11:22:10.000Z",
+        "description": "26 | Norway Correspondent for @EuropeElects 📊🗳️ Humanist | Vegan | Egalitarian | Member of the Socialist Left Party, @SVparti 🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "EuropeElects"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "SVparti"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/joakial",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/joakial",
+                "start": 0,
+                "url": "https://t.co/EvjmbKGfTe"
+              }
+            ]
+          }
+        },
+        "id": "1264203540",
+        "location": "Kingdom of Norway",
+        "name": "Joakim 🌹🇳🇴🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994793660827799552/Ep7nCaMy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32316,
+          "following_count": 3593,
+          "like_count": 233113,
+          "listed_count": 175,
+          "media_count": 5726,
+          "tweet_count": 27959
+        },
+        "url": "https://t.co/EvjmbKGfTe",
+        "username": "joakial_",
+        "verified": true
+      }
+    ]
+  }
+}

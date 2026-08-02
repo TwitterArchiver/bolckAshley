@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1967103233735999698",
+    "created_at": "2025-09-15T06:43:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T07:43:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967479414666785165"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        },
+        {
+          "end": 26,
+          "id": "1881256183828496385",
+          "start": 17,
+          "username": "Line_XII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967479414666785165",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967143278576640410",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 @Line_XII 「也許」的事情我通常情況下並不考慮，雖然其作為一種假設確實可以探討\n我討論這種問題的時候是基於現實政治的角度來思考與討論，我要求的是一個在當下就能可行，並且能有效向社會主義的目標推進的方案\n雖然有些人可能並不同意我這種想法，但是我依然認為，如果真想切實解決當下的問題，那麼就應該這樣"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1967143278576640410].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1967143278576640410",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1967143278576640410"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1967103233735999698",
+        "created_at": "2025-09-15T06:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967479414666785165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            },
+            {
+              "end": 26,
+              "id": "1881256183828496385",
+              "start": 17,
+              "username": "Line_XII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967479414666785165",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967143278576640410",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 @Line_XII 「也許」的事情我通常情況下並不考慮，雖然其作為一種假設確實可以探討\n我討論這種問題的時候是基於現實政治的角度來思考與討論，我要求的是一個在當下就能可行，並且能有效向社會主義的目標推進的方案\n雖然有些人可能並不同意我這種想法，但是我依然認為，如果真想切實解決當下的問題，那麼就應該這樣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 1943,
+          "like_count": 32896,
+          "listed_count": 10,
+          "media_count": 1077,
+          "tweet_count": 16304
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Democratic Socialist | Anti-Stalinist | Participatory Economics | History, Sociology, Politics, etc. | “终有一天，我们会在没有黑暗的地方相见。”",
+        "id": "1715891855983026176",
+        "name": "Mr. Democracy's follower🏴🚩",
+        "pinned_tweet_id": "1964524643831992559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555002357358592/NFv9iHgZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 3841,
+          "like_count": 77917,
+          "listed_count": 5,
+          "media_count": 916,
+          "tweet_count": 17050
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T08:24:25.000Z",
+        "description": "【革命马克思主义者 - 1920年代左翼反对派】｜中华未来主义｜左翼泛亚主义｜无产阶级专政委员会共和国｜社会主义计算机控制论计划",
+        "id": "1881256183828496385",
+        "location": "OTL",
+        "name": "☭転炉",
+        "pinned_tweet_id": "1963823432833155142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952609027118313472/gWfZa4zd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 318,
+          "like_count": 2737,
+          "listed_count": 3,
+          "media_count": 17,
+          "tweet_count": 920
+        },
+        "username": "Line_XII",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1880617332999135415",
+    "created_at": "2025-01-18T15:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-18T16:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1880642662791008593"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "China",
+          "probability": 0.956,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1335132884278108161",
+          "start": 0,
+          "username": "stats_feed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1880642662791008593",
+    "in_reply_to_user_id": "1335132884278108161",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880617332999135415",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stats_feed I love China \nBut I don't like PRC🇨🇳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1880617332999135415",
+        "created_at": "2025-01-18T15:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T16:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880642662791008593"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "China",
+              "probability": 0.956,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1335132884278108161",
+              "start": 0,
+              "username": "stats_feed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880642662791008593",
+        "in_reply_to_user_id": "1335132884278108161",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880617332999135415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stats_feed I love China \nBut I don't like PRC🇨🇳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1880617331790872576"
+          ]
+        },
+        "author_id": "1335132884278108161",
+        "conversation_id": "1880617332999135415",
+        "created_at": "2025-01-18T14:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-18T15:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880617332999135415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1880617332999135415",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 68340,
+          "like_count": 256,
+          "quote_count": 22,
+          "reply_count": 249,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "Do you love your country?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2088,
+          "following_count": 1444,
+          "like_count": 19910,
+          "listed_count": 9,
+          "media_count": 686,
+          "tweet_count": 11581
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-05T08:07:34.000Z",
+        "description": "There are three kinds of lies: lies, damned lies, and statistics. Sister page of @engineers_feed",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 81,
+                "username": "engineers_feed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@stats_feed",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@stats_feed",
+                "start": 0,
+                "url": "https://t.co/Lso9z1yJ8I"
+              }
+            ]
+          }
+        },
+        "id": "1335132884278108161",
+        "name": "World of Statistics",
+        "pinned_tweet_id": "1880233999072661848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1335168437220421632/VCHg78Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3936978,
+          "following_count": 539,
+          "like_count": 2198,
+          "listed_count": 6797,
+          "media_count": 1260,
+          "tweet_count": 21993
+        },
+        "url": "https://t.co/Lso9z1yJ8I",
+        "username": "stats_feed",
+        "verified": true
+      }
+    ]
+  }
+}

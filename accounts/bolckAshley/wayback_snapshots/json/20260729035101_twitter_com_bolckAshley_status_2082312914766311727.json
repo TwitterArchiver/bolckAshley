@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Author\n",
+          "id": "808408440301232128",
+          "name": "JK Rowling"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166408461485101056",
+          "name": "Authors"
+        }
+      }
+    ],
+    "conversation_id": "2082312914766311727",
+    "created_at": "2026-07-29T03:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T04:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082312914766311727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2041159531657416704",
+          "start": 3,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082312914766311727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082117595990257689",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amber_digit2: JK罗琳：为了防止跨性别进女厕偷拍女性，我们应该让所有人都开始偷拍女性"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2082312914766311727",
+        "created_at": "2026-07-29T03:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082312914766311727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2041159531657416704",
+              "start": 3,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082312914766311727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082117595990257689",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amber_digit2: JK罗琳：为了防止跨性别进女厕偷拍女性，我们应该让所有人都开始偷拍女性"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041159531657416704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2082117595990257689",
+        "created_at": "2026-07-28T14:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082117595990257689"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lgbwiththet/st…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/lgbwiththet/status/2081640463967080508",
+              "start": 36,
+              "url": "https://t.co/d50Bm7FblI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082117595990257689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3740,
+          "like_count": 105,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081640463967080508",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "JK罗琳：为了防止跨性别进女厕偷拍女性，我们应该让所有人都开始偷拍女性 https://t.co/d50Bm7FblI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081793403722010624/If4_MAQx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4255,
+          "following_count": 2263,
+          "like_count": 43468,
+          "listed_count": 29,
+          "media_count": 1915,
+          "tweet_count": 23834
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🏳️‍⚧️",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4030,
+          "following_count": 645,
+          "like_count": 1821,
+          "listed_count": 4,
+          "media_count": 130,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}

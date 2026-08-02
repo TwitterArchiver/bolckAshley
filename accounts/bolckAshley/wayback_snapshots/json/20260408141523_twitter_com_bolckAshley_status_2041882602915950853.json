@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2041882602915950853",
+    "created_at": "2026-04-08T14:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041882602915950853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bolckAshley/st…",
+          "end": 72,
+          "expanded_url": "https://twitter.com/bolckAshley/status/2041680624554274908",
+          "start": 49,
+          "url": "https://t.co/kt0xaw7JfS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041882602915950853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041680624554274908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看起來外國網左比國內的網左還魔怔\n這麼一對比國內的網左還是太有水平了真的，這波老中確實贏了👍👍👍 https://t.co/kt0xaw7JfS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2041680611803590659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWBsvta8AMcU6n.jpg",
+        "width": 2150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2041882602915950853",
+        "created_at": "2026-04-08T14:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041882602915950853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2041680624554274908",
+              "start": 49,
+              "url": "https://t.co/kt0xaw7JfS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041882602915950853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041680624554274908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看起來外國網左比國內的網左還魔怔\n這麼一對比國內的網左還是太有水平了真的，這波老中確實贏了👍👍👍 https://t.co/kt0xaw7JfS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041680611803590659"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2041680624554274908",
+        "created_at": "2026-04-08T00:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041680624554274908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8QliZvqYk",
+              "end": 81,
+              "expanded_url": "https://x.com/bolckAshley/status/2041680624554274908/photo/1",
+              "media_key": "3_2041680611803590659",
+              "start": 58,
+              "url": "https://t.co/C8QliZvqYk"
+            },
+            {
+              "display_url": "x.com/KenjiHun/statu…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/KenjiHun/status/2041610035487285417",
+              "start": 82,
+              "url": "https://t.co/qnNpF0Mcr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041680624554274908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 10927,
+          "like_count": 88,
+          "quote_count": 11,
+          "reply_count": 29,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041610035487285417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Who I'd vote for in every European country\n我在每個歐洲國家會投票的政黨 https://t.co/C8QliZvqYk https://t.co/qnNpF0Mcr3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036808158912671744/q5dELKL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3082,
+          "following_count": 1981,
+          "like_count": 40567,
+          "listed_count": 17,
+          "media_count": 1453,
+          "tweet_count": 20974
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      }
+    ]
+  }
+}

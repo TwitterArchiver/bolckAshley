@@ -1,0 +1,287 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1805846662335840256"
+      ],
+      "media_source_tweet_id": [
+        "1805846718845706594"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1806266694945431965",
+    "created_at": "2024-06-27T10:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-27T11:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1806266694945431965"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "ナズナちゃん",
+          "probability": 0.76,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1522209067342700544",
+          "start": 3,
+          "username": "taru153"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/0aaJMMOlP8",
+          "end": 52,
+          "expanded_url": "https://twitter.com/taru153/status/1805846718845706594/video/1",
+          "media_key": "13_1805846662335840256",
+          "start": 29,
+          "url": "https://t.co/0aaJMMOlP8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1806266694945431965",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 464
+    },
+    "referenced_tweets": [
+      {
+        "id": "1805846718845706594",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @taru153: ナズナちゃんナース✙   動画 https://t.co/0aaJMMOlP8"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6100,
+        "height": 1730,
+        "media_key": "13_1805846662335840256",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1805846662335840256/img/1PkKjxrG6lvhJKtd.jpg",
+        "public_metrics": {
+          "view_count": 35844
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805846662335840256/vid/avc1/320x528/O0ELtvrubAfCDOKM.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805846662335840256/vid/avc1/480x792/K5DCNFiia8ovaaB1.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1805846662335840256/vid/avc1/720x1188/SF-tZRg6vZV5YHqF.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1805846662335840256/pl/HS7Cgiv_MtdCuYRt.m3u8?tag=16"
+          }
+        ],
+        "width": 1048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1805846662335840256"
+          ],
+          "media_source_tweet_id": [
+            "1805846718845706594"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "1806266694945431965",
+        "created_at": "2024-06-27T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-27T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1806266694945431965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "ナズナちゃん",
+              "probability": 0.76,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1522209067342700544",
+              "start": 3,
+              "username": "taru153"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0aaJMMOlP8",
+              "end": 52,
+              "expanded_url": "https://twitter.com/taru153/status/1805846718845706594/video/1",
+              "media_key": "13_1805846662335840256",
+              "start": 29,
+              "url": "https://t.co/0aaJMMOlP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1806266694945431965",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 464
+        },
+        "referenced_tweets": [
+          {
+            "id": "1805846718845706594",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @taru153: ナズナちゃんナース✙   動画 https://t.co/0aaJMMOlP8"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1805846662335840256"
+          ]
+        },
+        "author_id": "1522209067342700544",
+        "conversation_id": "1805846718845706594",
+        "created_at": "2024-06-26T06:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-26T07:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1805846718845706594"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "ナズナちゃん",
+              "probability": 0.7928,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/0aaJMMOlP8",
+              "end": 39,
+              "expanded_url": "https://twitter.com/taru153/status/1805846718845706594/video/1",
+              "media_key": "13_1805846662335840256",
+              "start": 16,
+              "url": "https://t.co/0aaJMMOlP8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1805846718845706594",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1260,
+          "impression_count": 112530,
+          "like_count": 7985,
+          "quote_count": 18,
+          "reply_count": 35,
+          "retweet_count": 464
+        },
+        "reply_settings": "everyone",
+        "text": "ナズナちゃんナース✙   動画 https://t.co/0aaJMMOlP8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1529,
+          "following_count": 943,
+          "like_count": 12174,
+          "listed_count": 9,
+          "tweet_count": 8188
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-05T13:38:25.000Z",
+        "description": "◾️コスプレ、お絵かき、歌、live2d、などなど！ イラストとlive2dはハイライトにまとめてるよ！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/taru153_1/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/taru153_1/",
+                "start": 0,
+                "url": "https://t.co/e44pXypfFY"
+              }
+            ]
+          }
+        },
+        "id": "1522209067342700544",
+        "location": "fan mark→【🪅】",
+        "name": "taru🪅",
+        "pinned_tweet_id": "1728363176184725773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785904046056026113/wkJA47Bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71167,
+          "following_count": 210,
+          "like_count": 10118,
+          "listed_count": 323,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/e44pXypfFY",
+        "username": "taru153",
+        "verified": true
+      }
+    ]
+  }
+}

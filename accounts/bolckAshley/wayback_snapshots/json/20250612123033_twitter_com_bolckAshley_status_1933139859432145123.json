@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1818656510484037919",
+    "created_at": "2025-06-12T12:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T13:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933139859432145123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1794266757995343872",
+          "start": 0,
+          "username": "miyuki_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933139859432145123",
+    "in_reply_to_user_id": "1794266757995343872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818656510484037919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyuki_114 你也打瓦嗎"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1818656510484037919].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1818656510484037919",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1818656510484037919"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1818656510484037919",
+        "created_at": "2025-06-12T12:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T13:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933139859432145123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1794266757995343872",
+              "start": 0,
+              "username": "miyuki_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933139859432145123",
+        "in_reply_to_user_id": "1794266757995343872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818656510484037919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyuki_114 你也打瓦嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2458,
+          "following_count": 1838,
+          "like_count": 28417,
+          "listed_count": 10,
+          "media_count": 937,
+          "tweet_count": 14275
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-25T07:18:54.000Z",
+        "description": "Večeras ponosno, sjećaju se mudžahidi,\nBraće što su za Bosnu pali k’o šehidi.",
+        "id": "1794266757995343872",
+        "name": "☪BNKRG姉貴☪",
+        "pinned_tweet_id": "1929174262646288812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932995056543412228/tR8jf1qD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 1468,
+          "like_count": 204744,
+          "listed_count": 2,
+          "media_count": 1858,
+          "tweet_count": 38349
+        },
+        "username": "miyuki_114",
+        "verified": false
+      }
+    ]
+  }
+}

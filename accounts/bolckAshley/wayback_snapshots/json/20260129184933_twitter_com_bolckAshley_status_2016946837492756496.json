@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2016946837492756496",
+    "created_at": "2026-01-29T18:49:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T19:49:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016946837492756496"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 81,
+          "normalized_text": "SPD",
+          "probability": 0.8324,
+          "start": 79,
+          "type": "Organization"
+        },
+        {
+          "end": 117,
+          "normalized_text": "Mecklenburg-Vorpommern",
+          "probability": 0.9508,
+          "start": 96,
+          "type": "Place"
+        },
+        {
+          "end": 138,
+          "normalized_text": "Manuela Schwesi",
+          "probability": 0.8435,
+          "start": 124,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1848358030749921282",
+          "start": 3,
+          "username": "Antikeburg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016946837492756496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016933480739778793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Antikeburg: Leftist parties will have to bet again on charismatic leaders. SPD with a +6 in Mecklenburg-Vorpommern with Manuela Schwesi…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2016946837492756496",
+        "created_at": "2026-01-29T18:49:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T19:49:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016946837492756496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 81,
+              "normalized_text": "SPD",
+              "probability": 0.8324,
+              "start": 79,
+              "type": "Organization"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Mecklenburg-Vorpommern",
+              "probability": 0.9508,
+              "start": 96,
+              "type": "Place"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Manuela Schwesi",
+              "probability": 0.8435,
+              "start": 124,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1848358030749921282",
+              "start": 3,
+              "username": "Antikeburg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016946837492756496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016933480739778793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Antikeburg: Leftist parties will have to bet again on charismatic leaders. SPD with a +6 in Mecklenburg-Vorpommern with Manuela Schwesi…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1848358030749921282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Cem Özdemir",
+              "id": "887718832982286336",
+              "name": "Cem Özdemir"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Cem Özdemir",
+              "id": "887718832982286336",
+              "name": "Cem Özdemir"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cem Özdemir",
+              "id": "887718832982286336",
+              "name": "Cem Özdemir"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "2016933480739778793",
+        "created_at": "2026-01-29T17:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T18:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016933480739778793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wahlen_de/stat…",
+              "end": 206,
+              "expanded_url": "https://twitter.com/wahlen_de/status/2016922645346795829",
+              "start": 183,
+              "url": "https://t.co/z8PaGOIHMX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016933480739778793",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 336,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016922645346795829",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Leftist parties will have to bet again on charismatic leaders. SPD with a +6 in Mecklenburg-Vorpommern with Manuela Schwesig and now the Greens in Baden-Württemberg with Cem Özdemir… https://t.co/z8PaGOIHMX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2887,
+          "following_count": 1969,
+          "like_count": 37932,
+          "listed_count": 14,
+          "media_count": 1316,
+          "tweet_count": 18945
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-21T13:38:00.000Z",
+        "description": "18 | Get more Europilled NOW!🇪🇺 | Member of SPD and @Federalists | Founder @Europopfront | Eurofederalist | 🇵🇸🇺🇦🇬🇱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Federalists"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "Europopfront"
+              }
+            ]
+          }
+        },
+        "id": "1848358030749921282",
+        "location": "Frankfurt am Main, 🇩🇪",
+        "name": "Michael 🇪🇺🌺",
+        "pinned_tweet_id": "2014031855457075585",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012742547156652032/79Y6z_S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4169,
+          "following_count": 7499,
+          "like_count": 90736,
+          "listed_count": 52,
+          "media_count": 4279,
+          "tweet_count": 44103
+        },
+        "username": "Antikeburg",
+        "verified": true
+      }
+    ]
+  }
+}

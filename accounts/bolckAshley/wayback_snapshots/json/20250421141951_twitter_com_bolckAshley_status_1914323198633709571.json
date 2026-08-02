@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1914323198633709571",
+    "created_at": "2025-04-21T14:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-21T15:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1914323198633709571"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "Europe",
+          "probability": 0.9566,
+          "start": 63,
+          "type": "Place"
+        },
+        {
+          "end": 108,
+          "normalized_text": "EU",
+          "probability": 0.9699,
+          "start": 107,
+          "type": "Place"
+        },
+        {
+          "end": 132,
+          "normalized_text": "EU",
+          "probability": 0.7321,
+          "start": 131,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "18022037",
+          "start": 3,
+          "username": "RenewEurope"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1914323198633709571",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1914257049271369848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RenewEurope: Who controls your payments? It’s probably not Europe. 💳 \n\n2 out of 3 card payments in the EU are processed by non-EU giant…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1912501762545594368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GoqSOFzWsAA8yS4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1914323198633709571",
+        "created_at": "2025-04-21T14:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T15:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1914323198633709571"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "Europe",
+              "probability": 0.9566,
+              "start": 63,
+              "type": "Place"
+            },
+            {
+              "end": 108,
+              "normalized_text": "EU",
+              "probability": 0.9699,
+              "start": 107,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "EU",
+              "probability": 0.7321,
+              "start": 131,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "18022037",
+              "start": 3,
+              "username": "RenewEurope"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914323198633709571",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1914257049271369848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RenewEurope: Who controls your payments? It’s probably not Europe. 💳 \n\n2 out of 3 card payments in the EU are processed by non-EU giant…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1912501762545594368"
+          ]
+        },
+        "author_id": "18022037",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Personal finance",
+              "id": "847888632711061504",
+              "name": "Personal finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Retirement planning",
+              "id": "847894794080722944",
+              "name": "Retirement planning"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Saving and Finance",
+              "id": "1037075567227494400",
+              "name": "Saving and finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491481998862348291",
+              "name": "Digital asset industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "1914257049271369848",
+        "created_at": "2025-04-21T09:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-21T10:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1914257049271369848"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Europe",
+              "probability": 0.9568,
+              "start": 46,
+              "type": "Place"
+            },
+            {
+              "end": 91,
+              "normalized_text": "EU",
+              "probability": 0.9735,
+              "start": 90,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "EU",
+              "probability": 0.6928,
+              "start": 114,
+              "type": "Place"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Europe",
+              "probability": 0.9103,
+              "start": 131,
+              "type": "Place"
+            },
+            {
+              "end": 172,
+              "normalized_text": "Euro",
+              "probability": 0.5312,
+              "start": 169,
+              "type": "Other"
+            },
+            {
+              "end": 221,
+              "normalized_text": "ECB",
+              "probability": 0.456,
+              "start": 219,
+              "type": "Other"
+            },
+            {
+              "end": 273,
+              "normalized_text": "Europe",
+              "probability": 0.9737,
+              "start": 268,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ArBkIzDtvb",
+              "end": 301,
+              "expanded_url": "https://x.com/RenewEurope/status/1914257049271369848/photo/1",
+              "media_key": "3_1912501762545594368",
+              "start": 278,
+              "url": "https://t.co/ArBkIzDtvb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1914257049271369848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 8983,
+          "like_count": 331,
+          "quote_count": 8,
+          "reply_count": 28,
+          "retweet_count": 75
+        },
+        "reply_settings": "everyone",
+        "text": "Who controls your payments? It’s probably not Europe. 💳 \n\n2 out of 3 card payments in the EU are processed by non-EU giants. Renew Europe wants to introduce the Digital Euro - a public digital currency developed by the ECB. \n\nLet’s bring the future of finance home to Europe! 💶 https://t.co/ArBkIzDtvb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2395,
+          "following_count": 1746,
+          "like_count": 25669,
+          "listed_count": 10,
+          "media_count": 872,
+          "tweet_count": 13395
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-10T15:54:18.000Z",
+        "description": "We are the pro-European political group in the @Europarl_EN. Our mission? to Renew Europe! 🇪🇺 More news at @Renew_Press",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Europarl_EN"
+              },
+              {
+                "end": 119,
+                "start": 107,
+                "username": "Renew_Press"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reneweuropegroup.eu",
+                "end": 23,
+                "expanded_url": "http://reneweuropegroup.eu",
+                "start": 0,
+                "url": "https://t.co/7lTQ64H5DD"
+              }
+            ]
+          }
+        },
+        "id": "18022037",
+        "location": "Brussels/Strasbourg",
+        "name": "Renew Europe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1356219178651430912/CngPbOLH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139872,
+          "following_count": 13042,
+          "like_count": 23223,
+          "listed_count": 1940,
+          "media_count": 11685,
+          "tweet_count": 33217
+        },
+        "url": "https://t.co/7lTQ64H5DD",
+        "username": "RenewEurope",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1884063649586896910",
+    "created_at": "2025-01-28T02:23:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-28T03:23:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1884064726965182578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1409636696145154051",
+          "start": 0,
+          "username": "Liberal_KD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1884064726965182578",
+    "in_reply_to_user_id": "1409636696145154051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884063649586896910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Liberal_KD 被人陰陽怪氣確實會煩\n不過你最近的那些推文確實令人感到難繃（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1884063649586896910].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1884063649586896910",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1884063649586896910"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1884063649586896910",
+        "created_at": "2025-01-28T02:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-28T03:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1884064726965182578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1409636696145154051",
+              "start": 0,
+              "username": "Liberal_KD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1884064726965182578",
+        "in_reply_to_user_id": "1409636696145154051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884063649586896910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Liberal_KD 被人陰陽怪氣確實會煩\n不過你最近的那些推文確實令人感到難繃（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878793509089734657/zuWMlKVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2097,
+          "following_count": 1461,
+          "like_count": 20559,
+          "listed_count": 9,
+          "media_count": 712,
+          "tweet_count": 11767
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T22:16:01.000Z",
+        "description": "不定时分享书报片段及胡言乱语 | 过气刊物《青鸟信使》@courier_blue | 黎波塔联省民国（虚拟国）大总统兼国务总理",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "courier_blue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bluebirdcourier",
+                "end": 23,
+                "expanded_url": "https://t.me/bluebirdcourier",
+                "start": 0,
+                "url": "https://t.co/JNQdoOLeHA"
+              }
+            ]
+          }
+        },
+        "id": "1409636696145154051",
+        "location": "Bluebirdcourier",
+        "name": "海棠🇩🇴Kaidou",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875846477429579776/KlqZpJeQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1062,
+          "like_count": 24708,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/JNQdoOLeHA",
+        "username": "Liberal_KD",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1907012582160085410",
+    "created_at": "2025-04-01T10:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-01T11:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907012582160085410"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "CDU",
+          "probability": 0.8385,
+          "start": 16,
+          "type": "Organization"
+        },
+        {
+          "end": 22,
+          "normalized_text": "CSU",
+          "probability": 0.8799,
+          "start": 20,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728357835669426176",
+          "start": 3,
+          "username": "socdemAdam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907012582160085410",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906835245871046832",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @socdemAdam: CDU/CSU is in an extremely difficult position.\nOn the one hand, they have to form a coalition with demanding Social Democra…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_1906835243497103360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnZwjRXXIAAv22q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1907012582160085410",
+        "created_at": "2025-04-01T10:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-01T11:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907012582160085410"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "CDU",
+              "probability": 0.8385,
+              "start": 16,
+              "type": "Organization"
+            },
+            {
+              "end": 22,
+              "normalized_text": "CSU",
+              "probability": 0.8799,
+              "start": 20,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728357835669426176",
+              "start": 3,
+              "username": "socdemAdam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907012582160085410",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906835245871046832",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @socdemAdam: CDU/CSU is in an extremely difficult position.\nOn the one hand, they have to form a coalition with demanding Social Democra…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1906835243497103360"
+          ]
+        },
+        "author_id": "1728357835669426176",
+        "conversation_id": "1906835245871046832",
+        "created_at": "2025-03-31T22:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T23:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906835245871046832"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "CDU",
+              "probability": 0.8639,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 6,
+              "normalized_text": "CSU",
+              "probability": 0.8389,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 170,
+              "normalized_text": "AfD",
+              "probability": 0.6156,
+              "start": 168,
+              "type": "Organization"
+            },
+            {
+              "end": 209,
+              "normalized_text": "SPD",
+              "probability": 0.8107,
+              "start": 207,
+              "type": "Organization"
+            },
+            {
+              "end": 248,
+              "normalized_text": "AfD",
+              "probability": 0.7375,
+              "start": 246,
+              "type": "Organization"
+            },
+            {
+              "end": 256,
+              "normalized_text": "SPD",
+              "probability": 0.6426,
+              "start": 254,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdwqfVKW6s",
+              "end": 300,
+              "expanded_url": "https://x.com/socdemAdam/status/1906835245871046832/photo/1",
+              "media_key": "3_1906835243497103360",
+              "start": 277,
+              "url": "https://t.co/LdwqfVKW6s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906835245871046832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 8347,
+          "like_count": 155,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "CDU/CSU is in an extremely difficult position.\nOn the one hand, they have to form a coalition with demanding Social Democrats - on the other, there is an even stronger AfD. Dropping the coalition talks with SPD wouldn't benifit them either (only AfD and SPD - maybe Linke too) https://t.co/LdwqfVKW6s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2328,
+          "following_count": 1685,
+          "like_count": 24847,
+          "listed_count": 10,
+          "media_count": 830,
+          "tweet_count": 13058
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:20:20.000Z",
+        "description": "Law ⚖️ | @spdde",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "spdde"
+              }
+            ]
+          }
+        },
+        "id": "1728357835669426176",
+        "location": "Germany",
+        "name": "Adam 📯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842654008004968448/HSSUd0Vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 1848,
+          "like_count": 9688,
+          "listed_count": 9,
+          "media_count": 1739,
+          "tweet_count": 6446
+        },
+        "username": "socdemAdam",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1877029740122448327",
+    "created_at": "2025-01-08T16:28:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-08T17:28:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877029740122448327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1221462414744596483",
+          "start": 3,
+          "username": "RpsAgainstTrump"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877029740122448327",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1841
+    },
+    "referenced_tweets": [
+      {
+        "id": "1876752501925351744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RpsAgainstTrump: BREAKING: Pierre Poilievre, leader of Canada’s Conservative Party and likely the next Prime Minister of Canada, respon…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1877029740122448327",
+        "created_at": "2025-01-08T16:28:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-08T17:28:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877029740122448327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1221462414744596483",
+              "start": 3,
+              "username": "RpsAgainstTrump"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877029740122448327",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1841
+        },
+        "referenced_tweets": [
+          {
+            "id": "1876752501925351744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RpsAgainstTrump: BREAKING: Pierre Poilievre, leader of Canada’s Conservative Party and likely the next Prime Minister of Canada, respon…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1876752499509534720"
+          ]
+        },
+        "author_id": "1221462414744596483",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "1876752501925351744",
+        "created_at": "2025-01-07T22:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-07T23:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1876752501925351744"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yl6mKPCV8k",
+              "end": 242,
+              "expanded_url": "https://x.com/RpsAgainstTrump/status/1876752501925351744/photo/1",
+              "media_key": "3_1876752499509534720",
+              "start": 219,
+              "url": "https://t.co/Yl6mKPCV8k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1876752501925351744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 396664,
+          "like_count": 18032,
+          "quote_count": 80,
+          "reply_count": 397,
+          "retweet_count": 1841
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Pierre Poilievre, leader of Canada’s Conservative Party and likely the next Prime Minister of Canada, responds to Trump:\n\n“Canada will never be the 51st state. Period. We are a great and independent country.” https://t.co/Yl6mKPCV8k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873288350636924928/v2jyeQ24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2063,
+          "following_count": 1395,
+          "like_count": 19342,
+          "listed_count": 8,
+          "media_count": 662,
+          "tweet_count": 11345
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-26T15:58:45.000Z",
+        "description": "Pro-democracy conservatives Republicans fighting Trump & Trumpism. Please support our work: https://t.co/FkmisNic4X",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/RFJBIDENj",
+                "end": 115,
+                "expanded_url": "http://buymeacoffee.com/RFJBIDENj",
+                "start": 92,
+                "url": "https://t.co/FkmisNic4X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/republicansaga…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/republicansagainsttrump/profilecard/?igsh=MXM4OGZ0cHRiOGdmMg==",
+                "start": 0,
+                "url": "https://t.co/T5WLe2N06i"
+              }
+            ]
+          }
+        },
+        "id": "1221462414744596483",
+        "location": "United States",
+        "name": "Republicans against Trump",
+        "pinned_tweet_id": "1876664621949460624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552023520347099136/tIGoFfQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 783470,
+          "following_count": 4901,
+          "like_count": 113424,
+          "listed_count": 4122,
+          "media_count": 22246,
+          "tweet_count": 116138
+        },
+        "url": "https://t.co/T5WLe2N06i",
+        "username": "RpsAgainstTrump",
+        "verified": true
+      }
+    ]
+  }
+}

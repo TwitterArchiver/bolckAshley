@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2030945605305184675",
+    "created_at": "2026-03-09T09:55:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T10:55:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030945605305184675"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "Germany"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1022257111621926913",
+          "start": 3,
+          "username": "ElectsWorld"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030945605305184675",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030769813371359626",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ElectsWorld: 🇩🇪#Germany, Munich mayoral election results (1st round):\n\nReiter (SPD-inc): 35,6 %☑️\nKrause (Grüne): 29,5 %☑️\nBaumgärtner…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 563,
+        "media_key": "3_2030767769554219008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC68huWXcAAXSy4.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2030945605305184675",
+        "created_at": "2026-03-09T09:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T10:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030945605305184675"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "Germany"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1022257111621926913",
+              "start": 3,
+              "username": "ElectsWorld"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030945605305184675",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030769813371359626",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ElectsWorld: 🇩🇪#Germany, Munich mayoral election results (1st round):\n\nReiter (SPD-inc): 35,6 %☑️\nKrause (Grüne): 29,5 %☑️\nBaumgärtner…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030767769554219008"
+          ]
+        },
+        "author_id": "1022257111621926913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2030769813371359626",
+        "created_at": "2026-03-08T22:17:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T23:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030769813371359626"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 2,
+              "tag": "Germany"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rf94lMyTPs",
+              "end": 280,
+              "expanded_url": "https://x.com/ElectsWorld/status/2030769813371359626/photo/1",
+              "media_key": "3_2030767769554219008",
+              "start": 257,
+              "url": "https://t.co/rf94lMyTPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030769813371359626",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3349,
+          "like_count": 86,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "🇩🇪#Germany, Munich mayoral election results (1st round):\n\nReiter (SPD-inc): 35,6 %☑️\nKrause (Grüne): 29,5 %☑️\nBaumgärtner (CDU): 21,3 %\nWalbrunn (AfD): 4,4 %\nJagel (Die Linke): 2,4 %\n...\n\nMayor Reiter (SPD) and Dominik Krause (Grüne) advance to the runoff. https://t.co/rf94lMyTPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 1986,
+          "like_count": 39346,
+          "listed_count": 16,
+          "media_count": 1378,
+          "tweet_count": 19970
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-25T23:07:42.000Z",
+        "description": "Polls, political news and elections results from all around the world!\n#UseYourVote\n\nFollow me everywhere➡️https://t.co/kUF1ZRe00y",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 71,
+                "tag": "UseYourVote"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "linktr.ee/world.elects",
+                "end": 130,
+                "expanded_url": "https://linktr.ee/world.elects",
+                "start": 107,
+                "url": "https://t.co/kUF1ZRe00y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/world.elects",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/world.elects",
+                "start": 0,
+                "url": "https://t.co/kUF1ZRe00y"
+              }
+            ]
+          }
+        },
+        "id": "1022257111621926913",
+        "location": "🎶Around the World🎶",
+        "name": "World Elects",
+        "pinned_tweet_id": "1857010844707459270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1344982266964025344/0W0yS3QK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34006,
+          "following_count": 184,
+          "like_count": 945,
+          "listed_count": 392,
+          "media_count": 17668,
+          "tweet_count": 21113
+        },
+        "url": "https://t.co/kUF1ZRe00y",
+        "username": "ElectsWorld",
+        "verified": true
+      }
+    ]
+  }
+}

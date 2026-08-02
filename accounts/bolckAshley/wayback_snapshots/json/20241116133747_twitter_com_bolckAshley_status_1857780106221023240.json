@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Taiwan ",
+          "id": "1187470815551340544",
+          "name": "Ing-wen Tsai "
+        }
+      }
+    ],
+    "conversation_id": "1857706921748558102",
+    "created_at": "2024-11-16T13:37:47.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-16T14:37:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1857780106221023240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1711718284717137920",
+          "start": 0,
+          "username": "liminfin"
+        },
+        {
+          "end": 22,
+          "id": "1660708799374843905",
+          "start": 10,
+          "username": "ggininder64"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1857780106221023240",
+    "in_reply_to_user_id": "1711718284717137920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1857722904861098204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liminfin @ggininder64 蔡英文本人不是社會自由主義者嗎🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "1857706921748558102",
+        "created_at": "2024-11-16T13:37:47.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T14:37:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857780106221023240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1711718284717137920",
+              "start": 0,
+              "username": "liminfin"
+            },
+            {
+              "end": 22,
+              "id": "1660708799374843905",
+              "start": 10,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857780106221023240",
+        "in_reply_to_user_id": "1711718284717137920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857722904861098204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liminfin @ggininder64 蔡英文本人不是社會自由主義者嗎🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711718284717137920",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Taiwan ",
+              "id": "1187470815551340544",
+              "name": "Ing-wen Tsai "
+            }
+          }
+        ],
+        "conversation_id": "1857706921748558102",
+        "created_at": "2024-11-16T09:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-16T10:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1857722904861098204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1660708799374843905",
+              "start": 0,
+              "username": "ggininder64"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1857722904861098204",
+        "in_reply_to_user_id": "1660708799374843905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 162,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1857706921748558102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggininder64 蔡英文崇拜Margaret Thatcher \n蔡英文支持同性婚姻\n從此可論證出新自由主義是左派"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹||左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||偶爾寫點東西發到這裡||可愛寶寶：@oubuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 100,
+                "username": "oubuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 1180,
+          "like_count": 16153,
+          "listed_count": 7,
+          "tweet_count": 10317
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-10T12:20:41.000Z",
+        "description": "Greta Thunberg progressive, anti-Harris, anti-tankie, anti-racism",
+        "id": "1711718284717137920",
+        "location": "Hong Kong",
+        "name": "LIM",
+        "pinned_tweet_id": "1811891511509872761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851210006269714432/ZeC8QgZ5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1830,
+          "like_count": 80883,
+          "listed_count": 16,
+          "tweet_count": 24375
+        },
+        "username": "liminfin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-22T18:06:53.000Z",
+        "description": "Republic of China (Taiwan) 🇹🇼\n\nAnti the CCP and pink\n\nAnti maga and alt right\n\npro🏳️‍🌈🏳️‍⚧️",
+        "id": "1660708799374843905",
+        "name": "史密斯🇹🇼🇯🇵🇰🇷",
+        "pinned_tweet_id": "1761700061531226282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808395387277049856/26Is5tUd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 6010,
+          "like_count": 55384,
+          "listed_count": 19,
+          "tweet_count": 25638
+        },
+        "username": "ggininder64",
+        "verified": false
+      }
+    ]
+  }
+}

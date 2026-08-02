@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      }
+    ],
+    "conversation_id": "1819361962590978063",
+    "created_at": "2024-08-02T13:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-02T14:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1819361962590978063"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 95,
+          "normalized_text": "XiaomiFans",
+          "probability": 0.682,
+          "start": 86,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 96,
+          "start": 85,
+          "tag": "XiaomiFans"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "377228272",
+          "start": 3,
+          "username": "Xiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1819361962590978063",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "1819228884044599728",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomi: If you didn't know, there are 50 products waiting for the biggest of all #XiaomiFans!\nTest your knowledge and reward it with a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1819361962590978063",
+        "created_at": "2024-08-02T13:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T14:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1819361962590978063"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 95,
+              "normalized_text": "XiaomiFans",
+              "probability": 0.682,
+              "start": 86,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 96,
+              "start": 85,
+              "tag": "XiaomiFans"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "377228272",
+              "start": 3,
+              "username": "Xiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819361962590978063",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "1819228884044599728",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaomi: If you didn't know, there are 50 products waiting for the biggest of all #XiaomiFans!\nTest your knowledge and reward it with a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1819216858450743299"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          }
+        ],
+        "conversation_id": "1819228884044599728",
+        "created_at": "2024-08-02T04:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-02T05:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1819228884044599728"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 83,
+              "normalized_text": "XiaomiFans",
+              "probability": 0.655,
+              "start": 74,
+              "type": "Organization"
+            },
+            {
+              "end": 133,
+              "normalized_text": "Xiaomi",
+              "probability": 0.8137,
+              "start": 128,
+              "type": "Organization"
+            },
+            {
+              "end": 168,
+              "normalized_text": "XiaomiFanTasticChallenge",
+              "probability": 0.6176,
+              "start": 145,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 73,
+              "tag": "XiaomiFans"
+            },
+            {
+              "end": 134,
+              "start": 127,
+              "tag": "Xiaomi"
+            },
+            {
+              "end": 169,
+              "start": 144,
+              "tag": "XiaomiFanTasticChallenge"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "s.mi.com/KcyWwDkE",
+              "end": 194,
+              "expanded_url": "http://s.mi.com/KcyWwDkE",
+              "start": 171,
+              "unwound_url": "http://s.mi.com/KcyWwDkE",
+              "url": "https://t.co/YkplqyoKNI"
+            },
+            {
+              "display_url": "pic.twitter.com/KGPdxOnn3B",
+              "end": 218,
+              "expanded_url": "https://twitter.com/Xiaomi/status/1819228884044599728/photo/1",
+              "media_key": "3_1819216858450743299",
+              "start": 195,
+              "url": "https://t.co/KGPdxOnn3B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1819228884044599728",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 110825,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "If you didn't know, there are 50 products waiting for the biggest of all #XiaomiFans!\nTest your knowledge and reward it with a #Xiaomi prize in #XiaomiFanTasticChallenge: https://t.co/YkplqyoKNI https://t.co/KGPdxOnn3B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 991,
+          "like_count": 13487,
+          "listed_count": 9,
+          "tweet_count": 9174
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "Test your knowledge and win a #Xiaomi prize in the very first #XiaomiFanTasticChallenge: https://t.co/4LoWN09KY8\n\nFor support, please contact @XiaomiSupport",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "Xiaomi"
+              },
+              {
+                "end": 87,
+                "start": 62,
+                "tag": "XiaomiFanTasticChallenge"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 156,
+                "start": 142,
+                "username": "XiaomiSupport"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "s.mi.com/KcyWwDkE",
+                "end": 112,
+                "expanded_url": "http://s.mi.com/KcyWwDkE",
+                "start": 89,
+                "url": "https://t.co/4LoWN09KY8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/RdKDypC3",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/RdKDypC3",
+                "start": 0,
+                "url": "https://t.co/jfiEI8vz6C"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "1819228884044599728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417399,
+          "following_count": 361,
+          "like_count": 9293,
+          "listed_count": 3762,
+          "tweet_count": 12593
+        },
+        "url": "https://t.co/jfiEI8vz6C",
+        "username": "Xiaomi",
+        "verified": true
+      }
+    ]
+  }
+}

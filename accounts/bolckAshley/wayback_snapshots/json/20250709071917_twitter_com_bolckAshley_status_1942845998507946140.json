@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1942781532462305392",
+    "created_at": "2025-07-09T07:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-09T08:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1942845998507946140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682570508615970816",
+          "start": 0,
+          "username": "ZiggerBorea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1942845998507946140",
+    "in_reply_to_user_id": "1682570508615970816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1942781532462305392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZiggerBorea 回來罷😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1942781532462305392].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1942781532462305392",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1942781532462305392"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1942781532462305392",
+        "created_at": "2025-07-09T07:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-09T08:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1942845998507946140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682570508615970816",
+              "start": 0,
+              "username": "ZiggerBorea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1942845998507946140",
+        "in_reply_to_user_id": "1682570508615970816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1942781532462305392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZiggerBorea 回來罷😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 1853,
+          "like_count": 29959,
+          "listed_count": 10,
+          "media_count": 960,
+          "tweet_count": 14821
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T01:57:32.000Z",
+        "description": "我，雅利安人\n你，非雅利安人",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/watch?v=us1fmh…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/watch?v=us1fmhYTlJg",
+                "start": 0,
+                "url": "https://t.co/uhgxnu2Ila"
+              }
+            ]
+          }
+        },
+        "id": "1682570508615970816",
+        "location": "Ziggerborea",
+        "name": "安寡的石块🇺🇦",
+        "pinned_tweet_id": "1940105611796259019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942524462483857408/Wb9J8c1D_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 139,
+          "like_count": 262,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 207
+        },
+        "url": "https://t.co/uhgxnu2Ila",
+        "username": "ZiggerBorea",
+        "verified": false
+      }
+    ]
+  }
+}

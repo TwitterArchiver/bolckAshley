@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071920799724732416"
+      ],
+      "media_source_tweet_id": [
+        "2071920807278964842"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2072243436573303008",
+    "created_at": "2026-07-01T08:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T09:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072243436573303008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751497892001685504",
+          "start": 3,
+          "username": "45_206MHz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fyGahew5T",
+          "end": 55,
+          "expanded_url": "https://x.com/45_206MHz/status/2071920807278964842/photo/1",
+          "media_key": "3_2071920799724732416",
+          "start": 32,
+          "url": "https://t.co/0fyGahew5T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072243436573303008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071920807278964842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @45_206MHz: 在Steam上购买你妈立省20% https://t.co/0fyGahew5T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2071920799724732416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDw_WZWAAAjBOu.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071920799724732416"
+          ],
+          "media_source_tweet_id": [
+            "2071920807278964842"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2072243436573303008",
+        "created_at": "2026-07-01T08:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T09:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072243436573303008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751497892001685504",
+              "start": 3,
+              "username": "45_206MHz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fyGahew5T",
+              "end": 55,
+              "expanded_url": "https://x.com/45_206MHz/status/2071920807278964842/photo/1",
+              "media_key": "3_2071920799724732416",
+              "start": 32,
+              "url": "https://t.co/0fyGahew5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072243436573303008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071920807278964842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @45_206MHz: 在Steam上购买你妈立省20% https://t.co/0fyGahew5T"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071920799724732416"
+          ]
+        },
+        "author_id": "1751497892001685504",
+        "conversation_id": "2071920807278964842",
+        "created_at": "2026-06-30T11:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071920807278964842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fyGahew5T",
+              "end": 40,
+              "expanded_url": "https://x.com/45_206MHz/status/2071920807278964842/photo/1",
+              "media_key": "3_2071920799724732416",
+              "start": 17,
+              "url": "https://t.co/0fyGahew5T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071920807278964842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 28481,
+          "like_count": 372,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "在Steam上购买你妈立省20% https://t.co/0fyGahew5T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4032,
+          "following_count": 2244,
+          "like_count": 42901,
+          "listed_count": 29,
+          "media_count": 1774,
+          "tweet_count": 23118
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 115,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 92,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3199,
+          "following_count": 497,
+          "like_count": 37669,
+          "listed_count": 1,
+          "media_count": 848,
+          "tweet_count": 4622
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

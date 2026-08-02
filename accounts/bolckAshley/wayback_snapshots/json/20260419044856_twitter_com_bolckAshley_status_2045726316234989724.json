@@ -1,0 +1,524 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2045726316234989724",
+    "created_at": "2026-04-19T04:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045726316234989724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1790319108875227136",
+          "start": 3,
+          "username": "needygirl_o"
+        },
+        {
+          "end": 54,
+          "id": "150283751",
+          "start": 38,
+          "username": "choboraunyopomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045726316234989724",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045698907691528699",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @needygirl_o: ✝　第2話　✝\n\nちょぼらうにょぽみ先生（@choboraunyopomi）の漫画\n『NEEDY GIRL OVERDOSE 絶対革命病病事変 ミッドナイト配信LOVE♡ †ピをしあわせにする100の方法†』\n最新話を公開❣️\n\nこのアカウント…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1528,
+        "media_key": "3_2044695821522960384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA4BDOaAAAaZsD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2044695836140158976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA4B5rawAAeObH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2044695853240369152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA4C5YbQAAknTo.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2044695867006087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGA4DsqbcAAGMJU.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2045726316234989724",
+        "created_at": "2026-04-19T04:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045726316234989724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1790319108875227136",
+              "start": 3,
+              "username": "needygirl_o"
+            },
+            {
+              "end": 54,
+              "id": "150283751",
+              "start": 38,
+              "username": "choboraunyopomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045726316234989724",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045698907691528699",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @needygirl_o: ✝　第2話　✝\n\nちょぼらうにょぽみ先生（@choboraunyopomi）の漫画\n『NEEDY GIRL OVERDOSE 絶対革命病病事変 ミッドナイト配信LOVE♡ †ピをしあわせにする100の方法†』\n最新話を公開❣️\n\nこのアカウント…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044695821522960384",
+            "3_2044695836140158976",
+            "3_2044695853240369152",
+            "3_2044695867006087168"
+          ]
+        },
+        "author_id": "1790319108875227136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2045698907691528699",
+        "created_at": "2026-04-19T03:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045698907691528699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 140,
+              "start": 135,
+              "tag": "病病事変"
+            },
+            {
+              "end": 146,
+              "start": 141,
+              "tag": "ニディガ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 37,
+              "id": "150283751",
+              "start": 21,
+              "username": "choboraunyopomi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ovbECvnt9o",
+              "end": 170,
+              "expanded_url": "https://x.com/needygirl_o/status/2045698907691528699/photo/1",
+              "media_key": "3_2044695821522960384",
+              "start": 147,
+              "url": "https://t.co/ovbECvnt9o"
+            },
+            {
+              "display_url": "pic.x.com/ovbECvnt9o",
+              "end": 170,
+              "expanded_url": "https://x.com/needygirl_o/status/2045698907691528699/photo/1",
+              "media_key": "3_2044695836140158976",
+              "start": 147,
+              "url": "https://t.co/ovbECvnt9o"
+            },
+            {
+              "display_url": "pic.x.com/ovbECvnt9o",
+              "end": 170,
+              "expanded_url": "https://x.com/needygirl_o/status/2045698907691528699/photo/1",
+              "media_key": "3_2044695853240369152",
+              "start": 147,
+              "url": "https://t.co/ovbECvnt9o"
+            },
+            {
+              "display_url": "pic.x.com/ovbECvnt9o",
+              "end": 170,
+              "expanded_url": "https://x.com/needygirl_o/status/2045698907691528699/photo/1",
+              "media_key": "3_2044695867006087168",
+              "start": 147,
+              "url": "https://t.co/ovbECvnt9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045698907691528699",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 7809,
+          "like_count": 392,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "✝　第2話　✝\n\nちょぼらうにょぽみ先生（@choboraunyopomi）の漫画\n『NEEDY GIRL OVERDOSE 絶対革命病病事変 ミッドナイト配信LOVE♡ †ピをしあわせにする100の方法†』\n最新話を公開❣️\n\nこのアカウントで隔週ペースで連載中✨\n\n#病病事変 #ニディガ https://t.co/ovbECvnt9o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3122,
+          "following_count": 1980,
+          "like_count": 40730,
+          "listed_count": 19,
+          "media_count": 1468,
+          "tweet_count": 21270
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T09:52:26.000Z",
+        "description": "最強配信者（インターネット・エンジェル）と暮らすADV「NEEDY GIRL OVERDOSE」（ニディガと呼ぶ人もいるよ！）の公式アカウントです。\nYouTube：https://t.co/BKpkQo5DFg\nお問い合わせ：https://t.co/nXwN8xhR49",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wssplayground",
+                "end": 106,
+                "expanded_url": "https://www.youtube.com/@wssplayground",
+                "start": 83,
+                "url": "https://t.co/BKpkQo5DFg"
+              },
+              {
+                "display_url": "angelkawaii.com",
+                "end": 137,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 114,
+                "url": "https://t.co/nXwN8xhR49"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "whysoserious.jp/needy/",
+                "end": 23,
+                "expanded_url": "https://whysoserious.jp/needy/",
+                "start": 0,
+                "url": "https://t.co/M5DW5V8xeX"
+              }
+            ]
+          }
+        },
+        "id": "1790319108875227136",
+        "name": "NEEDY GIRL Official",
+        "pinned_tweet_id": "2031302651246416300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790321034090147840/ohWusD8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60416,
+          "following_count": 8,
+          "like_count": 22,
+          "listed_count": 69,
+          "media_count": 702,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/M5DW5V8xeX",
+        "username": "needygirl_o",
+        "verified": true
+      },
+      {
+        "created_at": "2010-05-31T15:02:53.000Z",
+        "description": "🍀一児の母です💝マジキチ（マジで貴重な）4コマを描いているらしい。あいまいみー・ソメラちゃん・弱酸性MA・リヴェルン・ダンまち4コマ・巻いてはいけないローゼン・ピコ泉・病病事変・バじゃなくて、ヴァ。・叛逆のニジガサキ・着せ替え人形でChu・ふぇすば！・にょぽぱち■お仕事は📧nyopomi@yahoo.co.jp",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "choboraunyopomi.blog.jp",
+                "end": 23,
+                "expanded_url": "https://choboraunyopomi.blog.jp/",
+                "start": 0,
+                "url": "https://t.co/qPiudA5vFt"
+              }
+            ]
+          }
+        },
+        "id": "150283751",
+        "name": "ちょぼらうにょぽみ",
+        "pinned_tweet_id": "968086119962169344",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1494624766979837957/Yv0HddCL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115042,
+          "following_count": 0,
+          "like_count": 2129,
+          "listed_count": 1221,
+          "media_count": 2126,
+          "tweet_count": 14930
+        },
+        "url": "https://t.co/qPiudA5vFt",
+        "username": "choboraunyopomi",
+        "verified": true
+      }
+    ]
+  }
+}

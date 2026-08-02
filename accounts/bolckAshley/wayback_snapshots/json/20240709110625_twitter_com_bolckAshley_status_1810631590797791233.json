@@ -1,0 +1,455 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "13_1809293801749372928"
+      ],
+      "media_source_tweet_id": [
+        "1809293999871603169"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735209237102592",
+          "name": "David Lammy"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735209237102592",
+          "name": "David Lammy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British politician",
+          "id": "1070735209237102592",
+          "name": "David Lammy"
+        }
+      }
+    ],
+    "conversation_id": "1810631590797791233",
+    "created_at": "2024-07-09T11:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-09T12:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1810631590797791233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "18020612",
+          "start": 3,
+          "username": "DavidLammy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UTS40y4Ole",
+          "end": 58,
+          "expanded_url": "https://twitter.com/DavidLammy/status/1809293999871603169/video/1",
+          "media_key": "13_1809293801749372928",
+          "start": 35,
+          "url": "https://t.co/UTS40y4Ole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1810631590797791233",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2479
+    },
+    "referenced_tweets": [
+      {
+        "id": "1809293999871603169",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavidLammy: Change begins now. https://t.co/UTS40y4Ole"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 84600,
+        "height": 720,
+        "media_key": "13_1809293801749372928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1809293801749372928/img/7mxTx738JiULGW0h.jpg",
+        "public_metrics": {
+          "view_count": 1494250
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809293801749372928/vid/avc1/480x270/nUUh6nK4foqZh7Oz.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809293801749372928/vid/avc1/640x360/y6yd-RKcczIM7J_m.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1809293801749372928/vid/avc1/1280x720/ZWbQn7n3WWnQaL-Y.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1809293801749372928/pl/UyKKVyLPmpiczdUT.m3u8?tag=16"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1809293801749372928"
+          ],
+          "media_source_tweet_id": [
+            "1809293999871603169"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735209237102592",
+              "name": "David Lammy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735209237102592",
+              "name": "David Lammy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735209237102592",
+              "name": "David Lammy"
+            }
+          }
+        ],
+        "conversation_id": "1810631590797791233",
+        "created_at": "2024-07-09T11:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-09T12:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1810631590797791233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "18020612",
+              "start": 3,
+              "username": "DavidLammy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UTS40y4Ole",
+              "end": 58,
+              "expanded_url": "https://twitter.com/DavidLammy/status/1809293999871603169/video/1",
+              "media_key": "13_1809293801749372928",
+              "start": 35,
+              "url": "https://t.co/UTS40y4Ole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1810631590797791233",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2479
+        },
+        "referenced_tweets": [
+          {
+            "id": "1809293999871603169",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DavidLammy: Change begins now. https://t.co/UTS40y4Ole"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "13_1809293801749372928"
+          ]
+        },
+        "author_id": "18020612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735209237102592",
+              "name": "David Lammy"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735209237102592",
+              "name": "David Lammy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735209237102592",
+              "name": "David Lammy"
+            }
+          }
+        ],
+        "conversation_id": "1809293999871603169",
+        "created_at": "2024-07-05T18:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-05T19:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1809293999871603169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UTS40y4Ole",
+              "end": 42,
+              "expanded_url": "https://twitter.com/DavidLammy/status/1809293999871603169/video/1",
+              "media_key": "13_1809293801749372928",
+              "start": 19,
+              "url": "https://t.co/UTS40y4Ole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1809293999871603169",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1054,
+          "impression_count": 2457425,
+          "like_count": 16938,
+          "quote_count": 825,
+          "reply_count": 3779,
+          "retweet_count": 2479
+        },
+        "reply_settings": "everyone",
+        "text": "Change begins now. https://t.co/UTS40y4Ole"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 965,
+          "like_count": 12666,
+          "listed_count": 7,
+          "tweet_count": 8565
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-10T14:53:54.000Z",
+        "description": "MP for Tottenham, Secretary of State for Foreign, Commonwealth and Development Affairs @FCDOGovUK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 87,
+                "username": "FCDOGovUK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tidd.ly/315f030e",
+                "end": 23,
+                "expanded_url": "http://tidd.ly/315f030e",
+                "start": 0,
+                "url": "https://t.co/PfjeSx0di9"
+              }
+            ]
+          }
+        },
+        "id": "18020612",
+        "location": "Tottenham",
+        "name": "David Lammy",
+        "pinned_tweet_id": "1809293999871603169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1809664314263105539/GxDgClHP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805397,
+          "following_count": 5404,
+          "like_count": 14717,
+          "listed_count": 3673,
+          "tweet_count": 25646
+        },
+        "url": "https://t.co/PfjeSx0di9",
+        "username": "DavidLammy",
+        "verified": true
+      }
+    ]
+  }
+}

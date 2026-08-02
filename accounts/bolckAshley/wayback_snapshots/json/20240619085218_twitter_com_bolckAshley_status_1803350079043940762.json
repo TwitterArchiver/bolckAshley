@@ -1,0 +1,370 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      }
+    ],
+    "conversation_id": "1803350079043940762",
+    "created_at": "2024-06-19T08:52:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-19T09:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1803350079043940762"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 16,
+          "tag": "中推模拟选举"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1409636696145154051",
+          "start": 3,
+          "username": "Liberal_KD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1803350079043940762",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1803334904349958579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liberal_KD: #中推模拟选举\n\n包含各党政见等重要信息在内的《第四届中推圈模拟选举选民手册》第一版正式出炉！\n\n想不再错过本届模拟选举的任何细节？只需阅读本刊即可~\n\n党徽及政见纲领可随时私信委员以更新\n\nGoogle Drive分享链接如下👇（请放心点击）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1803350079043940762",
+        "created_at": "2024-06-19T08:52:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T09:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1803350079043940762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 16,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1409636696145154051",
+              "start": 3,
+              "username": "Liberal_KD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803350079043940762",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1803334904349958579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liberal_KD: #中推模拟选举\n\n包含各党政见等重要信息在内的《第四届中推圈模拟选举选民手册》第一版正式出炉！\n\n想不再错过本届模拟选举的任何细节？只需阅读本刊即可~\n\n党徽及政见纲领可随时私信委员以更新\n\nGoogle Drive分享链接如下👇（请放心点击）…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1803165060887359488"
+          ]
+        },
+        "author_id": "1409636696145154051",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          }
+        ],
+        "conversation_id": "1803334904349958579",
+        "created_at": "2024-06-19T07:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-19T08:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1803334904349958579"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "中推模拟选举"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "drive.google.com/file/d/10S5NJ1…",
+              "end": 146,
+              "expanded_url": "https://drive.google.com/file/d/10S5NJ1oXw93IE06DAOY5_kHT5iNqDdpj/view?usp=sharing",
+              "start": 123,
+              "status": 200,
+              "title": "第四届中推圈模拟选举选民手册.pdf",
+              "unwound_url": "https://drive.google.com/file/d/10S5NJ1oXw93IE06DAOY5_kHT5iNqDdpj/view?usp=sharing",
+              "url": "https://t.co/AIAMnxzyYz"
+            },
+            {
+              "display_url": "pic.twitter.com/dNZrJilyLT",
+              "end": 170,
+              "expanded_url": "https://twitter.com/Liberal_KD/status/1803334904349958579/photo/1",
+              "media_key": "3_1803165060887359488",
+              "start": 147,
+              "url": "https://t.co/dNZrJilyLT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1803334904349958579",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 443,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "#中推模拟选举\n\n包含各党政见等重要信息在内的《第四届中推圈模拟选举选民手册》第一版正式出炉！\n\n想不再错过本届模拟选举的任何细节？只需阅读本刊即可~\n\n党徽及政见纲领可随时私信委员以更新\n\nGoogle Drive分享链接如下👇（请放心点击）\nhttps://t.co/AIAMnxzyYz https://t.co/dNZrJilyLT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1476,
+          "following_count": 922,
+          "like_count": 11887,
+          "listed_count": 8,
+          "tweet_count": 7882
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-28T22:16:01.000Z",
+        "description": "不定时分享书报片段及胡言乱语 | 过气刊物《青鸟信使》@courier_blue | 第四届中推圈模拟选举，请持续关注活动！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "courier_blue"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bluebirdcourier",
+                "end": 23,
+                "expanded_url": "https://t.me/bluebirdcourier",
+                "start": 0,
+                "url": "https://t.co/JNQdoOKGS2"
+              }
+            ]
+          }
+        },
+        "id": "1409636696145154051",
+        "location": "Bluebirdcourier",
+        "name": "海棠【中推圈模拟大选ing】",
+        "pinned_tweet_id": "1803334904349958579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797286928745713665/LW4LLjpz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1865,
+          "following_count": 860,
+          "like_count": 17571,
+          "listed_count": 8,
+          "tweet_count": 1183
+        },
+        "url": "https://t.co/JNQdoOKGS2",
+        "username": "Liberal_KD",
+        "verified": false
+      }
+    ]
+  }
+}

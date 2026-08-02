@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10024070856",
+          "name": "MTV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10024070856",
+          "name": "MTV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "Tune in live, September 11 starting at 6:30p to follow the #VMAs on X! ",
+          "id": "1828130948413628416",
+          "name": "MTV Video Music Awards 2024"
+        }
+      }
+    ],
+    "conversation_id": "1907385234880139301",
+    "created_at": "2025-04-02T10:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-02T11:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907385234880139301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2912403621",
+          "start": 3,
+          "username": "SDPhelsinki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907385234880139301",
+    "lang": "fi",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907379377811099999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SDPhelsinki: MTV Uutisten teettämän gallupin mukaan SDP johtaa sekä kunta- että aluevaaleissa.\n\nKuntavaalien kannatukset: \nSDP 23,1%\nKo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10024070856",
+              "name": "MTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10024070856",
+              "name": "MTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Tune in live, September 11 starting at 6:30p to follow the #VMAs on X! ",
+              "id": "1828130948413628416",
+              "name": "MTV Video Music Awards 2024"
+            }
+          }
+        ],
+        "conversation_id": "1907385234880139301",
+        "created_at": "2025-04-02T10:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907385234880139301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2912403621",
+              "start": 3,
+              "username": "SDPhelsinki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907385234880139301",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907379377811099999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SDPhelsinki: MTV Uutisten teettämän gallupin mukaan SDP johtaa sekä kunta- että aluevaaleissa.\n\nKuntavaalien kannatukset: \nSDP 23,1%\nKo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2912403621",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10024070856",
+              "name": "MTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10024070856",
+              "name": "MTV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Tune in live, September 11 starting at 6:30p to follow the #VMAs on X! ",
+              "id": "1828130948413628416",
+              "name": "MTV Video Music Awards 2024"
+            }
+          }
+        ],
+        "conversation_id": "1907379377811099999",
+        "created_at": "2025-04-02T10:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T11:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907379377811099999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "SDP johtaa sekä kunta- että aluevaaligallupia, selviää MTV Uutisten Åbo Akademilta tilaamasta kyselystä.",
+              "display_url": "mtvuutiset.fi/artikkeli/mtv-…",
+              "end": 178,
+              "expanded_url": "https://www.mtvuutiset.fi/artikkeli/mtv-kysely-sdp-karjessa-kunta-ja-aluevaalimittauksessa/9130164",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1907269424245096448/nJ_ORhbG?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1907269424245096448/nJ_ORhbG?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 155,
+              "status": 200,
+              "title": "MTV-kysely: SDP kärjessä kunta- ja aluevaalimittauksessa",
+              "unwound_url": "https://www.mtvuutiset.fi/artikkeli/mtv-kysely-sdp-karjessa-kunta-ja-aluevaalimittauksessa/9130164",
+              "url": "https://t.co/UWMf2OD1iF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "5ef832bb704339b0"
+        },
+        "id": "1907379377811099999",
+        "lang": "fi",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "MTV Uutisten teettämän gallupin mukaan SDP johtaa sekä kunta- että aluevaaleissa.\n\nKuntavaalien kannatukset: \nSDP 23,1%\nKok 19,3%\n\nKiitos luottamuksesta 🌹\nhttps://t.co/UWMf2OD1iF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2338,
+          "following_count": 1699,
+          "like_count": 24858,
+          "listed_count": 10,
+          "media_count": 833,
+          "tweet_count": 13082
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-09T09:11:03.000Z",
+        "description": "SDP:n päämääränä on yhteiskunta, jossa vapaus voittaa alistamisen, humaanisuus suvaitsemattomuuden ja oikeudenmukaisuus itsekkyyden ❤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sdp.fi/liity-jaseneks…",
+                "end": 23,
+                "expanded_url": "https://www.sdp.fi/liity-jaseneksi/",
+                "start": 0,
+                "url": "https://t.co/axOqKiMh3G"
+              }
+            ]
+          }
+        },
+        "id": "2912403621",
+        "location": "Helsinki",
+        "name": "Helsingin demarit",
+        "pinned_tweet_id": "1895366764034433259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699320280294772736/9khSAiLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 306,
+          "like_count": 9243,
+          "listed_count": 9,
+          "media_count": 738,
+          "tweet_count": 8747
+        },
+        "url": "https://t.co/axOqKiMh3G",
+        "username": "SDPhelsinki",
+        "verified": false
+      }
+    ]
+  }
+}

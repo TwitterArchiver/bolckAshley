@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1864903908566417537",
+    "created_at": "2024-12-06T05:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-06T06:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1864903908566417537"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "KMT",
+          "probability": 0.688,
+          "start": 20,
+          "type": "Organization"
+        },
+        {
+          "end": 48,
+          "normalized_text": "DPP",
+          "probability": 0.4777,
+          "start": 46,
+          "type": "Organization"
+        },
+        {
+          "end": 75,
+          "normalized_text": "South Korea",
+          "probability": 0.9533,
+          "start": 65,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1062560079847682048",
+          "start": 3,
+          "username": "kuomintang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1864903908566417537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "1864589309694890484",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuomintang: The KMT strongly condemns the DPP for exploiting South Korea’s situation for political manipulation  and using the hardship…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1864903908566417537",
+        "created_at": "2024-12-06T05:25:14.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-06T06:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1864903908566417537"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "KMT",
+              "probability": 0.688,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 48,
+              "normalized_text": "DPP",
+              "probability": 0.4777,
+              "start": 46,
+              "type": "Organization"
+            },
+            {
+              "end": 75,
+              "normalized_text": "South Korea",
+              "probability": 0.9533,
+              "start": 65,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1062560079847682048",
+              "start": 3,
+              "username": "kuomintang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864903908566417537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "1864589309694890484",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuomintang: The KMT strongly condemns the DPP for exploiting South Korea’s situation for political manipulation  and using the hardship…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1864589297787260928"
+          ]
+        },
+        "author_id": "1062560079847682048",
+        "conversation_id": "1864589309694890484",
+        "created_at": "2024-12-05T08:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-05T09:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1864589309694890484"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "KMT",
+              "probability": 0.6989,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 32,
+              "normalized_text": "DPP",
+              "probability": 0.619,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "South Korea",
+              "probability": 0.9621,
+              "start": 49,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 197,
+              "id": "32246010",
+              "start": 187,
+              "username": "DPPonline"
+            },
+            {
+              "end": 218,
+              "id": "1224953820716945408",
+              "start": 207,
+              "username": "ChingteLai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSGCxpZHsr",
+              "end": 294,
+              "expanded_url": "https://x.com/kuomintang/status/1864589309694890484/photo/1",
+              "media_key": "3_1864589297787260928",
+              "start": 271,
+              "url": "https://t.co/pSGCxpZHsr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1864589309694890484",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 59898,
+          "like_count": 329,
+          "quote_count": 73,
+          "reply_count": 233,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "The KMT strongly condemns the DPP for exploiting South Korea’s situation for political manipulation  and using the hardships of Korean democracy as an excuse to incite martial law fears. @DPPonline Chairman @ChingteLai must immediately apologize to the Taiwanese people. https://t.co/pSGCxpZHsr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 1271,
+          "like_count": 17230,
+          "listed_count": 8,
+          "media_count": 572,
+          "tweet_count": 10662
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-14T04:17:19.000Z",
+        "description": "中國國民黨為一個具有完美理想與悠久歷史的政黨。完美之理想在於建設中華民國成為一個自由、民主、富強、尊嚴的現代化國家；悠久之歷史，就是為實現此一完美理想而奮鬥匪懈的光榮記錄。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kmt.org.tw",
+                "end": 23,
+                "expanded_url": "http://www.kmt.org.tw/",
+                "start": 0,
+                "url": "https://t.co/i1VppDUGGu"
+              }
+            ]
+          }
+        },
+        "id": "1062560079847682048",
+        "location": "Taipei City, Taiwan (R.O.C.)",
+        "name": "中國國民黨 KMT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1315971947210010624/rz-JUhg4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90051,
+          "following_count": 160,
+          "like_count": 876,
+          "listed_count": 348,
+          "media_count": 492,
+          "tweet_count": 1205
+        },
+        "url": "https://t.co/i1VppDUGGu",
+        "username": "kuomintang",
+        "verified": false
+      }
+    ]
+  }
+}

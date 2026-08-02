@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "1944740774572372316",
+    "created_at": "2025-07-14T12:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T13:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944740774572372316"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "ナズナ",
+          "probability": 0.4921,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 85,
+          "normalized_text": "#よふかしのうた Season2",
+          "probability": 0.7927,
+          "start": 70,
+          "type": "Other"
+        },
+        {
+          "end": 135,
+          "normalized_text": "守くん",
+          "probability": 0.6662,
+          "start": 133,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 78,
+          "start": 70,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453395613282811911",
+          "start": 3,
+          "username": "yofukashi_pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944740774572372316",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944713485708849446",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yofukashi_pr: ナズナと一緒に\nノイタミナショップに行ってみた♪\n\n店内のカフェでは、9月26日(金)まで\nTVアニメ『#よふかしのうた Season2』\n連動キャンペーンが開催中✨\n\nまだまだ追いつけるぞ！第1夜！\nスイーツセット\n“第一回 夜守くんの恋路…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1943195819433234432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GveeTWJXkAA8Smx.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "1944740774572372316",
+        "created_at": "2025-07-14T12:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T13:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944740774572372316"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "ナズナ",
+              "probability": 0.4921,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 85,
+              "normalized_text": "#よふかしのうた Season2",
+              "probability": 0.7927,
+              "start": 70,
+              "type": "Other"
+            },
+            {
+              "end": 135,
+              "normalized_text": "守くん",
+              "probability": 0.6662,
+              "start": 133,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 78,
+              "start": 70,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453395613282811911",
+              "start": 3,
+              "username": "yofukashi_pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944740774572372316",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944713485708849446",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yofukashi_pr: ナズナと一緒に\nノイタミナショップに行ってみた♪\n\n店内のカフェでは、9月26日(金)まで\nTVアニメ『#よふかしのうた Season2』\n連動キャンペーンが開催中✨\n\nまだまだ追いつけるぞ！第1夜！\nスイーツセット\n“第一回 夜守くんの恋路…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1943195819433234432"
+          ]
+        },
+        "author_id": "1453395613282811911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "1944713485708849446",
+        "created_at": "2025-07-14T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944713485708849446"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "ナズナ",
+              "probability": 0.4503,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 67,
+              "normalized_text": "#よふかしのうた Season2",
+              "probability": 0.8052,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 117,
+              "normalized_text": "守くん",
+              "probability": 0.6625,
+              "start": 115,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 60,
+              "start": 52,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ノイタミナグッズ販売",
+              "display_url": "noitamina-shop.com/event/id/1287",
+              "end": 166,
+              "expanded_url": "https://www.noitamina-shop.com/event/id/1287",
+              "images": [
+                {
+                  "height": 366,
+                  "url": "https://pbs.twimg.com/news_img/1943951015537172480/FZjZfnda?format=jpg&name=orig",
+                  "width": 880
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1943951015537172480/FZjZfnda?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 143,
+              "status": 200,
+              "title": "TVアニメ『よふかしのうた Season2』連動キャンペーン｜ノイタミナグッズ販売のノイタミナショップ 公式サイト",
+              "unwound_url": "https://www.noitamina-shop.com/event/id/1287",
+              "url": "https://t.co/8ATrdPnpRY"
+            },
+            {
+              "display_url": "pic.x.com/52P7Xgjh40",
+              "end": 190,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1944713485708849446/photo/1",
+              "media_key": "3_1943195819433234432",
+              "start": 167,
+              "url": "https://t.co/52P7Xgjh40"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944713485708849446",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 33486,
+          "like_count": 763,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "ナズナと一緒に\nノイタミナショップに行ってみた♪\n\n店内のカフェでは、9月26日(金)まで\nTVアニメ『#よふかしのうた Season2』\n連動キャンペーンが開催中✨\n\nまだまだ追いつけるぞ！第1夜！\nスイーツセット\n“第一回 夜守くんの恋路を応援しようの会”\n\n※詳細は下記HPにて\nhttps://t.co/8ATrdPnpRY https://t.co/52P7Xgjh40"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2500,
+          "following_count": 1857,
+          "like_count": 30138,
+          "listed_count": 10,
+          "media_count": 968,
+          "tweet_count": 14894
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T16:19:52.000Z",
+        "description": "TVアニメ『よふかしのうた Season2』2025年7月4日（金）より全国フジテレビ系“ノイタミナ”にて毎週金曜23時30分から放送\nTVアニメ『よふかしのうた Season1』各プラットフォームにて配信中 原作：コトヤマ（小学館「週刊少年サンデー」刊） 推奨ハッシュタグ： #よふかしのうた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "よふかしのうた"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com",
+                "end": 23,
+                "expanded_url": "https://yofukashi-no-uta.com",
+                "start": 0,
+                "url": "https://t.co/oRunZLf8es"
+              }
+            ]
+          }
+        },
+        "id": "1453395613282811911",
+        "name": "『よふかしのうた』TVアニメ公式",
+        "pinned_tweet_id": "1941150803466883230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199784843005952/Ln9iS_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165643,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 737,
+          "media_count": 633,
+          "tweet_count": 1458
+        },
+        "url": "https://t.co/oRunZLf8es",
+        "username": "yofukashi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

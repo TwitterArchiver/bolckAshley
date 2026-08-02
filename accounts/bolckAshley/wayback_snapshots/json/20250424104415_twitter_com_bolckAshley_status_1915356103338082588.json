@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Journalism",
+          "id": "1074755369530880001",
+          "name": "Journalists"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1427352573401452555",
+          "name": "Crisis in Afghanistan"
+        }
+      }
+    ],
+    "conversation_id": "1915356103338082588",
+    "created_at": "2025-04-24T10:44:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T11:44:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915356103338082588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "18118245",
+          "start": 3,
+          "username": "queer_de"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915356103338082588",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915326641380741229",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @queer_de: Die SPDqueer fordert von der Union, am Bundesaufnahmeprogramm Afghanistan festzuhalten und Aktivist*innen, Journalist*innen,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "1915356103338082588",
+        "created_at": "2025-04-24T10:44:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T11:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915356103338082588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "18118245",
+              "start": 3,
+              "username": "queer_de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915356103338082588",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915326641380741229",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @queer_de: Die SPDqueer fordert von der Union, am Bundesaufnahmeprogramm Afghanistan festzuhalten und Aktivist*innen, Journalist*innen,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18118245",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427352573401452555",
+              "name": "Crisis in Afghanistan"
+            }
+          }
+        ],
+        "conversation_id": "1915326641380741229",
+        "created_at": "2025-04-24T08:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T09:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915326641380741229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Die SPDqueer fordert von der Union, am Bundesaufnahmeprogramm Afghanistan festzuhalten und Aktivist*innen, Journalist*innen, Frauen und queere Menschen vor Verfolgung durch die Taliban zu schützen. (Politik - Deutschland)",
+              "display_url": "queer.de/detail.php?art…",
+              "end": 221,
+              "expanded_url": "https://www.queer.de/detail.php?article_id=53349",
+              "images": [
+                {
+                  "height": 426,
+                  "url": "https://pbs.twimg.com/news_img/1915326683827044352/KJ42yK2H?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1915326683827044352/KJ42yK2H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 198,
+              "status": 200,
+              "title": "Lässt Deutschland gefährdete Queers aus Afghanistan im Stich?",
+              "unwound_url": "https://www.queer.de/detail.php?article_id=53349",
+              "url": "https://t.co/mjSMPWfSlw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915326641380741229",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 271,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Die SPDqueer fordert von der Union, am Bundesaufnahmeprogramm Afghanistan festzuhalten und Aktivist*innen, Journalist*innen, Frauen und queere Menschen vor Verfolgung durch die Taliban zu schützen. https://t.co/mjSMPWfSlw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 1756,
+          "like_count": 25758,
+          "listed_count": 10,
+          "media_count": 875,
+          "tweet_count": 13418
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-12-14T16:17:32.000Z",
+        "description": "Das Zentralorgan der Homo-Lobby. Magazin für skurrile Minderheiten. Stimme des Regenbogen-Imperiums. LGBTI-Propaganda & GenderGaga vom Feinsten. Woke Online",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "queer.de",
+                "end": 23,
+                "expanded_url": "https://www.queer.de",
+                "start": 0,
+                "url": "https://t.co/rZ83EtUoFm"
+              }
+            ]
+          }
+        },
+        "id": "18118245",
+        "location": "Köln",
+        "name": "queer.de",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1647879040819163138/SBjB4NCT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28612,
+          "following_count": 2130,
+          "like_count": 116,
+          "listed_count": 295,
+          "media_count": 5862,
+          "tweet_count": 42480
+        },
+        "url": "https://t.co/rZ83EtUoFm",
+        "username": "queer_de",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2010664255402766560",
+    "created_at": "2026-01-13T07:24:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T08:24:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010976175838073079"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 152,
+          "normalized_text": "Twitter",
+          "probability": 0.9072,
+          "start": 146,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984139174824570881",
+          "start": 0,
+          "username": "Yashrawat9315"
+        },
+        {
+          "end": 29,
+          "id": "1125026028261445637",
+          "start": 15,
+          "username": "johnmarston03"
+        },
+        {
+          "end": 39,
+          "id": "1885655885306880003",
+          "start": 30,
+          "username": "Linkem78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010976175838073079",
+    "in_reply_to_user_id": "1984139174824570881",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010940535981424772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yashrawat9315 @johnmarston03 @Linkem78 I chose to display my region instead of country for personal safety. Not everyone has the luxury of using Twitter without security concerns. 😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2010664255402766560",
+        "created_at": "2026-01-13T07:24:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T08:24:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010976175838073079"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 152,
+              "normalized_text": "Twitter",
+              "probability": 0.9072,
+              "start": 146,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984139174824570881",
+              "start": 0,
+              "username": "Yashrawat9315"
+            },
+            {
+              "end": 29,
+              "id": "1125026028261445637",
+              "start": 15,
+              "username": "johnmarston03"
+            },
+            {
+              "end": 39,
+              "id": "1885655885306880003",
+              "start": 30,
+              "username": "Linkem78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010976175838073079",
+        "in_reply_to_user_id": "1984139174824570881",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010940535981424772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yashrawat9315 @johnmarston03 @Linkem78 I chose to display my region instead of country for personal safety. Not everyone has the luxury of using Twitter without security concerns. 😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984139174824570881",
+        "conversation_id": "2010664255402766560",
+        "created_at": "2026-01-13T05:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T06:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010940535981424772"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 73,
+              "normalized_text": "taiwan",
+              "probability": 0.8154,
+              "start": 68,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            },
+            {
+              "end": 27,
+              "id": "1125026028261445637",
+              "start": 13,
+              "username": "johnmarston03"
+            },
+            {
+              "end": 37,
+              "id": "1885655885306880003",
+              "start": 28,
+              "username": "Linkem78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010940535981424772",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 160,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010867839792791924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley @johnmarston03 @Linkem78 You profile says you are from taiwan"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 1962,
+          "like_count": 37455,
+          "listed_count": 14,
+          "media_count": 1269,
+          "tweet_count": 18602
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-31T06:03:52.000Z",
+        "description": "I'm yash rawat from delhi",
+        "id": "1984139174824570881",
+        "location": "New delhi india",
+        "name": "yash vines",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002474251681738761/HkEA-jjA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "username": "Yashrawat9315",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T13:14:41.000Z",
+        "description": "#DarkWoke / Marksist-Leninist",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "DarkWoke"
+              }
+            ]
+          }
+        },
+        "id": "1125026028261445637",
+        "location": "İstanbul, Türkiye",
+        "name": "Bedirhan",
+        "pinned_tweet_id": "1865600894881914881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942577341533749248/y3FklZ_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 1182,
+          "like_count": 72506,
+          "listed_count": 1,
+          "media_count": 1538,
+          "tweet_count": 8797
+        },
+        "username": "johnmarston03",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-01T11:46:22.000Z",
+        "description": "🇪🇺🇫🇷🇨🇭  •  18yo | He/Him ♂️  •  private: @Linkem78p •  bi 🏳️‍🌈  •  DM's open :33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "Linkem78p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/zvF6eeBHAE",
+                "end": 23,
+                "expanded_url": "https://discord.gg/zvF6eeBHAE",
+                "start": 0,
+                "url": "https://t.co/QCPmqgViWZ"
+              }
+            ]
+          }
+        },
+        "id": "1885655885306880003",
+        "location": "Happy land",
+        "name": "Tomyy 🇫🇷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010704379976777728/N-CD93QT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3685,
+          "following_count": 151,
+          "like_count": 15008,
+          "listed_count": 9,
+          "media_count": 773,
+          "tweet_count": 3445
+        },
+        "url": "https://t.co/QCPmqgViWZ",
+        "username": "Linkem78",
+        "verified": false
+      }
+    ]
+  }
+}

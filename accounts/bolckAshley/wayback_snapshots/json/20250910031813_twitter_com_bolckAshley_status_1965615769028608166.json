@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1965487826344325282",
+    "created_at": "2025-09-10T03:18:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T04:18:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965615769028608166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1680834021377593344",
+          "start": 0,
+          "username": "HyotoChandesuyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965615769028608166",
+    "in_reply_to_user_id": "1680834021377593344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965487826344325282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HyotoChandesuyo 蘋果這麼多年不就是越來越沒活"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 53,
+        "media_key": "3_1965487820551979009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0bQwlpbgAEraNo.jpg",
+        "width": 95
+      },
+      {
+        "height": 68,
+        "media_key": "3_1965487820547764224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0bQwlobMAAG_gA.jpg",
+        "width": 130
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1965487826344325282",
+        "created_at": "2025-09-10T03:18:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T04:18:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965615769028608166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1680834021377593344",
+              "start": 0,
+              "username": "HyotoChandesuyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965615769028608166",
+        "in_reply_to_user_id": "1680834021377593344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965487826344325282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HyotoChandesuyo 蘋果這麼多年不就是越來越沒活"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965487820551979009",
+            "3_1965487820547764224"
+          ]
+        },
+        "author_id": "1680834021377593344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cell phones",
+              "id": "848920700073123840",
+              "name": "Cell Phones"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "1965487826344325282",
+        "created_at": "2025-09-09T18:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T19:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965487826344325282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNKDCLhvCq",
+              "end": 110,
+              "expanded_url": "https://x.com/HyotoChandesuyo/status/1965487826344325282/photo/1",
+              "media_key": "3_1965487820551979009",
+              "start": 87,
+              "url": "https://t.co/nNKDCLhvCq"
+            },
+            {
+              "display_url": "pic.x.com/nNKDCLhvCq",
+              "end": 110,
+              "expanded_url": "https://x.com/HyotoChandesuyo/status/1965487826344325282/photo/1",
+              "media_key": "3_1965487820547764224",
+              "start": 87,
+              "url": "https://t.co/nNKDCLhvCq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965487826344325282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1549,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完Apple发布会感觉苹果越来越没活了\n一个前摄能讲几遍，什么车祸检测什么Ai不过标准版有高刷了\n\n窝到现在都觉得iPhone13 Pro到现在也是最好的（主要是没c口） https://t.co/nNKDCLhvCq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2561,
+          "following_count": 1939,
+          "like_count": 32648,
+          "listed_count": 11,
+          "media_count": 1067,
+          "tweet_count": 16162
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-17T06:57:26.000Z",
+        "description": "07｜MtX🍥｜Asexual/Agender｜Psycho｜ただ夏の匂いに目を瞑りたい｜🐖@fuckpregabalin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 46,
+                "username": "fuckpregabalin"
+              }
+            ]
+          }
+        },
+        "id": "1680834021377593344",
+        "location": "Room 13",
+        "name": "白粥ひょと🍥🐳",
+        "pinned_tweet_id": "1945313496645972432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965485176517181440/f6tMsI6p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 991,
+          "like_count": 128163,
+          "listed_count": 15,
+          "media_count": 4539,
+          "tweet_count": 31128
+        },
+        "username": "HyotoChandesuyo",
+        "verified": false
+      }
+    ]
+  }
+}

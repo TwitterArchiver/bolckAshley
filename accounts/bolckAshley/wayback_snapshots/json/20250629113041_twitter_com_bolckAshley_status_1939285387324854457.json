@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "United States Congress",
+          "id": "961705302700654593",
+          "name": "United States Congress"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "United States Congress",
+          "id": "961705302700654593",
+          "name": "United States Congress"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "1939285387324854457",
+    "created_at": "2025-06-29T11:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-29T12:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939285387324854457"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 42,
+          "normalized_text": "Progressive Alliance",
+          "probability": 0.5096,
+          "start": 23,
+          "type": "Organization"
+        },
+        {
+          "end": 57,
+          "normalized_text": "SPD",
+          "probability": 0.7478,
+          "start": 55,
+          "type": "Organization"
+        },
+        {
+          "end": 76,
+          "normalized_text": "Berlin",
+          "probability": 0.6646,
+          "start": 71,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804660997585833984",
+          "start": 3,
+          "username": "PA_Solidarity"
+        },
+        {
+          "end": 95,
+          "id": "16255941",
+          "start": 81,
+          "username": "larsklingbeil"
+        },
+        {
+          "end": 134,
+          "id": "19438957",
+          "start": 123,
+          "username": "baerbelbas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939285387324854457",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939284911363592297",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PA_Solidarity: The Progressive Alliance joined the SPD Congress in Berlin as @larsklingbeil (our Presidium member) and @baerbelbas were…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2726,
+        "media_key": "3_1939282924253462528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum3i3sbwAAOrvu.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2726,
+        "media_key": "3_1939282924383150080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum3i4LWoAAtrZ3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2726,
+        "media_key": "3_1939282924291104768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum3i31aIAA729H.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1939282924387393536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gum3i4MXYAAe9mL.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1939285387324854457",
+        "created_at": "2025-06-29T11:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939285387324854457"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Progressive Alliance",
+              "probability": 0.5096,
+              "start": 23,
+              "type": "Organization"
+            },
+            {
+              "end": 57,
+              "normalized_text": "SPD",
+              "probability": 0.7478,
+              "start": 55,
+              "type": "Organization"
+            },
+            {
+              "end": 76,
+              "normalized_text": "Berlin",
+              "probability": 0.6646,
+              "start": 71,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804660997585833984",
+              "start": 3,
+              "username": "PA_Solidarity"
+            },
+            {
+              "end": 95,
+              "id": "16255941",
+              "start": 81,
+              "username": "larsklingbeil"
+            },
+            {
+              "end": 134,
+              "id": "19438957",
+              "start": 123,
+              "username": "baerbelbas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939285387324854457",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939284911363592297",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PA_Solidarity: The Progressive Alliance joined the SPD Congress in Berlin as @larsklingbeil (our Presidium member) and @baerbelbas were…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939282924253462528",
+            "3_1939282924383150080",
+            "3_1939282924291104768",
+            "3_1939282924387393536"
+          ]
+        },
+        "author_id": "1804660997585833984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "United States Congress",
+              "id": "961705302700654593",
+              "name": "United States Congress"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1939284911363592297",
+        "created_at": "2025-06-29T11:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T12:25:01.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939283960770736370",
+          "1939284911363592297"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Progressive Alliance",
+              "probability": 0.6367,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 38,
+              "normalized_text": "SPD",
+              "probability": 0.8401,
+              "start": 36,
+              "type": "Organization"
+            },
+            {
+              "end": 57,
+              "normalized_text": "Berlin",
+              "probability": 0.7178,
+              "start": 52,
+              "type": "Organization"
+            },
+            {
+              "end": 150,
+              "normalized_text": "Klingbeil",
+              "probability": 0.6806,
+              "start": 142,
+              "type": "Person"
+            },
+            {
+              "end": 160,
+              "normalized_text": "SPD",
+              "probability": 0.7345,
+              "start": 158,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 76,
+              "id": "16255941",
+              "start": 62,
+              "username": "larsklingbeil"
+            },
+            {
+              "end": 115,
+              "id": "19438957",
+              "start": 104,
+              "username": "baerbelbas"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7t9FSxuJsn",
+              "end": 302,
+              "expanded_url": "https://x.com/PA_Solidarity/status/1939284911363592297/photo/1",
+              "media_key": "3_1939282924253462528",
+              "start": 279,
+              "url": "https://t.co/7t9FSxuJsn"
+            },
+            {
+              "display_url": "pic.x.com/7t9FSxuJsn",
+              "end": 302,
+              "expanded_url": "https://x.com/PA_Solidarity/status/1939284911363592297/photo/1",
+              "media_key": "3_1939282924383150080",
+              "start": 279,
+              "url": "https://t.co/7t9FSxuJsn"
+            },
+            {
+              "display_url": "pic.x.com/7t9FSxuJsn",
+              "end": 302,
+              "expanded_url": "https://x.com/PA_Solidarity/status/1939284911363592297/photo/1",
+              "media_key": "3_1939282924291104768",
+              "start": 279,
+              "url": "https://t.co/7t9FSxuJsn"
+            },
+            {
+              "display_url": "pic.x.com/7t9FSxuJsn",
+              "end": 302,
+              "expanded_url": "https://x.com/PA_Solidarity/status/1939284911363592297/photo/1",
+              "media_key": "3_1939282924387393536",
+              "start": 279,
+              "url": "https://t.co/7t9FSxuJsn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939284911363592297",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 76,
+                "id": "16255941",
+                "start": 62,
+                "username": "larsklingbeil"
+              },
+              {
+                "end": 115,
+                "id": "19438957",
+                "start": 104,
+                "username": "baerbelbas"
+              },
+              {
+                "end": 603,
+                "id": "26458162",
+                "start": 597,
+                "username": "spdde"
+              },
+              {
+                "end": 725,
+                "id": "1689162277847769088",
+                "start": 709,
+                "username": "machriscabreros"
+              }
+            ]
+          },
+          "text": "The Progressive Alliance joined the SPD Congress in Berlin as @larsklingbeil (our Presidium member) and @baerbelbas were elected co-leaders.\n\nKlingbeil: “The SPD has always been chosen when it had an idea for a better future—when it showed it wanted to shape the future. We need ideas for reforming prosperity, the welfare state, education, and Europe in a social democratic way.”\n\nBas: Social democracy means dignity, security, and empowerment for all—focused on community, women’s leadership, and workers.\n\n600+ delegates advanced a bold, shared agenda for a just, sustainable Germany.\n\nPhotos:\n@spdde Co-Leaders Lars Klingbeil and Bärbel Bas; Congress in session; Lars Klingbeil with PA Global Coordinator @machriscabreros  and the Progressive Alliance international delegation\n\nPhoto: Maurice Weiss/Ostkreuz – SPD Germany"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "The Progressive Alliance joined the SPD Congress in Berlin as @larsklingbeil (our Presidium member) and @baerbelbas were elected co-leaders.\n\nKlingbeil: “The SPD has always been chosen when it had an idea for a better future—when it showed it wanted to shape the future. We need https://t.co/7t9FSxuJsn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 1843,
+          "like_count": 29199,
+          "listed_count": 10,
+          "media_count": 950,
+          "tweet_count": 14518
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T23:42:03.000Z",
+        "description": "Over 140 socialist, social democratic, and labour parties. We believe in the power of international solidarity. Together, we pursue peace, justice, and freedom.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "progressive-alliance.info",
+                "end": 23,
+                "expanded_url": "https://progressive-alliance.info",
+                "start": 0,
+                "url": "https://t.co/FKo5fW0GBG"
+              }
+            ]
+          }
+        },
+        "id": "1804660997585833984",
+        "location": "Berlin, Germany",
+        "name": "Progressive Alliance",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825485213666770944/H_8eeQ-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 564,
+          "like_count": 237,
+          "listed_count": 12,
+          "media_count": 87,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/FKo5fW0GBG",
+        "username": "PA_Solidarity",
+        "verified": true
+      },
+      {
+        "created_at": "2008-09-12T12:58:06.000Z",
+        "description": "MdB Rotenburg I - Heidekreis | Vorsitzender der SPD | Vizekanzler | Bundesfinanzminister | Musik | FCB | Munster",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lars-klingbeil.de/impressum",
+                "end": 23,
+                "expanded_url": "https://www.lars-klingbeil.de/impressum",
+                "start": 0,
+                "url": "https://t.co/OPIKu8bJ3m"
+              }
+            ]
+          }
+        },
+        "id": "16255941",
+        "location": "Munster, Niedersachsen, D",
+        "name": "Lars Klingbeil 🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900824488192950272/aQrFzs0T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159178,
+          "following_count": 1592,
+          "like_count": 14722,
+          "listed_count": 1340,
+          "media_count": 1211,
+          "tweet_count": 22099
+        },
+        "url": "https://t.co/OPIKu8bJ3m",
+        "username": "larsklingbeil",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-24T09:39:46.000Z",
+        "description": "Duisburgerin|Bundestagsabgeordnete| @spdbt|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 36,
+                "username": "spdbt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "baerbelbas.de",
+                "end": 23,
+                "expanded_url": "http://www.baerbelbas.de",
+                "start": 0,
+                "url": "https://t.co/0EgU5o2wmw"
+              }
+            ]
+          }
+        },
+        "id": "19438957",
+        "location": "Germany",
+        "name": "Bärbel Bas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/3685184246/d945f330c88d7952249ad132340b02e0_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19945,
+          "following_count": 2765,
+          "like_count": 22159,
+          "listed_count": 415,
+          "media_count": 541,
+          "tweet_count": 5177
+        },
+        "url": "https://t.co/0EgU5o2wmw",
+        "username": "baerbelbas",
+        "verified": true
+      }
+    ]
+  }
+}

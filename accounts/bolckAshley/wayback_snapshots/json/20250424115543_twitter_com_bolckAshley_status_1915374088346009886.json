@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "1915374088346009886",
+    "created_at": "2025-04-24T11:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-24T12:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1915374088346009886"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 15,
+          "tag": "AnDiesemTag"
+        },
+        {
+          "end": 112,
+          "start": 105,
+          "tag": "Berlin"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "18669958",
+          "start": 3,
+          "username": "vorwaerts"
+        },
+        {
+          "end": 101,
+          "id": "1344047935",
+          "start": 88,
+          "username": "Reichsbanner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1915374088346009886",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915302364518457401",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vorwaerts: #AnDiesemTag vor 100 Jahren wird mit Erich Schulz das erste Mitglied des @Reichsbanner in #Berlin von einem Rechtsextremiste…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1915374088346009886",
+        "created_at": "2025-04-24T11:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T12:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1915374088346009886"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 15,
+              "tag": "AnDiesemTag"
+            },
+            {
+              "end": 112,
+              "start": 105,
+              "tag": "Berlin"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "18669958",
+              "start": 3,
+              "username": "vorwaerts"
+            },
+            {
+              "end": 101,
+              "id": "1344047935",
+              "start": 88,
+              "username": "Reichsbanner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915374088346009886",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915302364518457401",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vorwaerts: #AnDiesemTag vor 100 Jahren wird mit Erich Schulz das erste Mitglied des @Reichsbanner in #Berlin von einem Rechtsextremiste…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18669958",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1915302364518457401",
+        "created_at": "2025-04-24T07:10:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-24T08:10:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915302364518457401"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "AnDiesemTag"
+            },
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "Berlin"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 86,
+              "id": "1344047935",
+              "start": 73,
+              "username": "Reichsbanner"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Erich Schulz war des erste Todesopfer des Reichsbanners Schwarz-Rot-Gold in Berlin. Am 25. April 1925 wurde er auf offener Straße von einem Rechtsextremen erschossen. Die Erinnerung an ihn ist bis heute wach.",
+              "display_url": "vorwaerts.de/geschichte/eri…",
+              "end": 161,
+              "expanded_url": "https://vorwaerts.de/geschichte/erich-schulz-ermordet-im-kampf-fuer-die-demokratie",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1915302364887588864/kkS34V_F?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1915302364887588864/kkS34V_F?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 138,
+              "status": 200,
+              "title": "Erich Schulz: Ermordet im Kampf für die Demokratie",
+              "unwound_url": "https://vorwaerts.de/geschichte/erich-schulz-ermordet-im-kampf-fuer-die-demokratie",
+              "url": "https://t.co/UPOGLASZib"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915302364518457401",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 200,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "#AnDiesemTag vor 100 Jahren wird mit Erich Schulz das erste Mitglied des @Reichsbanner in #Berlin von einem Rechtsextremisten erschossen. https://t.co/UPOGLASZib"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2397,
+          "following_count": 1754,
+          "like_count": 25761,
+          "listed_count": 10,
+          "media_count": 875,
+          "tweet_count": 13419
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-06T10:57:07.000Z",
+        "description": "Online rund um die soziale Demokratie! Retweets geben nicht unbedingt die Meinung der Redaktion wieder.\nImpressum: https://t.co/qfvILqOmA5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "vorwaerts.de/impressum",
+                "end": 138,
+                "expanded_url": "http://vorwaerts.de/impressum",
+                "start": 115,
+                "url": "https://t.co/qfvILqOmA5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "vorwärts.de",
+                "end": 23,
+                "expanded_url": "http://www.xn--vorwrts-8wa.de",
+                "start": 0,
+                "url": "https://t.co/5QQa4YWGmK"
+              }
+            ]
+          }
+        },
+        "id": "18669958",
+        "location": "Berlin",
+        "name": "vorwärts Verlag",
+        "pinned_tweet_id": "1496775015353577474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719630195160678400/i3hxPsbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16990,
+          "following_count": 2748,
+          "like_count": 8090,
+          "listed_count": 346,
+          "media_count": 4557,
+          "tweet_count": 35293
+        },
+        "url": "https://t.co/5QQa4YWGmK",
+        "username": "vorwaerts",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-11T10:13:51.000Z",
+        "description": "Offizieller Kanal. Für Demokratie und Republik - seit 1924.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reichsbanner.de",
+                "end": 23,
+                "expanded_url": "http://www.reichsbanner.de",
+                "start": 0,
+                "url": "https://t.co/w0ZFWdMcNO"
+              }
+            ]
+          }
+        },
+        "id": "1344047935",
+        "location": "Berlin",
+        "name": "Reichsbanner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874618614541619200/3TNcxpxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2623,
+          "following_count": 96,
+          "like_count": 1399,
+          "listed_count": 14,
+          "media_count": 122,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/w0ZFWdMcNO",
+        "username": "Reichsbanner",
+        "verified": false
+      }
+    ]
+  }
+}

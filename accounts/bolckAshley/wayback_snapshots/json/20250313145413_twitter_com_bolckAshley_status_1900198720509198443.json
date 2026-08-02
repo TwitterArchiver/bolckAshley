@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "The Bundestag is the German federal parliament.",
+          "id": "1099777660912263168",
+          "name": "German Bundestag"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "The Bundestag is the German federal parliament.",
+          "id": "1099777660912263168",
+          "name": "German Bundestag"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1900198720509198443",
+    "created_at": "2025-03-13T14:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-13T15:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900198720509198443"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 104,
+          "normalized_text": "Bundestag",
+          "probability": 0.8365,
+          "start": 96,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728357835669426176",
+          "start": 3,
+          "username": "socdemAdam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900198720509198443",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900189392687251494",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @socdemAdam: All 16 state electoral committees have determined the final results of the 2025 Bundestag election (official and final tomo…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 534,
+        "media_key": "3_1900189390577565696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gl7ULt9XgAARqz-.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1900198720509198443",
+        "created_at": "2025-03-13T14:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T15:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900198720509198443"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 104,
+              "normalized_text": "Bundestag",
+              "probability": 0.8365,
+              "start": 96,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728357835669426176",
+              "start": 3,
+              "username": "socdemAdam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900198720509198443",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900189392687251494",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @socdemAdam: All 16 state electoral committees have determined the final results of the 2025 Bundestag election (official and final tomo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1900189390577565696"
+          ]
+        },
+        "author_id": "1728357835669426176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Bundestag is the German federal parliament.",
+              "id": "1099777660912263168",
+              "name": "German Bundestag"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1900189392687251494",
+        "created_at": "2025-03-13T14:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T15:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1900189392687251494"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 88,
+              "normalized_text": "Bundestag",
+              "probability": 0.8863,
+              "start": 80,
+              "type": "Organization"
+            },
+            {
+              "end": 177,
+              "normalized_text": "BSW",
+              "probability": 0.7503,
+              "start": 175,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y5Grvc0AuX",
+              "end": 265,
+              "expanded_url": "https://x.com/socdemAdam/status/1900189392687251494/photo/1",
+              "media_key": "3_1900189390577565696",
+              "start": 242,
+              "url": "https://t.co/y5Grvc0AuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900189392687251494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 798,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "All 16 state electoral committees have determined the final results of the 2025 Bundestag election (official and final tomorrow). There could therefore still be changes. \nThe BSW has 4277 more second votes in total (4.98%), 9529 short of 5%. https://t.co/y5Grvc0AuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🕊️🇺🇦🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900058479953637376/51DqQqCn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2231,
+          "following_count": 1654,
+          "like_count": 24010,
+          "listed_count": 9,
+          "media_count": 795,
+          "tweet_count": 12777
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:20:20.000Z",
+        "description": "Law ⚖️ | @spdde",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "spdde"
+              }
+            ]
+          }
+        },
+        "id": "1728357835669426176",
+        "location": "Germany",
+        "name": "Adam 📯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842654008004968448/HSSUd0Vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 4334,
+          "like_count": 9661,
+          "listed_count": 10,
+          "media_count": 1713,
+          "tweet_count": 6398
+        },
+        "username": "socdemAdam",
+        "verified": false
+      }
+    ]
+  }
+}

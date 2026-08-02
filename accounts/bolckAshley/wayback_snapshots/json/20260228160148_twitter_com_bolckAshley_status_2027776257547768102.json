@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027748912036253699"
+      ],
+      "media_source_tweet_id": [
+        "2027749521275687228"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2027776257547768102",
+    "created_at": "2026-02-28T16:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T17:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027776257547768102"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 81,
+          "tag": "WarThunder"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313383273079345152",
+          "start": 3,
+          "username": "ValeriaEulabeia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p8zgAFgHqE",
+          "end": 116,
+          "expanded_url": "https://x.com/ValeriaEulabeia/status/2027749521275687228/photo/1",
+          "media_key": "3_2027748912036253699",
+          "start": 93,
+          "url": "https://t.co/p8zgAFgHqE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027776257547768102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027749521275687228",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ValeriaEulabeia: 鉴于国内有些博主喜欢造留学生的谣，我在这里澄清一下：我们小留的生活确实很乱，比如我，每天课余时间，除了打飞机就是打炮。\n#WarThunder https://t.co/p8zgAFgHqE"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2027776257547768102].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2027776257547768102",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2027776257547768102"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 227,
+        "media_key": "3_2027748912036253699",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCQC5FubEAMWc2d.png",
+        "width": 669
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027748912036253699"
+          ]
+        },
+        "author_id": "1313383273079345152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2027749521275687228",
+        "created_at": "2026-02-28T14:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T15:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027749521275687228"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 71,
+              "start": 60,
+              "tag": "WarThunder"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p8zgAFgHqE",
+              "end": 95,
+              "expanded_url": "https://x.com/ValeriaEulabeia/status/2027749521275687228/photo/1",
+              "media_key": "3_2027748912036253699",
+              "start": 72,
+              "url": "https://t.co/p8zgAFgHqE"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "7e347291be7bbab4"
+        },
+        "id": "2027749521275687228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 287,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "鉴于国内有些博主喜欢造留学生的谣，我在这里澄清一下：我们小留的生活确实很乱，比如我，每天课余时间，除了打飞机就是打炮。\n#WarThunder https://t.co/p8zgAFgHqE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 1981,
+          "like_count": 38854,
+          "listed_count": 16,
+          "media_count": 1357,
+          "tweet_count": 19578
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "Col pugnale nella mano,\ncon la fede dentro il cuore,\nessa avanza, va lontano,\ncon la gloria e di valor!",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2020477258465694027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010705759475208194/F3qst3e9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6819,
+          "following_count": 3676,
+          "like_count": 148138,
+          "listed_count": 18,
+          "media_count": 2514,
+          "tweet_count": 22831
+        },
+        "username": "ValeriaEulabeia",
+        "verified": false
+      }
+    ]
+  }
+}

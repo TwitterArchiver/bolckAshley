@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2027933807790432617",
+    "created_at": "2026-03-01T05:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T06:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027973568487923837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1854099041396899840",
+          "start": 0,
+          "username": "4698pjxbs"
+        },
+        {
+          "end": 20,
+          "id": "1247054463329656832",
+          "start": 11,
+          "username": "quasarne"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20278…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/status/2027865712719478837",
+          "start": 25,
+          "url": "https://t.co/LGHiSWyaoV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027973568487923837",
+    "in_reply_to_user_id": "1854099041396899840",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027865712719478837",
+        "type": "quoted"
+      },
+      {
+        "id": "2027952535852790165",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4698pjxbs @quasarne 😹😹🍾\nhttps://t.co/LGHiSWyaoV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16833,
+        "height": 1280,
+        "media_key": "13_2027865652569202688",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027865652569202688/img/s0zoyACfjS8c_7Mo.jpg",
+        "public_metrics": {
+          "view_count": 179526
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652569202688/vid/avc1/320x568/zcTSHKp9chNDZ51E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652569202688/vid/avc1/480x852/wdL7lf7uH7aWeOit.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652569202688/vid/avc1/720x1280/-5CAydj0PU-mAy40.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027865652569202688/pl/OuT_Cj9Rr61E1Z0O.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 10533,
+        "height": 720,
+        "media_key": "13_2027865652396961792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027865652396961792/img/gXWBK4XkMNqCMe_b.jpg",
+        "public_metrics": {
+          "view_count": 38129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652396961792/vid/avc1/480x270/kZB_O84CE7l72Z_O.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652396961792/vid/avc1/640x360/hib83f5ahukwqhUe.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652396961792/vid/avc1/1280x720/D9kb_xlnHHyaCmTi.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027865652396961792/pl/yuOHbUW4el333vXH.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 17166,
+        "height": 256,
+        "media_key": "13_2027865652355088386",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2027865652355088386/img/fGpf_Aa-tLkrFrXN.jpg",
+        "public_metrics": {
+          "view_count": 17805
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2027865652355088386/vid/avc1/480x256/IDGUi-7r-eOL5PPz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2027865652355088386/pl/gkx5DCnDOQx8a5Kn.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2027933807790432617",
+        "created_at": "2026-03-01T05:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027973568487923837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1854099041396899840",
+              "start": 0,
+              "username": "4698pjxbs"
+            },
+            {
+              "end": 20,
+              "id": "1247054463329656832",
+              "start": 11,
+              "username": "quasarne"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20278…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/status/2027865712719478837",
+              "start": 25,
+              "url": "https://t.co/LGHiSWyaoV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027973568487923837",
+        "in_reply_to_user_id": "1854099041396899840",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027865712719478837",
+            "type": "quoted"
+          },
+          {
+            "id": "2027952535852790165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4698pjxbs @quasarne 😹😹🍾\nhttps://t.co/LGHiSWyaoV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2027865652569202688",
+            "13_2027865652396961792",
+            "13_2027865652355088386"
+          ]
+        },
+        "author_id": "1122011687207391233",
+        "conversation_id": "2027865712719478837",
+        "created_at": "2026-02-28T21:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T22:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027865712719478837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcsXa71bvO",
+              "end": 66,
+              "expanded_url": "https://x.com/NiKiTa_32156/status/2027865712719478837/video/1",
+              "media_key": "13_2027865652569202688",
+              "start": 43,
+              "url": "https://t.co/mcsXa71bvO"
+            },
+            {
+              "display_url": "pic.x.com/mcsXa71bvO",
+              "end": 66,
+              "expanded_url": "https://x.com/NiKiTa_32156/status/2027865712719478837/video/1",
+              "media_key": "13_2027865652396961792",
+              "start": 43,
+              "url": "https://t.co/mcsXa71bvO"
+            },
+            {
+              "display_url": "pic.x.com/mcsXa71bvO",
+              "end": 66,
+              "expanded_url": "https://x.com/NiKiTa_32156/status/2027865712719478837/video/1",
+              "media_key": "13_2027865652355088386",
+              "start": 43,
+              "url": "https://t.co/mcsXa71bvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027865712719478837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 308,
+          "impression_count": 451041,
+          "like_count": 2910,
+          "quote_count": 37,
+          "reply_count": 90,
+          "retweet_count": 432
+        },
+        "reply_settings": "everyone",
+        "text": "哈梅內伊死了，哈梅內伊死了，哈梅內伊死了，整個伊朗已經傳遍了，伊朗人在街頭慶祝跳舞。 https://t.co/mcsXa71bvO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1854099041396899840",
+        "conversation_id": "2027933807790432617",
+        "created_at": "2026-03-01T03:42:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T04:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027952535852790165"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027952535852790165",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027952078614909402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne 炮火下面庆祝吗，那很有实力了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3013,
+          "following_count": 1981,
+          "like_count": 38893,
+          "listed_count": 16,
+          "media_count": 1358,
+          "tweet_count": 19599
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-06T09:52:30.000Z",
+        "description": "🚪114514",
+        "id": "1854099041396899840",
+        "name": "张春桥🇵🇸🇺🇦",
+        "pinned_tweet_id": "1907479132423757864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996935239063801856/TQyVEoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 823,
+          "like_count": 10109,
+          "listed_count": 10,
+          "media_count": 171,
+          "tweet_count": 5909
+        },
+        "username": "4698pjxbs",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "they; SAD｜👾 愛數碼/科幻/策略/音游｜🏳️‍🌈 bi(pan)｜🚩🏴 自由·平等·民主🌹｜🌐 漢語 吴、普/English OK/日本語 勉強中｜🌌 Knowledge is кии to the universe｜键政專用：@utsuhokim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "utsuhokim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/qnacc",
+                "end": 23,
+                "expanded_url": "http://t.me/qnacc",
+                "start": 0,
+                "url": "https://t.co/fofrUB1su9"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない🇺🇳🏳️‍⚧️",
+        "pinned_tweet_id": "1987440923995988466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 849,
+          "like_count": 69963,
+          "listed_count": 5,
+          "media_count": 818,
+          "tweet_count": 11443
+        },
+        "url": "https://t.co/fofrUB1su9",
+        "username": "quasarne",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-27T05:36:46.000Z",
+        "description": "加入烏克蘭國防軍一起戰鬥，服役滿1年獲烏克蘭國籍，更多崗位選擇【即將滿員截止，發放國防軍邀請函、免費食宿車輛提供行政證件與海外生活處理】找我报名、在烏克蘭等你🇺🇦https://t.co/iJ73GqKaej 傳訊說來意，其它不回覆",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+Ue8sfPV0i7IyZ…",
+                "end": 104,
+                "expanded_url": "https://t.me/+Ue8sfPV0i7IyZDYy",
+                "start": 81,
+                "url": "https://t.co/iJ73GqKaej"
+              }
+            ]
+          }
+        },
+        "id": "1122011687207391233",
+        "location": "Україна",
+        "name": "NiKITa🇺🇦",
+        "pinned_tweet_id": "1497075300479422500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948132340267458561/URlIzFcs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142684,
+          "following_count": 1679,
+          "like_count": 81145,
+          "listed_count": 539,
+          "media_count": 26085,
+          "tweet_count": 57357
+        },
+        "username": "NiKiTa_32156",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "North Atlantic Treaty Organization",
+          "id": "1016738021939351558",
+          "name": "North Atlantic Treaty Organization"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2033742458581094493",
+    "created_at": "2026-03-17T03:09:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:09:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033742458581094493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "517555392",
+          "start": 3,
+          "username": "ARD_BaB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033742458581094493",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033538888908546546",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ARD_BaB: „Es ist nicht unser Krieg“ – Verteidigungsminister Boris Pistorius (SPD) weist Trumps Forderung nach NATO-Unterstützung zum Sc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 126360,
+        "height": 1080,
+        "media_key": "13_2033538352910094336",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033538352910094336/img/pEIWnpaQnNyw3ilJ.jpg",
+        "public_metrics": {
+          "view_count": 31141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033538352910094336/vid/avc1/540x540/TFoEKMvp5t3pmany.mp4?tag=16"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033538352910094336/vid/avc1/320x320/DTaThwQr81plBDUr.mp4?tag=16"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033538352910094336/vid/avc1/1080x1080/7SAve0OozdVFuu2p.mp4?tag=16"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033538352910094336/vid/avc1/720x720/daypqlAXRTH6saTH.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033538352910094336/pl/GBcft27iBCmT99n7.m3u8?tag=16&v=ef6"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2033742458581094493",
+        "created_at": "2026-03-17T03:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T04:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033742458581094493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "517555392",
+              "start": 3,
+              "username": "ARD_BaB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033742458581094493",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033538888908546546",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ARD_BaB: „Es ist nicht unser Krieg“ – Verteidigungsminister Boris Pistorius (SPD) weist Trumps Forderung nach NATO-Unterstützung zum Sc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033538352910094336"
+          ]
+        },
+        "author_id": "517555392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2033538888908546546",
+        "created_at": "2026-03-16T13:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033538888908546546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/76pjEExFtZ",
+              "end": 184,
+              "expanded_url": "https://x.com/ARD_BaB/status/2033538888908546546/video/1",
+              "media_key": "13_2033538352910094336",
+              "start": 161,
+              "url": "https://t.co/76pjEExFtZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033538888908546546",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 81149,
+          "like_count": 573,
+          "quote_count": 55,
+          "reply_count": 470,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "„Es ist nicht unser Krieg“ – Verteidigungsminister Boris Pistorius (SPD) weist Trumps Forderung nach NATO-Unterstützung zum Schutz der Straße von Hormus zurück. https://t.co/76pjEExFtZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 1978,
+          "like_count": 39831,
+          "listed_count": 16,
+          "media_count": 1402,
+          "tweet_count": 20233
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-07T12:52:17.000Z",
+        "description": "Das Magazin zur Bundespolitik – aus dem ARD-Hauptstadtstudio. Alle Sendungen: https://t.co/X3YqWp1bvq Impressum: https://t.co/81fTikyXOX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "berichtausberlin.de",
+                "end": 101,
+                "expanded_url": "http://berichtausberlin.de",
+                "start": 78,
+                "url": "https://t.co/X3YqWp1bvq"
+              },
+              {
+                "display_url": "tagesschau.de/impressum",
+                "end": 136,
+                "expanded_url": "http://tagesschau.de/impressum",
+                "start": 113,
+                "url": "https://t.co/81fTikyXOX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tagesschau.de/inland/",
+                "end": 23,
+                "expanded_url": "https://www.tagesschau.de/inland/",
+                "start": 0,
+                "url": "https://t.co/Zxz5L6Vc8u"
+              }
+            ]
+          }
+        },
+        "id": "517555392",
+        "location": "Berlin, Deutschland",
+        "name": "Bericht aus Berlin",
+        "pinned_tweet_id": "2032475049572090150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/913381071382818816/ioimShVm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114516,
+          "following_count": 377,
+          "like_count": 1058,
+          "listed_count": 773,
+          "media_count": 10519,
+          "tweet_count": 49095
+        },
+        "url": "https://t.co/Zxz5L6Vc8u",
+        "username": "ARD_BaB",
+        "verified": false
+      }
+    ]
+  }
+}

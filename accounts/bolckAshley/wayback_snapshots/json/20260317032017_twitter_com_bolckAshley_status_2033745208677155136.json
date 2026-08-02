@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2033745208677155136",
+    "created_at": "2026-03-17T03:20:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T04:20:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033745208677155136"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 16,
+          "tag": "国民未来党"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1396032943970127872",
+          "start": 3,
+          "username": "_Ertiu_vmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033745208677155136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033221795717992634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Ertiu_vmo: #国民未来党\n\n「工作八小時，修遊八小時，休息八小時！」\n\n青年，作為國家、社會之棟樑，保障他們擁有安全、健康的生活，是極其重要的。要先滿足學生們的生理、安全需求，他們才有能力發掘知識，鑽研學問，亦才能為社會作出更大的貢獻。因此，我們以勞動者的八…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2033745208677155136].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2033745208677155136",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2033745208677155136"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033221791154593792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDd0clNaYAATK1n.jpg",
+        "width": 1582
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033221791154593792"
+          ]
+        },
+        "author_id": "1396032943970127872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2033221795717992634",
+        "created_at": "2026-03-15T16:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033221795717992634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "国民未来党"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GKCbRDfT30",
+              "end": 166,
+              "expanded_url": "https://x.com/_Ertiu_vmo/status/2033221795717992634/photo/1",
+              "media_key": "3_2033221791154593792",
+              "start": 143,
+              "url": "https://t.co/GKCbRDfT30"
+            },
+            {
+              "display_url": "x.com/bolckashley/st…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/bolckashley/status/2027055603773010357",
+              "start": 167,
+              "url": "https://t.co/WbblWCJXc9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033221795717992634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 367,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027055603773010357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#国民未来党\n\n「工作八小時，修遊八小時，休息八小時！」\n\n青年，作為國家、社會之棟樑，保障他們擁有安全、健康的生活，是極其重要的。要先滿足學生們的生理、安全需求，他們才有能力發掘知識，鑽研學問，亦才能為社會作出更大的貢獻。因此，我們以勞動者的八小時工時制為基礎，實行針對學校的八小時 https://t.co/GKCbRDfT30 https://t.co/WbblWCJXc9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 1978,
+          "like_count": 39835,
+          "listed_count": 16,
+          "media_count": 1402,
+          "tweet_count": 20236
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-22T09:20:48.000Z",
+        "description": "在推上四處打滾的人　選擧人士　2026中推選擧參與中",
+        "id": "1396032943970127872",
+        "location": "東平洲",
+        "name": "秋鈴_Ertiu_❂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891840114806095874/op0_ql2B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 1147,
+          "like_count": 32540,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 3618
+        },
+        "username": "_Ertiu_vmo",
+        "verified": false
+      }
+    ]
+  }
+}

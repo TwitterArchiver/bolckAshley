@@ -1,0 +1,366 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1812361255589404851",
+    "created_at": "2024-07-14T05:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-14T06:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812361255589404851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1419538139392090112",
+          "start": 3,
+          "username": "EN_BlueArchive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812361255589404851",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 854
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811671849266262138",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EN_BlueArchive: Happy birthday to call sign RABBIT 4, Miyu!\n\nShe frets a lot about going unseen, so don't forget her birthday, Sensei!…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1812361255589404851",
+        "created_at": "2024-07-14T05:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-14T06:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812361255589404851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1419538139392090112",
+              "start": 3,
+              "username": "EN_BlueArchive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812361255589404851",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 854
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811671849266262138",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EN_BlueArchive: Happy birthday to call sign RABBIT 4, Miyu!\n\nShe frets a lot about going unseen, so don't forget her birthday, Sensei!…"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1810498038483529728"
+          ]
+        },
+        "author_id": "1419538139392090112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity includes all conversations about travel and vacation.",
+              "id": "839161975712067584",
+              "name": "Travel Actions"
+            }
+          }
+        ],
+        "conversation_id": "1811671849266262138",
+        "created_at": "2024-07-12T08:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-12T09:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811671849266262138"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "RABBIT",
+              "probability": 0.8676,
+              "start": 28,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "Miyu",
+              "probability": 0.7063,
+              "start": 38,
+              "type": "Other"
+            },
+            {
+              "end": 116,
+              "normalized_text": "Sensei",
+              "probability": 0.7049,
+              "start": 111,
+              "type": "Other"
+            },
+            {
+              "end": 227,
+              "normalized_text": "BlueArchive",
+              "probability": 0.524,
+              "start": 217,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 228,
+              "start": 216,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/1nJN3dCOXV",
+              "end": 252,
+              "expanded_url": "https://twitter.com/EN_BlueArchive/status/1811671849266262138/video/1",
+              "media_key": "7_1810498038483529728",
+              "start": 229,
+              "url": "https://t.co/1nJN3dCOXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1811671849266262138",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 128838,
+          "like_count": 4743,
+          "quote_count": 38,
+          "reply_count": 49,
+          "retweet_count": 854
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday to call sign RABBIT 4, Miyu!\n\nShe frets a lot about going unseen, so don't forget her birthday, Sensei!\nHow about you gift her a Sophisticated Hairbrush to get the frizz out of her hair from camping?\n\n#BlueArchive https://t.co/1nJN3dCOXV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1554,
+          "following_count": 980,
+          "like_count": 12876,
+          "listed_count": 8,
+          "tweet_count": 8693
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T06:01:06.000Z",
+        "description": "Sensei! Welcome to the official Twitter of Blue Archive!\nOfficial Discord:  https://t.co/cFEZ2MFTQx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nexon.link/8rS",
+                "end": 99,
+                "expanded_url": "http://nexon.link/8rS",
+                "start": 76,
+                "url": "https://t.co/cFEZ2MFTQx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.nexon.com",
+                "end": 23,
+                "expanded_url": "http://bluearchive.nexon.com",
+                "start": 0,
+                "url": "https://t.co/cDdxxqMnkS"
+              }
+            ]
+          }
+        },
+        "id": "1419538139392090112",
+        "name": "BlueArchive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775702504040509440/iVOGcbLZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317113,
+          "following_count": 3,
+          "like_count": 1,
+          "listed_count": 872,
+          "tweet_count": 2854
+        },
+        "url": "https://t.co/cDdxxqMnkS",
+        "username": "EN_BlueArchive",
+        "verified": true
+      }
+    ]
+  }
+}

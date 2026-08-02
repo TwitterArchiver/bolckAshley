@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063485174839705600"
+      ],
+      "media_source_tweet_id": [
+        "2063485181684760628"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2063575508034732211",
+    "created_at": "2026-06-07T10:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063575508034732211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1218028959109210113",
+          "start": 3,
+          "username": "RizumuA3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X8VXNOovNq",
+          "end": 54,
+          "expanded_url": "https://x.com/RizumuA3/status/2063485181684760628/photo/1",
+          "media_key": "3_2063485174839705600",
+          "start": 31,
+          "url": "https://t.co/X8VXNOovNq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063575508034732211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063485181684760628",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RizumuA3: Tokyo Pride 很热闹诶 https://t.co/X8VXNOovNq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063485174839705600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL41W2bAAA37cZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063485174839705600"
+          ],
+          "media_source_tweet_id": [
+            "2063485181684760628"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2063575508034732211",
+        "created_at": "2026-06-07T10:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063575508034732211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1218028959109210113",
+              "start": 3,
+              "username": "RizumuA3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8VXNOovNq",
+              "end": 54,
+              "expanded_url": "https://x.com/RizumuA3/status/2063485181684760628/photo/1",
+              "media_key": "3_2063485174839705600",
+              "start": 31,
+              "url": "https://t.co/X8VXNOovNq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063575508034732211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063485181684760628",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RizumuA3: Tokyo Pride 很热闹诶 https://t.co/X8VXNOovNq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063485174839705600"
+          ]
+        },
+        "author_id": "1218028959109210113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2063485181684760628",
+        "created_at": "2026-06-07T04:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063485181684760628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/X8VXNOovNq",
+              "end": 40,
+              "expanded_url": "https://x.com/RizumuA3/status/2063485181684760628/photo/1",
+              "media_key": "3_2063485174839705600",
+              "start": 17,
+              "url": "https://t.co/X8VXNOovNq"
+            },
+            {
+              "display_url": "x.com/rizumua3/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/rizumua3/status/2063298525266690232",
+              "start": 41,
+              "url": "https://t.co/xI6EjTbEIx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063485181684760628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 37078,
+          "like_count": 3458,
+          "quote_count": 13,
+          "reply_count": 22,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063298525266690232",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Tokyo Pride 很热闹诶 https://t.co/X8VXNOovNq https://t.co/xI6EjTbEIx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 121,
+                "start": 111,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3343,
+          "following_count": 1971,
+          "like_count": 41534,
+          "listed_count": 20,
+          "media_count": 1620,
+          "tweet_count": 22255
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-17T04:35:33.000Z",
+        "description": "aka 小音 LittleSound｜💚 Member of Vue，参与开发 Vapor 模式中｜🪀 玩 3D 打印并制作了大量程序员周边｜ 🔥热爱开源｜Pride → 🧠 AuDHD、🏳️‍⚧️ she/her｜🎮 喜欢玩 魂系、任天堂游戏｜🐙: LittleSound",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "rizumu.me",
+                "end": 23,
+                "expanded_url": "https://rizumu.me",
+                "start": 0,
+                "url": "https://t.co/n9mkxZ2oxy"
+              }
+            ]
+          }
+        },
+        "id": "1218028959109210113",
+        "name": "绚香音 Rizumu",
+        "pinned_tweet_id": "1943899998770581632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945018573166141440/CZ-NTqXi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11891,
+          "following_count": 1560,
+          "like_count": 45200,
+          "listed_count": 61,
+          "media_count": 1922,
+          "tweet_count": 14437
+        },
+        "url": "https://t.co/n9mkxZ2oxy",
+        "username": "RizumuA3",
+        "verified": true
+      }
+    ]
+  }
+}

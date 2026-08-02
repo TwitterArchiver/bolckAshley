@@ -1,0 +1,186 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "3_1794602358359343104"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1794510552825548815",
+    "created_at": "2024-05-26T05:32:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-26T06:32:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1794602363036254251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1767456294359982080",
+          "start": 0,
+          "username": "Real_KA_SH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/UHBdWXfhh4",
+          "end": 35,
+          "expanded_url": "https://twitter.com/bolckAshley/status/1794602363036254251/photo/1",
+          "media_key": "3_1794602358359343104",
+          "start": 12,
+          "url": "https://t.co/UHBdWXfhh4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1794602363036254251",
+    "in_reply_to_user_id": "1767456294359982080",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794510552825548815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Real_KA_SH https://t.co/UHBdWXfhh4"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1794510552825548815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1794510552825548815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1794510552825548815"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1794602358359343104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GOe1VjMWQAAMeKu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794602358359343104"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "1794510552825548815",
+        "created_at": "2024-05-26T05:32:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T06:32:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1794602363036254251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1767456294359982080",
+              "start": 0,
+              "username": "Real_KA_SH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/UHBdWXfhh4",
+              "end": 35,
+              "expanded_url": "https://twitter.com/bolckAshley/status/1794602363036254251/photo/1",
+              "media_key": "3_1794602358359343104",
+              "start": 12,
+              "url": "https://t.co/UHBdWXfhh4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794602363036254251",
+        "in_reply_to_user_id": "1767456294359982080",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794510552825548815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Real_KA_SH https://t.co/UHBdWXfhh4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767220712543236096/w31UL6H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1421,
+          "following_count": 906,
+          "like_count": 11318,
+          "listed_count": 6,
+          "tweet_count": 7481
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T07:43:21.000Z",
+        "description": "昔日的民國派，如今主張“中華第三共和國”簡稱“中華民國”\n🇹🇼 🟥🟨🟦⬜️⬛ 我現在真的不想鍵政了，除非我忍不住想吐槽（（（\n\n不要問我從哪裡來，我的故鄉在遠方。\nIP屬地：馬來西亞🇲🇾\n第四代華人，民國95年生",
+        "id": "1767456294359982080",
+        "location": "Kamisato Estate, Inazuma ",
+        "name": "🦋白鷺公主🦋",
+        "pinned_tweet_id": "1770124181407195347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790165547138908160/ZqnK-YN8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1181,
+          "following_count": 961,
+          "like_count": 21919,
+          "listed_count": 12,
+          "tweet_count": 7067
+        },
+        "username": "Real_KA_SH",
+        "verified": false
+      }
+    ]
+  }
+}

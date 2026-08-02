@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1873486938004492288"
+      ],
+      "media_source_tweet_id": [
+        "1873486985874251803"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1389516152594862080",
+          "name": "Jimmy Carter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1389516152594862080",
+          "name": "Jimmy Carter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1389516152594862080",
+          "name": "Jimmy Carter"
+        }
+      }
+    ],
+    "conversation_id": "1873723506678272032",
+    "created_at": "2024-12-30T13:31:10.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-30T14:31:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1873723506678272032"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Jimmy Carter",
+          "probability": 0.9758,
+          "start": 23,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2427602532",
+          "start": 3,
+          "username": "Dispropoganda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZs75btdSA",
+          "end": 60,
+          "expanded_url": "https://x.com/Dispropoganda/status/1873486985874251803/photo/1",
+          "media_key": "3_1873486938004492288",
+          "start": 37,
+          "url": "https://t.co/oZs75btdSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1873723506678272032",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 781
+    },
+    "referenced_tweets": [
+      {
+        "id": "1873486985874251803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dispropoganda: RIP Jimmy Carter. https://t.co/oZs75btdSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1873486938004492288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gf_2cacXkAA7FUU.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873486938004492288"
+          ],
+          "media_source_tweet_id": [
+            "1873486985874251803"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          }
+        ],
+        "conversation_id": "1873723506678272032",
+        "created_at": "2024-12-30T13:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-30T14:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1873723506678272032"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Jimmy Carter",
+              "probability": 0.9758,
+              "start": 23,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2427602532",
+              "start": 3,
+              "username": "Dispropoganda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZs75btdSA",
+              "end": 60,
+              "expanded_url": "https://x.com/Dispropoganda/status/1873486985874251803/photo/1",
+              "media_key": "3_1873486938004492288",
+              "start": 37,
+              "url": "https://t.co/oZs75btdSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873723506678272032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 781
+        },
+        "referenced_tweets": [
+          {
+            "id": "1873486985874251803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dispropoganda: RIP Jimmy Carter. https://t.co/oZs75btdSA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1873486938004492288"
+          ]
+        },
+        "author_id": "2427602532",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1389516152594862080",
+              "name": "Jimmy Carter"
+            }
+          }
+        ],
+        "conversation_id": "1873486985874251803",
+        "created_at": "2024-12-29T21:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-29T22:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1873486985874251803"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "Jimmy Carter",
+              "probability": 0.9731,
+              "start": 4,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZs75btdSA",
+              "end": 41,
+              "expanded_url": "https://x.com/Dispropoganda/status/1873486985874251803/photo/1",
+              "media_key": "3_1873486938004492288",
+              "start": 18,
+              "url": "https://t.co/oZs75btdSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1873486985874251803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 683,
+          "impression_count": 345502,
+          "like_count": 10943,
+          "quote_count": 72,
+          "reply_count": 162,
+          "retweet_count": 781
+        },
+        "reply_settings": "everyone",
+        "text": "RIP Jimmy Carter. https://t.co/oZs75btdSA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873288350636924928/v2jyeQ24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2016,
+          "following_count": 1357,
+          "like_count": 18609,
+          "listed_count": 8,
+          "media_count": 636,
+          "tweet_count": 11103
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-04T17:25:34.000Z",
+        "description": "The truth shall set you laughing!\n\nhttps://t.co/YnUl7HAwbR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "dispropaganda.com",
+                "end": 58,
+                "expanded_url": "http://dispropaganda.com",
+                "start": 35,
+                "url": "https://t.co/YnUl7HAwbR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dispropaganda.com",
+                "end": 23,
+                "expanded_url": "https://www.dispropaganda.com",
+                "start": 0,
+                "url": "https://t.co/GYS24eJfGg"
+              }
+            ]
+          }
+        },
+        "id": "2427602532",
+        "name": "Dispropaganda",
+        "pinned_tweet_id": "1871238471387656300",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/452138473294544896/iZdVxC-e_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57958,
+          "following_count": 30,
+          "like_count": 5927,
+          "listed_count": 220,
+          "media_count": 7593,
+          "tweet_count": 14258
+        },
+        "url": "https://t.co/GYS24eJfGg",
+        "username": "Dispropoganda",
+        "verified": true
+      }
+    ]
+  }
+}

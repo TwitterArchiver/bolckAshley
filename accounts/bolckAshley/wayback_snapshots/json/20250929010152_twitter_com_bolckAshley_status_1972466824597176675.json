@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1972047880383815681"
+      ],
+      "media_source_tweet_id": [
+        "1972047933744005353"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      }
+    ],
+    "conversation_id": "1972466824597176675",
+    "created_at": "2025-09-29T01:01:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T02:01:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972466824597176675"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Berlin",
+          "probability": 0.5082,
+          "start": 15,
+          "type": "Organization"
+        },
+        {
+          "end": 40,
+          "normalized_text": "Palestine",
+          "probability": 0.9255,
+          "start": 32,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3293406121",
+          "start": 3,
+          "username": "sahouraxo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BBm4Rrylcb",
+          "end": 76,
+          "expanded_url": "https://x.com/sahouraxo/status/1972047933744005353/video/1",
+          "media_key": "13_1972047880383815681",
+          "start": 53,
+          "url": "https://t.co/BBm4Rrylcb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972466824597176675",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9667
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972047933744005353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sahouraxo: Berlin rises for Palestine today 🇵🇸🇩🇪 https://t.co/BBm4Rrylcb"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23657,
+        "height": 1280,
+        "media_key": "13_1972047880383815681",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1972047880383815681/img/7RD-UCfUHmKeR8Hi.jpg",
+        "public_metrics": {
+          "view_count": 226615
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972047880383815681/vid/avc1/320x568/OJeOyupiXWLSGefA.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972047880383815681/vid/avc1/480x852/b8Nk9yutLf7AUCAu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1972047880383815681/vid/avc1/720x1280/cINrL3y807bTbngx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1972047880383815681/pl/85wA92qs89ASy_XW.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972047880383815681"
+          ],
+          "media_source_tweet_id": [
+            "1972047933744005353"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1972466824597176675",
+        "created_at": "2025-09-29T01:01:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T02:01:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972466824597176675"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Berlin",
+              "probability": 0.5082,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 40,
+              "normalized_text": "Palestine",
+              "probability": 0.9255,
+              "start": 32,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3293406121",
+              "start": 3,
+              "username": "sahouraxo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBm4Rrylcb",
+              "end": 76,
+              "expanded_url": "https://x.com/sahouraxo/status/1972047933744005353/video/1",
+              "media_key": "13_1972047880383815681",
+              "start": 53,
+              "url": "https://t.co/BBm4Rrylcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972466824597176675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9667
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972047933744005353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sahouraxo: Berlin rises for Palestine today 🇵🇸🇩🇪 https://t.co/BBm4Rrylcb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1972047880383815681"
+          ]
+        },
+        "author_id": "3293406121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          }
+        ],
+        "conversation_id": "1972047933744005353",
+        "created_at": "2025-09-27T21:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T22:06:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972045125141635144",
+          "1972047933744005353"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "Berlin",
+              "probability": 0.6543,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "Palestine",
+              "probability": 0.9459,
+              "start": 17,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BBm4Rrylcb",
+              "end": 61,
+              "expanded_url": "https://x.com/sahouraxo/status/1972047933744005353/video/1",
+              "media_key": "13_1972047880383815681",
+              "start": 38,
+              "url": "https://t.co/BBm4Rrylcb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972047933744005353",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 951,
+          "impression_count": 508482,
+          "like_count": 41300,
+          "quote_count": 209,
+          "reply_count": 592,
+          "retweet_count": 9667
+        },
+        "reply_settings": "everyone",
+        "text": "Berlin rises for Palestine today 🇵🇸🇩🇪 https://t.co/BBm4Rrylcb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 1967,
+          "like_count": 33399,
+          "listed_count": 12,
+          "media_count": 1096,
+          "tweet_count": 16613
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2015-07-25T18:41:29.000Z",
+        "description": "Independent Lebanese geopolitical commentator. Follow me: https://t.co/LXTgZfG0rj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/sahouraxo",
+                "end": 81,
+                "expanded_url": "https://www.instagram.com/sahouraxo",
+                "start": 58,
+                "url": "https://t.co/LXTgZfG0rj"
+              }
+            ]
+          }
+        },
+        "id": "3293406121",
+        "name": "sarah",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1599784137765814278/_6s8OXas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682966,
+          "following_count": 532,
+          "like_count": 49093,
+          "listed_count": 3509,
+          "media_count": 2872,
+          "tweet_count": 7111
+        },
+        "username": "sahouraxo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1788772570130764275",
+    "created_at": "2024-05-10T04:29:56.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T05:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788788538126811506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1731565937818755072",
+          "start": 0,
+          "username": "Esposito8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788788538126811506",
+    "in_reply_to_user_id": "1731565937818755072",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788772891473199556",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Esposito8964 你的台獨是指🟩？還是什麼別的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1788772891473199556].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1788772891473199556",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1788772891473199556"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1788772570130764275",
+        "created_at": "2024-05-10T04:29:56.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T05:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788788538126811506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1731565937818755072",
+              "start": 0,
+              "username": "Esposito8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788788538126811506",
+        "in_reply_to_user_id": "1731565937818755072",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788772891473199556",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Esposito8964 你的台獨是指🟩？還是什麼別的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767220712543236096/w31UL6H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1358,
+          "following_count": 898,
+          "like_count": 10841,
+          "listed_count": 6,
+          "tweet_count": 7201
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-04T06:48:10.000Z",
+        "description": "大腦退步主義者/密友: @qinshi622922 普通推友小P:@M600_spitfire 反革命伴侣: @xi1966516 小天使: @hong_jiang77660 好厚米: @iranon_lcf 星怒: @Minamikaii_1995",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "qinshi622922"
+              },
+              {
+                "end": 47,
+                "start": 33,
+                "username": "M600_spitfire"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "xi1966516"
+              },
+              {
+                "end": 87,
+                "start": 71,
+                "username": "hong_jiang77660"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "iranon_lcf"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "Minamikaii_1995"
+              }
+            ]
+          }
+        },
+        "id": "1731565937818755072",
+        "location": "老鐘",
+        "name": "尼科萊塔.古斯汀🌌🇫🇮🇪🇪💙🖤",
+        "pinned_tweet_id": "1785242905592152478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788636919456464900/Bd570ydl_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 479,
+          "like_count": 41238,
+          "listed_count": 16,
+          "tweet_count": 10575
+        },
+        "username": "Esposito8964",
+        "verified": false
+      }
+    ]
+  }
+}

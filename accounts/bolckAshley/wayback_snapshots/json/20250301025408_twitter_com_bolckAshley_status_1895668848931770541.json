@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "1895668848931770541",
+    "created_at": "2025-03-01T02:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-01T03:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895668848931770541"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "111054843",
+          "start": 3,
+          "username": "NiemaMovassat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895668848931770541",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895545918663110849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NiemaMovassat: Ich habe aller größten Respekt davor, wie sachlich Zelensky im Oval Office bleibt, wie er ruhig argumentiert und zugleic…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "1895668848931770541",
+        "created_at": "2025-03-01T02:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T03:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895668848931770541"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "111054843",
+              "start": 3,
+              "username": "NiemaMovassat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895668848931770541",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895545918663110849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NiemaMovassat: Ich habe aller größten Respekt davor, wie sachlich Zelensky im Oval Office bleibt, wie er ruhig argumentiert und zugleic…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111054843",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TONIGHT: Democratic Gov. Tim Walz of Minnesota and GOP Sen. JD Vance of Ohio participate in the CBS News Vice Presidential Debate live in New York City. Watch live at 9pm ET via @CBSNews on @X.",
+              "id": "1840858535829057537",
+              "name": "CBS News 2024 Vice Presidential Debate"
+            }
+          }
+        ],
+        "conversation_id": "1895545918663110849",
+        "created_at": "2025-02-28T18:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T19:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895545918663110849"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895545918663110849",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 16879,
+          "like_count": 1191,
+          "quote_count": 5,
+          "reply_count": 98,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "Ich habe aller größten Respekt davor, wie sachlich Zelensky im Oval Office bleibt, wie er ruhig argumentiert und zugleich nicht den Kniefall macht vor diesen zwei Verrückten namens Trump und Vance. Man muss Washingtons Kurs entschieden Paroli bieten."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2187,
+          "following_count": 1595,
+          "like_count": 22832,
+          "listed_count": 9,
+          "media_count": 769,
+          "tweet_count": 12457
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-03T17:18:12.000Z",
+        "description": "Dr. iur | Rechtsanwalt | Bundestagsabgeordneter 2009-2021 | Die Linke",
+        "id": "111054843",
+        "location": "Berlin-Spandau",
+        "name": "Niema Movassat",
+        "pinned_tweet_id": "1659580408634257409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786317486255652864/aC4uq6eW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39979,
+          "following_count": 1667,
+          "like_count": 70381,
+          "listed_count": 386,
+          "media_count": 2124,
+          "tweet_count": 40790
+        },
+        "username": "NiemaMovassat",
+        "verified": false
+      }
+    ]
+  }
+}

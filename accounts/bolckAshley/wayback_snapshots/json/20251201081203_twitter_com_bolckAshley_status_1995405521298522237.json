@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995402397380919296"
+      ],
+      "media_source_tweet_id": [
+        "1995402489735389631"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "1995405521298522237",
+    "created_at": "2025-12-01T08:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T09:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995405521298522237"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 26,
+          "tag": "原神"
+        },
+        {
+          "end": 38,
+          "start": 30,
+          "tag": "genshin"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971006655430262784",
+          "start": 3,
+          "username": "FxxkApexLegend"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IawXCLSRqn",
+          "end": 62,
+          "expanded_url": "https://x.com/FxxkApexLegend/status/1995402489735389631/photo/1",
+          "media_key": "3_1995402397380919296",
+          "start": 39,
+          "url": "https://t.co/IawXCLSRqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995405521298522237",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995402489735389631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FxxkApexLegend: 中国现状\n\n#原神 #genshin https://t.co/IawXCLSRqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 367,
+        "media_key": "3_1995402397380919296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7EX6IfaQAAYD2W.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995402397380919296"
+          ],
+          "media_source_tweet_id": [
+            "1995402489735389631"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1995405521298522237",
+        "created_at": "2025-12-01T08:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995405521298522237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 26,
+              "tag": "原神"
+            },
+            {
+              "end": 38,
+              "start": 30,
+              "tag": "genshin"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971006655430262784",
+              "start": 3,
+              "username": "FxxkApexLegend"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IawXCLSRqn",
+              "end": 62,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1995402489735389631/photo/1",
+              "media_key": "3_1995402397380919296",
+              "start": 39,
+              "url": "https://t.co/IawXCLSRqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995405521298522237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995402489735389631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FxxkApexLegend: 中国现状\n\n#原神 #genshin https://t.co/IawXCLSRqn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995402397380919296"
+          ]
+        },
+        "author_id": "1971006655430262784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1995402489735389631",
+        "created_at": "2025-12-01T08:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T09:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995402489735389631"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 6,
+              "tag": "原神"
+            },
+            {
+              "end": 18,
+              "start": 10,
+              "tag": "genshin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IawXCLSRqn",
+              "end": 42,
+              "expanded_url": "https://x.com/FxxkApexLegend/status/1995402489735389631/photo/1",
+              "media_key": "3_1995402397380919296",
+              "start": 19,
+              "url": "https://t.co/IawXCLSRqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995402489735389631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国现状\n\n#原神 #genshin https://t.co/IawXCLSRqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2770,
+          "following_count": 2032,
+          "like_count": 35479,
+          "listed_count": 12,
+          "media_count": 1211,
+          "tweet_count": 17578
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T00:19:51.000Z",
+        "description": "17岁，是翎，嗯造两年雌二醇，🇲🇴  MtX💜🖤💛🤍 蓝标是@goldwater8964 送的😁 对象❤️@juhao0721 ☮️和平主义者 🇺🇦🇵🇸 我不关心政治 我只关心活生生的人\n 买💊雌二醇补佳乐色谱龙减肥/促智药物💊找@chosekinoraneko @minokakay作担保😁",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "goldwater8964"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "juhao0721"
+              },
+              {
+                "end": 131,
+                "start": 115,
+                "username": "chosekinoraneko"
+              },
+              {
+                "end": 142,
+                "start": 132,
+                "username": "minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apexlegendsstatus.com/profile/PC/Ak1…",
+                "end": 23,
+                "expanded_url": "https://apexlegendsstatus.com/profile/PC/Ak1raComplex",
+                "start": 0,
+                "url": "https://t.co/BKhBrEbyHV"
+              }
+            ]
+          }
+        },
+        "id": "1971006655430262784",
+        "location": "🇲🇴",
+        "name": "🍁🍥翎野🍥🍁",
+        "pinned_tweet_id": "1990388232681361811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995403399937118208/P6A9iPu7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2461,
+          "following_count": 406,
+          "like_count": 5017,
+          "listed_count": 8,
+          "media_count": 525,
+          "tweet_count": 4557
+        },
+        "url": "https://t.co/BKhBrEbyHV",
+        "username": "FxxkApexLegend",
+        "verified": false
+      }
+    ]
+  }
+}

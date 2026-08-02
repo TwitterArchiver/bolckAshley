@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10032682179",
+          "name": "eBay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1407812892909473795",
+          "name": "eCommerce industry"
+        }
+      }
+    ],
+    "conversation_id": "2031682105164648847",
+    "created_at": "2026-03-11T10:42:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T11:42:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031682105164648847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1982839066120048640",
+          "start": 3,
+          "username": "nvdlaamdmag114"
+        },
+        {
+          "end": 29,
+          "id": "1799308675158605825",
+          "start": 20,
+          "username": "CPUP2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031682105164648847",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031676353565876331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nvdlaamdmag114: @CPUP2024 Globe Motors 537A276直流电机（24V），eBay上公开售卖的船用电机零件，常用于船舶设备如绞盘或泵。\n这张更是令人忍俊不禁，你要是承认这是现场发现的。那为什么女子学校里会有这种给船用的电机？\n不承认…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2031676345936478208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH231IbgAA-ErM.jpg",
+        "width": 721
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031676345890328577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDH2309bUAEBdP7.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2031682105164648847",
+        "created_at": "2026-03-11T10:42:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:42:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031682105164648847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1982839066120048640",
+              "start": 3,
+              "username": "nvdlaamdmag114"
+            },
+            {
+              "end": 29,
+              "id": "1799308675158605825",
+              "start": 20,
+              "username": "CPUP2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031682105164648847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031676353565876331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nvdlaamdmag114: @CPUP2024 Globe Motors 537A276直流电机（24V），eBay上公开售卖的船用电机零件，常用于船舶设备如绞盘或泵。\n这张更是令人忍俊不禁，你要是承认这是现场发现的。那为什么女子学校里会有这种给船用的电机？\n不承认…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031676345936478208",
+            "3_2031676345890328577"
+          ]
+        },
+        "author_id": "1982839066120048640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10032682179",
+              "name": "eBay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1407812892909473795",
+              "name": "eCommerce industry"
+            }
+          }
+        ],
+        "conversation_id": "2031663163331272762",
+        "created_at": "2026-03-11T10:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031676353565876331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1dLVJ2tXhH",
+              "end": 157,
+              "expanded_url": "https://x.com/nvdlaamdmag114/status/2031676353565876331/photo/1",
+              "media_key": "3_2031676345936478208",
+              "start": 134,
+              "url": "https://t.co/1dLVJ2tXhH"
+            },
+            {
+              "display_url": "pic.x.com/1dLVJ2tXhH",
+              "end": 157,
+              "expanded_url": "https://x.com/nvdlaamdmag114/status/2031676353565876331/photo/1",
+              "media_key": "3_2031676345890328577",
+              "start": 134,
+              "url": "https://t.co/1dLVJ2tXhH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031676353565876331",
+        "in_reply_to_user_id": "1982839066120048640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031675346014318720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 Globe Motors 537A276直流电机（24V），eBay上公开售卖的船用电机零件，常用于船舶设备如绞盘或泵。\n这张更是令人忍俊不禁，你要是承认这是现场发现的。那为什么女子学校里会有这种给船用的电机？\n不承认那不就说明神棍又在捏造证据？ https://t.co/1dLVJ2tXhH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 1980,
+          "like_count": 39463,
+          "listed_count": 16,
+          "media_count": 1384,
+          "tweet_count": 20034
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-27T15:57:38.000Z",
+        "description": "",
+        "id": "1982839066120048640",
+        "name": "贝托尔德·康拉德·赫尔曼·阿尔伯特·设计施",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000859063031357440/HgG29lUb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 179,
+          "like_count": 1728,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 2684
+        },
+        "username": "nvdlaamdmag114",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "欢迎来到葱的页面！小号@mikulovermua 偏生活 左翼挺建制汉人、撑CPC 🇨🇳❤️ 仰慕☪️亲什叶派 ally&支持酷儿🏳️‍🌈&同志骄傲 stand with🇵🇸🇨🇺🇷🇺and Iran☫ 同情毛左 中国民族主义 诸爱国者 笑霍霍尔锡安港废台绿 挺川皇特朗普狠栓洋人👊🏻🤠🔥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "mikulovermua"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "中华人民共和国🇨🇳",
+        "name": "赛高の葱娘酱miku🇨🇳☭☪︎——请务必战斗到最后一个霍霍尔人🙏🏻🙏🏻🙏🏻🙏🏻",
+        "pinned_tweet_id": "2031410096144896332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030189135823261698/oQMUI0fX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2003,
+          "following_count": 1605,
+          "like_count": 42635,
+          "listed_count": 34,
+          "media_count": 944,
+          "tweet_count": 11778
+        },
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

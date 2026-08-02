@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1993845186460569859",
+    "created_at": "2025-11-27T00:51:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T01:51:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993845186460569859"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "Europe",
+          "probability": 0.923,
+          "start": 65,
+          "type": "Place"
+        },
+        {
+          "end": 118,
+          "normalized_text": "y ",
+          "probability": 0.9228,
+          "start": 117,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "839481423920758784",
+          "start": 3,
+          "username": "VoltEuropa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993845186460569859",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993724240911077716",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VoltEuropa: This is a major step toward an inclusive, humane Europe. 🇪🇺🏳️‍🌈 \n\nBut the fight isn’t over until every EU country legalises…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1993724207419559938",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6shmntXEAI7qbC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1993845186460569859",
+        "created_at": "2025-11-27T00:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T01:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993845186460569859"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "Europe",
+              "probability": 0.923,
+              "start": 65,
+              "type": "Place"
+            },
+            {
+              "end": 118,
+              "normalized_text": "y ",
+              "probability": 0.9228,
+              "start": 117,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "839481423920758784",
+              "start": 3,
+              "username": "VoltEuropa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993845186460569859",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993724240911077716",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VoltEuropa: This is a major step toward an inclusive, humane Europe. 🇪🇺🏳️‍🌈 \n\nBut the fight isn’t over until every EU country legalises…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993724207419559938"
+          ]
+        },
+        "author_id": "839481423920758784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "1993724240911077716",
+        "created_at": "2025-11-26T16:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T17:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993724240911077716"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "Europe",
+              "probability": 0.8954,
+              "start": 49,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "y ",
+              "probability": 0.9472,
+              "start": 101,
+              "type": "Place"
+            },
+            {
+              "end": 155,
+              "normalized_text": "y LGBT",
+              "probability": 0.7769,
+              "start": 150,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "volt.team/simple-join/en",
+              "end": 280,
+              "expanded_url": "https://volt.team/simple-join/en",
+              "start": 257,
+              "status": 200,
+              "title": "volt.team",
+              "unwound_url": "https://volt.team/simple-join/en",
+              "url": "https://t.co/WooMUwLJuR"
+            },
+            {
+              "display_url": "pic.x.com/kfDcHg9gXK",
+              "end": 304,
+              "expanded_url": "https://x.com/VoltEuropa/status/1993724240911077716/photo/1",
+              "media_key": "3_1993724207419559938",
+              "start": 281,
+              "url": "https://t.co/kfDcHg9gXK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993724240911077716",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1420,
+          "like_count": 99,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "This is a major step toward an inclusive, humane Europe. 🇪🇺🏳️‍🌈 \n\nBut the fight isn’t over until every EU country legalises same-sex marriage and every LGBTQ+ person feels safe and respected. Let’s keep pushing for equality. 💜 \n\nJoin our fight, join Volt 👉 https://t.co/WooMUwLJuR https://t.co/kfDcHg9gXK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2762,
+          "following_count": 2025,
+          "like_count": 35373,
+          "listed_count": 12,
+          "media_count": 1208,
+          "tweet_count": 17531
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-08T14:22:23.000Z",
+        "description": "The Pan-European political movement acting to solve our shared challenges & build a better future together. 🇪🇺 #JointheChange 👉 https://t.co/S9OYKuuRDF",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 111,
+                "tag": "JointheChange"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "volt.link/europa",
+                "end": 151,
+                "expanded_url": "https://volt.link/europa",
+                "start": 128,
+                "url": "https://t.co/S9OYKuuRDF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "volteuropa.org",
+                "end": 23,
+                "expanded_url": "https://www.volteuropa.org/",
+                "start": 0,
+                "url": "https://t.co/ILwNOMk41U"
+              }
+            ]
+          }
+        },
+        "id": "839481423920758784",
+        "location": "Brussels, European Union.",
+        "name": "Volt Europa",
+        "pinned_tweet_id": "1854092161257504959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1534873881302933506/hVntoXuE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38914,
+          "following_count": 281,
+          "like_count": 8844,
+          "listed_count": 331,
+          "media_count": 1707,
+          "tweet_count": 5686
+        },
+        "url": "https://t.co/ILwNOMk41U",
+        "username": "VoltEuropa",
+        "verified": false
+      }
+    ]
+  }
+}

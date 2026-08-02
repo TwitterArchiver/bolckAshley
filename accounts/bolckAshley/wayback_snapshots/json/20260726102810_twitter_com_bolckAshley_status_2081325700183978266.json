@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597570732032",
+          "name": "Multi-Purpose Department - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040162720",
+          "name": "Belk"
+        }
+      }
+    ],
+    "conversation_id": "2081325700183978266",
+    "created_at": "2026-07-26T10:28:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T11:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081325700183978266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1911335004661067776",
+          "start": 3,
+          "username": "AnarchSoul"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081325700183978266",
+    "lang": "tr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081314764676845909",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AnarchSoul: Avrupa’da yükselen göçmen karşıtlığı nedeniyle Avrupa’ya gitmek için vize alamayabilirim. Bu nedenle alternatif olarak belk…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597570732032",
+              "name": "Multi-Purpose Department - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040162720",
+              "name": "Belk"
+            }
+          }
+        ],
+        "conversation_id": "2081325700183978266",
+        "created_at": "2026-07-26T10:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T11:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081325700183978266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1911335004661067776",
+              "start": 3,
+              "username": "AnarchSoul"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081325700183978266",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081314764676845909",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AnarchSoul: Avrupa’da yükselen göçmen karşıtlığı nedeniyle Avrupa’ya gitmek için vize alamayabilirim. Bu nedenle alternatif olarak belk…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911335004661067776",
+        "conversation_id": "2081314764676845909",
+        "created_at": "2026-07-26T09:44:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:44:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081314764676845909"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081314764676845909",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {},
+          "text": "Avrupa’da yükselen göçmen karşıtlığı nedeniyle Avrupa’ya gitmek için vize alamayabilirim. Bu nedenle alternatif olarak belki Çin’e giderim çünkü Çin, Azerbaycan’dan vize istemiyor. Lakin Çin’de LGBT yasal değil ve Çince öğrenebileceğimi sanmıyorum. Belki oradan Tayvan’a geçiş yapmayı denerim diye düşünüyorum. Aklıma başka bir şey gelmiyor."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Avrupa’da yükselen göçmen karşıtlığı nedeniyle Avrupa’ya gitmek için vize alamayabilirim. Bu nedenle alternatif olarak belki Çin’e giderim çünkü Çin, Azerbaycan’dan vize istemiyor. Lakin Çin’de LGBT yasal değil ve Çince öğrenebileceğimi sanmıyorum. Belki oradan Tayvan’a geçiş"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081051053253185536/jopA5LxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4246,
+          "following_count": 2262,
+          "like_count": 43378,
+          "listed_count": 29,
+          "media_count": 1902,
+          "tweet_count": 23772
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T08:26:12.000Z",
+        "description": "Amateur Writer | Trans Woman | 22 | ADHD | West Asian | Humanist",
+        "id": "1911335004661067776",
+        "location": "she/her",
+        "name": "Alina 🏳️‍⚧️",
+        "pinned_tweet_id": "2079440193501999308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080626296795918336/WPsQtT6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3209,
+          "following_count": 608,
+          "like_count": 28020,
+          "listed_count": 29,
+          "media_count": 1653,
+          "tweet_count": 12426
+        },
+        "url": "",
+        "username": "AnarchSoul",
+        "verified": true
+      }
+    ]
+  }
+}

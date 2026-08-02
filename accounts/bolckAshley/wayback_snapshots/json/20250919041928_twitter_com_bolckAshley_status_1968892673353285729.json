@@ -1,0 +1,611 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "1968892673353285729",
+    "created_at": "2025-09-19T04:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T05:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968892673353285729"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 49,
+          "normalized_text": "KING of Performai The 7th（KOP7th）",
+          "probability": 0.5011,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "オンゲキ",
+          "probability": 0.315,
+          "start": 63,
+          "type": "Other"
+        },
+        {
+          "end": 90,
+          "normalized_text": "maimai でらっくす",
+          "probability": 0.4765,
+          "start": 79,
+          "type": "Other"
+        },
+        {
+          "end": 107,
+          "normalized_text": "CHUNITHM",
+          "probability": 0.4975,
+          "start": 100,
+          "type": "Other"
+        },
+        {
+          "end": 118,
+          "normalized_text": "maimai DX",
+          "probability": 0.5099,
+          "start": 110,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1173945883391455233",
+          "start": 3,
+          "username": "kop_sega"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968892673353285729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1835
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968511115937132765",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kop_sega: 🏆『KING of Performai The 7th（KOP7th）』開催決定！🏆\n今年も「オンゲキ」「CHUNITHM」「maimai でらっくす」3タイトル、\n「CHUNITHM」「maimai DX」International ver.（海外…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1968511067929415680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1GOYvxbkAAsrIA.jpg",
+        "width": 1595
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1968892673353285729",
+        "created_at": "2025-09-19T04:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T05:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968892673353285729"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 49,
+              "normalized_text": "KING of Performai The 7th（KOP7th）",
+              "probability": 0.5011,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "オンゲキ",
+              "probability": 0.315,
+              "start": 63,
+              "type": "Other"
+            },
+            {
+              "end": 90,
+              "normalized_text": "maimai でらっくす",
+              "probability": 0.4765,
+              "start": 79,
+              "type": "Other"
+            },
+            {
+              "end": 107,
+              "normalized_text": "CHUNITHM",
+              "probability": 0.4975,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 118,
+              "normalized_text": "maimai DX",
+              "probability": 0.5099,
+              "start": 110,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1173945883391455233",
+              "start": 3,
+              "username": "kop_sega"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968892673353285729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1835
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968511115937132765",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kop_sega: 🏆『KING of Performai The 7th（KOP7th）』開催決定！🏆\n今年も「オンゲキ」「CHUNITHM」「maimai でらっくす」3タイトル、\n「CHUNITHM」「maimai DX」International ver.（海外…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968511067929415680"
+          ]
+        },
+        "author_id": "1173945883391455233",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "1968511115937132765",
+        "created_at": "2025-09-18T03:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T04:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968511115937132765"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "KING of Performai The 7th（KOP7th）",
+              "probability": 0.5992,
+              "start": 3,
+              "type": "Other"
+            },
+            {
+              "end": 52,
+              "normalized_text": "オンゲキ",
+              "probability": 0.3537,
+              "start": 49,
+              "type": "Other"
+            },
+            {
+              "end": 62,
+              "normalized_text": "CHUNITHM",
+              "probability": 0.3529,
+              "start": 55,
+              "type": "Other"
+            },
+            {
+              "end": 76,
+              "normalized_text": "maimai でらっくす",
+              "probability": 0.543,
+              "start": 65,
+              "type": "Other"
+            },
+            {
+              "end": 93,
+              "normalized_text": "CHUNITHM",
+              "probability": 0.4787,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "maimai DX",
+              "probability": 0.4677,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 170,
+              "normalized_text": "KOP7th",
+              "probability": 0.3761,
+              "start": 165,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "セガ音ゲー公式全国大会「KING of Performai The 7th」2025年10月エントリー開始！",
+              "display_url": "maimai.sega.jp/kop7th/",
+              "end": 201,
+              "expanded_url": "https://maimai.sega.jp/kop7th/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1968511116457197568/-ttd1pyO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1968511116457197568/-ttd1pyO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 178,
+              "status": 200,
+              "title": "KING of Performai The 7th【KOP7th】-オンゲキ・CHUNITHM・maimai でらっくす-",
+              "unwound_url": "https://maimai.sega.jp/kop7th/",
+              "url": "https://t.co/0XXkPESVNK"
+            },
+            {
+              "display_url": "pic.x.com/zCmlujxGjo",
+              "end": 225,
+              "expanded_url": "https://x.com/kop_sega/status/1968511115937132765/photo/1",
+              "media_key": "3_1968511067929415680",
+              "start": 202,
+              "url": "https://t.co/zCmlujxGjo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968511115937132765",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 279393,
+          "like_count": 4440,
+          "quote_count": 250,
+          "reply_count": 10,
+          "retweet_count": 1835
+        },
+        "reply_settings": "everyone",
+        "text": "🏆『KING of Performai The 7th（KOP7th）』開催決定！🏆\n今年も「オンゲキ」「CHUNITHM」「maimai でらっくす」3タイトル、\n「CHUNITHM」「maimai DX」International ver.（海外版）も同時開催！\n\n10月エントリー開始！続報をお待ちください！！\n\n⬇️『KOP7th』ティザーサイト\nhttps://t.co/0XXkPESVNK https://t.co/zCmlujxGjo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 1952,
+          "like_count": 33048,
+          "listed_count": 11,
+          "media_count": 1082,
+          "tweet_count": 16396
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-17T13:05:04.000Z",
+        "description": "SEGA音ゲー公式全国大会「KING of Performai（KOP）」公式アカウントです。本アカウントから大会情報を発信していきます。ゲキ！チュウマイ@performai maimai公式 @maimai_official CHUNITHM公式@chunithm オンゲキ公式@ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 77,
+                "username": "performai"
+              },
+              {
+                "end": 113,
+                "start": 97,
+                "username": "maimai_official"
+              },
+              {
+                "end": 133,
+                "start": 124,
+                "username": "chunithm"
+              },
+              {
+                "end": 156,
+                "start": 140,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp/kop7th/",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/kop7th/",
+                "start": 0,
+                "url": "https://t.co/3kVElVmuM5"
+              }
+            ]
+          }
+        },
+        "id": "1173945883391455233",
+        "name": "KING of Performai 公式",
+        "pinned_tweet_id": "1968511115937132765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968510483469864960/CkswNeir_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26507,
+          "following_count": 5,
+          "like_count": 97,
+          "listed_count": 110,
+          "media_count": 400,
+          "tweet_count": 657
+        },
+        "url": "https://t.co/3kVElVmuM5",
+        "username": "kop_sega",
+        "verified": false
+      }
+    ]
+  }
+}

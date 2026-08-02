@@ -1,0 +1,609 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1459234123407511554",
+          "name": "Gabriel Boric"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1459234123407511554",
+          "name": "Gabriel Boric"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1459234123407511554",
+          "name": "Gabriel Boric"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555193751324176385",
+          "name": "Chile politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555193882232508416",
+          "name": "Chile political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2031342501421002867",
+    "created_at": "2026-03-10T12:12:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T13:12:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031342501421002867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ChileanCrave/s…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/ChileanCrave/status/2031213007540195722",
+          "start": 19,
+          "url": "https://t.co/YAmY1ZJd9L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031342501421002867",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031213007540195722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "We'll miss him 🌹🌹🌹 https://t.co/YAmY1ZJd9L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2031213003195199488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBRdu6asAA4A58.jpg",
+        "width": 670
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1459234123407511554",
+              "name": "Gabriel Boric"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1459234123407511554",
+              "name": "Gabriel Boric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1459234123407511554",
+              "name": "Gabriel Boric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193751324176385",
+              "name": "Chile politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193882232508416",
+              "name": "Chile political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2031342501421002867",
+        "created_at": "2026-03-10T12:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T13:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031342501421002867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ChileanCrave/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/ChileanCrave/status/2031213007540195722",
+              "start": 19,
+              "url": "https://t.co/YAmY1ZJd9L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031342501421002867",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031213007540195722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We'll miss him 🌹🌹🌹 https://t.co/YAmY1ZJd9L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031213003195199488"
+          ]
+        },
+        "author_id": "936480136903344128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1459234123407511554",
+              "name": "Gabriel Boric"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1459234123407511554",
+              "name": "Gabriel Boric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1459234123407511554",
+              "name": "Gabriel Boric"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193751324176385",
+              "name": "Chile politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193882232508416",
+              "name": "Chile political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2031213007540195722",
+        "created_at": "2026-03-10T03:38:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031213007540195722"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Gabriel Boric",
+              "probability": 0.9555,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Chile",
+              "probability": 0.7503,
+              "start": 71,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/J5O8Xt8XOr",
+              "end": 100,
+              "expanded_url": "https://x.com/ChileanCrave/status/2031213007540195722/photo/1",
+              "media_key": "3_2031213003195199488",
+              "start": 77,
+              "url": "https://t.co/J5O8Xt8XOr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031213007540195722",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 64112,
+          "like_count": 7649,
+          "quote_count": 507,
+          "reply_count": 108,
+          "retweet_count": 867
+        },
+        "reply_settings": "everyone",
+        "text": "Today is the last day of Gabriel Boric as President of the Republic of Chile https://t.co/J5O8Xt8XOr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3026,
+          "following_count": 1986,
+          "like_count": 39399,
+          "listed_count": 16,
+          "media_count": 1380,
+          "tweet_count": 20010
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-01T06:20:38.000Z",
+        "description": "Chilean news with the worst english in history, Q_ARE stan account and capybara enders",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtu.be/UEqTIwRrWvA?si…",
+                "end": 23,
+                "expanded_url": "https://youtu.be/UEqTIwRrWvA?si=pZKM9MGYxjCV8Z55",
+                "start": 0,
+                "url": "https://t.co/MOwhZAiJWs"
+              }
+            ]
+          }
+        },
+        "id": "936480136903344128",
+        "location": "Joshlernation",
+        "name": "Curarrehue Crave 🇨🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983383819097911296/-9eOkoH7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37943,
+          "following_count": 499,
+          "like_count": 1252,
+          "listed_count": 15,
+          "media_count": 11665,
+          "tweet_count": 17664
+        },
+        "url": "https://t.co/MOwhZAiJWs",
+        "username": "ChileanCrave",
+        "verified": false
+      }
+    ]
+  }
+}

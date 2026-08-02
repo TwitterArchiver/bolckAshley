@@ -1,0 +1,614 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Angela Merkel",
+          "id": "849236271553691648",
+          "name": "Angela Merkel"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Angela Merkel",
+          "id": "849236271553691648",
+          "name": "Angela Merkel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Angela Merkel",
+          "id": "849236271553691648",
+          "name": "Angela Merkel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      }
+    ],
+    "conversation_id": "2049360192035545389",
+    "created_at": "2026-04-29T05:28:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T06:28:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049360192035545389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "62648354",
+          "start": 3,
+          "username": "aldatweets"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049360192035545389",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 895
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049137351968854508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aldatweets: I will die on this hill: Angela Merkel broke Germany and probably Europe. In the wreckage of post-2008, she was uniquely po…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "2049360192035545389",
+        "created_at": "2026-04-29T05:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T06:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049360192035545389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "62648354",
+              "start": 3,
+              "username": "aldatweets"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049360192035545389",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 895
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049137351968854508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aldatweets: I will die on this hill: Angela Merkel broke Germany and probably Europe. In the wreckage of post-2008, she was uniquely po…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "62648354",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Angela Merkel",
+              "id": "849236271553691648",
+              "name": "Angela Merkel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "2049137351968854508",
+        "created_at": "2026-04-28T14:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049137351968854508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/derjamesjackso…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/derjamesjackson/status/2049097961628418391",
+              "start": 279,
+              "url": "https://t.co/cHIC2MeNGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049137351968854508",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 615,
+          "impression_count": 330820,
+          "like_count": 7297,
+          "quote_count": 60,
+          "reply_count": 157,
+          "retweet_count": 895
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049097961628418391",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I will die on this hill: Angela Merkel broke Germany and probably Europe. In the wreckage of post-2008, she was uniquely positioned to choose social welfare over austerity. She chose austerity. Centrists loved her. But the fascists are now stronger than they’ve been in decades. https://t.co/cHIC2MeNGv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3219,
+          "following_count": 1980,
+          "like_count": 41011,
+          "listed_count": 19,
+          "media_count": 1501,
+          "tweet_count": 21549
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-03T23:05:33.000Z",
+        "description": "Assistant Professor of Sociology @UCBerkeley. Director @SC2_Collab. Founding Co-Director @cplusci. A Planet to Win (Verso). he/him",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "UCBerkeley"
+              },
+              {
+                "end": 66,
+                "start": 55,
+                "username": "SC2_Collab"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "cplusci"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sociology.berkeley.edu/faculty/daniel…",
+                "end": 23,
+                "expanded_url": "https://sociology.berkeley.edu/faculty/daniel-aldana-cohen",
+                "start": 0,
+                "url": "https://t.co/GK1muHb2BE"
+              }
+            ]
+          }
+        },
+        "id": "62648354",
+        "location": "Oakland/NYC/São Paulo",
+        "name": "Daniel Aldana Cohen",
+        "pinned_tweet_id": "1876660149857001932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1509793446940217348/FarnGPI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22745,
+          "following_count": 2231,
+          "like_count": 62356,
+          "listed_count": 360,
+          "media_count": 1908,
+          "tweet_count": 21619
+        },
+        "url": "https://t.co/GK1muHb2BE",
+        "username": "aldatweets",
+        "verified": false
+      }
+    ]
+  }
+}

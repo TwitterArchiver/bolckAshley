@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2015669901109989737",
+    "created_at": "2026-01-26T06:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015669901109989737"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Andy Burnham",
+          "probability": 0.9736,
+          "start": 23,
+          "type": "Person"
+        },
+        {
+          "end": 50,
+          "normalized_text": "Labour",
+          "probability": 0.5206,
+          "start": 45,
+          "type": "Organization"
+        },
+        {
+          "end": 75,
+          "normalized_text": "Gorton",
+          "probability": 0.3212,
+          "start": 70,
+          "type": "Person"
+        },
+        {
+          "end": 86,
+          "normalized_text": "Denton",
+          "probability": 0.4939,
+          "start": 81,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1434450096557596680",
+          "start": 3,
+          "username": "PolitlcsUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015669901109989737",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015533894309675287",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PolitlcsUK: 🚨 NEW: Andy Burnham predicts Labour will now lose the Gorton and Denton by-election as he is not their candidate https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 993,
+        "media_key": "3_2015533889507274752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_idZMzXsAAHs7s.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2015669901109989737",
+        "created_at": "2026-01-26T06:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015669901109989737"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Andy Burnham",
+              "probability": 0.9736,
+              "start": 23,
+              "type": "Person"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Labour",
+              "probability": 0.5206,
+              "start": 45,
+              "type": "Organization"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Gorton",
+              "probability": 0.3212,
+              "start": 70,
+              "type": "Person"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Denton",
+              "probability": 0.4939,
+              "start": 81,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1434450096557596680",
+              "start": 3,
+              "username": "PolitlcsUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015669901109989737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015533894309675287",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PolitlcsUK: 🚨 NEW: Andy Burnham predicts Labour will now lose the Gorton and Denton by-election as he is not their candidate https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015533889507274752"
+          ]
+        },
+        "author_id": "1434450096557596680",
+        "conversation_id": "2015533894309675287",
+        "created_at": "2026-01-25T21:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T22:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015533894309675287"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "Andy Burnham",
+              "probability": 0.9688,
+              "start": 7,
+              "type": "Person"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Labour",
+              "probability": 0.547,
+              "start": 29,
+              "type": "Organization"
+            },
+            {
+              "end": 59,
+              "normalized_text": "Gorton",
+              "probability": 0.421,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 70,
+              "normalized_text": "Denton",
+              "probability": 0.5549,
+              "start": 65,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HMvmIYElPl",
+              "end": 136,
+              "expanded_url": "https://x.com/PolitlcsUK/status/2015533894309675287/photo/1",
+              "media_key": "3_2015533889507274752",
+              "start": 113,
+              "url": "https://t.co/HMvmIYElPl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015533894309675287",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 81207,
+          "like_count": 1973,
+          "quote_count": 26,
+          "reply_count": 80,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 NEW: Andy Burnham predicts Labour will now lose the Gorton and Denton by-election as he is not their candidate https://t.co/HMvmIYElPl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2872,
+          "following_count": 1967,
+          "like_count": 37785,
+          "listed_count": 14,
+          "media_count": 1308,
+          "tweet_count": 18848
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-05T09:35:36.000Z",
+        "description": "The Home of UK Political News. Follow & turn on notifications for impartial coverage first. For global & U.S. coverage, follow @PolitlcsGlobal & @PolitlcsUS.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "PolitlcsGlobal"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "PolitlcsUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "politicsuk.com/about-us",
+                "end": 23,
+                "expanded_url": "http://politicsuk.com/about-us",
+                "start": 0,
+                "url": "https://t.co/J5C3WQrF2D"
+              }
+            ]
+          }
+        },
+        "id": "1434450096557596680",
+        "location": "United Kingdom",
+        "name": "Politics UK",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688954450675740688/t1aS9_3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392935,
+          "following_count": 678,
+          "like_count": 14879,
+          "listed_count": 1127,
+          "media_count": 3858,
+          "tweet_count": 19292
+        },
+        "url": "https://t.co/J5C3WQrF2D",
+        "username": "PolitlcsUK",
+        "verified": true
+      }
+    ]
+  }
+}

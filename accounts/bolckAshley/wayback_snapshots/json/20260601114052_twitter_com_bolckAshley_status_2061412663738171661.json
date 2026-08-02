@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061260568099454976"
+      ],
+      "media_source_tweet_id": [
+        "2061260679340814463"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490376299675721729",
+          "name": "VRChat"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899469046054924",
+          "name": "Virtual reality games"
+        }
+      }
+    ],
+    "conversation_id": "2061412663738171661",
+    "created_at": "2026-06-01T11:40:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T12:40:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061412663738171661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2850482629",
+          "start": 3,
+          "username": "VRChat"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QZjXGIAU9g",
+          "end": 83,
+          "expanded_url": "https://x.com/VRChat/status/2061260679340814463/photo/1",
+          "media_key": "3_2061260568099454976",
+          "start": 60,
+          "url": "https://t.co/QZjXGIAU9g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061412663738171661",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 599
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061260679340814463",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @VRChat: We're  a little early... \n\nHappy Pride Month! 🌈 https://t.co/QZjXGIAU9g"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2061260568099454976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJsRkM8WgAAIhIl.png",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061260568099454976"
+          ],
+          "media_source_tweet_id": [
+            "2061260679340814463"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2061412663738171661",
+        "created_at": "2026-06-01T11:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T12:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061412663738171661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2850482629",
+              "start": 3,
+              "username": "VRChat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZjXGIAU9g",
+              "end": 83,
+              "expanded_url": "https://x.com/VRChat/status/2061260679340814463/photo/1",
+              "media_key": "3_2061260568099454976",
+              "start": 60,
+              "url": "https://t.co/QZjXGIAU9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061412663738171661",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 599
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061260679340814463",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @VRChat: We're  a little early... \n\nHappy Pride Month! 🌈 https://t.co/QZjXGIAU9g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061260568099454976"
+          ]
+        },
+        "author_id": "2850482629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2061260679340814463",
+        "created_at": "2026-06-01T01:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061260679340814463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QZjXGIAU9g",
+              "end": 71,
+              "expanded_url": "https://x.com/VRChat/status/2061260679340814463/photo/1",
+              "media_key": "3_2061260568099454976",
+              "start": 48,
+              "url": "https://t.co/QZjXGIAU9g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061260679340814463",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 221,
+          "impression_count": 183695,
+          "like_count": 4935,
+          "quote_count": 127,
+          "reply_count": 566,
+          "retweet_count": 599
+        },
+        "reply_settings": "everyone",
+        "text": "We're  a little early... \n\nHappy Pride Month! 🌈 https://t.co/QZjXGIAU9g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 希望能一直陪著她",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3311,
+          "following_count": 1973,
+          "like_count": 41291,
+          "listed_count": 19,
+          "media_count": 1584,
+          "tweet_count": 22098
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-10T14:22:14.000Z",
+        "description": "Welcome to #VRChat! Create, explore, and socialize in virtual reality. \nServer Status: @VRChat_Status Help & Support: https://t.co/zW9h4tmqg4 日本語: @VRChat_JP",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 18,
+                "start": 11,
+                "tag": "VRChat"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "VRChat_Status"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "VRChat_JP"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.vrchat.com",
+                "end": 141,
+                "expanded_url": "http://help.vrchat.com",
+                "start": 118,
+                "url": "https://t.co/zW9h4tmqg4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hello.vrchat.com",
+                "end": 23,
+                "expanded_url": "https://hello.vrchat.com/",
+                "start": 0,
+                "url": "https://t.co/NdybU9lv9A"
+              }
+            ]
+          }
+        },
+        "id": "2850482629",
+        "location": "Join us!",
+        "name": "VRChat",
+        "pinned_tweet_id": "2061260679340814463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061260540899442695/rBVqUrzE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221886,
+          "following_count": 1054,
+          "like_count": 19240,
+          "listed_count": 1099,
+          "media_count": 1680,
+          "tweet_count": 8532
+        },
+        "url": "https://t.co/NdybU9lv9A",
+        "username": "VRChat",
+        "verified": true
+      }
+    ]
+  }
+}

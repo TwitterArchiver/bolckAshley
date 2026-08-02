@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041680611803590659"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2041680624554274908",
+    "created_at": "2026-04-08T00:52:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T01:52:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041680624554274908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8QliZvqYk",
+          "end": 81,
+          "expanded_url": "https://x.com/bolckAshley/status/2041680624554274908/photo/1",
+          "media_key": "3_2041680611803590659",
+          "start": 58,
+          "url": "https://t.co/C8QliZvqYk"
+        },
+        {
+          "display_url": "x.com/KenjiHun/statu…",
+          "end": 105,
+          "expanded_url": "https://twitter.com/KenjiHun/status/2041610035487285417",
+          "start": 82,
+          "url": "https://t.co/qnNpF0Mcr3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041680624554274908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041610035487285417",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Who I'd vote for in every European country\n我在每個歐洲國家會投票的政黨 https://t.co/C8QliZvqYk https://t.co/qnNpF0Mcr3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2041680611803590659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWBsvta8AMcU6n.jpg",
+        "width": 2150
+      },
+      {
+        "height": 902,
+        "media_key": "3_2041610032568057857",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVBgfkXwAEiRH0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041680611803590659"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2041680624554274908",
+        "created_at": "2026-04-08T00:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041680624554274908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8QliZvqYk",
+              "end": 81,
+              "expanded_url": "https://x.com/bolckAshley/status/2041680624554274908/photo/1",
+              "media_key": "3_2041680611803590659",
+              "start": 58,
+              "url": "https://t.co/C8QliZvqYk"
+            },
+            {
+              "display_url": "x.com/KenjiHun/statu…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/KenjiHun/status/2041610035487285417",
+              "start": 82,
+              "url": "https://t.co/qnNpF0Mcr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041680624554274908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041610035487285417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Who I'd vote for in every European country\n我在每個歐洲國家會投票的政黨 https://t.co/C8QliZvqYk https://t.co/qnNpF0Mcr3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041610032568057857"
+          ]
+        },
+        "author_id": "1593709747202555904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2041610035487285417",
+        "created_at": "2026-04-07T20:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041610035487285417"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jbJK2f2xZk",
+              "end": 170,
+              "expanded_url": "https://x.com/KenjiHun/status/2041610035487285417/photo/1",
+              "media_key": "3_2041610032568057857",
+              "start": 147,
+              "url": "https://t.co/jbJK2f2xZk"
+            },
+            {
+              "display_url": "x.com/Ethereals68/st…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/Ethereals68/status/2041569786736398708",
+              "start": 171,
+              "url": "https://t.co/XvR8iTGPEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041610035487285417",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 15682,
+          "like_count": 162,
+          "quote_count": 17,
+          "reply_count": 54,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041569786736398708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Who i would vote for in every European country (DISCLAIMER: I don't know about the politics of most of these countries so feel free to correct me) https://t.co/jbJK2f2xZk https://t.co/XvR8iTGPEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036808158912671744/q5dELKL-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3072,
+          "following_count": 1980,
+          "like_count": 40535,
+          "listed_count": 16,
+          "media_count": 1452,
+          "tweet_count": 20932
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-18T20:56:39.000Z",
+        "description": "he/him | leftie | bi 🇵🇸",
+        "id": "1593709747202555904",
+        "location": "Magyarország",
+        "name": "Kenji 🇭🇺🇪🇺",
+        "pinned_tweet_id": "1932465471900561846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017916880103583744/NAa073tO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 1048,
+          "like_count": 57475,
+          "listed_count": 5,
+          "media_count": 701,
+          "tweet_count": 11875
+        },
+        "username": "KenjiHun",
+        "verified": false
+      }
+    ]
+  }
+}

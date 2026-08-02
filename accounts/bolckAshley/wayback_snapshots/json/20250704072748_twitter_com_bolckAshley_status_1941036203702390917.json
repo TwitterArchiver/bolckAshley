@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516798152279425028",
+          "name": "Spain politics"
+        }
+      }
+    ],
+    "conversation_id": "1941036203702390917",
+    "created_at": "2025-07-04T07:27:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-04T08:27:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941036203702390917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "265087008",
+          "start": 3,
+          "username": "DnlMndc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941036203702390917",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941034788418474113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DnlMndc: Spaniens Ministerpräsident Sánchez von der sozialdemokratischen PSOE hat 2016 eine Koalition mit der konservativen PP abgelehn…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          }
+        ],
+        "conversation_id": "1941036203702390917",
+        "created_at": "2025-07-04T07:27:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:27:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941036203702390917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "265087008",
+              "start": 3,
+              "username": "DnlMndc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941036203702390917",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941034788418474113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DnlMndc: Spaniens Ministerpräsident Sánchez von der sozialdemokratischen PSOE hat 2016 eine Koalition mit der konservativen PP abgelehn…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "265087008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          }
+        ],
+        "conversation_id": "1941034788418474113",
+        "created_at": "2025-07-04T07:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-04T08:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941034788418474113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stats_feed/sta…",
+              "end": 301,
+              "expanded_url": "https://twitter.com/stats_feed/status/1940448912864903520",
+              "start": 278,
+              "url": "https://t.co/SqRF74LaV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941034788418474113",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1940448912864903520",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Spaniens Ministerpräsident Sánchez von der sozialdemokratischen PSOE hat 2016 eine Koalition mit der konservativen PP abgelehnt, koaliert mit der linken Unidos Podemos, macht linke Politik.\nSpanien überholt jetzt Japan in BIP/Kopf (PPP).\n\nErgo: die SPD muss weiter nach rechts! https://t.co/SqRF74LaV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2499,
+          "following_count": 1855,
+          "like_count": 29585,
+          "listed_count": 10,
+          "media_count": 953,
+          "tweet_count": 14667
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-13T00:37:29.000Z",
+        "description": "Wahlmünchner aus Hagen | Sozialdemokrat | glühender Europäer, Jugo und Antifaschist | Physiker | BVB-Fan",
+        "id": "265087008",
+        "name": "Daniel Mandić",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794726717849788416/RkkXC6Fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 3618,
+          "like_count": 173427,
+          "listed_count": 13,
+          "media_count": 1956,
+          "tweet_count": 19487
+        },
+        "username": "DnlMndc",
+        "verified": false
+      }
+    ]
+  }
+}

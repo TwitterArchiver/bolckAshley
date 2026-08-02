@@ -1,0 +1,768 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "President of Venezuela Nicolás Maduro",
+          "id": "839575776999583745",
+          "name": "Nicolás Maduro"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "President of Venezuela Nicolás Maduro",
+          "id": "839575776999583745",
+          "name": "Nicolás Maduro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "President of Venezuela Nicolás Maduro",
+          "id": "839575776999583745",
+          "name": "Nicolás Maduro"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555191995919872000",
+          "name": "Venezuela politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555192119840542720",
+          "name": "Venezuela political figures"
+        }
+      }
+    ],
+    "conversation_id": "2007464881675526604",
+    "created_at": "2026-01-04T04:44:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T05:44:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007674486490124692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1837550820742815744",
+          "start": 0,
+          "username": "Yuki_chan_114"
+        },
+        {
+          "end": 29,
+          "id": "1313307135766392833",
+          "start": 15,
+          "username": "NailoongBlair"
+        },
+        {
+          "end": 44,
+          "id": "1969691175574769664",
+          "start": 30,
+          "username": "Nostraman6000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/10895…",
+          "end": 111,
+          "expanded_url": "https://x.com/i/status/1089506603022405632",
+          "start": 88,
+          "url": "https://t.co/4QKCm0IATy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007674486490124692",
+    "in_reply_to_user_id": "1837550820742815744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1089506603022405632",
+        "type": "quoted"
+      },
+      {
+        "id": "2007672013780140163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki_chan_114 @NailoongBlair @Nostraman6000 反正事情該發生都發生了，接下來的重點就是要重啟委內瑞拉的民主選舉，我同意桑切斯的看法\nhttps://t.co/4QKCm0IATy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_1089506587725705222",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Dx60eBXWsAYGql8.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1089506596563095553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Dx60eiSWkAE_AnH.jpg",
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555191995919872000",
+              "name": "Venezuela politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555192119840542720",
+              "name": "Venezuela political figures"
+            }
+          }
+        ],
+        "conversation_id": "2007464881675526604",
+        "created_at": "2026-01-04T04:44:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:44:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007674486490124692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837550820742815744",
+              "start": 0,
+              "username": "Yuki_chan_114"
+            },
+            {
+              "end": 29,
+              "id": "1313307135766392833",
+              "start": 15,
+              "username": "NailoongBlair"
+            },
+            {
+              "end": 44,
+              "id": "1969691175574769664",
+              "start": 30,
+              "username": "Nostraman6000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/10895…",
+              "end": 111,
+              "expanded_url": "https://x.com/i/status/1089506603022405632",
+              "start": 88,
+              "url": "https://t.co/4QKCm0IATy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007674486490124692",
+        "in_reply_to_user_id": "1837550820742815744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1089506603022405632",
+            "type": "quoted"
+          },
+          {
+            "id": "2007672013780140163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki_chan_114 @NailoongBlair @Nostraman6000 反正事情該發生都發生了，接下來的重點就是要重啟委內瑞拉的民主選舉，我同意桑切斯的看法\nhttps://t.co/4QKCm0IATy"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1089506587725705222",
+            "3_1089506596563095553"
+          ]
+        },
+        "author_id": "68740712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Venezuelan Presidential Elections",
+              "id": "997472978093817856",
+              "name": "Venezuelan Presidential Elections"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "Europa",
+              "id": "855409238318882816",
+              "name": "Europe"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "Venezuela",
+              "id": "864887574556327936",
+              "name": "Venezuela"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "President of Venezuela Nicolás Maduro",
+              "id": "839575776999583745",
+              "name": "Nicolás Maduro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Venezuelan Presidential Elections",
+              "id": "997472978093817856",
+              "name": "Venezuelan Presidential Elections"
+            }
+          }
+        ],
+        "conversation_id": "1089506603022405632",
+        "created_at": "2019-01-27T12:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2019-01-27T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1089506603022405632"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 152,
+              "normalized_text": "Maduro",
+              "probability": 0.9838,
+              "start": 147,
+              "type": "Person"
+            },
+            {
+              "end": 194,
+              "normalized_text": "Maduro",
+              "probability": 0.9772,
+              "start": 189,
+              "type": "Person"
+            },
+            {
+              "end": 211,
+              "normalized_text": "Europa",
+              "probability": 0.9767,
+              "start": 206,
+              "type": "Place"
+            },
+            {
+              "end": 278,
+              "normalized_text": "Venezuela",
+              "probability": 0.9678,
+              "start": 270,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgrKXTNA7X",
+              "end": 304,
+              "expanded_url": "https://x.com/sanchezcastejon/status/1089506603022405632/photo/1",
+              "media_key": "3_1089506587725705222",
+              "start": 281,
+              "url": "https://t.co/hgrKXTNA7X"
+            },
+            {
+              "display_url": "pic.x.com/hgrKXTNA7X",
+              "end": 304,
+              "expanded_url": "https://x.com/sanchezcastejon/status/1089506603022405632/photo/1",
+              "media_key": "3_1089506596563095553",
+              "start": 281,
+              "url": "https://t.co/hgrKXTNA7X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1089506603022405632",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 0,
+          "like_count": 4895,
+          "quote_count": 708,
+          "reply_count": 2672,
+          "retweet_count": 2003
+        },
+        "reply_settings": "everyone",
+        "text": "Tenemos una oposición sin escrúpulos que utiliza el sufrimiento del pueblo venezolano para atacar al Gobierno. La izquierda nada tiene que ver con Maduro. La izquierda es todo lo opuesto a Maduro.\n\nJunto a Europa defenderemos elecciones justas, libres y democráticas en Venezuela. https://t.co/hgrKXTNA7X"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1837550820742815744",
+        "conversation_id": "2007464881675526604",
+        "created_at": "2026-01-04T04:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T05:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007672013780140163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1313307135766392833",
+              "start": 0,
+              "username": "NailoongBlair"
+            },
+            {
+              "end": 27,
+              "id": "1649365408779214848",
+              "start": 15,
+              "username": "bolckAshley"
+            },
+            {
+              "end": 42,
+              "id": "1969691175574769664",
+              "start": 28,
+              "username": "Nostraman6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007672013780140163",
+        "in_reply_to_user_id": "1313307135766392833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007667697908363487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NailoongBlair @bolckAshley @Nostraman6000 对于这些变化，硬要说我的态度的话，我只能说“Confused”或“不安”，而非赞成或反对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2842,
+          "following_count": 1951,
+          "like_count": 37185,
+          "listed_count": 14,
+          "media_count": 1252,
+          "tweet_count": 18420
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T17:54:07.000Z",
+        "description": "Vox populi,vox dei",
+        "id": "1837550820742815744",
+        "name": "(⁠ ⁠╹⁠ᗊ╹⁠ ⁠)つꇴ",
+        "pinned_tweet_id": "2006781524394520970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002646129264283648/cUEeRIpy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 1003,
+          "like_count": 50287,
+          "listed_count": 3,
+          "media_count": 1103,
+          "tweet_count": 13942
+        },
+        "username": "Yuki_chan_114",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T02:36:47.000Z",
+        "description": "Democratic Socialist/Marxist🌹👊，Unionist ⚙️，Lutheran Christian✝️，Anti-LINO，Vive la Mai 68！definitely KOP（#YNWA） #我是麻酱\n，阿尔都塞-后结构-拉康精神分析，不擅长好好说话，暴脾气请见谅。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 109,
+                "start": 104,
+                "tag": "YNWA"
+              },
+              {
+                "end": 116,
+                "start": 111,
+                "tag": "我是麻酱"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/ShinoharaBlair",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/ShinoharaBlair",
+                "start": 0,
+                "url": "https://t.co/Q9UcPnvRuZ"
+              }
+            ]
+          }
+        },
+        "id": "1313307135766392833",
+        "location": "推特大街114514号",
+        "name": "AnonTokyo 奶龙布莱尔✝️👊🌹（修整）",
+        "pinned_tweet_id": "2004249178311217207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943261006546767873/HRZ-GVab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2745,
+          "following_count": 2581,
+          "like_count": 188183,
+          "listed_count": 23,
+          "media_count": 2202,
+          "tweet_count": 44696
+        },
+        "url": "https://t.co/Q9UcPnvRuZ",
+        "username": "NailoongBlair",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-21T09:12:35.000Z",
+        "description": "大号：@LXL1165188",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "LXL1165188"
+              }
+            ]
+          }
+        },
+        "id": "1969691175574769664",
+        "location": "SC",
+        "name": "MALVER",
+        "pinned_tweet_id": "2007513708126449847",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974877727288377345/062SeFOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 239,
+          "like_count": 355,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1929
+        },
+        "username": "Nostraman6000",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-25T16:45:56.000Z",
+        "description": "Presidente del Gobierno de España. Secretario gral. del @PSOE y presidente de @Soc_Intl. Padre. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 56,
+                "username": "PSOE"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Soc_Intl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lamoncloa.gob.es",
+                "end": 23,
+                "expanded_url": "http://www.lamoncloa.gob.es",
+                "start": 0,
+                "url": "https://t.co/h8b36qazCM"
+              }
+            ]
+          }
+        },
+        "id": "68740712",
+        "name": "Pedro Sánchez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939599021258969088/3wVYl0Zl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2028083,
+          "following_count": 5670,
+          "like_count": 4964,
+          "listed_count": 7580,
+          "media_count": 10354,
+          "tweet_count": 35058
+        },
+        "url": "https://t.co/h8b36qazCM",
+        "username": "sanchezcastejon",
+        "verified": true
+      }
+    ]
+  }
+}

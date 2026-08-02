@@ -1,0 +1,734 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1117818918331011073",
+          "name": "Josep Borrell Fontelles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1117818918331011073",
+          "name": "Josep Borrell Fontelles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1117818918331011073",
+          "name": "Josep Borrell Fontelles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1841767675858468950",
+    "created_at": "2024-10-03T09:10:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-10-03T10:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1841767675858468950"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "UN",
+          "probability": 0.4554,
+          "start": 34,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1003895325025865730",
+          "start": 3,
+          "username": "JosepBorrellF"
+        },
+        {
+          "end": 71,
+          "id": "811229675758505984",
+          "start": 55,
+          "username": "antonioguterres"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1841767675858468950",
+    "lang": "en",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 496
+    },
+    "referenced_tweets": [
+      {
+        "id": "1841577042501828777",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JosepBorrellF: We support the UN Secretary General @AntonioGuterres in his tireless efforts to achieve peace in all the conflicts and p…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117818918331011073",
+              "name": "Josep Borrell Fontelles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117818918331011073",
+              "name": "Josep Borrell Fontelles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117818918331011073",
+              "name": "Josep Borrell Fontelles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1841767675858468950",
+        "created_at": "2024-10-03T09:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-03T10:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1841767675858468950"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "UN",
+              "probability": 0.4554,
+              "start": 34,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1003895325025865730",
+              "start": 3,
+              "username": "JosepBorrellF"
+            },
+            {
+              "end": 71,
+              "id": "811229675758505984",
+              "start": 55,
+              "username": "antonioguterres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841767675858468950",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 496
+        },
+        "referenced_tweets": [
+          {
+            "id": "1841577042501828777",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JosepBorrellF: We support the UN Secretary General @AntonioGuterres in his tireless efforts to achieve peace in all the conflicts and p…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1003895325025865730",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117818918331011073",
+              "name": "Josep Borrell Fontelles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117818918331011073",
+              "name": "Josep Borrell Fontelles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117818918331011073",
+              "name": "Josep Borrell Fontelles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1841577042501828777",
+        "created_at": "2024-10-02T20:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-10-02T21:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1841577042501828777"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "UN",
+              "probability": 0.4947,
+              "start": 15,
+              "type": "Organization"
+            },
+            {
+              "end": 149,
+              "normalized_text": "Middle East",
+              "probability": 0.8449,
+              "start": 139,
+              "type": "Place"
+            },
+            {
+              "end": 256,
+              "normalized_text": "UN",
+              "probability": 0.6505,
+              "start": 255,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 52,
+              "id": "811229675758505984",
+              "start": 36,
+              "username": "antonioguterres"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1841577042501828777",
+        "lang": "en",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 72458,
+          "like_count": 1771,
+          "quote_count": 63,
+          "reply_count": 333,
+          "retweet_count": 496
+        },
+        "reply_settings": "everyone",
+        "text": "We support the UN Secretary General @AntonioGuterres in his tireless efforts to achieve peace in all the conflicts and particularly in the Middle East. \nWe deplore the unjustified attacks against him as well as the unacceptable number of casualties among UN  humanitarian workers."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840985115490463744/MMA4nMVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1670,
+          "following_count": 1088,
+          "like_count": 14588,
+          "listed_count": 9,
+          "tweet_count": 9805
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-05T07:04:31.000Z",
+        "description": "High Representative of the EU for Foreign Affairs and Security Policy/Vice-President of @eu_commission #EUdiplomacy @eu_eeas My blog: https://t.co/isaaoLI4bK",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 103,
+                "tag": "EUdiplomacy"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "eu_commission"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "eu_eeas"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "europa.eu/!yx86UC",
+                "end": 157,
+                "expanded_url": "https://europa.eu/!yx86UC",
+                "start": 134,
+                "url": "https://t.co/isaaoLI4bK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eeas.europa.eu",
+                "end": 23,
+                "expanded_url": "https://eeas.europa.eu/",
+                "start": 0,
+                "url": "https://t.co/znJIjQgHYt"
+              }
+            ]
+          }
+        },
+        "id": "1003895325025865730",
+        "location": "Brussels",
+        "name": "Josep Borrell Fontelles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1200923897006305286/2GxIHIOf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471950,
+          "following_count": 226,
+          "like_count": 2995,
+          "listed_count": 3736,
+          "tweet_count": 8908
+        },
+        "url": "https://t.co/znJIjQgHYt",
+        "username": "JosepBorrellF",
+        "verified": true
+      },
+      {
+        "created_at": "2016-12-20T15:20:01.000Z",
+        "description": "Secretary-General of the @UN.\n\nWe will never, ever give up making this world better for everyone, everywhere.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 25,
+                "username": "UN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "un.org",
+                "end": 23,
+                "expanded_url": "http://www.un.org/",
+                "start": 0,
+                "url": "https://t.co/mbKGgi7REm"
+              }
+            ]
+          }
+        },
+        "id": "811229675758505984",
+        "name": "António Guterres",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/815358035505905664/snuVhCJS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2396954,
+          "following_count": 219,
+          "like_count": 42,
+          "listed_count": 6933,
+          "tweet_count": 5460
+        },
+        "url": "https://t.co/mbKGgi7REm",
+        "username": "antonioguterres",
+        "verified": true
+      }
+    ]
+  }
+}

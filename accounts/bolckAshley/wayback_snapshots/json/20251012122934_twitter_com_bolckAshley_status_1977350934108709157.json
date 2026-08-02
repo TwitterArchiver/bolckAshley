@@ -1,0 +1,706 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1137016372330881024",
+          "name": "Ekrem Imamoglu"
+        }
+      }
+    ],
+    "conversation_id": "1977350934108709157",
+    "created_at": "2025-10-12T12:29:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-12T13:29:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977350934108709157"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "Brussels",
+          "probability": 0.9582,
+          "start": 39,
+          "type": "Place"
+        },
+        {
+          "end": 108,
+          "normalized_text": "Istanbul",
+          "probability": 0.9795,
+          "start": 101,
+          "type": "Place"
+        },
+        {
+          "end": 136,
+          "normalized_text": "Erdogan",
+          "probability": 0.6875,
+          "start": 130,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 35,
+          "id": "255515879",
+          "start": 21,
+          "username": "herkesicinCHP"
+        },
+        {
+          "end": 99,
+          "id": "422861505",
+          "start": 84,
+          "username": "ekrem_imamoglu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977350934108709157",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977349828754477386",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: We join @herkesicinCHP in Brussels today to call for the liberation of @ekrem_imamoglu, Istanbul mayor emprisoned by Erdogan’s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1977347104671408128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DytxuWIAAS3QH.jpg",
+        "width": 1200
+      },
+      {
+        "duration_ms": 10105,
+        "height": 1920,
+        "media_key": "13_1977344532384493568",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1977344532384493568/img/1MlvZtUK1-7dmH68.jpg",
+        "public_metrics": {
+          "view_count": 148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977344532384493568/vid/avc1/320x568/d3T6LgRv4C2ugDSD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977344532384493568/vid/avc1/720x1280/ZFvjiRWV5EwWXI4o.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977344532384493568/vid/avc1/480x852/C78wNOFIoqCqnyKz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1977344532384493568/vid/avc1/1080x1920/Qrg0JRplPVZGyiaZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1977344532384493568/pl/rFW2tP8Es57cMs88.m3u8"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1977344532376109056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DwYDLWwAAkyT9.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1977344532384481280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3DwYDNWgAAZJQk.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          }
+        ],
+        "conversation_id": "1977350934108709157",
+        "created_at": "2025-10-12T12:29:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:29:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977350934108709157"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "Brussels",
+              "probability": 0.9582,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 108,
+              "normalized_text": "Istanbul",
+              "probability": 0.9795,
+              "start": 101,
+              "type": "Place"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Erdogan",
+              "probability": 0.6875,
+              "start": 130,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 35,
+              "id": "255515879",
+              "start": 21,
+              "username": "herkesicinCHP"
+            },
+            {
+              "end": 99,
+              "id": "422861505",
+              "start": 84,
+              "username": "ekrem_imamoglu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977350934108709157",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977349828754477386",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: We join @herkesicinCHP in Brussels today to call for the liberation of @ekrem_imamoglu, Istanbul mayor emprisoned by Erdogan’s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977347104671408128",
+            "13_1977344532384493568",
+            "3_1977344532376109056",
+            "3_1977344532384481280"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1137016372330881024",
+              "name": "Ekrem Imamoglu"
+            }
+          }
+        ],
+        "conversation_id": "1977349828754477386",
+        "created_at": "2025-10-12T12:25:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T13:04:29.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977344622658478440",
+          "1977347111101313511",
+          "1977349828754477386"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Brussels",
+              "probability": 0.9684,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 95,
+              "normalized_text": "Istanbul",
+              "probability": 0.9732,
+              "start": 88,
+              "type": "Place"
+            },
+            {
+              "end": 123,
+              "normalized_text": "Erdogan",
+              "probability": 0.8055,
+              "start": 117,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 22,
+              "id": "255515879",
+              "start": 8,
+              "username": "herkesicinCHP"
+            },
+            {
+              "end": 86,
+              "id": "422861505",
+              "start": 71,
+              "username": "ekrem_imamoglu"
+            },
+            {
+              "end": 148,
+              "id": "229515050",
+              "start": 135,
+              "username": "eczozgurozel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vvI3ZtFJRC",
+              "end": 172,
+              "expanded_url": "https://x.com/PES_PSE/status/1977349828754477386/video/1",
+              "media_key": "3_1977347104671408128",
+              "start": 149,
+              "url": "https://t.co/vvI3ZtFJRC"
+            },
+            {
+              "display_url": "pic.x.com/vvI3ZtFJRC",
+              "end": 172,
+              "expanded_url": "https://x.com/PES_PSE/status/1977349828754477386/video/1",
+              "media_key": "13_1977344532384493568",
+              "start": 149,
+              "url": "https://t.co/vvI3ZtFJRC"
+            },
+            {
+              "display_url": "pic.x.com/vvI3ZtFJRC",
+              "end": 172,
+              "expanded_url": "https://x.com/PES_PSE/status/1977349828754477386/video/1",
+              "media_key": "3_1977344532376109056",
+              "start": 149,
+              "url": "https://t.co/vvI3ZtFJRC"
+            },
+            {
+              "display_url": "pic.x.com/vvI3ZtFJRC",
+              "end": 172,
+              "expanded_url": "https://x.com/PES_PSE/status/1977349828754477386/video/1",
+              "media_key": "3_1977344532384481280",
+              "start": 149,
+              "url": "https://t.co/vvI3ZtFJRC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977349828754477386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "We join @herkesicinCHP in Brussels today to call for the liberation of @ekrem_imamoglu, Istanbul mayor emprisoned by Erdogan’s regime.\n@eczozgurozel https://t.co/vvI3ZtFJRC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2652,
+          "following_count": 1968,
+          "like_count": 33944,
+          "listed_count": 0,
+          "media_count": 1126,
+          "tweet_count": 16850
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79671,
+          "following_count": 5297,
+          "like_count": 8906,
+          "listed_count": 1037,
+          "media_count": 8403,
+          "tweet_count": 51459
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-21T14:41:14.000Z",
+        "description": "Cumhuriyet Halk Partisi Resmi Twitter Hesabı",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chp.org.tr",
+                "end": 23,
+                "expanded_url": "http://www.chp.org.tr",
+                "start": 0,
+                "url": "https://t.co/0zhl0JDH2l"
+              }
+            ]
+          }
+        },
+        "id": "255515879",
+        "name": "CHP 🇹🇷",
+        "pinned_tweet_id": "1974446125726716173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693938065406881792/G8xHyH04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2866428,
+          "following_count": 6,
+          "like_count": 2498,
+          "listed_count": 2003,
+          "media_count": 21386,
+          "tweet_count": 52167
+        },
+        "url": "https://t.co/0zhl0JDH2l",
+        "username": "herkesicinCHP",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-27T19:45:16.000Z",
+        "description": "İstanbul Büyükşehir Belediye Başkanı / Mayor of İstanbul | Türkiye Belediyeler Birliği Başkanı | For tweets in English, follow: @imamoglu_int",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 128,
+                "username": "imamoglu_int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ekremimamoglu.com",
+                "end": 23,
+                "expanded_url": "https://www.ekremimamoglu.com",
+                "start": 0,
+                "url": "https://t.co/5oah01d2UP"
+              }
+            ]
+          }
+        },
+        "id": "422861505",
+        "location": "İstanbul Büyükşehir Belediyesi",
+        "name": "Ekrem İmamoğlu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558009149530800128/nIihF5ji_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9704591,
+          "following_count": 828,
+          "like_count": 11125,
+          "listed_count": 3409,
+          "media_count": 15560,
+          "tweet_count": 30057
+        },
+        "url": "https://t.co/5oah01d2UP",
+        "username": "ekrem_imamoglu",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "TR"
+          ]
+        }
+      }
+    ]
+  }
+}

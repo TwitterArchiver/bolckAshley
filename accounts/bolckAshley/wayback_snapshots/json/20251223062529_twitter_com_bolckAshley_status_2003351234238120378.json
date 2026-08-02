@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "European Parliament",
+          "id": "1127870700109189121",
+          "name": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "European Parliament",
+          "id": "1127870700109189121",
+          "name": "European Parliament"
+        }
+      }
+    ],
+    "conversation_id": "2003351234238120378",
+    "created_at": "2025-12-23T06:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T07:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003351234238120378"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "EU",
+          "probability": 0.9486,
+          "start": 21,
+          "type": "Place"
+        },
+        {
+          "end": 102,
+          "normalized_text": "European Parliament",
+          "probability": 0.9174,
+          "start": 84,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "36329597",
+          "start": 3,
+          "username": "Europarl_EN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003351234238120378",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003060447524892910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Europarl_EN: The EU needs to be able to defend itself with its own weapons.\nThe European Parliament has voted with a large majority to…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2003060270533386240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8xMtBDXIAAo8OP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          }
+        ],
+        "conversation_id": "2003351234238120378",
+        "created_at": "2025-12-23T06:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T07:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003351234238120378"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "EU",
+              "probability": 0.9486,
+              "start": 21,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "European Parliament",
+              "probability": 0.9174,
+              "start": 84,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "36329597",
+              "start": 3,
+              "username": "Europarl_EN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003351234238120378",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003060447524892910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Europarl_EN: The EU needs to be able to defend itself with its own weapons.\nThe European Parliament has voted with a large majority to…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003060270533386240"
+          ]
+        },
+        "author_id": "36329597",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          }
+        ],
+        "conversation_id": "2003060447524892910",
+        "created_at": "2025-12-22T11:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T12:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003060447524892910"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "EU",
+              "probability": 0.9678,
+              "start": 4,
+              "type": "Place"
+            },
+            {
+              "end": 85,
+              "normalized_text": "European Parliament",
+              "probability": 0.932,
+              "start": 67,
+              "type": "Organization"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Europe",
+              "probability": 0.4453,
+              "start": 147,
+              "type": "Place"
+            },
+            {
+              "end": 196,
+              "normalized_text": "EU",
+              "probability": 0.9563,
+              "start": 195,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Part of the ReArm Europe plan, the measures aim to strengthen Europe’s defence technological and industrial base by channelling EU funding to defence.",
+              "display_url": "link.europa.eu/4tr3QC",
+              "end": 279,
+              "expanded_url": "https://link.europa.eu/4tr3QC",
+              "images": [
+                {
+                  "height": 750,
+                  "url": "https://pbs.twimg.com/news_img/2000915411563634698/pSAdYRKc?format=jpg&name=orig",
+                  "width": 560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2000915411563634698/pSAdYRKc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 256,
+              "status": 200,
+              "title": "Parliament backs measures to boost EU support for defence investment | News | European Parliament",
+              "unwound_url": "https://www.europarl.europa.eu/news/en/press-room/20251211IPR32157/parliament-backs-measures-to-boost-eu-support-for-defence-investment",
+              "url": "https://t.co/p20UwJ8lMh"
+            },
+            {
+              "display_url": "pic.x.com/sHADcPKDNP",
+              "end": 303,
+              "expanded_url": "https://x.com/Europarl_EN/status/2003060447524892910/photo/1",
+              "media_key": "3_2003060270533386240",
+              "start": 280,
+              "url": "https://t.co/sHADcPKDNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003060447524892910",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 29909,
+          "like_count": 942,
+          "quote_count": 37,
+          "reply_count": 427,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "The EU needs to be able to defend itself with its own weapons.\nThe European Parliament has voted with a large majority to adopt parts of the ReArm Europe Plan that will allow for more funds from EU programmes to be spent on defence-related projects.\nRead↓\nhttps://t.co/p20UwJ8lMh https://t.co/sHADcPKDNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002079733979500544/ZohX4pvL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2808,
+          "following_count": 1939,
+          "like_count": 36522,
+          "listed_count": 13,
+          "media_count": 1240,
+          "tweet_count": 18166
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-29T10:32:40.000Z",
+        "description": "Follow for the latest information from the European Parliament. Account managed by the Parliament's web team. Privacy statement: https://t.co/iaSwerklKP",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "europa.eu/!wg8H6X",
+                "end": 152,
+                "expanded_url": "https://europa.eu/!wg8H6X",
+                "start": 129,
+                "url": "https://t.co/iaSwerklKP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "europarl.europa.eu/topics/en",
+                "end": 23,
+                "expanded_url": "https://www.europarl.europa.eu/topics/en",
+                "start": 0,
+                "url": "https://t.co/8wmivOorlc"
+              }
+            ]
+          }
+        },
+        "id": "36329597",
+        "location": "Brussels/Strasbourg",
+        "name": "European Parliament",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1729065534837153792/GkRn3p6o_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 987848,
+          "following_count": 7480,
+          "like_count": 126,
+          "listed_count": 7481,
+          "media_count": 10710,
+          "tweet_count": 24855
+        },
+        "url": "https://t.co/8wmivOorlc",
+        "username": "Europarl_EN",
+        "verified": true
+      }
+    ]
+  }
+}

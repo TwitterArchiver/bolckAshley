@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "description": "Political News",
+          "id": "840159122012102656",
+          "name": "Political News"
+        }
+      }
+    ],
+    "conversation_id": "2027769692929372252",
+    "created_at": "2026-02-28T15:35:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T16:35:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027769692929372252"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "Ukraine",
+          "probability": 0.9765,
+          "start": 27,
+          "type": "Place"
+        },
+        {
+          "end": 75,
+          "normalized_text": "Palestine",
+          "probability": 0.9677,
+          "start": 67,
+          "type": "Place"
+        },
+        {
+          "end": 88,
+          "normalized_text": "Israel",
+          "probability": 0.9729,
+          "start": 83,
+          "type": "Place"
+        },
+        {
+          "end": 96,
+          "normalized_text": "Taiwan",
+          "probability": 0.9805,
+          "start": 91,
+          "type": "Place"
+        },
+        {
+          "end": 142,
+          "normalized_text": "Iran",
+          "probability": 0.9233,
+          "start": 139,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1677997905414594560",
+          "start": 3,
+          "username": "pl_european"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027769692929372252",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027723516380938305",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pl_european: I support Ukraine, the two state solution between Palestine &amp; Israel, Taiwan as an independent country, the people of Iran…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          }
+        ],
+        "conversation_id": "2027769692929372252",
+        "created_at": "2026-02-28T15:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T16:35:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027769692929372252"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Ukraine",
+              "probability": 0.9765,
+              "start": 27,
+              "type": "Place"
+            },
+            {
+              "end": 75,
+              "normalized_text": "Palestine",
+              "probability": 0.9677,
+              "start": 67,
+              "type": "Place"
+            },
+            {
+              "end": 88,
+              "normalized_text": "Israel",
+              "probability": 0.9729,
+              "start": 83,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "Taiwan",
+              "probability": 0.9805,
+              "start": 91,
+              "type": "Place"
+            },
+            {
+              "end": 142,
+              "normalized_text": "Iran",
+              "probability": 0.9233,
+              "start": 139,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1677997905414594560",
+              "start": 3,
+              "username": "pl_european"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027769692929372252",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027723516380938305",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pl_european: I support Ukraine, the two state solution between Palestine &amp; Israel, Taiwan as an independent country, the people of Iran…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677997905414594560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          }
+        ],
+        "conversation_id": "2027723516380938305",
+        "created_at": "2026-02-28T12:32:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T13:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027723516380938305"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "Ukraine",
+              "probability": 0.9823,
+              "start": 10,
+              "type": "Place"
+            },
+            {
+              "end": 58,
+              "normalized_text": "Palestine",
+              "probability": 0.9673,
+              "start": 50,
+              "type": "Place"
+            },
+            {
+              "end": 71,
+              "normalized_text": "Israel",
+              "probability": 0.9719,
+              "start": 66,
+              "type": "Place"
+            },
+            {
+              "end": 79,
+              "normalized_text": "Taiwan",
+              "probability": 0.9808,
+              "start": 74,
+              "type": "Place"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Iran",
+              "probability": 0.91,
+              "start": 122,
+              "type": "Place"
+            },
+            {
+              "end": 166,
+              "normalized_text": "Ayatollah",
+              "probability": 0.7207,
+              "start": 158,
+              "type": "Place"
+            },
+            {
+              "end": 191,
+              "normalized_text": "Venezuela",
+              "probability": 0.9667,
+              "start": 183,
+              "type": "Place"
+            },
+            {
+              "end": 282,
+              "normalized_text": "Belarus",
+              "probability": 0.9458,
+              "start": 276,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027723516380938305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2730,
+          "like_count": 174,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "I support Ukraine, the two state solution between Palestine &amp; Israel, Taiwan as an independent country, the people of Iran bravely protesting against the Ayatollah, the people of Venezuela who have for years been deprived of opportunity by their regime, the opposition in Belarus."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 1981,
+          "like_count": 38851,
+          "listed_count": 16,
+          "media_count": 1357,
+          "tweet_count": 19576
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T11:07:53.000Z",
+        "description": "Eurocentric supporter of Western Values, politically a Christian Democrat, believer of peace through strength, law & order. 🇮🇪 🇵🇱",
+        "id": "1677997905414594560",
+        "location": "EU",
+        "name": "European LibCon 🇪🇺🗽🦅",
+        "pinned_tweet_id": "1948736503246454937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008643317479755776/gni1CrYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7176,
+          "following_count": 2099,
+          "like_count": 33724,
+          "listed_count": 86,
+          "media_count": 1988,
+          "tweet_count": 19134
+        },
+        "username": "pl_european",
+        "verified": false
+      }
+    ]
+  }
+}

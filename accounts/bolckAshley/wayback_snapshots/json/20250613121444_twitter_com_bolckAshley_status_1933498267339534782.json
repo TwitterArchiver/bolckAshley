@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1933463544462471177",
+    "created_at": "2025-06-13T12:14:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-13T13:14:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933498267339534782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1331221058301542400",
+          "start": 0,
+          "username": "hachineko1208"
+        },
+        {
+          "end": 31,
+          "id": "1813753513597665280",
+          "start": 15,
+          "username": "XiJinPin1953615"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933498267339534782",
+    "in_reply_to_user_id": "1331221058301542400",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933488016745771055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hachineko1208 @XiJinPin1953615 One nation,Two country"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1933488016745771055].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1933488016745771055",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1933488016745771055"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1933463544462471177",
+        "created_at": "2025-06-13T12:14:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T13:14:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933498267339534782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1331221058301542400",
+              "start": 0,
+              "username": "hachineko1208"
+            },
+            {
+              "end": 31,
+              "id": "1813753513597665280",
+              "start": 15,
+              "username": "XiJinPin1953615"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933498267339534782",
+        "in_reply_to_user_id": "1331221058301542400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933488016745771055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hachineko1208 @XiJinPin1953615 One nation,Two country"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2460,
+          "following_count": 1839,
+          "like_count": 28470,
+          "listed_count": 10,
+          "media_count": 939,
+          "tweet_count": 14300
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的噩夢喵\n#讓我們一同登上新高山\n\n | 福摩薩第一包蜜\n | 喜歡的作品是鬼滅汁刃喵\n | 不同意福摩薩建國的耗子尾汁喵\n | 素人AIイラスト師\n | マシュマロ投稿👉 https://t.co/edC2FttXmV \n | 備用帳 @patungkuonu1208",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 19,
+                "tag": "讓我們一同登上新高山"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 149,
+                "start": 133,
+                "username": "patungkuonu1208"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "reurl.cc/74vEQb",
+                "end": 124,
+                "expanded_url": "https://reurl.cc/74vEQb",
+                "start": 101,
+                "url": "https://t.co/edC2FttXmV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hachineko1208",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hachineko1208",
+                "start": 0,
+                "url": "https://t.co/phr8hTLNkv"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "location": "Res Publica Formosana",
+        "name": "小八猫 💚 戰鬥錄 @北角銀行招財貓 @八通關山友會 🏔️萌寵",
+        "pinned_tweet_id": "1922542093571875080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923353067103428608/LMrB1-7M_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 627,
+          "like_count": 173246,
+          "listed_count": 8,
+          "media_count": 1848,
+          "tweet_count": 10322
+        },
+        "url": "https://t.co/phr8hTLNkv",
+        "username": "hachineko1208",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T01:52:06.000Z",
+        "description": "努力为大家带来欢笑的总书记～～～",
+        "id": "1813753513597665280",
+        "location": "Taipei City, Taiwan",
+        "name": "习近平",
+        "pinned_tweet_id": "1908310302787260747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930491281807204353/h_LsYEe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 217,
+          "like_count": 1752,
+          "listed_count": 4,
+          "media_count": 387,
+          "tweet_count": 1611
+        },
+        "username": "XiJinPin1953615",
+        "verified": false
+      }
+    ]
+  }
+}

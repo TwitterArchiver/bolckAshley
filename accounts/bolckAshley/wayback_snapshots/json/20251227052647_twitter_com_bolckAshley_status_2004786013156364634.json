@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Giorgia Meloni",
+          "id": "827124208727502849",
+          "name": "Giorgia Meloni"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Giorgia Meloni",
+          "id": "827124208727502849",
+          "name": "Giorgia Meloni"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Giorgia Meloni",
+          "id": "827124208727502849",
+          "name": "Giorgia Meloni"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2004786013156364634",
+    "created_at": "2025-12-27T05:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T06:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004786013156364634"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 6,
+          "start": 0,
+          "tag": "Italy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/NupesNews/stat…",
+          "end": 132,
+          "expanded_url": "https://twitter.com/NupesNews/status/2004660644457373892",
+          "start": 109,
+          "url": "https://t.co/nyc779Wv1m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004786013156364634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004660644457373892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "#Italy 🇮🇹🇮🇹🇮🇹\n關於義大利2027年的國會選舉：\n根據現有民調預測，義大利眾議院的中左翼與左翼可能將在議會中擁有更多的席位，而梅洛尼的右翼政黨聯盟將不再擁有多數席位\n或許能看到一個義大利的中左翼政府（？） https://t.co/nyc779Wv1m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2004660642301485056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9H8O6eWIAAMrp4.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2004786013156364634",
+        "created_at": "2025-12-27T05:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T06:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004786013156364634"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "Italy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/NupesNews/stat…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/NupesNews/status/2004660644457373892",
+              "start": 109,
+              "url": "https://t.co/nyc779Wv1m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004786013156364634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004660644457373892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#Italy 🇮🇹🇮🇹🇮🇹\n關於義大利2027年的國會選舉：\n根據現有民調預測，義大利眾議院的中左翼與左翼可能將在議會中擁有更多的席位，而梅洛尼的右翼政黨聯盟將不再擁有多數席位\n或許能看到一個義大利的中左翼政府（？） https://t.co/nyc779Wv1m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004660642301485056"
+          ]
+        },
+        "author_id": "1585302081040154629",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Giorgia Meloni",
+              "id": "827124208727502849",
+              "name": "Giorgia Meloni"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2004660644457373892",
+        "created_at": "2025-12-26T21:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T22:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004660644457373892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 82,
+              "id": "130537001",
+              "start": 68,
+              "username": "GiorgiaMeloni"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oG4Fj3AvP4",
+              "end": 294,
+              "expanded_url": "https://x.com/NupesNews/status/2004660644457373892/photo/1",
+              "media_key": "3_2004660642301485056",
+              "start": 271,
+              "url": "https://t.co/oG4Fj3AvP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004660644457373892",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 82,
+                "id": "130537001",
+                "start": 68,
+                "username": "GiorgiaMeloni"
+              }
+            ]
+          },
+          "text": "🔴🇮🇹 Projection des sièges pour les législatives de 2027 en Italie | @GiorgiaMeloni sur le point de perdre sa majorité face au bloc de gauche en pleine dynamique.\n\n⬛ FdI : 30% | 116 (-3)\n🟥 PD : 22% | 96 (+27)\n🟨 M5S : 13% | 55 (+3)\n🟩 Lega : 8% | 44 (-22)\n🟦 Forza : 8% | 36 (-9)\n🟪 AVS : 7% | 30 (+18)\n...\n\n🟦 CDX: 48% | 199 (-38)\n🟥 CSX: 46% | 187 (+51)*\n\n+/- vs. 2022"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 24203,
+          "like_count": 473,
+          "quote_count": 11,
+          "reply_count": 60,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "🔴🇮🇹 Projection des sièges pour les législatives de 2027 en Italie | @GiorgiaMeloni sur le point de perdre sa majorité face au bloc de gauche en pleine dynamique.\n\n⬛ FdI : 30% | 116 (-3)\n🟥 PD : 22% | 96 (+27)\n🟨 M5S : 13% | 55 (+3)\n🟩 Lega : 8% | 44 (-22)\n🟦 Forza : 8% | 36 https://t.co/oG4Fj3AvP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2816,
+          "following_count": 1952,
+          "like_count": 36730,
+          "listed_count": 13,
+          "media_count": 1243,
+          "tweet_count": 18225
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-26T16:07:35.000Z",
+        "description": "Actualités sur les formations politiques qui composaient le NFP.",
+        "id": "1585302081040154629",
+        "location": "France",
+        "name": "Victoire Populaire 2027 🔴🟣🟢",
+        "pinned_tweet_id": "2004659342684160369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002829305751941120/_HFy4Pj9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31188,
+          "following_count": 134,
+          "like_count": 18272,
+          "listed_count": 137,
+          "media_count": 4679,
+          "tweet_count": 18045
+        },
+        "username": "NupesNews",
+        "verified": true
+      }
+    ]
+  }
+}

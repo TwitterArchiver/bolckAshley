@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A podcast like \"Serial\"",
+          "id": "91",
+          "name": "Podcast"
+        },
+        "entity": {
+          "id": "1490751295698837510",
+          "name": "Podcasts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Podcasts",
+          "id": "1074758954444513282",
+          "name": "Podcasts & radio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1490751295698837510",
+          "name": "Podcasts"
+        }
+      }
+    ],
+    "conversation_id": "1994031342104002652",
+    "created_at": "2025-11-27T13:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T14:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994031342104002652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1344047935",
+          "start": 3,
+          "username": "Reichsbanner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994031342104002652",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993953785295917204",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Reichsbanner: Bundesvorsitzender Dr. Fritz Felgentreu war zu Gast in der RBB-Podcast-Sendung THADEUSZ – lang &amp; breit. Unter anderem spr…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 45745,
+        "height": 720,
+        "media_key": "13_1993953683776675840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993953683776675840/img/vApMDXQ87mPgSnrn.jpg",
+        "public_metrics": {
+          "view_count": 51
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993953683776675840/vid/avc1/474x270/dSiOkmzz2wbx4xOI.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993953683776675840/vid/avc1/632x360/aGpG8jUgdFtY3Dx8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993953683776675840/vid/avc1/1264x720/hc-Wj9nQjmgxUCrG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993953683776675840/pl/uTY5iu7FVAi3JK_I.m3u8"
+          }
+        ],
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A podcast like \"Serial\"",
+              "id": "91",
+              "name": "Podcast"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Podcasts",
+              "id": "1074758954444513282",
+              "name": "Podcasts & radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          }
+        ],
+        "conversation_id": "1994031342104002652",
+        "created_at": "2025-11-27T13:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T14:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994031342104002652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1344047935",
+              "start": 3,
+              "username": "Reichsbanner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994031342104002652",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993953785295917204",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Reichsbanner: Bundesvorsitzender Dr. Fritz Felgentreu war zu Gast in der RBB-Podcast-Sendung THADEUSZ – lang &amp; breit. Unter anderem spr…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993953683776675840"
+          ]
+        },
+        "author_id": "1344047935",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A podcast like \"Serial\"",
+              "id": "91",
+              "name": "Podcast"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Podcasts",
+              "id": "1074758954444513282",
+              "name": "Podcasts & radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          }
+        ],
+        "conversation_id": "1993953785295917204",
+        "created_at": "2025-11-27T08:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T09:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993953785295917204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Talk Deutschland 2025 +++ Die SPD steckt in der Krise. Bundesweit liegen die Umfragewerte zwischen 14 und 15 Prozent - und in Berlin haben die Landesvorsitzenden Martin Hikel und Nicola Böcker-Giannini am Sonntag überraschend ihren Rücktritt angekündigt. Dass die SPD orientierungslos ist, wird ihr aber auch in Sachen Verteidigungspolitik vorgeworfen. Der Militärhistoriker Sönke Neitzel z.B. hält die SPD, gerade in puncto Wehrpflicht, für ein Sicherheitsrisiko für Deutschland. In “Thadeusz lang & breit” fragt Jörg Thadeusz deshalb den ehemaligen verteidigungspolitischen Sprecher der SPD-Fraktion, Dr. Fritz Felgentreu, nach seiner Einschätzung. Er hat das Dilemma der SPD, die Balance zwischen Verteidigungsfähigkeit und diplomatischer Friedenspolitik zu finden, selbst miterlebt. Darüber hinaus kennt er als Ex-Kreisvorsitzender der SPD Neukölln sowie ehemals stellvertretender Landesvorsitzender der Berliner SPD auch die Landespolitik wie seine Westentasche. Moderation: Jörg Thadeusz | Erst",
+              "display_url": "shorturl.at/zTdKN",
+              "end": 265,
+              "expanded_url": "https://shorturl.at/zTdKN",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/1993678071501930496/nFj2Pydp?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1993678071501930496/nFj2Pydp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 242,
+              "status": 200,
+              "title": "THADEUSZ lang & breit - Gast: Dr. Fritz Felgentreu (Ehemaliger verteidigungspolitischer Sprecher der SPD-Fraktion) - hier anschauen",
+              "unwound_url": "https://www.ardmediathek.de/video/thadeusz-lang-und-breit/thadeusz-lang-und-breit-gast-dr-fritz-felgentreu-ehemaliger-verteidigungspolitischer-sprecher-der-spd-fraktion/rbb/Y3JpZDovL3JiYl85NjI3MmY1MC00YmNmLTQ5NzEtOTJlYi1jZmQ1MjQ5ZjlmY2RfcHVibGljYXRpb24",
+              "url": "https://t.co/jZftM978dF"
+            },
+            {
+              "display_url": "pic.x.com/iVzSl4FGnb",
+              "end": 289,
+              "expanded_url": "https://x.com/Reichsbanner/status/1993953785295917204/video/1",
+              "media_key": "13_1993953683776675840",
+              "start": 266,
+              "url": "https://t.co/iVzSl4FGnb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993953785295917204",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 108,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Bundesvorsitzender Dr. Fritz Felgentreu war zu Gast in der RBB-Podcast-Sendung THADEUSZ – lang &amp; breit. Unter anderem sprach er mit Gastgeber Jörg Thadeusz über das Reichsbanner Schwarz-Rot-Gold, dem auch Thadeusz’ Großvater angehörte. \n\nhttps://t.co/jZftM978dF https://t.co/iVzSl4FGnb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2763,
+          "following_count": 2026,
+          "like_count": 35388,
+          "listed_count": 12,
+          "media_count": 1208,
+          "tweet_count": 17535
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-11T10:13:51.000Z",
+        "description": "Offizieller Kanal. Für Demokratie und Republik - seit 1924.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "reichsbanner.de",
+                "end": 23,
+                "expanded_url": "http://www.reichsbanner.de",
+                "start": 0,
+                "url": "https://t.co/w0ZFWdMcNO"
+              }
+            ]
+          }
+        },
+        "id": "1344047935",
+        "location": "Berlin",
+        "name": "Reichsbanner",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874618614541619200/3TNcxpxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2760,
+          "following_count": 94,
+          "like_count": 1425,
+          "listed_count": 14,
+          "media_count": 135,
+          "tweet_count": 666
+        },
+        "url": "https://t.co/w0ZFWdMcNO",
+        "username": "Reichsbanner",
+        "verified": false
+      }
+    ]
+  }
+}

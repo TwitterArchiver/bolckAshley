@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964714578904043521",
+        "3_1964714579411582976"
+      ],
+      "media_source_tweet_id": [
+        "1964714586952888527",
+        "1964714586952888527"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "1964919977808691633",
+    "created_at": "2025-09-08T05:13:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T06:13:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964919977808691633"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 42,
+          "start": 39,
+          "tag": "男娘"
+        },
+        {
+          "end": 50,
+          "start": 43,
+          "tag": "可爱的男孩子"
+        },
+        {
+          "end": 58,
+          "start": 51,
+          "tag": "femboy"
+        },
+        {
+          "end": 62,
+          "start": 59,
+          "tag": "娼年"
+        },
+        {
+          "end": 66,
+          "start": 63,
+          "tag": "药娘"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1808883154083852288",
+          "start": 3,
+          "username": "lipuxizi7071638"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3w3iw1ytDR",
+          "end": 90,
+          "expanded_url": "https://x.com/lipuxizi7071638/status/1964714586952888527/photo/1",
+          "media_key": "3_1964714578904043521",
+          "start": 67,
+          "url": "https://t.co/3w3iw1ytDR"
+        },
+        {
+          "display_url": "pic.x.com/3w3iw1ytDR",
+          "end": 90,
+          "expanded_url": "https://x.com/lipuxizi7071638/status/1964714586952888527/photo/1",
+          "media_key": "3_1964714579411582976",
+          "start": 67,
+          "url": "https://t.co/3w3iw1ytDR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964919977808691633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964714586952888527",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lipuxizi7071638: 我就这样站在人群面前展露雄性雄风💪\n#男娘 #可爱的男孩子 #femboy #娼年 #药娘 https://t.co/3w3iw1ytDR"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1964919977808691633].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1964919977808691633",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1964919977808691633"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1964714578904043521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QRgACbUAEbpGH.jpg",
+        "width": 795
+      },
+      {
+        "height": 1024,
+        "media_key": "3_1964714579411582976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0QRgB7bwAAB6Ei.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964714578904043521",
+            "3_1964714579411582976"
+          ]
+        },
+        "author_id": "1808883154083852288",
+        "conversation_id": "1964714586952888527",
+        "created_at": "2025-09-07T15:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T16:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964714586952888527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "男娘"
+            },
+            {
+              "end": 29,
+              "start": 22,
+              "tag": "可爱的男孩子"
+            },
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "femboy"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "娼年"
+            },
+            {
+              "end": 45,
+              "start": 42,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3w3iw1ytDR",
+              "end": 69,
+              "expanded_url": "https://x.com/lipuxizi7071638/status/1964714586952888527/photo/1",
+              "media_key": "3_1964714578904043521",
+              "start": 46,
+              "url": "https://t.co/3w3iw1ytDR"
+            },
+            {
+              "display_url": "pic.x.com/3w3iw1ytDR",
+              "end": 69,
+              "expanded_url": "https://x.com/lipuxizi7071638/status/1964714586952888527/photo/1",
+              "media_key": "3_1964714579411582976",
+              "start": 46,
+              "url": "https://t.co/3w3iw1ytDR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964714586952888527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 657,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我就这样站在人群面前展露雄性雄风💪\n#男娘 #可爱的男孩子 #femboy #娼年 #药娘 https://t.co/3w3iw1ytDR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2559,
+          "following_count": 1936,
+          "like_count": 32553,
+          "listed_count": 11,
+          "media_count": 1063,
+          "tweet_count": 16121
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T15:18:59.000Z",
+        "description": "03xyn|梦想成为美少年|欢迎互fo互推|寄拍|可文爱|可举牌|定制|好友位30|被调教ing",
+        "id": "1808883154083852288",
+        "location": "https://ngl.link/lipuxizi2",
+        "name": "小鱼块",
+        "pinned_tweet_id": "1950418404202205290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959441187561259009/aHiEBrnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3374,
+          "following_count": 522,
+          "like_count": 8439,
+          "listed_count": 6,
+          "media_count": 66,
+          "tweet_count": 2751
+        },
+        "username": "lipuxizi7071638",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1496213793243729920",
+          "name": "Truth Social"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1496213793243729920",
+          "name": "Truth Social"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1895108787595550781",
+    "created_at": "2025-02-27T13:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-27T14:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895108787595550781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1580634879213318144",
+          "start": 3,
+          "username": "OliverLai23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895108787595550781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1894722101283787078",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OliverLai23: 所以川普的酒店是要开到 Gaza 了是吗？\n\n将200万加沙人民驱逐出他们的家园，然后接管加沙打造成以色列人宜居享受的豪华度假区，再给自己立一个巨型雕像，最后跟 BIBI 这个法西斯刽子手一起在加沙的沙滩上享受着日光浴？\n\n这他妈是什么冷血自恋…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1007,
+        "media_key": "3_1894722089505918976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gktns6UWEAAGxkM.jpg",
+        "width": 954
+      },
+      {
+        "height": 995,
+        "media_key": "3_1894722089342652416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gktns5ta0AATRlZ.jpg",
+        "width": 949
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1496213793243729920",
+              "name": "Truth Social"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496213793243729920",
+              "name": "Truth Social"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1895108787595550781",
+        "created_at": "2025-02-27T13:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T14:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895108787595550781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1580634879213318144",
+              "start": 3,
+              "username": "OliverLai23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895108787595550781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894722101283787078",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OliverLai23: 所以川普的酒店是要开到 Gaza 了是吗？\n\n将200万加沙人民驱逐出他们的家园，然后接管加沙打造成以色列人宜居享受的豪华度假区，再给自己立一个巨型雕像，最后跟 BIBI 这个法西斯刽子手一起在加沙的沙滩上享受着日光浴？\n\n这他妈是什么冷血自恋…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1894722089505918976",
+            "3_1894722089342652416"
+          ]
+        },
+        "author_id": "1580634879213318144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1496213793243729920",
+              "name": "Truth Social"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1496213793243729920",
+              "name": "Truth Social"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1894722101283787078",
+        "created_at": "2025-02-26T12:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-26T13:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1894722101283787078"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TdYWmuXgd1",
+              "end": 168,
+              "expanded_url": "https://x.com/OliverLai23/status/1894722101283787078/photo/1",
+              "media_key": "3_1894722089505918976",
+              "start": 145,
+              "url": "https://t.co/TdYWmuXgd1"
+            },
+            {
+              "display_url": "pic.x.com/TdYWmuXgd1",
+              "end": 168,
+              "expanded_url": "https://x.com/OliverLai23/status/1894722101283787078/photo/1",
+              "media_key": "3_1894722089342652416",
+              "start": 145,
+              "url": "https://t.co/TdYWmuXgd1"
+            },
+            {
+              "display_url": "x.com/atrupar/status…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/atrupar/status/1894616074861130182",
+              "start": 169,
+              "url": "https://t.co/kk7BPXv4t9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1894722101283787078",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以川普的酒店是要开到 Gaza 了是吗？\n\n将200万加沙人民驱逐出他们的家园，然后接管加沙打造成以色列人宜居享受的豪华度假区，再给自己立一个巨型雕像，最后跟 BIBI 这个法西斯刽子手一起在加沙的沙滩上享受着日光浴？\n\n这他妈是什么冷血自恋的怪物，才能这样肆无忌惮的消费他人的苦难， 践踏别人为之奋斗乃至牺牲的美好愿景，来自吹自擂的为自己脸上贴金？美洲湾、加拿大、格陵兰都还不够，Gaza也要是美国的，这是什么帝国殖民者的丑陋野心?\n\n而且在 Aaron Bushnell 逝世一周年的当日发的这种视频，这头死肥猪真他吗的恶心透了"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6423,
+          "like_count": 113,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1894616074861130182",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以川普的酒店是要开到 Gaza 了是吗？\n\n将200万加沙人民驱逐出他们的家园，然后接管加沙打造成以色列人宜居享受的豪华度假区，再给自己立一个巨型雕像，最后跟 BIBI 这个法西斯刽子手一起在加沙的沙滩上享受着日光浴？\n\n这他妈是什么冷血自恋的怪物，才能这样肆无忌惮的消费他人的苦难，… https://t.co/TdYWmuXgd1 https://t.co/kk7BPXv4t9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2192,
+          "following_count": 1587,
+          "like_count": 22695,
+          "listed_count": 9,
+          "media_count": 767,
+          "tweet_count": 12407
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-13T19:02:28.000Z",
+        "description": "霏霏雨雪梅自开，皎皎星河月孤悬。\n故梦无痕空怅惘，庭前花落又一年。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/oliver…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/oliverlai24.bsky.social",
+                "start": 0,
+                "url": "https://t.co/3f6FzWpJQL"
+              }
+            ]
+          }
+        },
+        "id": "1580634879213318144",
+        "location": "Abyss",
+        "name": "Oliver Lai",
+        "pinned_tweet_id": "1783458010398097602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873433007501242368/0SlBYuCN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1784,
+          "following_count": 394,
+          "like_count": 13823,
+          "listed_count": 10,
+          "media_count": 227,
+          "tweet_count": 4932
+        },
+        "url": "https://t.co/3f6FzWpJQL",
+        "username": "OliverLai23",
+        "verified": false
+      }
+    ]
+  }
+}

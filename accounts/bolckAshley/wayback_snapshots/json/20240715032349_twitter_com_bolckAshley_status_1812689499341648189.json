@@ -1,0 +1,392 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Exercises",
+          "id": "872554146750017536",
+          "name": "Exercises"
+        }
+      }
+    ],
+    "conversation_id": "1812647235022381348",
+    "created_at": "2024-07-15T03:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-15T04:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812689499341648189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1532686009560838144",
+          "start": 0,
+          "username": "kotorichyandesu"
+        },
+        {
+          "end": 27,
+          "id": "1239571752797134848",
+          "start": 17,
+          "username": "Yuyi_1453"
+        },
+        {
+          "end": 41,
+          "id": "1243728830889517056",
+          "start": 28,
+          "username": "MisakaNo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812689499341648189",
+    "in_reply_to_user_id": "1649365408779214848",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1812687813655019706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "@kotorichyandesu @Yuyi_1453 @MisakaNo8964 而關於地方上的自治民主，具我黨所知，在我國大部分地區的人民都還不具備有成熟的民主意識，在不任何干涉的情況下大部分時候會演變為“地方惡霸民主”，“村霸”“鄉霸”現象難以斷絕。\n因此，我們主張開展全面的鄉村改革運動，在這些地方自治機關設立特別委員會以及監察委員會來保障民主權利的正常實施。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1812647235022381348",
+        "created_at": "2024-07-15T03:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T04:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812689499341648189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532686009560838144",
+              "start": 0,
+              "username": "kotorichyandesu"
+            },
+            {
+              "end": 27,
+              "id": "1239571752797134848",
+              "start": 17,
+              "username": "Yuyi_1453"
+            },
+            {
+              "end": 41,
+              "id": "1243728830889517056",
+              "start": 28,
+              "username": "MisakaNo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812689499341648189",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812687813655019706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@kotorichyandesu @Yuyi_1453 @MisakaNo8964 而關於地方上的自治民主，具我黨所知，在我國大部分地區的人民都還不具備有成熟的民主意識，在不任何干涉的情況下大部分時候會演變為“地方惡霸民主”，“村霸”“鄉霸”現象難以斷絕。\n因此，我們主張開展全面的鄉村改革運動，在這些地方自治機關設立特別委員會以及監察委員會來保障民主權利的正常實施。"
+      },
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1812647235022381348",
+        "created_at": "2024-07-15T03:17:07.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-15T04:17:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812687813655019706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1532686009560838144",
+              "start": 0,
+              "username": "kotorichyandesu"
+            },
+            {
+              "end": 27,
+              "id": "1239571752797134848",
+              "start": 17,
+              "username": "Yuyi_1453"
+            },
+            {
+              "end": 41,
+              "id": "1243728830889517056",
+              "start": 28,
+              "username": "MisakaNo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812687813655019706",
+        "in_reply_to_user_id": "1532686009560838144",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1812685765488652704",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "@kotorichyandesu @Yuyi_1453 @MisakaNo8964 我們的泛亞主義在於建立一個亞洲的共同民主同盟，以保證各國之間長久並且有效的互揮互利的發展。\n\n同時我們在內部主張聯省自治。各省有自己的獨立民選政府，這個政府可以擁有自己獨立的法律體系，軍隊等。\n\n我們同樣也要求裁減龐大的公務員官僚隊伍，避免冗官現象，讓納稅人的錢可以更有效的回饋自身"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798204682252189697/jcBC9GkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1556,
+          "following_count": 979,
+          "like_count": 12935,
+          "listed_count": 8,
+          "tweet_count": 8754
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-03T11:30:12.000Z",
+        "description": "淺綠｜華獨｜和所有立場的人都能友好的交流但是請不要到我的推文下面靠夭｜最愛的親愛的@miku_suki393939 最高領袖@NationalPureVF3 媽媽@mottoye89 @zhao_mama @remilia_servant  女兒@George0_1114 @ccnanoQAQ @b0900620881",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 41,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 78,
+                "start": 62,
+                "username": "NationalPureVF3"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "mottoye89"
+              },
+              {
+                "end": 102,
+                "start": 92,
+                "username": "zhao_mama"
+              },
+              {
+                "end": 119,
+                "start": 103,
+                "username": "remilia_servant"
+              },
+              {
+                "end": 136,
+                "start": 123,
+                "username": "George0_1114"
+              },
+              {
+                "end": 147,
+                "start": 137,
+                "username": "ccnanoQAQ"
+              },
+              {
+                "end": 160,
+                "start": 148,
+                "username": "b0900620881"
+              }
+            ]
+          }
+        },
+        "id": "1532686009560838144",
+        "location": "Taiwan",
+        "name": "神戸ことり🇹🇼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810026260602773504/FMylJ4ty_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2930,
+          "following_count": 2438,
+          "like_count": 92211,
+          "listed_count": 14,
+          "tweet_count": 14616
+        },
+        "username": "kotorichyandesu",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-16T15:18:38.000Z",
+        "description": "菅達窟二｜文化是百越｜ @Alice_1919810  小帳 @Chagan_Alice",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Alice_1919810"
+              },
+              {
+                "end": 44,
+                "start": 31,
+                "username": "Chagan_Alice"
+              }
+            ]
+          }
+        },
+        "id": "1239571752797134848",
+        "location": "IP屬地：亞琛自由市",
+        "name": "多瑙川 アリス_Official 🟦🟠🟦",
+        "pinned_tweet_id": "1794842361874567646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784377072661532672/FZeETqGI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 2286,
+          "like_count": 83219,
+          "listed_count": 4,
+          "tweet_count": 28507
+        },
+        "username": "Yuyi_1453",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-28T02:37:26.000Z",
+        "description": "偉哉中華，萬世常春，埃及希羅，孰與比倫？ 閉關稱雄，百年苦辛，睡獅既醒，民國遄臻。 今而後，合德同心，努力於國命更新。 孟言民貴，孔患不均，貨惡棄地，力出己身，不獨子子，不獨親親。 斯為民主社會主義，吾黨之北辰。🌹🇹🇼（不定期清理過往推文，謝絕對線，謝絕低能回覆，不封鎖人🙃）",
+        "id": "1243728830889517056",
+        "location": "殯葬用品公司",
+        "name": "Destroy-🇹🇼❀‍❂（🚩🌹🛠️）",
+        "pinned_tweet_id": "1557392236278878208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810952186370871300/FmBDz_bs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4532,
+          "following_count": 4326,
+          "like_count": 9562,
+          "listed_count": 30,
+          "tweet_count": 11032
+        },
+        "username": "MisakaNo8964",
+        "verified": false
+      }
+    ]
+  }
+}

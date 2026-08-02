@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017608664589471747"
+      ],
+      "media_source_tweet_id": [
+        "2017608676111224924"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018613197885100286",
+    "created_at": "2026-02-03T09:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T10:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018613197885100286"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1828008363273388032",
+          "start": 3,
+          "username": "akui1121"
+        },
+        {
+          "end": 35,
+          "id": "1756246342676979713",
+          "start": 22,
+          "username": "shungleemain"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6ic7Xit1fK",
+          "end": 80,
+          "expanded_url": "https://x.com/akui1121/status/2017608676111224924/photo/1",
+          "media_key": "3_2017608664589471747",
+          "start": 57,
+          "url": "https://t.co/6ic7Xit1fK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018613197885100286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017608676111224924",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akui1121: 我就这么对待台独@shungleemain 😡😡草死你草死你，喜不喜欢爸爸的大统一😡 https://t.co/6ic7Xit1fK"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2018613197885100286].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2018613197885100286",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2018613197885100286"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2017608664589471747",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G__8ZASbEAMSgMe.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017608664589471747"
+          ]
+        },
+        "author_id": "1828008363273388032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2017608676111224924",
+        "created_at": "2026-01-31T14:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T15:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017608676111224924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1756246342676979713",
+              "start": 8,
+              "username": "shungleemain"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ic7Xit1fK",
+              "end": 66,
+              "expanded_url": "https://x.com/akui1121/status/2017608676111224924/photo/1",
+              "media_key": "3_2017608664589471747",
+              "start": 43,
+              "url": "https://t.co/6ic7Xit1fK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017608676111224924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6475,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "我就这么对待台独@shungleemain 😡😡草死你草死你，喜不喜欢爸爸的大统一😡 https://t.co/6ic7Xit1fK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2908,
+          "following_count": 1973,
+          "like_count": 37958,
+          "listed_count": 14,
+          "media_count": 1323,
+          "tweet_count": 19039
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸会一直跳下去！纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "1965chich"
+              },
+              {
+                "end": 86,
+                "start": 76,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "1840302665340989578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008191911446888448/B9dNkp8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28795,
+          "following_count": 1245,
+          "like_count": 20676,
+          "listed_count": 78,
+          "media_count": 1119,
+          "tweet_count": 14358
+        },
+        "username": "akui1121",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "新年快樂！！ | \n超級好詭秘@Akinoyo_desu | \n超級好詭秘@bolckAshley | \n可愛的余華@yu_huacs\n可愛的阿媿@akui1121\n可愛的蜜獾🦡@kittymi030 | \n超級好詭秘@Psych_Angel_ |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 49,
+                "start": 37,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "akui1121"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "kittymi030"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "Psych_Angel_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "portal.sanmigueltw.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://portal.sanmigueltw.dpdns.org/",
+                "start": 0,
+                "url": "https://t.co/vEIC9ab1uF"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的門戶網站→",
+        "name": "聖米格爾生力麵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008916207857188864/7MkHnFJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2316,
+          "following_count": 640,
+          "like_count": 2642,
+          "listed_count": 7,
+          "media_count": 594,
+          "tweet_count": 6423
+        },
+        "url": "https://t.co/vEIC9ab1uF",
+        "username": "shungleemain",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,541 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1965326422068830227",
+    "created_at": "2025-09-09T08:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T09:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965326422068830227"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 135,
+          "normalized_text": "Labour Party",
+          "probability": 0.6327,
+          "start": 124,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 51,
+          "id": "16557956",
+          "start": 35,
+          "username": "Arbeiderpartiet"
+        },
+        {
+          "end": 71,
+          "id": "63129578",
+          "start": 56,
+          "username": "jonasgahrstore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965326422068830227",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965317346047950967",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🇳🇴 Congratulations to @Arbeiderpartiet and @jonasgahrstore for their result on this Sunday's general election.\nLabour Party wi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1965315758486933504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Y0RQgXUAAVTDe.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1965326422068830227",
+        "created_at": "2025-09-09T08:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T09:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965326422068830227"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 135,
+              "normalized_text": "Labour Party",
+              "probability": 0.6327,
+              "start": 124,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 51,
+              "id": "16557956",
+              "start": 35,
+              "username": "Arbeiderpartiet"
+            },
+            {
+              "end": 71,
+              "id": "63129578",
+              "start": 56,
+              "username": "jonasgahrstore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965326422068830227",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965317346047950967",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🇳🇴 Congratulations to @Arbeiderpartiet and @jonasgahrstore for their result on this Sunday's general election.\nLabour Party wi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1965315758486933504"
+          ]
+        },
+        "author_id": "21100803",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1965317346047950967",
+        "created_at": "2025-09-09T07:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T08:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965317346047950967"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 122,
+              "normalized_text": "Labour Party",
+              "probability": 0.7375,
+              "start": 111,
+              "type": "Organization"
+            },
+            {
+              "end": 178,
+              "normalized_text": "Norway",
+              "probability": 0.9692,
+              "start": 173,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 179,
+              "start": 172,
+              "tag": "Norway"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 38,
+              "id": "16557956",
+              "start": 22,
+              "username": "Arbeiderpartiet"
+            },
+            {
+              "end": 58,
+              "id": "63129578",
+              "start": 43,
+              "username": "jonasgahrstore"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/29d4HXOV8e",
+              "end": 204,
+              "expanded_url": "https://x.com/PES_PSE/status/1965317346047950967/photo/1",
+              "media_key": "3_1965315758486933504",
+              "start": 181,
+              "url": "https://t.co/29d4HXOV8e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965317346047950967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 526,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🇳🇴 Congratulations to @Arbeiderpartiet and @jonasgahrstore for their result on this Sunday's general election.\nLabour Party will continue to work for a fairer, more social #Norway. https://t.co/29d4HXOV8e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 1939,
+          "like_count": 32618,
+          "listed_count": 11,
+          "media_count": 1066,
+          "tweet_count": 16150
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79706,
+          "following_count": 5302,
+          "like_count": 8897,
+          "listed_count": 1041,
+          "media_count": 8355,
+          "tweet_count": 51373
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2008-10-02T11:32:28.000Z",
+        "description": "De store oppgavene løser vi best sammen!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Arbeiderpartiet.no",
+                "end": 23,
+                "expanded_url": "http://Arbeiderpartiet.no",
+                "start": 0,
+                "url": "https://t.co/QRTyO5jiIm"
+              }
+            ]
+          }
+        },
+        "id": "16557956",
+        "location": "Norge",
+        "name": "Arbeiderpartiet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664243529793654784/fhu37NGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59953,
+          "following_count": 7024,
+          "like_count": 889,
+          "listed_count": 487,
+          "media_count": 535,
+          "tweet_count": 8131
+        },
+        "url": "https://t.co/QRTyO5jiIm",
+        "username": "Arbeiderpartiet",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-05T13:20:30.000Z",
+        "description": "Statsminister og leder av @Arbeiderpartiet. Prime minister and leader of the Norwegian Labour Party.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Arbeiderpartiet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/jonasgahrstore",
+                "end": 23,
+                "expanded_url": "http://facebook.com/jonasgahrstore",
+                "start": 0,
+                "url": "https://t.co/a71S9GsTPG"
+              }
+            ]
+          }
+        },
+        "id": "63129578",
+        "location": "Oslo, Norway",
+        "name": "Jonas Gahr Støre",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627315115170078720/WbYVGUEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211204,
+          "following_count": 11756,
+          "like_count": 48,
+          "listed_count": 1254,
+          "media_count": 249,
+          "tweet_count": 4544
+        },
+        "url": "https://t.co/a71S9GsTPG",
+        "username": "jonasgahrstore",
+        "verified": true
+      }
+    ]
+  }
+}

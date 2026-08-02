@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2020468252728852753",
+    "created_at": "2026-02-08T12:02:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T13:02:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020468252728852753"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "Zarkov",
+          "probability": 0.6232,
+          "start": 46,
+          "type": "Person"
+        },
+        {
+          "end": 84,
+          "normalized_text": "BSP",
+          "probability": 0.8874,
+          "start": 82,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "21100803",
+          "start": 3,
+          "username": "PES_PSE"
+        },
+        {
+          "end": 45,
+          "id": "1325124393236881411",
+          "start": 34,
+          "username": "KrumZarkov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020468252728852753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020412134853865616",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PES_PSE: 🌹 Congratulations to @KrumZarkov Zarkov, the newly elected leader of BSP. He was elected with 57% of the votes at our members’…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 575,
+        "media_key": "3_2020412129707216896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAnyIJsW0AA2jdi.jpg",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2020468252728852753",
+        "created_at": "2026-02-08T12:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T13:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020468252728852753"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Zarkov",
+              "probability": 0.6232,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 84,
+              "normalized_text": "BSP",
+              "probability": 0.8874,
+              "start": 82,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "21100803",
+              "start": 3,
+              "username": "PES_PSE"
+            },
+            {
+              "end": 45,
+              "id": "1325124393236881411",
+              "start": 34,
+              "username": "KrumZarkov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020468252728852753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020412134853865616",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PES_PSE: 🌹 Congratulations to @KrumZarkov Zarkov, the newly elected leader of BSP. He was elected with 57% of the votes at our members’…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020412129707216896"
+          ]
+        },
+        "author_id": "21100803",
+        "conversation_id": "2020412134853865616",
+        "created_at": "2026-02-08T08:19:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T09:19:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020412134853865616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Zarkov",
+              "probability": 0.7067,
+              "start": 33,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "BSP",
+              "probability": 0.8615,
+              "start": 69,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1325124393236881411",
+              "start": 21,
+              "username": "KrumZarkov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IuKloksxcm",
+              "end": 220,
+              "expanded_url": "https://x.com/PES_PSE/status/2020412134853865616/photo/1",
+              "media_key": "3_2020412129707216896",
+              "start": 197,
+              "url": "https://t.co/IuKloksxcm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020412134853865616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1310,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "🌹 Congratulations to @KrumZarkov Zarkov, the newly elected leader of BSP. He was elected with 57% of the votes at our members’ party congress, promising a fresh start for the Bulgarian socialists. https://t.co/IuKloksxcm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 1981,
+          "like_count": 38037,
+          "listed_count": 15,
+          "media_count": 1328,
+          "tweet_count": 19116
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-17T16:06:57.000Z",
+        "description": "Party of European Socialists. Social democrats. Feminists. Pro-European. Ecologists. Pro-Science. We represent you.\nOn Bluesky: https://t.co/40jLg24wGn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pes.eu",
+                "end": 151,
+                "expanded_url": "https://bsky.app/profile/pes.eu",
+                "start": 128,
+                "url": "https://t.co/40jLg24wGn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pes.eu",
+                "end": 23,
+                "expanded_url": "http://pes.eu",
+                "start": 0,
+                "url": "https://t.co/W9LaJ7jSRQ"
+              }
+            ]
+          }
+        },
+        "id": "21100803",
+        "location": "Europe",
+        "name": "PES 🌹🇪🇺",
+        "pinned_tweet_id": "2019022191447175523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572204064825376770/g4iVbOto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79266,
+          "following_count": 5279,
+          "like_count": 8947,
+          "listed_count": 1040,
+          "media_count": 8622,
+          "tweet_count": 51732
+        },
+        "url": "https://t.co/W9LaJ7jSRQ",
+        "username": "PES_PSE",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-07T17:14:29.000Z",
+        "description": "Member of Parliament, Chairperson of Parliamentary group, Bulgarian socialist party",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "parliament.bg/en/MP/2861",
+                "end": 23,
+                "expanded_url": "https://parliament.bg/en/MP/2861",
+                "start": 0,
+                "url": "https://t.co/W6obaF8NNx"
+              }
+            ]
+          }
+        },
+        "id": "1325124393236881411",
+        "location": "Bulgarie",
+        "name": "Krum Zarkov",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1325347728168247297/r_TMOeYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 141,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/W6obaF8NNx",
+        "username": "KrumZarkov",
+        "verified": false
+      }
+    ]
+  }
+}

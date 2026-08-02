@@ -1,0 +1,842 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television Channels",
+          "id": "23",
+          "name": "TV Channels"
+        },
+        "entity": {
+          "id": "1283512999584559104",
+          "name": "Amazon Prime Video JP"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026792024",
+          "name": "Amazon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045512584",
+          "name": "Amazon Prime Video"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10045512584",
+          "name": "Amazon Prime Video"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10045512584",
+          "name": "Amazon Prime Video"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "1962455800254988480",
+    "created_at": "2025-09-01T10:01:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:01:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962455800254988480"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 70,
+          "normalized_text": "夜守くん、君はどうしたい？",
+          "probability": 0.5642,
+          "start": 58,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 37,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453395613282811911",
+          "start": 3,
+          "username": "yofukashi_pr"
+        }
+      ],
+      "urls": [
+        {
+          "description": "「夜はまだ終わらない」吸血鬼になることへの戸惑いを乗り越え、ナズナを“好き”になることを決めたコウと、コウに“惚れさせる”決意をしたナズナ。「恋」が一体なんなのか、わからないまま二人の夜は加速していく。吸血鬼を殺そうと企む探偵・鶯 餡子の手が、すぐそこまで迫る。吸血鬼の弱点は「人間時代に思い入れの強かったもの」。その弱点を予め処分しようとするが、ナズナには人間時代の記憶が一切ない。ナズナの隠された過去とは？なぜ餡子は吸血鬼を殺すようになったのか？そして、ナズナと餡子に交錯する“秘密”とは――？コウ、ナズナ、餡子……楽しい「よふかし」では終わらない、新たな“夜”がはじまる！(Ｃ)2025コトヤマ・小学館／「よふかしのうた」製作委員会",
+          "display_url": "amazon.co.jp/gp/video/detai…",
+          "end": 119,
+          "expanded_url": "https://www.amazon.co.jp/gp/video/detail/B0FBHZWSHF/ref=atv_dp_share_cu_r",
+          "images": [
+            {
+              "height": 1920,
+              "url": "https://pbs.twimg.com/news_img/1959959736767623168/pTAKnR5H?format=jpg&name=orig",
+              "width": 2560
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1959959736767623168/pTAKnR5H?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 96,
+          "status": 200,
+          "title": "よふかしのうた Season2",
+          "unwound_url": "https://www.amazon.co.jp/gp/video/detail/B0FBHZWSHF/ref=atv_dp_share_cu_r",
+          "url": "https://t.co/hjwJr31uk9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962455800254988480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962455396666294583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yofukashi_pr: ★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\n\nPrime Videoにて見放題独占配信中\nhttps://t.co/hjwJr31uk9\n ━━━━━━━━━━━★ https…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1961107411940642818",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzdAzP8bkAI8ioC.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1283512999584559104",
+              "name": "Amazon Prime Video JP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1962455800254988480",
+        "created_at": "2025-09-01T10:01:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:01:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962455800254988480"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "夜守くん、君はどうしたい？",
+              "probability": 0.5642,
+              "start": 58,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 37,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453395613282811911",
+              "start": 3,
+              "username": "yofukashi_pr"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「夜はまだ終わらない」吸血鬼になることへの戸惑いを乗り越え、ナズナを“好き”になることを決めたコウと、コウに“惚れさせる”決意をしたナズナ。「恋」が一体なんなのか、わからないまま二人の夜は加速していく。吸血鬼を殺そうと企む探偵・鶯 餡子の手が、すぐそこまで迫る。吸血鬼の弱点は「人間時代に思い入れの強かったもの」。その弱点を予め処分しようとするが、ナズナには人間時代の記憶が一切ない。ナズナの隠された過去とは？なぜ餡子は吸血鬼を殺すようになったのか？そして、ナズナと餡子に交錯する“秘密”とは――？コウ、ナズナ、餡子……楽しい「よふかし」では終わらない、新たな“夜”がはじまる！(Ｃ)2025コトヤマ・小学館／「よふかしのうた」製作委員会",
+              "display_url": "amazon.co.jp/gp/video/detai…",
+              "end": 119,
+              "expanded_url": "https://www.amazon.co.jp/gp/video/detail/B0FBHZWSHF/ref=atv_dp_share_cu_r",
+              "images": [
+                {
+                  "height": 1920,
+                  "url": "https://pbs.twimg.com/news_img/1959959736767623168/pTAKnR5H?format=jpg&name=orig",
+                  "width": 2560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959959736767623168/pTAKnR5H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "よふかしのうた Season2",
+              "unwound_url": "https://www.amazon.co.jp/gp/video/detail/B0FBHZWSHF/ref=atv_dp_share_cu_r",
+              "url": "https://t.co/hjwJr31uk9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962455800254988480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962455396666294583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yofukashi_pr: ★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\n\nPrime Videoにて見放題独占配信中\nhttps://t.co/hjwJr31uk9\n ━━━━━━━━━━━★ https…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961107411940642818"
+          ]
+        },
+        "author_id": "1453395613282811911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television Channels",
+              "id": "23",
+              "name": "TV Channels"
+            },
+            "entity": {
+              "id": "1283512999584559104",
+              "name": "Amazon Prime Video JP"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026792024",
+              "name": "Amazon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10045512584",
+              "name": "Amazon Prime Video"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "1962455396666294583",
+        "created_at": "2025-09-01T10:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962455396666294583"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "夜守くん、君はどうしたい？",
+              "probability": 0.6034,
+              "start": 40,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「夜はまだ終わらない」吸血鬼になることへの戸惑いを乗り越え、ナズナを“好き”になることを決めたコウと、コウに“惚れさせる”決意をしたナズナ。「恋」が一体なんなのか、わからないまま二人の夜は加速していく。吸血鬼を殺そうと企む探偵・鶯 餡子の手が、すぐそこまで迫る。吸血鬼の弱点は「人間時代に思い入れの強かったもの」。その弱点を予め処分しようとするが、ナズナには人間時代の記憶が一切ない。ナズナの隠された過去とは？なぜ餡子は吸血鬼を殺すようになったのか？そして、ナズナと餡子に交錯する“秘密”とは――？コウ、ナズナ、餡子……楽しい「よふかし」では終わらない、新たな“夜”がはじまる！(Ｃ)2025コトヤマ・小学館／「よふかしのうた」製作委員会",
+              "display_url": "amazon.co.jp/gp/video/detai…",
+              "end": 101,
+              "expanded_url": "https://www.amazon.co.jp/gp/video/detail/B0FBHZWSHF/ref=atv_dp_share_cu_r",
+              "images": [
+                {
+                  "height": 1920,
+                  "url": "https://pbs.twimg.com/news_img/1959959736767623168/pTAKnR5H?format=jpg&name=orig",
+                  "width": 2560
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959959736767623168/pTAKnR5H?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "よふかしのうた Season2",
+              "unwound_url": "https://www.amazon.co.jp/gp/video/detail/B0FBHZWSHF/ref=atv_dp_share_cu_r",
+              "url": "https://t.co/hjwJr31uk9"
+            },
+            {
+              "display_url": "pic.x.com/v8JTz0W0Gp",
+              "end": 139,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1962455396666294583/photo/1",
+              "media_key": "3_1961107411940642818",
+              "start": 116,
+              "url": "https://t.co/v8JTz0W0Gp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962455396666294583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 189,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "★━━━━━━━━━━━\nTVアニメ #よふかしのうた Season2\n第9夜「夜守くん、君はどうしたい？」\n\nPrime Videoにて見放題独占配信中\nhttps://t.co/hjwJr31uk9\n ━━━━━━━━━━━★ https://t.co/v8JTz0W0Gp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955524388197109771/vhZnsIMO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2542,
+          "following_count": 1920,
+          "like_count": 32499,
+          "listed_count": 11,
+          "media_count": 1052,
+          "tweet_count": 16040
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T16:19:52.000Z",
+        "description": "TVアニメ『よふかしのうた Season2』2025年7月4日（金）より全国フジテレビ系“ノイタミナ”にて毎週金曜23時30分から放送\nTVアニメ『よふかしのうた Season1』各プラットフォームにて配信中 原作：コトヤマ（小学館「週刊少年サンデー」刊） 推奨ハッシュタグ： #よふかしのうた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "よふかしのうた"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com",
+                "end": 23,
+                "expanded_url": "https://yofukashi-no-uta.com",
+                "start": 0,
+                "url": "https://t.co/oRunZLf8es"
+              }
+            ]
+          }
+        },
+        "id": "1453395613282811911",
+        "name": "『よふかしのうた』TVアニメ公式",
+        "pinned_tweet_id": "1958907016724062351",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199784843005952/Ln9iS_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172453,
+          "following_count": 24,
+          "like_count": 15,
+          "listed_count": 737,
+          "media_count": 812,
+          "tweet_count": 1774
+        },
+        "url": "https://t.co/oRunZLf8es",
+        "username": "yofukashi_pr",
+        "verified": true
+      }
+    ]
+  }
+}

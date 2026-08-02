@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2029401146255917262",
+    "created_at": "2026-03-05T03:38:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T04:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029401146255917262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1611057683989205011",
+          "start": 3,
+          "username": "Alejandro_SocEU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029401146255917262",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029233471156084993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alejandro_SocEU: What would your reaction be to the leaked results of the upcoming Spanish general election on Sunday, June 6, 2026? 😄…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 817,
+        "media_key": "3_2029233464105422848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HClJFZJW0AA2Fpp.png",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2029401146255917262",
+        "created_at": "2026-03-05T03:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T04:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029401146255917262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1611057683989205011",
+              "start": 3,
+              "username": "Alejandro_SocEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029401146255917262",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029233471156084993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alejandro_SocEU: What would your reaction be to the leaked results of the upcoming Spanish general election on Sunday, June 6, 2026? 😄…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029233464105422848"
+          ]
+        },
+        "author_id": "1611057683989205011",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2029233471156084993",
+        "created_at": "2026-03-04T16:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T17:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029233471156084993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7B2Mo6D8I",
+              "end": 141,
+              "expanded_url": "https://x.com/Alejandro_SocEU/status/2029233471156084993/photo/1",
+              "media_key": "3_2029233464105422848",
+              "start": 118,
+              "url": "https://t.co/A7B2Mo6D8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029233471156084993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4773,
+          "like_count": 80,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "What would your reaction be to the leaked results of the upcoming Spanish general election on Sunday, June 6, 2026? 😄 https://t.co/A7B2Mo6D8I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3024,
+          "following_count": 1982,
+          "like_count": 39104,
+          "listed_count": 16,
+          "media_count": 1363,
+          "tweet_count": 19803
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-05T17:51:20.000Z",
+        "description": "19 | Member of @JSE_ORG and @Federalists | Social democrat | For the many, not the few | 🚫 Fascism | 🇺🇦🇬🇱🇵🇸🇻🇦",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "JSE_ORG"
+              },
+              {
+                "end": 40,
+                "start": 28,
+                "username": "Federalists"
+              }
+            ]
+          }
+        },
+        "id": "1611057683989205011",
+        "location": "🇪🇸🇪🇺",
+        "name": "Alejandro🌹🇪🇺",
+        "pinned_tweet_id": "2028887559632191555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980692672797962240/FRVct7Ad_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3078,
+          "following_count": 4219,
+          "like_count": 67192,
+          "listed_count": 33,
+          "media_count": 2520,
+          "tweet_count": 25752
+        },
+        "username": "Alejandro_SocEU",
+        "verified": true
+      }
+    ]
+  }
+}

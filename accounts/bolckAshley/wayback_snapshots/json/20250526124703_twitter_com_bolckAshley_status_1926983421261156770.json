@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime minister (Spain)",
+          "id": "1113478076199886848",
+          "name": "Pedro Sánchez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime minister (Spain)",
+          "id": "1113478076199886848",
+          "name": "Pedro Sánchez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime minister (Spain)",
+          "id": "1113478076199886848",
+          "name": "Pedro Sánchez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516798152279425028",
+          "name": "Spain politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518658080736612352",
+          "name": "Spain political figures"
+        }
+      }
+    ],
+    "conversation_id": "1926983421261156770",
+    "created_at": "2025-05-26T12:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T13:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1926983421261156770"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Gaza",
+          "probability": 0.9872,
+          "start": 44,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "68740712",
+          "start": 3,
+          "username": "sanchezcastejon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1926983421261156770",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1978
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926201027566375213",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sanchezcastejon: La situación actual en Gaza es inaceptable y no vamos a permanecer callados.\n\nLa indiferencia no es una opción. Ya bas…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42233,
+        "height": 720,
+        "media_key": "13_1926199592887980033",
+        "preview_image_url": "https://pbs.twimg.com/media/Grs8shuXcAAo0FA.jpg",
+        "public_metrics": {
+          "view_count": 146675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926199592887980033/vid/avc1/480x270/hiojG1RWhPixigP3.mp4?tag=16"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926199592887980033/vid/avc1/640x360/aPkp1mOB4-ItwKz-.mp4?tag=16"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926199592887980033/vid/avc1/1920x1080/MoLONePn_ioTchf2.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1926199592887980033/vid/avc1/1280x720/FFj7e_NNNGpfQR2g.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1926199592887980033/pl/xHlv1rLuB_JlYZZp.m3u8?tag=16&v=c17"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658080736612352",
+              "name": "Spain political figures"
+            }
+          }
+        ],
+        "conversation_id": "1926983421261156770",
+        "created_at": "2025-05-26T12:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T13:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1926983421261156770"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Gaza",
+              "probability": 0.9872,
+              "start": 44,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "68740712",
+              "start": 3,
+              "username": "sanchezcastejon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926983421261156770",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1978
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926201027566375213",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sanchezcastejon: La situación actual en Gaza es inaceptable y no vamos a permanecer callados.\n\nLa indiferencia no es una opción. Ya bas…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1926199592887980033"
+          ]
+        },
+        "author_id": "68740712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime minister (Spain)",
+              "id": "1113478076199886848",
+              "name": "Pedro Sánchez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518658080736612352",
+              "name": "Spain political figures"
+            }
+          }
+        ],
+        "conversation_id": "1926201027566375213",
+        "created_at": "2025-05-24T08:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-24T09:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1926201027566375213"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Gaza",
+              "probability": 0.9912,
+              "start": 23,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7r8FuA5WO",
+              "end": 274,
+              "expanded_url": "https://x.com/sanchezcastejon/status/1926201027566375213/video/1",
+              "media_key": "13_1926199592887980033",
+              "start": 251,
+              "url": "https://t.co/G7r8FuA5WO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1926201027566375213",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 333496,
+          "like_count": 7978,
+          "quote_count": 260,
+          "reply_count": 2136,
+          "retweet_count": 1978
+        },
+        "reply_settings": "everyone",
+        "text": "La situación actual en Gaza es inaceptable y no vamos a permanecer callados.\n\nLa indiferencia no es una opción. Ya basta.\n\nSeguiremos alzando nuestra voz contra la flagrante violación del derecho internacional y del derecho internacional humanitario. https://t.co/G7r8FuA5WO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2454,
+          "following_count": 1827,
+          "like_count": 27790,
+          "listed_count": 10,
+          "media_count": 925,
+          "tweet_count": 14080
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-25T16:45:56.000Z",
+        "description": "Presidente del Gobierno de España. Secretario gral. del @PSOE y presidente de @Soc_Intl. Padre. Trabajamos por instituciones dignas, la igualdad y la justicia.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 56,
+                "username": "PSOE"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "Soc_Intl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lamoncloa.gob.es",
+                "end": 23,
+                "expanded_url": "http://www.lamoncloa.gob.es",
+                "start": 0,
+                "url": "https://t.co/h8b36qazCM"
+              }
+            ]
+          }
+        },
+        "id": "68740712",
+        "name": "Pedro Sánchez",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915656041884196864/86HsPGP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1992666,
+          "following_count": 5708,
+          "like_count": 4941,
+          "listed_count": 7454,
+          "media_count": 10061,
+          "tweet_count": 34380
+        },
+        "url": "https://t.co/h8b36qazCM",
+        "username": "sanchezcastejon",
+        "verified": true
+      }
+    ]
+  }
+}

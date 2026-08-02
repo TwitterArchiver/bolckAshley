@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1867185075672199364",
+    "created_at": "2024-12-12T12:49:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-12T13:49:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867189957686677744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1641354573351890945",
+          "start": 0,
+          "username": "Taugmann090"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867189957686677744",
+    "in_reply_to_user_id": "1641354573351890945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867185075672199364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taugmann090 我是老實的農民，這就是甜菜"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1867185075672199364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1867185075672199364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1867185075672199364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1867185075672199364",
+        "created_at": "2024-12-12T12:49:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-12T13:49:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867189957686677744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1641354573351890945",
+              "start": 0,
+              "username": "Taugmann090"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867189957686677744",
+        "in_reply_to_user_id": "1641354573351890945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867185075672199364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taugmann090 我是老實的農民，這就是甜菜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1948,
+          "following_count": 1318,
+          "like_count": 17715,
+          "listed_count": 9,
+          "media_count": 585,
+          "tweet_count": 10765
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-30T08:20:15.000Z",
+        "description": "⟦Retired⟧ ⟬HOI4/MCU/SW/ST/DC⟭ ✡︎/❂/🎗️/🗽 蜥蜴人/罗慕伦人/塔夏尔暗杀名单top12/犹太阴谋家/另类国际主义/殖民者/外环最neo👌🏻bee的走私犯/超自然性别/烘培店老板/咖啡师/米哈犹共济会高级策划",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "✵.org",
+                "end": 23,
+                "expanded_url": "http://xn--edi.org",
+                "start": 0,
+                "url": "https://t.co/5SjhomR2w4"
+              }
+            ]
+          }
+        },
+        "id": "1641354573351890945",
+        "location": "500 Republica, Coruscant",
+        "name": "🆃𝖆𝖚𝖌𝖒𝖆𝖓𝖓🇦🇶🚭",
+        "pinned_tweet_id": "1817738318991523855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861764540624764928/yBLJUKuN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 390,
+          "like_count": 51471,
+          "listed_count": 2,
+          "media_count": 1315,
+          "tweet_count": 18455
+        },
+        "url": "https://t.co/5SjhomR2w4",
+        "username": "Taugmann090",
+        "verified": false
+      }
+    ]
+  }
+}

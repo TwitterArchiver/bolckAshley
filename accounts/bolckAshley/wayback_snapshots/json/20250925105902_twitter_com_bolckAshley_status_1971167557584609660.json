@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1971167557584609660",
+    "created_at": "2025-09-25T10:59:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T11:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971167557584609660"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/VlStarodubtsev…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/VlStarodubtsev/status/1970877630241980681",
+          "start": 35,
+          "url": "https://t.co/M5U07Un40D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971167557584609660",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970877630241980681",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好樣的，小澤！🫡🫡🫡\nGlory to Ukraine!🇺🇦🇺🇦🇺🇦 https://t.co/M5U07Un40D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_1970877621131968512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1n2wRdWgAAVsw6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1971167557584609660",
+        "created_at": "2025-09-25T10:59:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971167557584609660"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/VlStarodubtsev…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/VlStarodubtsev/status/1970877630241980681",
+              "start": 35,
+              "url": "https://t.co/M5U07Un40D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971167557584609660",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970877630241980681",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好樣的，小澤！🫡🫡🫡\nGlory to Ukraine!🇺🇦🇺🇦🇺🇦 https://t.co/M5U07Un40D"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970877621131968512"
+          ]
+        },
+        "author_id": "1513222980863680514",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1970877630241980681",
+        "created_at": "2025-09-24T15:46:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T16:46:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970877630241980681"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 135,
+              "normalized_text": "Sudan",
+              "probability": 0.9745,
+              "start": 131,
+              "type": "Place"
+            },
+            {
+              "end": 144,
+              "normalized_text": "Somalia",
+              "probability": 0.9757,
+              "start": 138,
+              "type": "Place"
+            },
+            {
+              "end": 155,
+              "normalized_text": "Palestine",
+              "probability": 0.9355,
+              "start": 147,
+              "type": "Place"
+            },
+            {
+              "end": 174,
+              "normalized_text": "UN",
+              "probability": 0.8947,
+              "start": 173,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFF3oykAZl",
+              "end": 303,
+              "expanded_url": "https://x.com/VlStarodubtsev/status/1970877630241980681/photo/1",
+              "media_key": "3_1970877621131968512",
+              "start": 280,
+              "url": "https://t.co/GFF3oykAZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970877630241980681",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "\"There is no international institution that can stop wars. This is how weak these institutions have become,\" \n\n\"What can people in Sudan, Somalia, Palestine expect from the UN or global system? For decades - just statements and statements\"\n\n\"If a nation wants peace, it still has to work on weapons. It's not international law and cooperation, but weapons that decide who survives\"\n\n\"There are no security guarantees except friends and weapons. For many nations, there is simply no other way out.\"\n\nZelensky at the UN"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 485,
+          "impression_count": 166487,
+          "like_count": 5918,
+          "quote_count": 96,
+          "reply_count": 48,
+          "retweet_count": 965
+        },
+        "reply_settings": "everyone",
+        "text": "\"There is no international institution that can stop wars. This is how weak these institutions have become,\" \n\n\"What can people in Sudan, Somalia, Palestine expect from the UN or global system? For decades - just statements and statements\"\n\n\"If a nation wants peace, it still has https://t.co/GFF3oykAZl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2590,
+          "following_count": 1963,
+          "like_count": 33265,
+          "listed_count": 12,
+          "media_count": 1094,
+          "tweet_count": 16561
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T18:30:52.000Z",
+        "description": "Ukrainian Soldier. Social-Democrat\\Democratic Socialist. Ukrainian history and politics. Social rights, Feminism & inclusivity. Cooperatives & trade-unions",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.substack.com/pub/vladyslavs…",
+                "end": 23,
+                "expanded_url": "https://open.substack.com/pub/vladyslavstarodubtsev/p/411?r=2hbbuk&utm_campaign=post&utm_medium=web",
+                "start": 0,
+                "url": "https://t.co/EYNJHi7aUe"
+              }
+            ]
+          }
+        },
+        "id": "1513222980863680514",
+        "location": "Ukraine",
+        "name": "Vladyslav Starodubtsev🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932015259927093248/wn1Bwivb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6919,
+          "following_count": 5942,
+          "like_count": 72455,
+          "listed_count": 113,
+          "media_count": 1368,
+          "tweet_count": 17430
+        },
+        "url": "https://t.co/EYNJHi7aUe",
+        "username": "VlStarodubtsev",
+        "verified": true
+      }
+    ]
+  }
+}

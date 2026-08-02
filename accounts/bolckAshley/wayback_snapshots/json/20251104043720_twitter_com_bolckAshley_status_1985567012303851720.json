@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1984977351193854225",
+    "created_at": "2025-11-04T04:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T05:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985567012303851720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1715891855983026176",
+          "start": 0,
+          "username": "hetongzhi114514"
+        },
+        {
+          "end": 31,
+          "id": "1837550820742815744",
+          "start": 17,
+          "username": "Yuki_chan_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985567012303851720",
+    "in_reply_to_user_id": "1715891855983026176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985564018699108651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hetongzhi114514 @Yuki_chan_114 英國跟法國之前的局勢很像\n但可惜的是英國沒有自己的馬克龍👏"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1985564018699108651].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1985564018699108651",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1985564018699108651"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1984977351193854225",
+        "created_at": "2025-11-04T04:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T05:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985567012303851720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1715891855983026176",
+              "start": 0,
+              "username": "hetongzhi114514"
+            },
+            {
+              "end": 31,
+              "id": "1837550820742815744",
+              "start": 17,
+              "username": "Yuki_chan_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985567012303851720",
+        "in_reply_to_user_id": "1715891855983026176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985564018699108651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hetongzhi114514 @Yuki_chan_114 英國跟法國之前的局勢很像\n但可惜的是英國沒有自己的馬克龍👏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2707,
+          "following_count": 2029,
+          "like_count": 34861,
+          "listed_count": 12,
+          "media_count": 1182,
+          "tweet_count": 17287
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-22T00:44:44.000Z",
+        "description": "Democratic Socialist | Anti-Stalinist | Participatory Economics | History, Sociology, Politics, etc. | “自治、公正、团结、多元、效率、可持续”",
+        "id": "1715891855983026176",
+        "name": "Mr. Democracy's follower🏴🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1910555002357358592/NFv9iHgZ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 3961,
+          "like_count": 85692,
+          "listed_count": 5,
+          "media_count": 948,
+          "tweet_count": 18240
+        },
+        "username": "hetongzhi114514",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-21T17:54:07.000Z",
+        "description": "战无不胜的中国民主党万岁！",
+        "id": "1837550820742815744",
+        "name": "谢万军主席的好学生",
+        "pinned_tweet_id": "1983045849157616119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984072277722591232/BZW_4ZvZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 798,
+          "like_count": 36496,
+          "listed_count": 1,
+          "media_count": 925,
+          "tweet_count": 10815
+        },
+        "username": "Yuki_chan_114",
+        "verified": false
+      }
+    ]
+  }
+}

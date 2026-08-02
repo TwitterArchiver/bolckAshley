@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1950433745489572119",
+    "created_at": "2025-07-30T05:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T06:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950433745489572119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1419538139392090112",
+          "start": 3,
+          "username": "EN_BlueArchive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950433745489572119",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950433148158038307",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EN_BlueArchive: [7/30(Wed) Data Patch]\n\nWe will be having a brief data patch to enhance your gaming experience.\n\n- Schedule: 7/30(Wed)…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_1950433052137836544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GxFUhu7bUAAMPeo.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1950433745489572119",
+        "created_at": "2025-07-30T05:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T06:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950433745489572119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1419538139392090112",
+              "start": 3,
+              "username": "EN_BlueArchive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950433745489572119",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950433148158038307",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EN_BlueArchive: [7/30(Wed) Data Patch]\n\nWe will be having a brief data patch to enhance your gaming experience.\n\n- Schedule: 7/30(Wed)…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1950433052137836544"
+          ]
+        },
+        "author_id": "1419538139392090112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "1950433148158038307",
+        "created_at": "2025-07-30T05:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T06:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1950433148158038307"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 147,
+              "normalized_text": "Steam",
+              "probability": 0.5548,
+              "start": 143,
+              "type": "Other"
+            },
+            {
+              "end": 279,
+              "normalized_text": "Steam",
+              "probability": 0.9343,
+              "start": 275,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/906y7gL2FV",
+              "end": 304,
+              "expanded_url": "https://x.com/EN_BlueArchive/status/1950433148158038307/photo/1",
+              "media_key": "3_1950433052137836544",
+              "start": 281,
+              "url": "https://t.co/906y7gL2FV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950433148158038307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 494,
+                "start": 482,
+                "tag": "BlueArchive"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "forum.nexon.com/bluearchive-en…",
+                "end": 480,
+                "expanded_url": "https://forum.nexon.com/bluearchive-en/board_view?board=3217&thread=3064505",
+                "start": 457,
+                "url": "https://t.co/weMvkJx72Z"
+              }
+            ]
+          },
+          "text": "[7/30(Wed) Data Patch]\n\nWe will be having a brief data patch to enhance your gaming experience.\n\n- Schedule: 7/30(Wed) 5:30 AM (UTC)\n- Target: Steam Client\n- Impact: While the patch is in progress, you can still engage in gameplay. The updated content will be installed upon Steam re-entry.\n- Details: An issue where the game would force close in certain environments when changing the display mode or resizing the window in the STEAM client.\n\n➡️More Info: https://t.co/weMvkJx72Z\n\n#BlueArchive"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 588,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "[7/30(Wed) Data Patch]\n\nWe will be having a brief data patch to enhance your gaming experience.\n\n- Schedule: 7/30(Wed) 5:30 AM (UTC)\n- Target: Steam Client\n- Impact: While the patch is in progress, you can still engage in gameplay. The updated content will be installed upon Steam https://t.co/906y7gL2FV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 1874,
+          "like_count": 30823,
+          "listed_count": 9,
+          "media_count": 989,
+          "tweet_count": 15164
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-26T06:01:06.000Z",
+        "description": "Sensei! Welcome to the official Twitter of Blue Archive!\nOfficial Discord:  https://t.co/cFEZ2MGrG5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nexon.link/8rS",
+                "end": 99,
+                "expanded_url": "http://nexon.link/8rS",
+                "start": 76,
+                "url": "https://t.co/cFEZ2MGrG5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.nexon.com",
+                "end": 23,
+                "expanded_url": "http://bluearchive.nexon.com",
+                "start": 0,
+                "url": "https://t.co/cDdxxqMVaq"
+              }
+            ]
+          }
+        },
+        "id": "1419538139392090112",
+        "name": "BlueArchive",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775702504040509440/iVOGcbLZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370031,
+          "following_count": 4,
+          "like_count": 2,
+          "listed_count": 909,
+          "media_count": 3416,
+          "tweet_count": 4115
+        },
+        "url": "https://t.co/cDdxxqMVaq",
+        "username": "EN_BlueArchive",
+        "verified": true
+      }
+    ]
+  }
+}

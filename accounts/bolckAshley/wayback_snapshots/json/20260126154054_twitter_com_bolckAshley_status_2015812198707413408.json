@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Manchester",
+          "id": "864489046776492033",
+          "name": "Manchester"
+        }
+      }
+    ],
+    "conversation_id": "2015812198707413408",
+    "created_at": "2026-01-26T15:40:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T16:40:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015812198707413408"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "Manchester",
+          "probability": 0.5452,
+          "start": 26,
+          "type": "Place"
+        },
+        {
+          "end": 56,
+          "normalized_text": "Westminster VI",
+          "probability": 0.7076,
+          "start": 43,
+          "type": "Organization"
+        },
+        {
+          "end": 69,
+          "normalized_text": "UK",
+          "probability": 0.8765,
+          "start": 68,
+          "type": "Place"
+        },
+        {
+          "end": 102,
+          "normalized_text": "Westminster VI",
+          "probability": 0.5864,
+          "start": 89,
+          "type": "Organization"
+        },
+        {
+          "end": 120,
+          "normalized_text": "Andy Burnham",
+          "probability": 0.9688,
+          "start": 109,
+          "type": "Person"
+        },
+        {
+          "end": 134,
+          "normalized_text": "Labour",
+          "probability": 0.5101,
+          "start": 129,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1088744223275393025",
+          "start": 3,
+          "username": "FindoutnowUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015812198707413408",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015780557599146049",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FindoutnowUK: Greater Manchester poll\n\nWestminster VI:\n🔵 Reform UK 36%\n🔴 Labour 24%\n\nWestminster VI with Andy Burnham as the Labour can…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 881,
+        "media_key": "3_2015779543697502208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_l80J-WsAAu-PK.jpg",
+        "width": 1476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Manchester",
+              "id": "864489046776492033",
+              "name": "Manchester"
+            }
+          }
+        ],
+        "conversation_id": "2015812198707413408",
+        "created_at": "2026-01-26T15:40:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T16:40:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015812198707413408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Manchester",
+              "probability": 0.5452,
+              "start": 26,
+              "type": "Place"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Westminster VI",
+              "probability": 0.7076,
+              "start": 43,
+              "type": "Organization"
+            },
+            {
+              "end": 69,
+              "normalized_text": "UK",
+              "probability": 0.8765,
+              "start": 68,
+              "type": "Place"
+            },
+            {
+              "end": 102,
+              "normalized_text": "Westminster VI",
+              "probability": 0.5864,
+              "start": 89,
+              "type": "Organization"
+            },
+            {
+              "end": 120,
+              "normalized_text": "Andy Burnham",
+              "probability": 0.9688,
+              "start": 109,
+              "type": "Person"
+            },
+            {
+              "end": 134,
+              "normalized_text": "Labour",
+              "probability": 0.5101,
+              "start": 129,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1088744223275393025",
+              "start": 3,
+              "username": "FindoutnowUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015812198707413408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015780557599146049",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FindoutnowUK: Greater Manchester poll\n\nWestminster VI:\n🔵 Reform UK 36%\n🔴 Labour 24%\n\nWestminster VI with Andy Burnham as the Labour can…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015779543697502208"
+          ]
+        },
+        "author_id": "1088744223275393025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Manchester",
+              "id": "864489046776492033",
+              "name": "Manchester"
+            }
+          }
+        ],
+        "conversation_id": "2015780557599146049",
+        "created_at": "2026-01-26T13:35:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T14:35:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015780557599146049"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Manchester",
+              "probability": 0.495,
+              "start": 8,
+              "type": "Place"
+            },
+            {
+              "end": 38,
+              "normalized_text": "Westminster VI",
+              "probability": 0.683,
+              "start": 25,
+              "type": "Organization"
+            },
+            {
+              "end": 51,
+              "normalized_text": "UK",
+              "probability": 0.8903,
+              "start": 50,
+              "type": "Place"
+            },
+            {
+              "end": 84,
+              "normalized_text": "Westminster VI",
+              "probability": 0.5208,
+              "start": 71,
+              "type": "Organization"
+            },
+            {
+              "end": 102,
+              "normalized_text": "Andy Burnham",
+              "probability": 0.9585,
+              "start": 91,
+              "type": "Person"
+            },
+            {
+              "end": 152,
+              "normalized_text": "UK",
+              "probability": 0.8234,
+              "start": 151,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fK6XcZUx1g",
+              "end": 226,
+              "expanded_url": "https://x.com/FindoutnowUK/status/2015780557599146049/photo/1",
+              "media_key": "3_2015779543697502208",
+              "start": 203,
+              "url": "https://t.co/fK6XcZUx1g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015780557599146049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5084,
+          "like_count": 99,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Greater Manchester poll\n\nWestminster VI:\n🔵 Reform UK 36%\n🔴 Labour 24%\n\nWestminster VI with Andy Burnham as the Labour candidate:\n🔴 Labour 49%\n🔵 Reform UK 28%\n\n[Find Out Now, 23–24 January 2026, N=1,003] https://t.co/fK6XcZUx1g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1968,
+          "like_count": 37815,
+          "listed_count": 14,
+          "media_count": 1310,
+          "tweet_count": 18858
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-25T10:23:45.000Z",
+        "description": "UK's fastest polling service. Ask questions on https://t.co/6akKN5ZMg6 for answers in minutes. @BritPollingCncl member & MRS partner. ask@findoutnow.co.uk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 95,
+                "username": "BritPollingCncl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "findoutnow.co.uk",
+                "end": 70,
+                "expanded_url": "http://findoutnow.co.uk",
+                "start": 47,
+                "url": "https://t.co/6akKN5ZMg6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "findoutnow.co.uk",
+                "end": 23,
+                "expanded_url": "https://findoutnow.co.uk/",
+                "start": 0,
+                "url": "https://t.co/NFDkRSmB7m"
+              }
+            ]
+          }
+        },
+        "id": "1088744223275393025",
+        "location": "United Kingdom",
+        "name": "Find Out Now",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1088755709657911296/r2YEJqAs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8952,
+          "following_count": 417,
+          "like_count": 342,
+          "listed_count": 63,
+          "media_count": 325,
+          "tweet_count": 1330
+        },
+        "url": "https://t.co/NFDkRSmB7m",
+        "username": "FindoutnowUK",
+        "verified": false
+      }
+    ]
+  }
+}

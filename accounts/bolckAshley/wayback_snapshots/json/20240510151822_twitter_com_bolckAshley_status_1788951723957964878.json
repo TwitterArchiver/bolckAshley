@@ -1,0 +1,178 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1788761889154945082",
+    "created_at": "2024-05-10T15:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-10T16:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1788951723957964878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1681902931564703744",
+          "start": 0,
+          "username": "aim20371231"
+        },
+        {
+          "end": 27,
+          "id": "1481983670755942403",
+          "start": 13,
+          "username": "111ya6b6tebya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1788951723957964878",
+    "in_reply_to_user_id": "1681902931564703744",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1788809039545352199",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aim20371231 @111ya6b6tebya 🇹🇼在跟🇨🇳交戰\n而此時的蘇聯給🇨🇳送援助（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1788809039545352199].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1788809039545352199",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1788809039545352199"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1788761889154945082",
+        "created_at": "2024-05-10T15:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-10T16:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1788951723957964878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1681902931564703744",
+              "start": 0,
+              "username": "aim20371231"
+            },
+            {
+              "end": 27,
+              "id": "1481983670755942403",
+              "start": 13,
+              "username": "111ya6b6tebya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1788951723957964878",
+        "in_reply_to_user_id": "1681902931564703744",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1788809039545352199",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aim20371231 @111ya6b6tebya 🇹🇼在跟🇨🇳交戰\n而此時的蘇聯給🇨🇳送援助（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹/左翼三民主義❂||未來可能潤去德國🇩🇪🇪🇺||反對布爾什維主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||國民左翼社會民主陣線🌹❂現任主席||是暫時停糖的Xyn喵🍥||實現三民主義与真正的國民民主是我矢志不渝的理想",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1786207000495603890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1767220712543236096/w31UL6H7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 898,
+          "like_count": 10844,
+          "listed_count": 6,
+          "tweet_count": 7204
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-20T05:44:55.000Z",
+        "description": "事在人为",
+        "id": "1681902931564703744",
+        "name": "川和工团安卡🚩🇰🇭",
+        "pinned_tweet_id": "1781579967278747734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722189060641546240/3S-Nn24Y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1372,
+          "following_count": 813,
+          "like_count": 60304,
+          "listed_count": 17,
+          "tweet_count": 19773
+        },
+        "username": "aim20371231",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-14T13:37:05.000Z",
+        "description": "斯大林政治学/毛泽东经济学/图哈切夫战争学/市场布尔什维克/全支那布尔什维克法西斯同盟/中国共产党（哈马斯派）/数字极权主义/反对列宁的列宁主义者/支持布哈林的托洛茨基主义者/反共清党，三民主义统一支那/泛亚主义/大东亚共荣/光复两广，时代革命/刘仲敬粉丝/大一统和单一制爱好者/高声派穆斯林/法兰西沙文主义者",
+        "id": "1481983670755942403",
+        "location": "Москва Цивитас",
+        "name": "北斗决心扬子江（意大利人文国版)",
+        "pinned_tweet_id": "1787102653928841620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788754419581915136/QaKYbtVp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1983,
+          "following_count": 876,
+          "like_count": 26353,
+          "listed_count": 26,
+          "tweet_count": 34287
+        },
+        "username": "111ya6b6tebya",
+        "verified": false
+      }
+    ]
+  }
+}

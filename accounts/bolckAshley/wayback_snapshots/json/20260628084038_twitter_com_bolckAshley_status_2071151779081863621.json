@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1516798152279425028",
+          "name": "Spain politics"
+        }
+      }
+    ],
+    "conversation_id": "2071151779081863621",
+    "created_at": "2026-06-28T08:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071151779081863621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "50982086",
+          "start": 3,
+          "username": "PSOE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071151779081863621",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071143491132879144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @PSOE: Las y los socialistas tenemos una convicción clara: el Orgullo sigue siendo necesario para celebrar lo conquistado, defender a qu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071139735301509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4qnarX0AAn9hZ.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          }
+        ],
+        "conversation_id": "2071151779081863621",
+        "created_at": "2026-06-28T08:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071151779081863621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "50982086",
+              "start": 3,
+              "username": "PSOE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071151779081863621",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071143491132879144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @PSOE: Las y los socialistas tenemos una convicción clara: el Orgullo sigue siendo necesario para celebrar lo conquistado, defender a qu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071139735301509120"
+          ]
+        },
+        "author_id": "50982086",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1516798152279425028",
+              "name": "Spain politics"
+            }
+          }
+        ],
+        "conversation_id": "2071143491132879144",
+        "created_at": "2026-06-28T08:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071143491132879144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tLJsIOgPio",
+              "end": 296,
+              "expanded_url": "https://x.com/PSOE/status/2071143491132879144/photo/1",
+              "media_key": "3_2071139735301509120",
+              "start": 273,
+              "url": "https://t.co/tLJsIOgPio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071143491132879144",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 327,
+                "start": 307,
+                "tag": "MásOrgulloMenosOdio"
+              }
+            ]
+          },
+          "text": "Las y los socialistas tenemos una convicción clara: el Orgullo sigue siendo necesario para celebrar lo conquistado, defender a quienes sufren discriminación y recordar que ningún derecho está garantizado si no se defiende.\n\nPorque ante cualquier retroceso, respondemos con libertad, igualdad y democracia.\n\n#MásOrgulloMenosOdio 🏳️‍🌈"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1741,
+          "like_count": 58,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "Las y los socialistas tenemos una convicción clara: el Orgullo sigue siendo necesario para celebrar lo conquistado, defender a quienes sufren discriminación y recordar que ningún derecho está garantizado si no se defiende.\n\nPorque ante cualquier retroceso, respondemos con https://t.co/tLJsIOgPio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 2234,
+          "like_count": 42831,
+          "listed_count": 28,
+          "media_count": 1761,
+          "tweet_count": 23063
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-26T08:48:42.000Z",
+        "description": "Un Gobierno por la igualdad y la justicia social, para devolver la dignidad a las instituciones. Hacemos un país mejor.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psoe.es",
+                "end": 23,
+                "expanded_url": "http://www.psoe.es",
+                "start": 0,
+                "url": "https://t.co/Zpk6nqrBcI"
+              }
+            ]
+          }
+        },
+        "id": "50982086",
+        "location": "España",
+        "name": "PSOE",
+        "pinned_tweet_id": "2070853029209719175",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068964520379203584/NrImdwzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871088,
+          "following_count": 12418,
+          "like_count": 6922,
+          "listed_count": 5637,
+          "media_count": 60408,
+          "tweet_count": 161913
+        },
+        "url": "https://t.co/Zpk6nqrBcI",
+        "username": "PSOE",
+        "verified": true
+      }
+    ]
+  }
+}

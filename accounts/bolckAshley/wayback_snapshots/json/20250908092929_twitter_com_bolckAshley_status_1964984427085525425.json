@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1964984427085525425",
+    "created_at": "2025-09-08T09:29:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T10:29:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964984427085525425"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "Norway",
+          "probability": 0.9191,
+          "start": 77,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804660997585833984",
+          "start": 3,
+          "username": "PA_Solidarity"
+        },
+        {
+          "end": 50,
+          "id": "63129578",
+          "start": 35,
+          "username": "jonasgahrstore"
+        },
+        {
+          "end": 73,
+          "id": "16557956",
+          "start": 57,
+          "username": "Arbeiderpartiet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964984427085525425",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964972120439746805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PA_Solidarity: Best of luck to @jonasgahrstore &amp; @Arbeiderpartiet as Norway votes today.🌹\n\nLabour’s plan—Trygghet for framtida—means se…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_1964971260330319872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0T6803XIAAWgG2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1964984427085525425",
+        "created_at": "2025-09-08T09:29:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T10:29:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964984427085525425"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "Norway",
+              "probability": 0.9191,
+              "start": 77,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804660997585833984",
+              "start": 3,
+              "username": "PA_Solidarity"
+            },
+            {
+              "end": 50,
+              "id": "63129578",
+              "start": 35,
+              "username": "jonasgahrstore"
+            },
+            {
+              "end": 73,
+              "id": "16557956",
+              "start": 57,
+              "username": "Arbeiderpartiet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964984427085525425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964972120439746805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PA_Solidarity: Best of luck to @jonasgahrstore &amp; @Arbeiderpartiet as Norway votes today.🌹\n\nLabour’s plan—Trygghet for framtida—means se…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964971260330319872"
+          ]
+        },
+        "author_id": "1804660997585833984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364236",
+              "name": "Dell"
+            }
+          }
+        ],
+        "conversation_id": "1964972120439746805",
+        "created_at": "2025-09-08T08:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T09:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964972120439746805"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Norway",
+              "probability": 0.9347,
+              "start": 58,
+              "type": "Place"
+            },
+            {
+              "end": 85,
+              "normalized_text": "Labour",
+              "probability": 0.4841,
+              "start": 80,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 31,
+              "id": "63129578",
+              "start": 16,
+              "username": "jonasgahrstore"
+            },
+            {
+              "end": 54,
+              "id": "16557956",
+              "start": 38,
+              "username": "Arbeiderpartiet"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeciTGdfqF",
+              "end": 308,
+              "expanded_url": "https://x.com/PA_Solidarity/status/1964972120439746805/photo/1",
+              "media_key": "3_1964971260330319872",
+              "start": 285,
+              "url": "https://t.co/EeciTGdfqF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964972120439746805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "Best of luck to @jonasgahrstore &amp; @Arbeiderpartiet as Norway votes today.🌹\n\nLabour’s plan—Trygghet for framtida—means secure finances, strong services, shorter health waits, fair energy &amp; stronger community for kids &amp; youth.\n\nChoose stronger unity over greater differences https://t.co/EeciTGdfqF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2560,
+          "following_count": 1940,
+          "like_count": 32579,
+          "listed_count": 11,
+          "media_count": 1064,
+          "tweet_count": 16135
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T23:42:03.000Z",
+        "description": "Over 140 socialist, social democratic, and labour parties. We believe in the power of international solidarity. Together, we pursue peace, justice, and freedom.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "progressive-alliance.info",
+                "end": 23,
+                "expanded_url": "https://progressive-alliance.info",
+                "start": 0,
+                "url": "https://t.co/FKo5fW1ere"
+              }
+            ]
+          }
+        },
+        "id": "1804660997585833984",
+        "location": "Berlin, Germany",
+        "name": "Progressive Alliance",
+        "pinned_tweet_id": "1964972120439746805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825485213666770944/H_8eeQ-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 986,
+          "following_count": 587,
+          "like_count": 291,
+          "listed_count": 12,
+          "media_count": 100,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/FKo5fW1ere",
+        "username": "PA_Solidarity",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-05T13:20:30.000Z",
+        "description": "Statsminister og leder av @Arbeiderpartiet. Prime minister and leader of the Norwegian Labour Party.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Arbeiderpartiet"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/jonasgahrstore",
+                "end": 23,
+                "expanded_url": "http://facebook.com/jonasgahrstore",
+                "start": 0,
+                "url": "https://t.co/a71S9GsTPG"
+              }
+            ]
+          }
+        },
+        "id": "63129578",
+        "location": "Oslo, Norway",
+        "name": "Jonas Gahr Støre",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1627315115170078720/WbYVGUEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211071,
+          "following_count": 11756,
+          "like_count": 48,
+          "listed_count": 1253,
+          "media_count": 249,
+          "tweet_count": 4544
+        },
+        "url": "https://t.co/a71S9GsTPG",
+        "username": "jonasgahrstore",
+        "verified": true
+      },
+      {
+        "created_at": "2008-10-02T11:32:28.000Z",
+        "description": "De store oppgavene løser vi best sammen!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Arbeiderpartiet.no",
+                "end": 23,
+                "expanded_url": "http://Arbeiderpartiet.no",
+                "start": 0,
+                "url": "https://t.co/QRTyO5jiIm"
+              }
+            ]
+          }
+        },
+        "id": "16557956",
+        "location": "Norge",
+        "name": "Arbeiderpartiet",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664243529793654784/fhu37NGQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59933,
+          "following_count": 7024,
+          "like_count": 889,
+          "listed_count": 486,
+          "media_count": 535,
+          "tweet_count": 8131
+        },
+        "url": "https://t.co/QRTyO5jiIm",
+        "username": "Arbeiderpartiet",
+        "verified": false
+      }
+    ]
+  }
+}

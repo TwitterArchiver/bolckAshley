@@ -1,0 +1,1268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10036528860",
+          "name": "サッカー日本代表戦"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Types of sports, like soccer and basketball",
+          "id": "11",
+          "name": "Sport"
+        },
+        "entity": {
+          "id": "1392945361518403584",
+          "name": "Olympic Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "731226224110903298",
+          "name": "Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1408523202934964224",
+          "name": "Japan Olympic team"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1484192283599667213",
+          "name": "China Olympic Team"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "id": "731226246537830400",
+          "name": "Japan national football team"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157181954",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783337372406517762",
+          "name": "Online Services - Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Paravi",
+          "id": "1433440231114489861",
+          "name": "DAZN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226224110903298",
+          "name": "Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "731226246537830400",
+          "name": "Japan national football team"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "733756536430809088",
+          "name": "Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sports",
+          "id": "847900493514891265",
+          "name": "Sports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Soccer Teams",
+          "id": "1100397500890996736",
+          "name": "Men's national soccer teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1392945361518403584",
+          "name": "Olympic Soccer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1408523202934964224",
+          "name": "Japan Olympic team"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paravi",
+          "id": "1433440231114489861",
+          "name": "DAZN"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1484192283599667213",
+          "name": "China Olympic Team"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "2015378187392540834",
+    "created_at": "2026-01-25T10:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T11:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015378187392540834"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 54,
+          "normalized_text": "AFC U23アジアカップ サウジアラビア",
+          "probability": 0.0653,
+          "start": 34,
+          "type": "Organization"
+        },
+        {
+          "end": 77,
+          "normalized_text": "U-23日本代表",
+          "probability": 0.3283,
+          "start": 70,
+          "type": "Organization"
+        },
+        {
+          "end": 90,
+          "normalized_text": "中国代表",
+          "probability": 0.2996,
+          "start": 87,
+          "type": "Organization"
+        },
+        {
+          "end": 115,
+          "normalized_text": "DAZN",
+          "probability": 0.4341,
+          "start": 112,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "108260481",
+          "start": 3,
+          "username": "jfa_samuraiblue"
+        }
+      ],
+      "urls": [
+        {
+          "description": "2026/1/6(火)～2026/1/24(金)に開催されるAFC U23アジアカップ サウジアラビア 2026のページです。日程・結果、招集メンバー/スタッフの情報を配信しています",
+          "display_url": "jfa.jp/national_team/…",
+          "end": 139,
+          "expanded_url": "https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2014713601932840962/i8QfOu-Z?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2014713601932840962/i8QfOu-Z?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 116,
+          "status": 200,
+          "title": "AFC U23アジアカップ サウジアラビア 2026 TOP",
+          "unwound_url": "https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/",
+          "url": "https://t.co/2nB4EHzBvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015378187392540834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2941
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015105079662256282",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jfa_samuraiblue: 🔹試合終了🔹️\n\n🏆AFC U23アジアカップ サウジアラビア 2026\n⚔️決勝\n🇯🇵U-23日本代表 4-0 U-23中国代表🇨🇳\n\n⌚️0:00(🇯🇵)\n📱DAZNにて無料配信❗️\n🔗https://t.co/2nB4EHzBvf…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2015105050478366720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_cXXe7b0AAf1lr.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036528860",
+              "name": "サッカー日本代表戦"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1392945361518403584",
+              "name": "Olympic Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226224110903298",
+              "name": "Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1408523202934964224",
+              "name": "Japan Olympic team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1484192283599667213",
+              "name": "China Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226246537830400",
+              "name": "Japan national football team"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Paravi",
+              "id": "1433440231114489861",
+              "name": "DAZN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226224110903298",
+              "name": "Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226246537830400",
+              "name": "Japan national football team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392945361518403584",
+              "name": "Olympic Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1408523202934964224",
+              "name": "Japan Olympic team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paravi",
+              "id": "1433440231114489861",
+              "name": "DAZN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484192283599667213",
+              "name": "China Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2015378187392540834",
+        "created_at": "2026-01-25T10:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T11:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015378187392540834"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "AFC U23アジアカップ サウジアラビア",
+              "probability": 0.0653,
+              "start": 34,
+              "type": "Organization"
+            },
+            {
+              "end": 77,
+              "normalized_text": "U-23日本代表",
+              "probability": 0.3283,
+              "start": 70,
+              "type": "Organization"
+            },
+            {
+              "end": 90,
+              "normalized_text": "中国代表",
+              "probability": 0.2996,
+              "start": 87,
+              "type": "Organization"
+            },
+            {
+              "end": 115,
+              "normalized_text": "DAZN",
+              "probability": 0.4341,
+              "start": 112,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "108260481",
+              "start": 3,
+              "username": "jfa_samuraiblue"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026/1/6(火)～2026/1/24(金)に開催されるAFC U23アジアカップ サウジアラビア 2026のページです。日程・結果、招集メンバー/スタッフの情報を配信しています",
+              "display_url": "jfa.jp/national_team/…",
+              "end": 139,
+              "expanded_url": "https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014713601932840962/i8QfOu-Z?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014713601932840962/i8QfOu-Z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 116,
+              "status": 200,
+              "title": "AFC U23アジアカップ サウジアラビア 2026 TOP",
+              "unwound_url": "https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/",
+              "url": "https://t.co/2nB4EHzBvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015378187392540834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2941
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015105079662256282",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jfa_samuraiblue: 🔹試合終了🔹️\n\n🏆AFC U23アジアカップ サウジアラビア 2026\n⚔️決勝\n🇯🇵U-23日本代表 4-0 U-23中国代表🇨🇳\n\n⌚️0:00(🇯🇵)\n📱DAZNにて無料配信❗️\n🔗https://t.co/2nB4EHzBvf…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015105050478366720"
+          ]
+        },
+        "author_id": "108260481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10036528860",
+              "name": "サッカー日本代表戦"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "1392945361518403584",
+              "name": "Olympic Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226224110903298",
+              "name": "Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1408523202934964224",
+              "name": "Japan Olympic team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1484192283599667213",
+              "name": "China Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226246537830400",
+              "name": "Japan national football team"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "1447550827124572162",
+              "name": "AFC Asian Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157181954",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783337372406517762",
+              "name": "Online Services - Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Paravi",
+              "id": "1433440231114489861",
+              "name": "DAZN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226224110903298",
+              "name": "Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226246537830400",
+              "name": "Japan national football team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392945361518403584",
+              "name": "Olympic Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1408523202934964224",
+              "name": "Japan Olympic team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paravi",
+              "id": "1433440231114489861",
+              "name": "DAZN"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1447550827124572162",
+              "name": "AFC Asian Cup"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1484192283599667213",
+              "name": "China Olympic Team"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2015105079662256282",
+        "created_at": "2026-01-24T16:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015105079662256282"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "AFC U23アジアカップ サウジアラビア",
+              "probability": 0.081,
+              "start": 13,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "U-23日本代表",
+              "probability": 0.2903,
+              "start": 49,
+              "type": "Organization"
+            },
+            {
+              "end": 69,
+              "normalized_text": "中国代表",
+              "probability": 0.3206,
+              "start": 66,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 120,
+              "tag": "AFCU23"
+            },
+            {
+              "end": 148,
+              "start": 141,
+              "tag": "夢への勇気を"
+            },
+            {
+              "end": 157,
+              "start": 149,
+              "tag": "U23日本代表"
+            },
+            {
+              "end": 167,
+              "start": 158,
+              "tag": "サッカー日本代表"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 140,
+              "id": "78185470",
+              "start": 128,
+              "username": "afcasiancup"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026/1/6(火)～2026/1/24(金)に開催されるAFC U23アジアカップ サウジアラビア 2026のページです。日程・結果、招集メンバー/スタッフの情報を配信しています",
+              "display_url": "jfa.jp/national_team/…",
+              "end": 118,
+              "expanded_url": "https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014713601932840962/i8QfOu-Z?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014713601932840962/i8QfOu-Z?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 95,
+              "status": 200,
+              "title": "AFC U23アジアカップ サウジアラビア 2026 TOP",
+              "unwound_url": "https://www.jfa.jp/national_team/u23_2026/afc_u23_asiancup_2026/",
+              "url": "https://t.co/2nB4EHzBvf"
+            },
+            {
+              "display_url": "pic.x.com/KDAiWD28OH",
+              "end": 191,
+              "expanded_url": "https://x.com/jfa_samuraiblue/status/2015105079662256282/photo/1",
+              "media_key": "3_2015105050478366720",
+              "start": 168,
+              "url": "https://t.co/KDAiWD28OH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015105079662256282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 257,
+          "impression_count": 861212,
+          "like_count": 18283,
+          "quote_count": 579,
+          "reply_count": 456,
+          "retweet_count": 2941
+        },
+        "reply_settings": "everyone",
+        "text": "🔹試合終了🔹️\n\n🏆AFC U23アジアカップ サウジアラビア 2026\n⚔️決勝\n🇯🇵U-23日本代表 4-0 U-23中国代表🇨🇳\n\n⌚️0:00(🇯🇵)\n📱DAZNにて無料配信❗️\n🔗https://t.co/2nB4EHzBvf\n\n#AFCU23 @afcasiancup\n#夢への勇気を #U23日本代表\n#サッカー日本代表 https://t.co/KDAiWD28OH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2877,
+          "following_count": 1969,
+          "like_count": 37773,
+          "listed_count": 14,
+          "media_count": 1307,
+          "tweet_count": 18836
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-25T10:55:53.000Z",
+        "description": "サッカー日本代表 公式アカウント⚽ #jfa #daihyo #SAMURAIBLUE #サッカー日本代表 TikTokアカウント🎶 https://t.co/4TaNAOEdbl",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 18,
+                "tag": "jfa"
+              },
+              {
+                "end": 30,
+                "start": 23,
+                "tag": "daihyo"
+              },
+              {
+                "end": 43,
+                "start": 31,
+                "tag": "SAMURAIBLUE"
+              },
+              {
+                "end": 53,
+                "start": 44,
+                "tag": "サッカー日本代表"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vt.tiktok.com/ZSd24n45b/",
+                "end": 90,
+                "expanded_url": "http://vt.tiktok.com/ZSd24n45b/",
+                "start": 67,
+                "url": "https://t.co/4TaNAOEdbl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jfa.jp",
+                "end": 23,
+                "expanded_url": "https://www.jfa.jp/",
+                "start": 0,
+                "url": "https://t.co/l7dShEuLxA"
+              }
+            ]
+          }
+        },
+        "id": "108260481",
+        "location": "日本",
+        "name": "サッカー日本代表 🇯🇵",
+        "pinned_tweet_id": "1997019875718701086",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1608072498113032193/SMv7Kzq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1531463,
+          "following_count": 18438,
+          "like_count": 1106,
+          "listed_count": 9675,
+          "media_count": 47507,
+          "tweet_count": 66245
+        },
+        "url": "https://t.co/l7dShEuLxA",
+        "username": "jfa_samuraiblue",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Minnesota",
+          "id": "1004448843033763840",
+          "name": "Minnesota"
+        }
+      }
+    ],
+    "conversation_id": "2016511959655764065",
+    "created_at": "2026-01-28T14:01:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-28T15:01:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016511959655764065"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "Minnesota",
+          "probability": 0.963,
+          "start": 54,
+          "type": "Place"
+        },
+        {
+          "end": 137,
+          "normalized_text": "Minnesota House",
+          "probability": 0.8728,
+          "start": 123,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "14377605",
+          "start": 3,
+          "username": "TheDemocrats"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016511959655764065",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 99
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016506578480833017",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TheDemocrats: Last night, in the wake of tragedy, Minnesota voters came together to end the Republican majority in the Minnesota House,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "A picture of the Minnesota State Capitol with text that reads, \"Breaking: Democrats end Republican house majority in Minnesota state house.\"",
+        "height": 1350,
+        "media_key": "3_2016506557287006208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_wSB6pWgAAsfuo.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Minnesota",
+              "id": "1004448843033763840",
+              "name": "Minnesota"
+            }
+          }
+        ],
+        "conversation_id": "2016511959655764065",
+        "created_at": "2026-01-28T14:01:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T15:01:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016511959655764065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "Minnesota",
+              "probability": 0.963,
+              "start": 54,
+              "type": "Place"
+            },
+            {
+              "end": 137,
+              "normalized_text": "Minnesota House",
+              "probability": 0.8728,
+              "start": 123,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "14377605",
+              "start": 3,
+              "username": "TheDemocrats"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016511959655764065",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 99
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016506578480833017",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TheDemocrats: Last night, in the wake of tragedy, Minnesota voters came together to end the Republican majority in the Minnesota House,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016506557287006208"
+          ]
+        },
+        "author_id": "14377605",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Minnesota",
+              "id": "1004448843033763840",
+              "name": "Minnesota"
+            }
+          }
+        ],
+        "conversation_id": "2016506578480833017",
+        "created_at": "2026-01-28T13:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T14:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016506578480833017"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 44,
+              "normalized_text": "Minnesota",
+              "probability": 0.9629,
+              "start": 36,
+              "type": "Place"
+            },
+            {
+              "end": 119,
+              "normalized_text": "Minnesota House",
+              "probability": 0.8452,
+              "start": 105,
+              "type": "Place"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Shelley Buck",
+              "probability": 0.8714,
+              "start": 141,
+              "type": "Person"
+            },
+            {
+              "end": 190,
+              "normalized_text": "Meg Luger-Nikolai",
+              "probability": 0.6097,
+              "start": 174,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iLLP9hCvCH",
+              "end": 232,
+              "expanded_url": "https://x.com/TheDemocrats/status/2016506578480833017/photo/1",
+              "media_key": "3_2016506557287006208",
+              "start": 209,
+              "url": "https://t.co/iLLP9hCvCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016506578480833017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7831,
+          "like_count": 440,
+          "quote_count": 9,
+          "reply_count": 35,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "Last night, in the wake of tragedy, Minnesota voters came together to end the Republican majority in the Minnesota House, electing Democrats Shelley Buck in District 47A and Meg Luger-Nikolai in District 64A. https://t.co/iLLP9hCvCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2870,
+          "following_count": 1968,
+          "like_count": 37882,
+          "listed_count": 14,
+          "media_count": 1315,
+          "tweet_count": 18923
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-13T20:23:13.000Z",
+        "description": "We’re fighting for a better, fairer, and brighter future for every American.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "democrats.org",
+                "end": 23,
+                "expanded_url": "https://democrats.org",
+                "start": 0,
+                "url": "https://t.co/RyYXTX7sSl"
+              }
+            ]
+          }
+        },
+        "id": "14377605",
+        "location": "United States",
+        "name": "Democrats",
+        "pinned_tweet_id": "2015488605930602906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899853234631536640/5olRwkVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2406423,
+          "following_count": 88,
+          "like_count": 1319,
+          "listed_count": 13684,
+          "media_count": 15579,
+          "tweet_count": 51882
+        },
+        "url": "https://t.co/RyYXTX7sSl",
+        "username": "TheDemocrats",
+        "verified": true
+      }
+    ]
+  }
+}

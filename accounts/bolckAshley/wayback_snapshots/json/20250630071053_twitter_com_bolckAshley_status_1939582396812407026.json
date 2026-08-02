@@ -1,0 +1,726 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1939409061633568768"
+      ],
+      "media_source_tweet_id": [
+        "1939409311484014761"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "American lawyer and politician",
+          "id": "1070735214702288897",
+          "name": "Letitia James"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1572607742023303168",
+          "name": "Letitia James"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "American lawyer and politician",
+          "id": "1070735214702288897",
+          "name": "Letitia James"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1572607742023303168",
+          "name": "Letitia James"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "American lawyer and politician",
+          "id": "1070735214702288897",
+          "name": "Letitia James"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1518653065976369153",
+          "name": "United States political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1572607742023303168",
+          "name": "Letitia James"
+        }
+      }
+    ],
+    "conversation_id": "1939582396812407026",
+    "created_at": "2025-06-30T07:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-30T08:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939582396812407026"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 46,
+          "normalized_text": "NYC Pride",
+          "probability": 0.4159,
+          "start": 38,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "266980765",
+          "start": 3,
+          "username": "ZohranKMamdani"
+        },
+        {
+          "end": 82,
+          "id": "28502793",
+          "start": 72,
+          "username": "TishJames"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/66PbkGnTql",
+          "end": 111,
+          "expanded_url": "https://x.com/ZohranKMamdani/status/1939409311484014761/photo/1",
+          "media_key": "3_1939409061633568768",
+          "start": 88,
+          "url": "https://t.co/66PbkGnTql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939582396812407026",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4634
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939409311484014761",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZohranKMamdani: A joy to march in NYC Pride with the people's champ @TishJames 🏳️‍🌈 https://t.co/66PbkGnTql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_1939409061633568768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuoqRCDXsAARLGl.jpg",
+        "width": 765
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939409061633568768"
+          ],
+          "media_source_tweet_id": [
+            "1939409311484014761"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American lawyer and politician",
+              "id": "1070735214702288897",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1572607742023303168",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "American lawyer and politician",
+              "id": "1070735214702288897",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1572607742023303168",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American lawyer and politician",
+              "id": "1070735214702288897",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653065976369153",
+              "name": "United States political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1572607742023303168",
+              "name": "Letitia James"
+            }
+          }
+        ],
+        "conversation_id": "1939582396812407026",
+        "created_at": "2025-06-30T07:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-30T08:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939582396812407026"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 46,
+              "normalized_text": "NYC Pride",
+              "probability": 0.4159,
+              "start": 38,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "266980765",
+              "start": 3,
+              "username": "ZohranKMamdani"
+            },
+            {
+              "end": 82,
+              "id": "28502793",
+              "start": 72,
+              "username": "TishJames"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66PbkGnTql",
+              "end": 111,
+              "expanded_url": "https://x.com/ZohranKMamdani/status/1939409311484014761/photo/1",
+              "media_key": "3_1939409061633568768",
+              "start": 88,
+              "url": "https://t.co/66PbkGnTql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939582396812407026",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4634
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939409311484014761",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZohranKMamdani: A joy to march in NYC Pride with the people's champ @TishJames 🏳️‍🌈 https://t.co/66PbkGnTql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1939409061633568768"
+          ]
+        },
+        "author_id": "266980765",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "American lawyer and politician",
+              "id": "1070735214702288897",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1572607742023303168",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "American lawyer and politician",
+              "id": "1070735214702288897",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1572607742023303168",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "American lawyer and politician",
+              "id": "1070735214702288897",
+              "name": "Letitia James"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653065976369153",
+              "name": "United States political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1572607742023303168",
+              "name": "Letitia James"
+            }
+          }
+        ],
+        "conversation_id": "1939409311484014761",
+        "created_at": "2025-06-29T19:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-29T20:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939409311484014761"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "NYC Pride",
+              "probability": 0.3837,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 62,
+              "id": "28502793",
+              "start": 52,
+              "username": "TishJames"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/66PbkGnTql",
+              "end": 91,
+              "expanded_url": "https://x.com/ZohranKMamdani/status/1939409311484014761/photo/1",
+              "media_key": "3_1939409061633568768",
+              "start": 68,
+              "url": "https://t.co/66PbkGnTql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939409311484014761",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1380,
+          "impression_count": 3928858,
+          "like_count": 68567,
+          "quote_count": 851,
+          "reply_count": 3000,
+          "retweet_count": 4634
+        },
+        "reply_settings": "everyone",
+        "text": "A joy to march in NYC Pride with the people's champ @TishJames 🏳️‍🌈 https://t.co/66PbkGnTql"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1927649358625063127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 1848,
+          "like_count": 29244,
+          "listed_count": 10,
+          "media_count": 950,
+          "tweet_count": 14530
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-16T03:57:57.000Z",
+        "description": "NYS Assemblymember. Running for Mayor to freeze the rent, make buses fast + free, and deliver free universal childcare. Democratic Socialist.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ZohranKMamdani",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ZohranKMamdani",
+                "start": 0,
+                "url": "https://t.co/YFSiSG6SLB"
+              }
+            ]
+          }
+        },
+        "id": "266980765",
+        "location": "Astoria, Queens",
+        "name": "Zohran Kwame Mamdani",
+        "pinned_tweet_id": "1937728420156174626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938972577415733249/Oy7_tlj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460697,
+          "following_count": 974,
+          "like_count": 50640,
+          "listed_count": 1038,
+          "media_count": 2929,
+          "tweet_count": 16083
+        },
+        "url": "https://t.co/YFSiSG6SLB",
+        "username": "ZohranKMamdani",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-03T04:25:00.000Z",
+        "description": "Born & bred Brooklynite. New York Attorney General. Fighting for the change that New Yorkers deserve.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jamesforny.com",
+                "end": 23,
+                "expanded_url": "http://www.jamesforny.com",
+                "start": 0,
+                "url": "https://t.co/ES7fOA56fR"
+              }
+            ]
+          }
+        },
+        "id": "28502793",
+        "location": "New York",
+        "name": "Tish James",
+        "pinned_tweet_id": "1590180840566579201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/718092383230017536/lTVs6oar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167736,
+          "following_count": 1963,
+          "like_count": 1097,
+          "listed_count": 1477,
+          "media_count": 1993,
+          "tweet_count": 11826
+        },
+        "url": "https://t.co/ES7fOA56fR",
+        "username": "TishJames",
+        "verified": true
+      }
+    ]
+  }
+}

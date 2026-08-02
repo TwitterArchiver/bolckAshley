@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "1542074970544566273",
+          "name": "よふかしのうた"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Fuji Television (フジテレビ)",
+          "id": "1034889162371911680",
+          "name": "Fuji Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Fuji Television (フジテレビ)",
+          "id": "1034889162371911680",
+          "name": "Fuji Television"
+        }
+      }
+    ],
+    "conversation_id": "1927020819298869569",
+    "created_at": "2025-05-26T15:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-26T16:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1927020819298869569"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "秋山昭人",
+          "probability": 0.8066,
+          "start": 57,
+          "type": "Person"
+        },
+        {
+          "end": 127,
+          "normalized_text": "フジテレビ",
+          "probability": 0.6336,
+          "start": 123,
+          "type": "Organization"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 87,
+          "start": 79,
+          "tag": "よふかしのうた"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1453395613282811911",
+          "start": 3,
+          "username": "yofukashi_pr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1927020819298869569",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1927016880906391801",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yofukashi_pr: *‧˚₊*̥ 5/30(金)深夜再放送🌃*‧˚₊*̥\n第8夜放送に先駆けて\n秋山昭人🌙の設定画を公開！\n\nこのセリフは\n「#よふかしのうた Season1」の\nどのシーンでしょうか!?\n\n★━放送情報━★\nフジテレビ　25:45〜　(関東ロー…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1925110241785696257",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrddkLMaUAEDWpN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "1927020819298869569",
+        "created_at": "2025-05-26T15:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1927020819298869569"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "秋山昭人",
+              "probability": 0.8066,
+              "start": 57,
+              "type": "Person"
+            },
+            {
+              "end": 127,
+              "normalized_text": "フジテレビ",
+              "probability": 0.6336,
+              "start": 123,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 79,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1453395613282811911",
+              "start": 3,
+              "username": "yofukashi_pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927020819298869569",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1927016880906391801",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yofukashi_pr: *‧˚₊*̥ 5/30(金)深夜再放送🌃*‧˚₊*̥\n第8夜放送に先駆けて\n秋山昭人🌙の設定画を公開！\n\nこのセリフは\n「#よふかしのうた Season1」の\nどのシーンでしょうか!?\n\n★━放送情報━★\nフジテレビ　25:45〜　(関東ロー…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925110241785696257"
+          ]
+        },
+        "author_id": "1453395613282811911",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1542074970544566273",
+              "name": "よふかしのうた"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fuji Television (フジテレビ)",
+              "id": "1034889162371911680",
+              "name": "Fuji Television"
+            }
+          }
+        ],
+        "conversation_id": "1927016880906391801",
+        "created_at": "2025-05-26T15:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-26T16:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1927016880906391801"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "秋山昭人",
+              "probability": 0.812,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 109,
+              "normalized_text": "フジテレビ",
+              "probability": 0.5413,
+              "start": 105,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 61,
+              "tag": "よふかしのうた"
+            }
+          ],
+          "urls": [
+            {
+              "description": "「夜はまだ終わらない」TVアニメ『よふかしのうた Season2』 2025年7月より全国フジテレビ系 “ノイタミナ”にて毎週金曜23時30分から放送",
+              "display_url": "yofukashi-no-uta.com",
+              "end": 174,
+              "expanded_url": "https://yofukashi-no-uta.com/",
+              "start": 151,
+              "status": 200,
+              "title": "TVアニメ『よふかしのうた Season2』",
+              "unwound_url": "https://yofukashi-no-uta.com/",
+              "url": "https://t.co/ksAZD5oU7Z"
+            },
+            {
+              "display_url": "pic.x.com/pvnELOaAN9",
+              "end": 198,
+              "expanded_url": "https://x.com/yofukashi_pr/status/1927016880906391801/photo/1",
+              "media_key": "3_1925110241785696257",
+              "start": 175,
+              "url": "https://t.co/pvnELOaAN9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1927016880906391801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1102,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "*‧˚₊*̥ 5/30(金)深夜再放送🌃*‧˚₊*̥\n第8夜放送に先駆けて\n秋山昭人🌙の設定画を公開！\n\nこのセリフは\n「#よふかしのうた Season1」の\nどのシーンでしょうか!?\n\n★━放送情報━★\nフジテレビ　25:45〜　(関東ローカル)\n※その他、放送に関する情報は\nHPをご確認ください\nhttps://t.co/ksAZD5oU7Z https://t.co/pvnELOaAN9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian,Republic of China",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2456,
+          "following_count": 1828,
+          "like_count": 27816,
+          "listed_count": 10,
+          "media_count": 925,
+          "tweet_count": 14084
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-27T16:19:52.000Z",
+        "description": "TVアニメ『よふかしのうた Season2』2025年7月4日（金）より全国フジテレビ系“ノイタミナ”にて毎週金曜23時30分から放送\nTVアニメ『よふかしのうた Season1』各プラットフォームにて配信中 原作：コトヤマ（小学館「週刊少年サンデー」刊） 推奨ハッシュタグ： #よふかしのうた",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 147,
+                "start": 139,
+                "tag": "よふかしのうた"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yofukashi-no-uta.com",
+                "end": 23,
+                "expanded_url": "https://yofukashi-no-uta.com",
+                "start": 0,
+                "url": "https://t.co/oRunZLf8es"
+              }
+            ]
+          }
+        },
+        "id": "1453395613282811911",
+        "name": "『よふかしのうた』TVアニメ公式",
+        "pinned_tweet_id": "1900200180387111383",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900199784843005952/Ln9iS_Cn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155387,
+          "following_count": 23,
+          "like_count": 15,
+          "listed_count": 671,
+          "media_count": 509,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/oRunZLf8es",
+        "username": "yofukashi_pr",
+        "verified": false
+      }
+    ]
+  }
+}

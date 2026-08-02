@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2076532112208101674",
+    "created_at": "2026-07-14T04:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T05:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076880414267130242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "Lyrica_1005"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076880414267130242",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076532112208101674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyrica_1005 孔乙己脫不下長衫罷了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076532112208101674].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076532112208101674",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076532112208101674"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2076532112208101674",
+        "created_at": "2026-07-14T04:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T05:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076880414267130242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "Lyrica_1005"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076880414267130242",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076532112208101674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyrica_1005 孔乙己脫不下長衫罷了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  ❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 98,
+                "username": "Usam8964"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073876157041442816/ogHrp4Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4125,
+          "following_count": 2258,
+          "like_count": 42910,
+          "listed_count": 29,
+          "media_count": 1840,
+          "tweet_count": 23452
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "墨迹的勿扰懂的来💕@citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "citric_baizhou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lyrica_1005",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lyrica_1005",
+                "start": 0,
+                "url": "https://t.co/4s7hRbdDpb"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "ﾘﾘｶ.",
+        "pinned_tweet_id": "2071532645037793349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063921008134983680/E0-g7aPB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 489,
+          "like_count": 50810,
+          "listed_count": 2,
+          "media_count": 1408,
+          "tweet_count": 13302
+        },
+        "url": "https://t.co/4s7hRbdDpb",
+        "username": "Lyrica_1005",
+        "verified": false
+      }
+    ]
+  }
+}

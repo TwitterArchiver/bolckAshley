@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "British politician and lawyer",
+          "id": "1070735166069334017",
+          "name": "Keir Starmer"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1972900145303032206",
+    "created_at": "2025-09-30T05:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T06:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972900145303032206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LeftieStats/st…",
+          "end": 120,
+          "expanded_url": "https://twitter.com/LeftieStats/status/1972681116839534764",
+          "start": 97,
+          "url": "https://t.co/ydmjbEbZgg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972900145303032206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972681116839534764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "說實在的，假設安迪•伯納姆能成為工黨黨魁，我覺得可以考慮支持，畢竟在各項議題上他比起史塔默正常多了\n至於柯賓——我只能說見仁見智，他的能力太糟糕了，YRP到現在都是亂糟糟的，連正式名稱都沒有💧 https://t.co/ydmjbEbZgg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2913,
+        "media_key": "3_1972681101685764096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2BfAqEbMAAQJqq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1972900145303032206",
+        "created_at": "2025-09-30T05:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T06:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972900145303032206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LeftieStats/st…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/LeftieStats/status/1972681116839534764",
+              "start": 97,
+              "url": "https://t.co/ydmjbEbZgg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972900145303032206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972681116839534764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "說實在的，假設安迪•伯納姆能成為工黨黨魁，我覺得可以考慮支持，畢竟在各項議題上他比起史塔默正常多了\n至於柯賓——我只能說見仁見智，他的能力太糟糕了，YRP到現在都是亂糟糟的，連正式名稱都沒有💧 https://t.co/ydmjbEbZgg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972681101685764096"
+          ]
+        },
+        "author_id": "1044647459581038594",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician and lawyer",
+              "id": "1070735166069334017",
+              "name": "Keir Starmer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1972681116839534764",
+        "created_at": "2025-09-29T15:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972681116839534764"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Starmer",
+              "probability": 0.894,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Andy Burnham",
+              "probability": 0.9707,
+              "start": 55,
+              "type": "Person"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Andy Burnham",
+              "probability": 0.9753,
+              "start": 106,
+              "type": "Person"
+            },
+            {
+              "end": 138,
+              "normalized_text": "Keir Starmer",
+              "probability": 0.9701,
+              "start": 127,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 163,
+              "id": "14810076",
+              "start": 156,
+              "username": "YouGov"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZiFSJnDU5g",
+              "end": 188,
+              "expanded_url": "https://x.com/LeftieStats/status/1972681116839534764/photo/1",
+              "media_key": "3_1972681101685764096",
+              "start": 165,
+              "url": "https://t.co/ZiFSJnDU5g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972681116839534764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 73848,
+          "like_count": 1766,
+          "quote_count": 58,
+          "reply_count": 72,
+          "retweet_count": 260
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 BREAKING | Starmer would LOSE leadership election if Andy Burnham challenged him for the leadership.\n\n🔴 Andy Burnham – 68%\n🔴 Keir Starmer – 32%\n\n(Source: @YouGov) https://t.co/ZiFSJnDU5g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 1965,
+          "like_count": 33453,
+          "listed_count": 12,
+          "media_count": 1098,
+          "tweet_count": 16646
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-25T17:58:57.000Z",
+        "description": "Stats and election analysis from a progressive, Marxist perspective. Run by @EleanoraStats. All opinions my own. She/her pronouns",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 76,
+                "username": "EleanoraStats"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "statsforlefties.com",
+                "end": 23,
+                "expanded_url": "http://statsforlefties.com",
+                "start": 0,
+                "url": "https://t.co/FjZSj2CQU4"
+              }
+            ]
+          }
+        },
+        "id": "1044647459581038594",
+        "location": "She/her",
+        "name": "Stats for Lefties 🍉🏳️‍⚧️",
+        "pinned_tweet_id": "1964090947144241296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678427046576357377/MtoK8exE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96407,
+          "following_count": 933,
+          "like_count": 610,
+          "listed_count": 0,
+          "media_count": 9438,
+          "tweet_count": 52154
+        },
+        "url": "https://t.co/FjZSj2CQU4",
+        "username": "LeftieStats",
+        "verified": true
+      }
+    ]
+  }
+}

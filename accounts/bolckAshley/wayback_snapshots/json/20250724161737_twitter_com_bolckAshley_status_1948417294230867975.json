@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Conversation about the Japanese Cabinet",
+          "id": "858945566687993856",
+          "name": "Cabinet of Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about the Japanese Cabinet",
+          "id": "858945566687993856",
+          "name": "Cabinet of Japan"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "1948417294230867975",
+    "created_at": "2025-07-24T16:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-24T17:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1948417294230867975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 28,
+          "id": "1720665183188922368",
+          "start": 23,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/KagurazakaAzur…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/KagurazakaAzure/status/1948367187653361913",
+          "start": 94,
+          "url": "https://t.co/PULwNIZHLG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1948417294230867975",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948367187653361913",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "私のフォロワーさんで内閣を作って、フルネームで@grok \n総理:\n官房:\n財務:\n総務:\n外務:\n防衛:\n文科:\n法務:\n経産:\n国交:\n厚労:\n環境:\n農水:\n国家公安:\nデジタル: https://t.co/PULwNIZHLG"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1948417294230867975",
+        "created_at": "2025-07-24T16:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T17:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948417294230867975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1720665183188922368",
+              "start": 23,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/KagurazakaAzur…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/KagurazakaAzure/status/1948367187653361913",
+              "start": 94,
+              "url": "https://t.co/PULwNIZHLG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948417294230867975",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948367187653361913",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私のフォロワーさんで内閣を作って、フルネームで@grok \n総理:\n官房:\n財務:\n総務:\n外務:\n防衛:\n文科:\n法務:\n経産:\n国交:\n厚労:\n環境:\n農水:\n国家公安:\nデジタル: https://t.co/PULwNIZHLG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807107145756008448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "1948367187653361913",
+        "created_at": "2025-07-24T12:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-24T13:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1948367187653361913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1720665183188922368",
+              "start": 23,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/kazumasski/sta…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/kazumasski/status/1948319169105269197",
+              "start": 94,
+              "url": "https://t.co/acipBO9ybX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1948367187653361913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 488,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948319169105269197",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私のフォロワーさんで内閣を作って、フルネームで@grok \n総理:\n官房:\n財務:\n総務:\n外務:\n防衛:\n文科:\n法務:\n経産:\n国交:\n厚労:\n環境:\n農水:\n国家公安:\nデジタル: https://t.co/acipBO9ybX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937720579400081408/Iy-TEYSq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2501,
+          "following_count": 1864,
+          "like_count": 30705,
+          "listed_count": 10,
+          "media_count": 983,
+          "tweet_count": 15096
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5437562,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4442,
+          "media_count": 2396509,
+          "tweet_count": 24390860
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T17:41:40.000Z",
+        "description": "⛩️🌊🪼“洞烛の摩耶” | 是薛定谔态的男娘｜避雷概率掉落R18🔞｜墙外弱智吧管理&梗图bot｜líng ｜MtX｜🍥hrt24.4.20｜持证ADHD&ASD｜179cm55kg｜08｜川渝｜Arcaea&maimaiでらっくす&Phigros｜推荐雌二醇药商@minokakay｜对象@juhao0721❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "minokakay"
+              },
+              {
+                "end": 154,
+                "start": 144,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Allenium114",
+                "end": 23,
+                "expanded_url": "http://t.me/Allenium114",
+                "start": 0,
+                "url": "https://t.co/zULBkaIhWS"
+              }
+            ]
+          }
+        },
+        "id": "1807107145756008448",
+        "location": "🏳️‍🌈🏳️‍⚧️",
+        "name": "。InSightの🪼まや_翎",
+        "pinned_tweet_id": "1900823119130227094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941707843977261056/0OzLQ_0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7932,
+          "following_count": 1194,
+          "like_count": 38985,
+          "listed_count": 10,
+          "media_count": 2755,
+          "tweet_count": 22390
+        },
+        "url": "https://t.co/zULBkaIhWS",
+        "username": "KagurazakaAzure",
+        "verified": true
+      }
+    ]
+  }
+}

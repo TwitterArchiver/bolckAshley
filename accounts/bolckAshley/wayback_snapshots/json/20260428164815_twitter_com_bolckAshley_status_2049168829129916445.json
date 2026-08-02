@@ -1,0 +1,548 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2049162047561101525",
+    "created_at": "2026-04-28T16:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049168829129916445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "845846298804727808",
+          "start": 0,
+          "username": "leftwingpeony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20416…",
+          "end": 48,
+          "expanded_url": "https://x.com/i/status/2041680624554274908",
+          "start": 25,
+          "url": "https://t.co/0B1mdyjpZO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049168829129916445",
+    "in_reply_to_user_id": "845846298804727808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041680624554274908",
+        "type": "quoted"
+      },
+      {
+        "id": "2049162047561101525",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leftwingpeony 我們的立場很相近呢\nhttps://t.co/0B1mdyjpZO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1784,
+        "media_key": "3_2041680611803590659",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFWBsvta8AMcU6n.jpg",
+        "width": 2150
+      },
+      {
+        "height": 996,
+        "media_key": "3_2049162025587122176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAWAV5XIAAxD2g.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2049162047561101525",
+        "created_at": "2026-04-28T16:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049168829129916445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "845846298804727808",
+              "start": 0,
+              "username": "leftwingpeony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20416…",
+              "end": 48,
+              "expanded_url": "https://x.com/i/status/2041680624554274908",
+              "start": 25,
+              "url": "https://t.co/0B1mdyjpZO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049168829129916445",
+        "in_reply_to_user_id": "845846298804727808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041680624554274908",
+            "type": "quoted"
+          },
+          {
+            "id": "2049162047561101525",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leftwingpeony 我們的立場很相近呢\nhttps://t.co/0B1mdyjpZO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041680611803590659"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2041680624554274908",
+        "created_at": "2026-04-08T00:52:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T01:52:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041680624554274908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8QliZvqYk",
+              "end": 81,
+              "expanded_url": "https://x.com/bolckAshley/status/2041680624554274908/photo/1",
+              "media_key": "3_2041680611803590659",
+              "start": 58,
+              "url": "https://t.co/C8QliZvqYk"
+            },
+            {
+              "display_url": "x.com/KenjiHun/statu…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/KenjiHun/status/2041610035487285417",
+              "start": 82,
+              "url": "https://t.co/qnNpF0Mcr3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041680624554274908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 54691,
+          "like_count": 123,
+          "quote_count": 23,
+          "reply_count": 46,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041610035487285417",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Who I'd vote for in every European country\n我在每個歐洲國家會投票的政黨 https://t.co/C8QliZvqYk https://t.co/qnNpF0Mcr3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049162025587122176"
+          ]
+        },
+        "author_id": "845846298804727808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2049162047561101525",
+        "created_at": "2026-04-28T16:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049162047561101525"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oi2q5jMbly",
+              "end": 31,
+              "expanded_url": "https://x.com/leftwingpeony/status/2049162047561101525/photo/1",
+              "media_key": "3_2049162025587122176",
+              "start": 8,
+              "url": "https://t.co/oi2q5jMbly"
+            },
+            {
+              "display_url": "x.com/DJBranham/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/DJBranham/status/2047410627879075998",
+              "start": 32,
+              "url": "https://t.co/YFFuBvJSCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049162047561101525",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047410627879075998",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My vote https://t.co/oi2q5jMbly https://t.co/YFFuBvJSCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045721744514883584/dSGhwjjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3222,
+          "following_count": 1978,
+          "like_count": 40982,
+          "listed_count": 19,
+          "media_count": 1498,
+          "tweet_count": 21532
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-26T03:54:07.000Z",
+        "description": "Progressive | Democratic Socialist | she/her | 22 | 🇺🇦🇵🇸🇹🇼🇦🇲🇨🇩🇸🇩🇮🇷",
+        "id": "845846298804727808",
+        "location": "Austin, TX",
+        "name": "lucy 🚩🇺🇦🇵🇸",
+        "pinned_tweet_id": "2046237275286073794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043508818223439873/SvsujcUU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 1158,
+          "like_count": 83280,
+          "listed_count": 9,
+          "media_count": 243,
+          "tweet_count": 24377
+        },
+        "username": "leftwingpeony",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_1971057978326515716"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1971057988258689208",
+    "created_at": "2025-09-25T03:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T04:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1971057988258689208"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3mJkuro3Ha",
+          "end": 34,
+          "expanded_url": "https://x.com/bolckAshley/status/1971057988258689208/photo/1",
+          "media_key": "16_1971057978326515716",
+          "start": 11,
+          "url": "https://t.co/3mJkuro3Ha"
+        },
+        {
+          "display_url": "x.com/rkmtimes/statu…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/rkmtimes/status/1970747967570354664",
+          "start": 35,
+          "url": "https://t.co/Uwpwc4rlok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971057988258689208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970747967570354664",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "烈焰升騰...🔥🔥🔥 https://t.co/3mJkuro3Ha https://t.co/Uwpwc4rlok"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 268,
+        "media_key": "16_1971057978326515716",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/G1qaycXaAAQ5jmd.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/G1qaycXaAAQ5jmd.mp4"
+          }
+        ],
+        "width": 268
+      },
+      {
+        "height": 566,
+        "media_key": "3_1970747959500226560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mA0-PWQAAyze-.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1971057978326515716"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1971057988258689208",
+        "created_at": "2025-09-25T03:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T04:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971057988258689208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3mJkuro3Ha",
+              "end": 34,
+              "expanded_url": "https://x.com/bolckAshley/status/1971057988258689208/photo/1",
+              "media_key": "16_1971057978326515716",
+              "start": 11,
+              "url": "https://t.co/3mJkuro3Ha"
+            },
+            {
+              "display_url": "x.com/rkmtimes/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/rkmtimes/status/1970747967570354664",
+              "start": 35,
+              "url": "https://t.co/Uwpwc4rlok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971057988258689208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970747967570354664",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "烈焰升騰...🔥🔥🔥 https://t.co/3mJkuro3Ha https://t.co/Uwpwc4rlok"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970747959500226560"
+          ]
+        },
+        "author_id": "1023079270422171650",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1970747967570354664",
+        "created_at": "2025-09-24T07:11:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:11:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970747967570354664"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Saudi Arabia",
+              "probability": 0.9703,
+              "start": 15,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Turkey",
+              "probability": 0.9701,
+              "start": 29,
+              "type": "Place"
+            },
+            {
+              "end": 43,
+              "normalized_text": "Iran",
+              "probability": 0.9648,
+              "start": 40,
+              "type": "Place"
+            },
+            {
+              "end": 68,
+              "normalized_text": "Netanyahu",
+              "probability": 0.7298,
+              "start": 60,
+              "type": "Place"
+            },
+            {
+              "end": 96,
+              "normalized_text": "West Bank",
+              "probability": 0.5418,
+              "start": 88,
+              "type": "Place"
+            },
+            {
+              "end": 109,
+              "normalized_text": "Arab League",
+              "probability": 0.6637,
+              "start": 99,
+              "type": "Organization"
+            },
+            {
+              "end": 150,
+              "normalized_text": "Israel",
+              "probability": 0.9398,
+              "start": 145,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 59,
+              "tag": "Netanyahu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iIbNw06hx4",
+              "end": 176,
+              "expanded_url": "https://x.com/rkmtimes/status/1970747967570354664/photo/1",
+              "media_key": "3_1970747959500226560",
+              "start": 153,
+              "url": "https://t.co/iIbNw06hx4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970747967570354664",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 59,
+                "tag": "Netanyahu"
+              }
+            ]
+          },
+          "text": "JUST IN🇸🇦🇵🇸🇮🇱🔥 Saudi Arabia, Turkey and Iran warns that if #Netanyahu move to Annex the West Bank, Arab League will take historic action against Israel."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 450,
+          "impression_count": 261942,
+          "like_count": 16400,
+          "quote_count": 183,
+          "reply_count": 678,
+          "retweet_count": 2944
+        },
+        "reply_settings": "everyone",
+        "text": "JUST IN🇸🇦🇵🇸🇮🇱🔥 Saudi Arabia, Turkey and Iran warns that if #Netanyahu move to Annex the West Bank, Arab League will take historic action against Israel. https://t.co/iIbNw06hx4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 1962,
+          "like_count": 33244,
+          "listed_count": 12,
+          "media_count": 1094,
+          "tweet_count": 16552
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-28T05:34:40.000Z",
+        "description": "Daily Breaking News, Stock Market, GeoPolitics, #Crypto, technology, Investing, and Startup on @taporyclub & https://t.co/ywNFz0FNeb.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "Crypto"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 106,
+                "start": 95,
+                "username": "taporyclub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "rkmtimes.com",
+                "end": 132,
+                "expanded_url": "https://rkmtimes.com",
+                "start": 109,
+                "url": "https://t.co/ywNFz0FNeb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rkmtimes.com",
+                "end": 23,
+                "expanded_url": "http://rkmtimes.com",
+                "start": 0,
+                "url": "https://t.co/G0rn6K7xAa"
+              }
+            ]
+          }
+        },
+        "id": "1023079270422171650",
+        "location": "New York",
+        "name": "RKM",
+        "pinned_tweet_id": "1970723201350021423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1519256326064381952/BQlKq51o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44001,
+          "following_count": 2697,
+          "like_count": 122414,
+          "listed_count": 187,
+          "media_count": 13204,
+          "tweet_count": 31511
+        },
+        "url": "https://t.co/G0rn6K7xAa",
+        "username": "rkmtimes",
+        "verified": true
+      }
+    ]
+  }
+}

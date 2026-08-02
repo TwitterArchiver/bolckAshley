@@ -1,0 +1,664 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "id": "1276154743941816320",
+          "name": "Eiffel Tower"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041367948",
+          "name": "Xiaomi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1194365176272699392",
+          "name": "Europe travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197988083204968448",
+          "name": "France travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276154743941816320",
+          "name": "Eiffel Tower"
+        }
+      },
+      {
+        "domain": {
+          "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+          "id": "158",
+          "name": "Points of Interest"
+        },
+        "entity": {
+          "id": "1276154743941816320",
+          "name": "Eiffel Tower"
+        }
+      }
+    ],
+    "conversation_id": "1907810988663156789",
+    "created_at": "2025-04-03T15:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-03T16:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1907810988663156789"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 94,
+          "normalized_text": "Eiffel Tower",
+          "probability": 0.5216,
+          "start": 83,
+          "type": "Place"
+        },
+        {
+          "end": 110,
+          "normalized_text": "Xiaomi15Ultra",
+          "probability": 0.4412,
+          "start": 98,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 111,
+          "start": 97,
+          "tag": "Xiaomi15Ultra"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "377228272",
+          "start": 3,
+          "username": "Xiaomi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1907810988663156789",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906365481168023755",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaomi: Watch it transform. One touch, and it all comes together. 🚀\n\nUnder the Eiffel Tower, #Xiaomi15Ultra Photography Kit Legend Edit…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16577,
+        "height": 1920,
+        "media_key": "13_1906365425593589760",
+        "preview_image_url": "https://pbs.twimg.com/media/GnTFS-gWMAADTmU.jpg",
+        "public_metrics": {
+          "view_count": 11208
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906365425593589760/vid/avc1/1080x1920/kpwJzFJJo5xF_cqr.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906365425593589760/vid/avc1/720x1280/rPNMR1uoDd2PFJHW.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1906365425593589760/pl/n1obh2rryCujUaXR.m3u8?tag=16&v=cfc"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906365425593589760/vid/avc1/480x852/KJgR9LDxWEox7ISA.mp4?tag=16"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1906365425593589760/vid/avc1/320x568/sGnUdctsb97ajhMA.mp4?tag=16"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1276154743941816320",
+              "name": "Eiffel Tower"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194365176272699392",
+              "name": "Europe travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197988083204968448",
+              "name": "France travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276154743941816320",
+              "name": "Eiffel Tower"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1276154743941816320",
+              "name": "Eiffel Tower"
+            }
+          }
+        ],
+        "conversation_id": "1907810988663156789",
+        "created_at": "2025-04-03T15:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T16:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1907810988663156789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 94,
+              "normalized_text": "Eiffel Tower",
+              "probability": 0.5216,
+              "start": 83,
+              "type": "Place"
+            },
+            {
+              "end": 110,
+              "normalized_text": "Xiaomi15Ultra",
+              "probability": 0.4412,
+              "start": 98,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 111,
+              "start": 97,
+              "tag": "Xiaomi15Ultra"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "377228272",
+              "start": 3,
+              "username": "Xiaomi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907810988663156789",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906365481168023755",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaomi: Watch it transform. One touch, and it all comes together. 🚀\n\nUnder the Eiffel Tower, #Xiaomi15Ultra Photography Kit Legend Edit…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1906365425593589760"
+          ]
+        },
+        "author_id": "377228272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "id": "1276154743941816320",
+              "name": "Eiffel Tower"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041367948",
+              "name": "Xiaomi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1194365176272699392",
+              "name": "Europe travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197988083204968448",
+              "name": "France travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276154743941816320",
+              "name": "Eiffel Tower"
+            }
+          },
+          {
+            "domain": {
+              "description": "Places of interest, like the Eiffel Tower or a coffee shop",
+              "id": "158",
+              "name": "Points of Interest"
+            },
+            "entity": {
+              "id": "1276154743941816320",
+              "name": "Eiffel Tower"
+            }
+          }
+        ],
+        "conversation_id": "1906365481168023755",
+        "created_at": "2025-03-30T15:18:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T16:18:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1906365481168023755"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "Eiffel Tower",
+              "probability": 0.5149,
+              "start": 71,
+              "type": "Place"
+            },
+            {
+              "end": 98,
+              "normalized_text": "Xiaomi15Ultra",
+              "probability": 0.4523,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 183,
+              "normalized_text": "PinnaclePhotography",
+              "probability": 0.5302,
+              "start": 165,
+              "type": "Other"
+            },
+            {
+              "end": 196,
+              "normalized_text": "IG",
+              "probability": 0.6765,
+              "start": 195,
+              "type": "Other"
+            },
+            {
+              "end": 207,
+              "normalized_text": "nathanfbr",
+              "probability": 0.6003,
+              "start": 199,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 99,
+              "start": 85,
+              "tag": "Xiaomi15Ultra"
+            },
+            {
+              "end": 184,
+              "start": 164,
+              "tag": "PinnaclePhotography"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LGdvf3XmNW",
+              "end": 233,
+              "expanded_url": "https://x.com/Xiaomi/status/1906365481168023755/video/1",
+              "media_key": "13_1906365425593589760",
+              "start": 210,
+              "url": "https://t.co/LGdvf3XmNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906365481168023755",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 57932,
+          "like_count": 260,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "Watch it transform. One touch, and it all comes together. 🚀\n\nUnder the Eiffel Tower, #Xiaomi15Ultra Photography Kit Legend Edition unfolds. Ready to make it yours? #PinnaclePhotography\n\n🎥Nathan (IG: nathanfbr) https://t.co/LGdvf3XmNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🏳️‍⚧️🇹🇼❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906044496116375552/ir55Ez15_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 1704,
+          "like_count": 24957,
+          "listed_count": 10,
+          "media_count": 836,
+          "tweet_count": 13121
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2011-09-21T07:09:28.000Z",
+        "description": "Meet the #Xiaomi15Series. Pinnacle photography right at your fingertips. 🟠📷🔴\n\nFor support, please contact @XiaomiSupport",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 9,
+                "tag": "Xiaomi15Series"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "XiaomiSupport"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "s.mi.com/_jidM8Z0",
+                "end": 23,
+                "expanded_url": "http://s.mi.com/_jidM8Z0",
+                "start": 0,
+                "url": "https://t.co/U0ZmlXboGc"
+              }
+            ]
+          }
+        },
+        "id": "377228272",
+        "name": "Xiaomi",
+        "pinned_tweet_id": "1907765200045875602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1384363472259928071/zXb55Bwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4399230,
+          "following_count": 358,
+          "like_count": 9953,
+          "listed_count": 3741,
+          "media_count": 9188,
+          "tweet_count": 13918
+        },
+        "url": "https://t.co/U0ZmlXboGc",
+        "username": "Xiaomi",
+        "verified": true
+      }
+    ]
+  }
+}

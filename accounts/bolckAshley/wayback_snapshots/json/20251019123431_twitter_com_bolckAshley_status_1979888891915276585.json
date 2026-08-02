@@ -1,0 +1,430 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1498702169922420739",
+          "name": "Volodymyr Zelensky"
+        }
+      }
+    ],
+    "conversation_id": "1979888891915276585",
+    "created_at": "2025-10-19T12:34:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-19T13:34:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979888891915276585"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Zelensky",
+          "probability": 0.9469,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 56,
+          "normalized_text": "Russia",
+          "probability": 0.96,
+          "start": 51,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1498973278744031232",
+          "start": 3,
+          "username": "WarMonitor3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979888891915276585",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979883600624648548",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WarMonitor3: Zelensky-“We will give nothing to Russia.”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "1979888891915276585",
+        "created_at": "2025-10-19T12:34:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:34:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979888891915276585"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Zelensky",
+              "probability": 0.9469,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 56,
+              "normalized_text": "Russia",
+              "probability": 0.96,
+              "start": 51,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1498973278744031232",
+              "start": 3,
+              "username": "WarMonitor3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979888891915276585",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979883600624648548",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WarMonitor3: Zelensky-“We will give nothing to Russia.”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1498973278744031232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "1979883600624648548",
+        "created_at": "2025-10-19T12:13:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T13:13:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979883600624648548"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Zelensky",
+              "probability": 0.9275,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 39,
+              "normalized_text": "Russia",
+              "probability": 0.9604,
+              "start": 34,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979883600624648548",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 10851,
+          "like_count": 502,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "Zelensky-“We will give nothing to Russia.”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2668,
+          "following_count": 1987,
+          "like_count": 34194,
+          "listed_count": 12,
+          "media_count": 1148,
+          "tweet_count": 17016
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-02T10:47:40.000Z",
+        "description": "Reporting On Wars",
+        "id": "1498973278744031232",
+        "name": "WarMonitor🇺🇦🇬🇧",
+        "pinned_tweet_id": "1978879672008999040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523747009609572352/n4FiuzR7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733341,
+          "following_count": 278,
+          "like_count": 1044,
+          "listed_count": 8116,
+          "media_count": 5312,
+          "tweet_count": 24473
+        },
+        "username": "WarMonitor3",
+        "verified": true
+      }
+    ]
+  }
+}

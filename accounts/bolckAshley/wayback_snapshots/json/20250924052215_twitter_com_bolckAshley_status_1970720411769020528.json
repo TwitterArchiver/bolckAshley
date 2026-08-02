@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "1970720411769020528",
+    "created_at": "2025-09-24T05:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T06:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970720411769020528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2689170356",
+          "start": 3,
+          "username": "Hoshikawa_ran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970720411769020528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970713111939424483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Hoshikawa_ran: 讲个笑话：齐泽克说欧美是“封建资本主义”，中国是对抗“封建资本主义”的最后堡垒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1970720411769020528",
+        "created_at": "2025-09-24T05:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970720411769020528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2689170356",
+              "start": 3,
+              "username": "Hoshikawa_ran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970720411769020528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970713111939424483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Hoshikawa_ran: 讲个笑话：齐泽克说欧美是“封建资本主义”，中国是对抗“封建资本主义”的最后堡垒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2689170356",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "1970713111939424483",
+        "created_at": "2025-09-24T04:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T05:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970713111939424483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1970472035622010999",
+              "start": 40,
+              "url": "https://t.co/l7mEdGM5n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970713111939424483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 217,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970472035622010999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲个笑话：齐泽克说欧美是“封建资本主义”，中国是对抗“封建资本主义”的最后堡垒 https://t.co/l7mEdGM5n3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐀 𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹 𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1946818545335386411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964851699849506816/I26c1oHD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 1960,
+          "like_count": 33217,
+          "listed_count": 12,
+          "media_count": 1091,
+          "tweet_count": 16544
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2014-07-29T04:45:18.000Z",
+        "description": "被困在男性身体里的灵体生物 | 经济学&历史学背景 | 社自🗽为体，社民🌹为用 | 减速主义 | 混乱善良 | 反法西斯反威权，声援各国进步和民主运动 | 自然神论 | “庸俗的资产阶级人道主义者” | “恶贯满盈的中道壬” | 浮生辗转承一诺，不容青史尽成灰 | 美国不是我爹，是你以及一切混蛋的爹",
+        "id": "2689170356",
+        "location": "自由人联合体",
+        "name": "星川 蘭🇺🇦🇪🇺🇨🇦🇬🇱爱美TV义务宣传员 ver.🌻📄",
+        "pinned_tweet_id": "1892408950336663584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1503035329233580034/bXYTE57g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14952,
+          "following_count": 395,
+          "like_count": 150360,
+          "listed_count": 68,
+          "media_count": 2551,
+          "tweet_count": 25583
+        },
+        "username": "Hoshikawa_ran",
+        "verified": false
+      }
+    ]
+  }
+}

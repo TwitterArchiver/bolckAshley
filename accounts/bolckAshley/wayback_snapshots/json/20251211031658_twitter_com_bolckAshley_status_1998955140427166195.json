@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998749611352006656"
+      ],
+      "media_source_tweet_id": [
+        "1998749616523604340"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "News from Bloomberg LP (not Mike Bloomberg)",
+          "id": "10044802072",
+          "name": "Bloomberg"
+        }
+      }
+    ],
+    "conversation_id": "1998955140427166195",
+    "created_at": "2025-12-11T03:16:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T04:16:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998955140427166195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1384174570358198274",
+          "start": 3,
+          "username": "NapoleonBonabot"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QeGMrAJdml",
+          "end": 44,
+          "expanded_url": "https://x.com/NapoleonBonabot/status/1998749616523604340/photo/1",
+          "media_key": "3_1998749611352006656",
+          "start": 21,
+          "url": "https://t.co/QeGMrAJdml"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998955140427166195",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1554
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998749616523604340",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NapoleonBonabot: https://t.co/QeGMrAJdml"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 698,
+        "media_key": "3_1998749611352006656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7z8LoOWIAA20BX.jpg",
+        "width": 959
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998749611352006656"
+          ],
+          "media_source_tweet_id": [
+            "1998749616523604340"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "News from Bloomberg LP (not Mike Bloomberg)",
+              "id": "10044802072",
+              "name": "Bloomberg"
+            }
+          }
+        ],
+        "conversation_id": "1998955140427166195",
+        "created_at": "2025-12-11T03:16:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T04:16:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998955140427166195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1384174570358198274",
+              "start": 3,
+              "username": "NapoleonBonabot"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeGMrAJdml",
+              "end": 44,
+              "expanded_url": "https://x.com/NapoleonBonabot/status/1998749616523604340/photo/1",
+              "media_key": "3_1998749611352006656",
+              "start": 21,
+              "url": "https://t.co/QeGMrAJdml"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998955140427166195",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1554
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998749616523604340",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NapoleonBonabot: https://t.co/QeGMrAJdml"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998749611352006656"
+          ]
+        },
+        "author_id": "1384174570358198274",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "News from Bloomberg LP (not Mike Bloomberg)",
+              "id": "10044802072",
+              "name": "Bloomberg"
+            }
+          }
+        ],
+        "conversation_id": "1998749616523604340",
+        "created_at": "2025-12-10T13:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T14:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998749616523604340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QeGMrAJdml",
+              "end": 23,
+              "expanded_url": "https://x.com/NapoleonBonabot/status/1998749616523604340/photo/1",
+              "media_key": "3_1998749611352006656",
+              "start": 0,
+              "url": "https://t.co/QeGMrAJdml"
+            },
+            {
+              "display_url": "x.com/nexta_tv/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/nexta_tv/status/1998369540246327689",
+              "start": 24,
+              "url": "https://t.co/AwoKLqCEto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998749616523604340",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 948,
+          "impression_count": 874846,
+          "like_count": 30165,
+          "quote_count": 37,
+          "reply_count": 64,
+          "retweet_count": 1554
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998369540246327689",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/QeGMrAJdml https://t.co/AwoKLqCEto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998201005243346944/ggX2eX2M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2780,
+          "following_count": 2039,
+          "like_count": 35956,
+          "listed_count": 12,
+          "media_count": 1226,
+          "tweet_count": 17835
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-19T15:58:40.000Z",
+        "description": "Vive la France Bonapartist Civilizationist “We are a creation of beauty and the Beauty of Creation” ✝️ 🇻🇦",
+        "id": "1384174570358198274",
+        "location": "In Exile",
+        "name": "Napoleon Bonaparte Appreciator",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953651616860524544/btc_lEVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59942,
+          "following_count": 3596,
+          "like_count": 53059,
+          "listed_count": 244,
+          "media_count": 13602,
+          "tweet_count": 77226
+        },
+        "username": "NapoleonBonabot",
+        "verified": true
+      }
+    ]
+  }
+}

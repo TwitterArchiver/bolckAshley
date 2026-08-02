@@ -1,0 +1,459 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1874947149454053376",
+        "3_1874947149458239488"
+      ],
+      "media_source_tweet_id": [
+        "1874947151899644122",
+        "1874947151899644122"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1875035223349670053",
+    "created_at": "2025-01-03T04:23:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-03T05:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1875035223349670053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1728357835669426176",
+          "start": 3,
+          "username": "socdemAdam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Z8wldasTw",
+          "end": 55,
+          "expanded_url": "https://x.com/socdemAdam/status/1874947151899644122/photo/1",
+          "media_key": "3_1874947149454053376",
+          "start": 32,
+          "url": "https://t.co/0Z8wldasTw"
+        },
+        {
+          "display_url": "pic.x.com/0Z8wldasTw",
+          "end": 55,
+          "expanded_url": "https://x.com/socdemAdam/status/1874947151899644122/photo/1",
+          "media_key": "3_1874947149458239488",
+          "start": 32,
+          "url": "https://t.co/0Z8wldasTw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1875035223349670053",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874947151899644122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @socdemAdam: That's not true https://t.co/0Z8wldasTw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_1874947149454053376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgUmf5_XEAAo8Fq.jpg",
+        "width": 817
+      },
+      {
+        "height": 354,
+        "media_key": "3_1874947149458239488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GgUmf6AW8AA-70V.jpg",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874947149454053376",
+            "3_1874947149458239488"
+          ],
+          "media_source_tweet_id": [
+            "1874947151899644122",
+            "1874947151899644122"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1875035223349670053",
+        "created_at": "2025-01-03T04:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-03T05:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1875035223349670053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1728357835669426176",
+              "start": 3,
+              "username": "socdemAdam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Z8wldasTw",
+              "end": 55,
+              "expanded_url": "https://x.com/socdemAdam/status/1874947151899644122/photo/1",
+              "media_key": "3_1874947149454053376",
+              "start": 32,
+              "url": "https://t.co/0Z8wldasTw"
+            },
+            {
+              "display_url": "pic.x.com/0Z8wldasTw",
+              "end": 55,
+              "expanded_url": "https://x.com/socdemAdam/status/1874947151899644122/photo/1",
+              "media_key": "3_1874947149458239488",
+              "start": 32,
+              "url": "https://t.co/0Z8wldasTw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1875035223349670053",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874947151899644122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @socdemAdam: That's not true https://t.co/0Z8wldasTw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1874947149454053376",
+            "3_1874947149458239488"
+          ]
+        },
+        "author_id": "1728357835669426176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1874947151899644122",
+        "created_at": "2025-01-02T22:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T23:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874947151899644122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Z8wldasTw",
+              "end": 39,
+              "expanded_url": "https://x.com/socdemAdam/status/1874947151899644122/photo/1",
+              "media_key": "3_1874947149454053376",
+              "start": 16,
+              "url": "https://t.co/0Z8wldasTw"
+            },
+            {
+              "display_url": "pic.x.com/0Z8wldasTw",
+              "end": 39,
+              "expanded_url": "https://x.com/socdemAdam/status/1874947151899644122/photo/1",
+              "media_key": "3_1874947149458239488",
+              "start": 16,
+              "url": "https://t.co/0Z8wldasTw"
+            },
+            {
+              "display_url": "x.com/JDVance/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/JDVance/status/1874894133862769149",
+              "start": 40,
+              "url": "https://t.co/lnTw1ujuuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874947151899644122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1433,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874894133862769149",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "That's not true https://t.co/0Z8wldasTw https://t.co/lnTw1ujuuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||#兄弟鬩牆 TNO同人作品製作中",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "兄弟鬩牆"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873288350636924928/v2jyeQ24_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 1375,
+          "like_count": 18947,
+          "listed_count": 8,
+          "media_count": 650,
+          "tweet_count": 11229
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-25T10:20:20.000Z",
+        "description": "Law ⚖️ | @spdde | @Eintracht",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 9,
+                "username": "spdde"
+              },
+              {
+                "end": 28,
+                "start": 18,
+                "username": "Eintracht"
+              }
+            ]
+          }
+        },
+        "id": "1728357835669426176",
+        "location": "Hesse, Germany",
+        "name": "Adam 📯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842654008004968448/HSSUd0Vc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2182,
+          "following_count": 4458,
+          "like_count": 9019,
+          "listed_count": 12,
+          "media_count": 1489,
+          "tweet_count": 5807
+        },
+        "username": "socdemAdam",
+        "verified": false
+      }
+    ]
+  }
+}

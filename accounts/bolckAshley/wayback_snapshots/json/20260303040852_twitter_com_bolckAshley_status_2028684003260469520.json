@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2028640989238235570",
+    "created_at": "2026-03-03T04:08:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T05:08:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028684003260469520"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 57,
+          "normalized_text": "SoCs",
+          "probability": 0.4486,
+          "start": 54,
+          "type": "Other"
+        },
+        {
+          "end": 96,
+          "normalized_text": "China",
+          "probability": 0.9134,
+          "start": 92,
+          "type": "Place"
+        },
+        {
+          "end": 101,
+          "normalized_text": "PRC",
+          "probability": 0.3715,
+          "start": 99,
+          "type": "Organization"
+        },
+        {
+          "end": 111,
+          "normalized_text": "TSMC",
+          "probability": 0.506,
+          "start": 108,
+          "type": "Organization"
+        },
+        {
+          "end": 133,
+          "normalized_text": "TSMC",
+          "probability": 0.3843,
+          "start": 130,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "34098458",
+          "start": 0,
+          "username": "ibrahimibnyusuf"
+        },
+        {
+          "end": 31,
+          "id": "23370368",
+          "start": 17,
+          "username": "Joe_Roberts01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028684003260469520",
+    "in_reply_to_user_id": "34098458",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028655035391812065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ibrahimibnyusuf @Joe_Roberts01 Fun fact: Many of the SoCs in mobile phones manufactured in China (PRC) use TSMC's processes, and TSMC is a Taiwanese (ROC) company."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2028640989238235570",
+        "created_at": "2026-03-03T04:08:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:08:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028684003260469520"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 57,
+              "normalized_text": "SoCs",
+              "probability": 0.4486,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 96,
+              "normalized_text": "China",
+              "probability": 0.9134,
+              "start": 92,
+              "type": "Place"
+            },
+            {
+              "end": 101,
+              "normalized_text": "PRC",
+              "probability": 0.3715,
+              "start": 99,
+              "type": "Organization"
+            },
+            {
+              "end": 111,
+              "normalized_text": "TSMC",
+              "probability": 0.506,
+              "start": 108,
+              "type": "Organization"
+            },
+            {
+              "end": 133,
+              "normalized_text": "TSMC",
+              "probability": 0.3843,
+              "start": 130,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "34098458",
+              "start": 0,
+              "username": "ibrahimibnyusuf"
+            },
+            {
+              "end": 31,
+              "id": "23370368",
+              "start": 17,
+              "username": "Joe_Roberts01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028684003260469520",
+        "in_reply_to_user_id": "34098458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028655035391812065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ibrahimibnyusuf @Joe_Roberts01 Fun fact: Many of the SoCs in mobile phones manufactured in China (PRC) use TSMC's processes, and TSMC is a Taiwanese (ROC) company."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "34098458",
+        "conversation_id": "2028640989238235570",
+        "created_at": "2026-03-03T02:13:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T03:13:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028655035391812065"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "China",
+              "probability": 0.6335,
+              "start": 59,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "23370368",
+              "start": 0,
+              "username": "Joe_Roberts01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028655035391812065",
+        "in_reply_to_user_id": "23370368",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028640989238235570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Joe_Roberts01 So you're dropping the People's Republic of China-made device you post from?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmNJ5h"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027312915238506497/MZUjqyUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1983,
+          "like_count": 39032,
+          "listed_count": 16,
+          "media_count": 1362,
+          "tweet_count": 19696
+        },
+        "url": "https://t.co/7x8MsmNJ5h",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2009-04-21T23:55:43.000Z",
+        "description": "Debunking dehumanization and other Zionist devices.",
+        "id": "34098458",
+        "location": "Lianiria",
+        "name": "The Hasbara Buster",
+        "pinned_tweet_id": "1738673178526756958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1762595854710407168/4WX6jIQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9381,
+          "following_count": 17,
+          "like_count": 57,
+          "listed_count": 82,
+          "media_count": 6552,
+          "tweet_count": 13015
+        },
+        "username": "ibrahimibnyusuf",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-08T23:25:50.000Z",
+        "description": "ED @JewishTulsa. For the People, For Democracy, For Human Rights. Columnist. Husband. Dad. Jew. עם ישראל חי 🇨🇦🇺🇸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "JewishTulsa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/joeroberts",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/joeroberts",
+                "start": 0,
+                "url": "https://t.co/HOsMcbnDRy"
+              }
+            ]
+          }
+        },
+        "id": "23370368",
+        "location": "Oklahoma, USA",
+        "name": "Joe Roberts",
+        "pinned_tweet_id": "2028274842206720436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754953238132973568/w-Axn4nO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55845,
+          "following_count": 5834,
+          "like_count": 22658,
+          "listed_count": 337,
+          "media_count": 1453,
+          "tweet_count": 17847
+        },
+        "url": "https://t.co/HOsMcbnDRy",
+        "username": "Joe_Roberts01",
+        "verified": true
+      }
+    ]
+  }
+}

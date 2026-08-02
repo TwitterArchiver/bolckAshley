@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1439961464555466753",
+          "name": "Olaf Scholz"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1439961464555466753",
+          "name": "Olaf Scholz"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534488199598182400",
+          "name": "Germany politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1534527653406838785",
+          "name": "Germany political figures "
+        }
+      }
+    ],
+    "conversation_id": "2021091892973519328",
+    "created_at": "2026-02-10T05:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T06:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021091892973519328"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 52,
+          "normalized_text": "Olaf Scholz",
+          "probability": 0.9737,
+          "start": 42,
+          "type": "Person"
+        },
+        {
+          "end": 81,
+          "normalized_text": "Iran",
+          "probability": 0.8139,
+          "start": 78,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3247652319",
+          "start": 3,
+          "username": "clashreport"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021091892973519328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 357
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020822649371316436",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @clashreport: Former German Chancellor Olaf Scholz:\n\nThe entire dilemma in Iran came about because the British and the American governme…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34183,
+        "height": 1080,
+        "media_key": "13_2020822313827016704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020822313827016704/img/KpToC5DwRKM19jOz.jpg",
+        "public_metrics": {
+          "view_count": 129758
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020822313827016704/vid/avc1/1920x1080/utYSiVUnNoTRBSO4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020822313827016704/pl/mwvTVTHqf2sdHhJn.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020822313827016704/vid/avc1/1280x720/DVKMYi2Y0AsO239L.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020822313827016704/vid/avc1/640x360/MF7ZFOQ0C6MCxgob.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020822313827016704/vid/avc1/480x270/nIo86AYPz_6KXUYj.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "2021091892973519328",
+        "created_at": "2026-02-10T05:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T06:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021091892973519328"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 52,
+              "normalized_text": "Olaf Scholz",
+              "probability": 0.9737,
+              "start": 42,
+              "type": "Person"
+            },
+            {
+              "end": 81,
+              "normalized_text": "Iran",
+              "probability": 0.8139,
+              "start": 78,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3247652319",
+              "start": 3,
+              "username": "clashreport"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021091892973519328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 357
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020822649371316436",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @clashreport: Former German Chancellor Olaf Scholz:\n\nThe entire dilemma in Iran came about because the British and the American governme…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020822313827016704"
+          ]
+        },
+        "author_id": "3247652319",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1439961464555466753",
+              "name": "Olaf Scholz"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534488199598182400",
+              "name": "Germany politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1534527653406838785",
+              "name": "Germany political figures "
+            }
+          }
+        ],
+        "conversation_id": "2020822649371316436",
+        "created_at": "2026-02-09T11:30:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T12:30:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020822649371316436"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Olaf Scholz",
+              "probability": 0.973,
+              "start": 25,
+              "type": "Person"
+            },
+            {
+              "end": 64,
+              "normalized_text": "Iran",
+              "probability": 0.8485,
+              "start": 61,
+              "type": "Place"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Iran",
+              "probability": 0.8177,
+              "start": 165,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O01spniXqD",
+              "end": 299,
+              "expanded_url": "https://x.com/clashreport/status/2020822649371316436/video/1",
+              "media_key": "13_2020822313827016704",
+              "start": 276,
+              "url": "https://t.co/O01spniXqD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020822649371316436",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Former German Chancellor Olaf Scholz:\n\nThe entire dilemma in Iran came about because the British and the American governments overthrew the democratic government of Iran and replaced it with the dictator, the Shah, who was later overthrown in turn by today’s rulers, who then established a brutal dictatorship — unlike what many people had hoped for at the time.\n\nHad it not been for the overthrow of Iran’s democratic government at the beginning, carried out for oil interests, Iran would today be a very successful Western country"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 592,
+          "impression_count": 292230,
+          "like_count": 2327,
+          "quote_count": 134,
+          "reply_count": 151,
+          "retweet_count": 357
+        },
+        "reply_settings": "everyone",
+        "text": "Former German Chancellor Olaf Scholz:\n\nThe entire dilemma in Iran came about because the British and the American governments overthrew the democratic government of Iran and replaced it with the dictator, the Shah, who was later overthrown in turn by today’s rulers, who then https://t.co/O01spniXqD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@shungleemain",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 124,
+                "start": 111,
+                "username": "shungleemain"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🇪🇺🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004228919080505349/ZOTJYNSM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2924,
+          "following_count": 1982,
+          "like_count": 38051,
+          "listed_count": 15,
+          "media_count": 1330,
+          "tweet_count": 19136
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-12T11:23:40.000Z",
+        "description": "Breaking news, reports, and opinions from ongoing clashes of the world. English | Türkçe | عربي",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clashreport.com",
+                "end": 23,
+                "expanded_url": "https://clashreport.com/",
+                "start": 0,
+                "url": "https://t.co/6Wod25T4EZ"
+              }
+            ]
+          }
+        },
+        "id": "3247652319",
+        "name": "Clash Report",
+        "pinned_tweet_id": "1929165223665000702",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942576646457868288/gOMYVVRf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 702181,
+          "following_count": 2,
+          "like_count": 27,
+          "listed_count": 4889,
+          "media_count": 47257,
+          "tweet_count": 68363
+        },
+        "url": "https://t.co/6Wod25T4EZ",
+        "username": "clashreport",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "1993371720217161905",
+    "created_at": "2025-11-25T19:02:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T20:02:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993394881222656283"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "恭喜恭",
+          "probability": 0.4682,
+          "start": 28,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1915723009161375744",
+          "start": 0,
+          "username": "tanbara_ririka"
+        },
+        {
+          "end": 27,
+          "id": "1910605041087766529",
+          "start": 16,
+          "username": "Apibaizhou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993394881222656283",
+    "in_reply_to_user_id": "1915723009161375744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993371720217161905",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanbara_ririka @Apibaizhou 恭喜恭喜😽"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1993371720217161905].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1993371720217161905",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1993371720217161905"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "1993371720217161905",
+        "created_at": "2025-11-25T19:02:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T20:02:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993394881222656283"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "恭喜恭",
+              "probability": 0.4682,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1915723009161375744",
+              "start": 0,
+              "username": "tanbara_ririka"
+            },
+            {
+              "end": 27,
+              "id": "1910605041087766529",
+              "start": 16,
+              "username": "Apibaizhou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993394881222656283",
+        "in_reply_to_user_id": "1915723009161375744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993371720217161905",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanbara_ririka @Apibaizhou 恭喜恭喜😽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2757,
+          "following_count": 2026,
+          "like_count": 35322,
+          "listed_count": 12,
+          "media_count": 1207,
+          "tweet_count": 17510
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-25T11:02:16.000Z",
+        "description": "𝙞 𝙟𝙪𝙨𝙩 𝙬𝙖𝙣𝙣𝙖 𝙗𝙧𝙚𝙖𝙠 𝙮𝙤𝙪 𝙙𝙤𝙬𝙣 𝙨𝙤 𝙗𝙖𝙖𝙖𝙖𝙙𝙡𝙮💕 | 🐖－＞ @citric_baizhou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 47,
+                "username": "citric_baizhou"
+              }
+            ]
+          }
+        },
+        "id": "1915723009161375744",
+        "location": "🌄",
+        "name": "💤",
+        "pinned_tweet_id": "1981402944018010598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984498160103014402/MqA72TeB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 619,
+          "like_count": 27290,
+          "listed_count": 1,
+          "media_count": 1063,
+          "tweet_count": 9909
+        },
+        "username": "tanbara_ririka",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T08:05:59.000Z",
+        "description": "",
+        "id": "1910605041087766529",
+        "name": "玉梅好甜喵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989754277095755776/9lmDS8Lp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 509,
+          "like_count": 2552,
+          "listed_count": 2,
+          "media_count": 62,
+          "tweet_count": 281
+        },
+        "username": "Apibaizhou",
+        "verified": false
+      }
+    ]
+  }
+}

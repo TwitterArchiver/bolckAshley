@@ -1,0 +1,915 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1938291282834591744",
+          "name": "Zohran Mamdani"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Representative from New York Alexandria Ocasio-Cortez",
+          "id": "1011963575089262593",
+          "name": "Alexandria Ocasio-Cortez"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Bernie Sanders (VT)\n",
+          "id": "10037721459",
+          "name": "Bernie Sanders"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "New York City",
+          "id": "907978531350519809",
+          "name": "New York City"
+        }
+      }
+    ],
+    "conversation_id": "1982651543271993489",
+    "created_at": "2025-10-27T03:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T04:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982651543271993489"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 43,
+          "normalized_text": "New York City",
+          "probability": 0.9873,
+          "start": 31,
+          "type": "Place"
+        },
+        {
+          "end": 107,
+          "normalized_text": "New York",
+          "probability": 0.9936,
+          "start": 100,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "216776631",
+          "start": 3,
+          "username": "BernieSanders"
+        },
+        {
+          "end": 54,
+          "id": "138203134",
+          "start": 50,
+          "username": "AOC"
+        },
+        {
+          "end": 74,
+          "id": "266980765",
+          "start": 59,
+          "username": "ZohranKMamdani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982651543271993489",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 502
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982569979330314381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BernieSanders: I’m LIVE in New York City with @AOC and @ZohranKMamdani.\n\nOur message is clear:\n\nNew York is not for sale. https://t.co/…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1982651543271993489",
+        "created_at": "2025-10-27T03:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T04:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982651543271993489"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "New York City",
+              "probability": 0.9873,
+              "start": 31,
+              "type": "Place"
+            },
+            {
+              "end": 107,
+              "normalized_text": "New York",
+              "probability": 0.9936,
+              "start": 100,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "216776631",
+              "start": 3,
+              "username": "BernieSanders"
+            },
+            {
+              "end": 54,
+              "id": "138203134",
+              "start": 50,
+              "username": "AOC"
+            },
+            {
+              "end": 74,
+              "id": "266980765",
+              "start": 59,
+              "username": "ZohranKMamdani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982651543271993489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 502
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982569979330314381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BernieSanders: I’m LIVE in New York City with @AOC and @ZohranKMamdani.\n\nOur message is clear:\n\nNew York is not for sale. https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "216776631",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1938291282834591744",
+              "name": "Zohran Mamdani"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Representative from New York Alexandria Ocasio-Cortez",
+              "id": "1011963575089262593",
+              "name": "Alexandria Ocasio-Cortez"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Bernie Sanders (VT)\n",
+              "id": "10037721459",
+              "name": "Bernie Sanders"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "1982569979330314381",
+        "created_at": "2025-10-26T22:08:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T23:08:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982569979330314381"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "New York City",
+              "probability": 0.9896,
+              "start": 12,
+              "type": "Place"
+            },
+            {
+              "end": 88,
+              "normalized_text": "New York",
+              "probability": 0.994,
+              "start": 81,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 35,
+              "id": "138203134",
+              "start": 31,
+              "username": "AOC"
+            },
+            {
+              "end": 55,
+              "id": "266980765",
+              "start": 40,
+              "username": "ZohranKMamdani"
+            }
+          ],
+          "urls": [
+            {
+              "description": "LIVE from Queens, NY:",
+              "display_url": "x.com/i/broadcasts/1…",
+              "end": 130,
+              "expanded_url": "https://x.com/i/broadcasts/1OdKrOYjpDzGX",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/1982569980798394368/RvgRaW5r?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1982569980798394368/RvgRaW5r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "Bernie Sanders",
+              "unwound_url": "https://twitter.com/i/broadcasts/1OdKrOYjpDzGX",
+              "url": "https://t.co/LnWAPv8XLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982569979330314381",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 163563,
+          "like_count": 2894,
+          "quote_count": 36,
+          "reply_count": 617,
+          "retweet_count": 502
+        },
+        "reply_settings": "everyone",
+        "text": "I’m LIVE in New York City with @AOC and @ZohranKMamdani.\n\nOur message is clear:\n\nNew York is not for sale. https://t.co/LnWAPv8XLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ ❤️:@Usam8964 BFF:@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 97,
+                "username": "Usam8964"
+              },
+              {
+                "end": 127,
+                "start": 111,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fujian, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️",
+        "pinned_tweet_id": "1971056055640784933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976913742903623680/prlCzqbO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 2005,
+          "like_count": 34497,
+          "listed_count": 12,
+          "media_count": 1168,
+          "tweet_count": 17145
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2010-11-17T17:53:52.000Z",
+        "description": "U.S. Senator for Vermont. Not me, us.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "BernieSanders.com",
+                "end": 23,
+                "expanded_url": "https://BernieSanders.com",
+                "start": 0,
+                "url": "https://t.co/jpg8Sp1GhR"
+              }
+            ]
+          }
+        },
+        "id": "216776631",
+        "location": "Vermont",
+        "name": "Bernie Sanders",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097820307388334080/9ddg5F6v_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14900045,
+          "following_count": 1387,
+          "like_count": 900,
+          "listed_count": 23043,
+          "media_count": 4577,
+          "tweet_count": 22295
+        },
+        "url": "https://t.co/jpg8Sp1GhR",
+        "username": "BernieSanders",
+        "verified": true
+      },
+      {
+        "created_at": "2010-04-28T22:38:40.000Z",
+        "description": "US Congresswoman, NY-14. In a modern, moral, and wealthy society, no American should be too poor to live. People-Funded, takes no lobbyist💰. Personal account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ocasiocortez.com",
+                "end": 23,
+                "expanded_url": "http://www.ocasiocortez.com",
+                "start": 0,
+                "url": "https://t.co/2v0ZEutGyq"
+              }
+            ]
+          }
+        },
+        "id": "138203134",
+        "location": "Bronx + Queens, NYC",
+        "name": "Alexandria Ocasio-Cortez",
+        "pinned_tweet_id": "1799095276382085488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/923274881197895680/AbHcStkl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12720776,
+          "following_count": 4324,
+          "like_count": 40533,
+          "listed_count": 26231,
+          "media_count": 1022,
+          "tweet_count": 15971
+        },
+        "url": "https://t.co/2v0ZEutGyq",
+        "username": "AOC",
+        "verified": true
+      },
+      {
+        "created_at": "2011-03-16T03:57:57.000Z",
+        "description": "Democratic Nominee for Mayor of NYC. Assemblymember. Running to make this city affordable. Democratic Socialist. Early Voting: 10/25 - 11/2. Election Day: 11/4.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ZohranKMamdani",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ZohranKMamdani",
+                "start": 0,
+                "url": "https://t.co/YFSiSG6SLB"
+              }
+            ]
+          }
+        },
+        "id": "266980765",
+        "location": "Astoria, Queens",
+        "name": "Zohran Kwame Mamdani",
+        "pinned_tweet_id": "1849027572006281727",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938972577415733249/Oy7_tlj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687332,
+          "following_count": 987,
+          "like_count": 50497,
+          "listed_count": 1645,
+          "media_count": 3408,
+          "tweet_count": 16992
+        },
+        "url": "https://t.co/YFSiSG6SLB",
+        "username": "ZohranKMamdani",
+        "verified": true
+      }
+    ]
+  }
+}

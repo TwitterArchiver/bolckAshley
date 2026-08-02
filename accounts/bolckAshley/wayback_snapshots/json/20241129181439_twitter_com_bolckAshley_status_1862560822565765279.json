@@ -1,0 +1,429 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_source_tweet_id": [
+        "1862112619068379235"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "European Parliament",
+          "id": "1127870700109189121",
+          "name": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "European Parliament",
+          "id": "1127870700109189121",
+          "name": "European Parliament"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Georgia",
+          "id": "1004436112062812160",
+          "name": "Georgia"
+        }
+      }
+    ],
+    "conversation_id": "1862560822565765279",
+    "created_at": "2024-11-29T18:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-29T19:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862560822565765279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504145714254909444",
+          "start": 3,
+          "username": "sa_va_nt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ynT88k7WAb",
+          "end": 55,
+          "expanded_url": "https://x.com/sa_va_nt/status/1862112619068379235/photo/1",
+          "media_key": "3_1862112615515693056",
+          "start": 32,
+          "url": "https://t.co/ynT88k7WAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862560822565765279",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 408
+    },
+    "referenced_tweets": [
+      {
+        "id": "1862112619068379235",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sa_va_nt: They did the meme https://t.co/ynT88k7WAb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_source_tweet_id": [
+            "1862112619068379235"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          }
+        ],
+        "conversation_id": "1862560822565765279",
+        "created_at": "2024-11-29T18:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-29T19:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862560822565765279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504145714254909444",
+              "start": 3,
+              "username": "sa_va_nt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynT88k7WAb",
+              "end": 55,
+              "expanded_url": "https://x.com/sa_va_nt/status/1862112619068379235/photo/1",
+              "media_key": "3_1862112615515693056",
+              "start": 32,
+              "url": "https://t.co/ynT88k7WAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862560822565765279",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862112619068379235",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sa_va_nt: They did the meme https://t.co/ynT88k7WAb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1862112615515693056"
+          ]
+        },
+        "author_id": "1504145714254909444",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "European Parliament",
+              "id": "1127870700109189121",
+              "name": "European Parliament"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Georgia",
+              "id": "1004436112062812160",
+              "name": "Georgia"
+            }
+          }
+        ],
+        "conversation_id": "1862112619068379235",
+        "created_at": "2024-11-28T12:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T13:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1862112619068379235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ynT88k7WAb",
+              "end": 41,
+              "expanded_url": "https://x.com/sa_va_nt/status/1862112619068379235/photo/1",
+              "media_key": "3_1862112615515693056",
+              "start": 18,
+              "url": "https://t.co/ynT88k7WAb"
+            },
+            {
+              "display_url": "x.com/RJukneviciene/…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/RJukneviciene/status/1862100571731202279",
+              "start": 42,
+              "url": "https://t.co/dKThBew7G9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862112619068379235",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 438,
+          "impression_count": 205938,
+          "like_count": 7912,
+          "quote_count": 18,
+          "reply_count": 20,
+          "retweet_count": 408
+        },
+        "referenced_tweets": [
+          {
+            "id": "1862100571731202279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "They did the meme https://t.co/ynT88k7WAb https://t.co/dKThBew7G9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "社會民主主義🌹↙↙↙||左翼三民主義❂🚩||未來有可能潤去德國🇩🇪🇪🇺||堅決反對列寧主義/史達林主義/毛澤東思想及其一切衍生主義☭ ⃠||是暫時停糖的Xyn喵🍥🏳️‍⚧️||中推梗圖meme製作人||可愛寶寶：@obuchikawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 106,
+                "username": "obuchikawaii"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹Ashley Block🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1845687015301341201/nXfnrfy8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1903,
+          "following_count": 1241,
+          "like_count": 16818,
+          "listed_count": 7,
+          "media_count": 556,
+          "tweet_count": 10541
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-16T17:21:55.000Z",
+        "description": "Liberal that cares about democracy | 🇺🇦🇵🇸🇹🇼🇪🇺 | 🏳️‍🌈",
+        "id": "1504145714254909444",
+        "location": "Botswana ",
+        "name": "aficionado",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733964310584418304/09UEbpsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3334,
+          "following_count": 1994,
+          "like_count": 158957,
+          "listed_count": 8,
+          "media_count": 3313,
+          "tweet_count": 25030
+        },
+        "username": "sa_va_nt",
+        "verified": false
+      }
+    ]
+  }
+}

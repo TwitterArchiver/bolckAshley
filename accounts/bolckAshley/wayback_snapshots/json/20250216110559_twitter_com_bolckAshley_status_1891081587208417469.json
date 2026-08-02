@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "1890893922743824408",
+    "created_at": "2025-02-16T11:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-16T12:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1891081587208417469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1264203540",
+          "start": 0,
+          "username": "joakial_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1891081587208417469",
+    "in_reply_to_user_id": "1264203540",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890893922743824408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joakial_ I'd rather not vote at all than vote for a bunch of people who just talk big."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1890893922743824408",
+        "created_at": "2025-02-16T11:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-16T12:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1891081587208417469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1264203540",
+              "start": 0,
+              "username": "joakial_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1891081587208417469",
+        "in_reply_to_user_id": "1264203540",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890893922743824408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joakial_ I'd rather not vote at all than vote for a bunch of people who just talk big."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1264203540",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "1890893922743824408",
+        "created_at": "2025-02-15T22:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T23:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890893922743824408"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Germany",
+              "probability": 0.9438,
+              "start": 3,
+              "type": "Place"
+            },
+            {
+              "end": 33,
+              "normalized_text": "Die Linke",
+              "probability": 0.5247,
+              "start": 25,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890893922743824408",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 48951,
+          "like_count": 2404,
+          "quote_count": 9,
+          "reply_count": 75,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "In Germany, I’d vote for Die Linke 🇩🇪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "A Social Democrat🌹and Left-Tridemist❂",
+        "id": "1649365408779214848",
+        "location": "中華民國福建淪陷區 R.O.C Fujian",
+        "name": "❂🇩🇪🇪🇺🌹𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🇹🇼🏳️‍⚧️❀‍",
+        "pinned_tweet_id": "1861746855861785070",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886351262368907264/rjS9jeag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2118,
+          "following_count": 1527,
+          "like_count": 21825,
+          "listed_count": 8,
+          "media_count": 750,
+          "tweet_count": 12167
+        },
+        "username": "bolckAshley",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-13T11:22:10.000Z",
+        "description": "25 | Norway Correspondent for @EuropeElects 📊🗳️ Humanist | Vegan | Egalitarian | Member of the Socialist Left Party, @SVparti 🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "EuropeElects"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "SVparti"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/joakial",
+                "end": 23,
+                "expanded_url": "https://www.buymeacoffee.com/joakial",
+                "start": 0,
+                "url": "https://t.co/EvjmbKFI3G"
+              }
+            ]
+          }
+        },
+        "id": "1264203540",
+        "location": "Kingdom of Norway",
+        "name": "Joakim 🌹🇳🇴🇪🇺",
+        "pinned_tweet_id": "1734326468514079038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878862384552386561/oO1NYHt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24687,
+          "following_count": 3334,
+          "like_count": 174982,
+          "listed_count": 118,
+          "media_count": 3865,
+          "tweet_count": 18705
+        },
+        "url": "https://t.co/EvjmbKFI3G",
+        "username": "joakial_",
+        "verified": true
+      }
+    ]
+  }
+}
