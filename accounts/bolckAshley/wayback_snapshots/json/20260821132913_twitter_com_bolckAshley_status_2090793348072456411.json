@@ -1,0 +1,705 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090793341021741056"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1676746772255850496",
+          "name": "Threads (Meta)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1453808088054525953",
+          "name": "Meta"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2090793348072456411",
+    "created_at": "2026-08-21T13:29:13.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T14:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090793348072456411"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vCUCn6ZIa6",
+          "end": 23,
+          "expanded_url": "https://x.com/bolckAshley/status/2090793348072456411/photo/1",
+          "media_key": "3_2090793341021741056",
+          "start": 0,
+          "url": "https://t.co/vCUCn6ZIa6"
+        },
+        {
+          "display_url": "x.com/SagerRgyalpo/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/SagerRgyalpo/status/2090436032105775201",
+          "start": 24,
+          "url": "https://t.co/Fsc89llVFV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090793348072456411",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2090793341021741056"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090436032105775201",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/vCUCn6ZIa6 https://t.co/Fsc89llVFV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2090793341021741056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQP9d1ZaYAAdv8O.jpg",
+        "width": 1472
+      },
+      {
+        "height": 1673,
+        "media_key": "3_2090435996827455488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK4dqiXEAAh5_7.jpg",
+        "width": 940
+      },
+      {
+        "height": 1870,
+        "media_key": "3_2090435996806492160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK4dqdXMAAYk8b.jpg",
+        "width": 841
+      },
+      {
+        "height": 1738,
+        "media_key": "3_2090435996865159168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK4dqrWYAAn2zO.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1914,
+        "media_key": "3_2090435996831633408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQK4dqjW0AAwyV4.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090793341021741056"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2090793348072456411",
+        "created_at": "2026-08-21T13:29:13.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090793348072456411"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vCUCn6ZIa6",
+              "end": 23,
+              "expanded_url": "https://x.com/bolckAshley/status/2090793348072456411/photo/1",
+              "media_key": "3_2090793341021741056",
+              "start": 0,
+              "url": "https://t.co/vCUCn6ZIa6"
+            },
+            {
+              "display_url": "x.com/SagerRgyalpo/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/SagerRgyalpo/status/2090436032105775201",
+              "start": 24,
+              "url": "https://t.co/Fsc89llVFV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090793348072456411",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090793341021741056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090436032105775201",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vCUCn6ZIa6 https://t.co/Fsc89llVFV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090435996827455488",
+            "3_2090435996806492160",
+            "3_2090435996865159168",
+            "3_2090435996831633408"
+          ]
+        },
+        "author_id": "1622255626066731010",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2090436032105775201",
+        "created_at": "2026-08-20T13:49:23.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T14:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090436032105775201"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLfVQkUmSm",
+              "end": 99,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2090436032105775201/photo/1",
+              "media_key": "3_2090435996827455488",
+              "start": 76,
+              "url": "https://t.co/pLfVQkUmSm"
+            },
+            {
+              "display_url": "pic.x.com/pLfVQkUmSm",
+              "end": 99,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2090436032105775201/photo/1",
+              "media_key": "3_2090435996806492160",
+              "start": 76,
+              "url": "https://t.co/pLfVQkUmSm"
+            },
+            {
+              "display_url": "pic.x.com/pLfVQkUmSm",
+              "end": 99,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2090436032105775201/photo/1",
+              "media_key": "3_2090435996865159168",
+              "start": 76,
+              "url": "https://t.co/pLfVQkUmSm"
+            },
+            {
+              "display_url": "pic.x.com/pLfVQkUmSm",
+              "end": 99,
+              "expanded_url": "https://x.com/SagerRgyalpo/status/2090436032105775201/photo/1",
+              "media_key": "3_2090435996831633408",
+              "start": 76,
+              "url": "https://t.co/pLfVQkUmSm"
+            },
+            {
+              "display_url": "x.com/sagerrgyalpo/s…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/sagerrgyalpo/status/2089910863264432360",
+              "start": 100,
+              "url": "https://t.co/StXDHIBSUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090436032105775201",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090435996827455488"
+          },
+          {
+            "media_key": "3_2090435996806492160"
+          },
+          {
+            "media_key": "3_2090435996865159168"
+          },
+          {
+            "media_key": "3_2090435996831633408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 74944,
+          "like_count": 435,
+          "quote_count": 9,
+          "reply_count": 92,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089910863264432360",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Threads上的一些女权和民运账号故意把重庆男性示威者反时代峰峻和追星女的口号P成“习近平下台”的标语，幸灾乐祸地企图他们因此被中共“铁拳”或镇压。 https://t.co/pLfVQkUmSm https://t.co/StXDHIBSUd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2090793348072456411",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4411,
+          "following_count": 2250,
+          "like_count": 43906,
+          "listed_count": 31,
+          "media_count": 2029,
+          "tweet_count": 24291
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-05T15:27:45.000Z",
+        "description": "欢迎私信投稿！｜女男平等议题小博主｜gender equality｜반페미｜アンチフェミ｜антифем｜🕊️☮️反战｜🚫🪶反白羽毛｜支持童权",
+        "id": "1622255626066731010",
+        "is_identity_verified": false,
+        "location": "Zagreb, Hrvatska",
+        "most_recent_tweet_id": "2090765814102466732",
+        "name": "Sagêr Gyaebo ♂⚖️ 萨格杰布",
+        "pinned_tweet_id": "2055728973553021273",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1622255626066731010/1747812844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058190297641922560/jwhVYdBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11580,
+          "following_count": 934,
+          "like_count": 1596,
+          "listed_count": 49,
+          "media_count": 2967,
+          "tweet_count": 5857
+        },
+        "url": "",
+        "username": "SagerRgyalpo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

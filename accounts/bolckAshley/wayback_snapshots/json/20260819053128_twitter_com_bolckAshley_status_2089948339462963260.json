@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2089924068195840000"
+      ],
+      "media_source_tweet_id": [
+        "2089924518211125551"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089948339462963260",
+    "created_at": "2026-08-19T05:31:28.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T06:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089948339462963260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1952607565659172865",
+          "start": 3,
+          "username": "SUIFENGfreedom"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KL8Ky9BfGE",
+          "end": 108,
+          "expanded_url": "https://x.com/SUIFENGfreedom/status/2089924518211125551/video/1",
+          "media_key": "13_2089924068195840000",
+          "start": 85,
+          "url": "https://t.co/KL8Ky9BfGE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089948339462963260",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2089924068195840000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089924518211125551",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SUIFENGfreedom: 罗大佑在台北演唱会弹奏中华民国国旗歌《青天白日满地红》\n接下来简中互联网小粉红就要给他开批斗大会了\n毕竟蛆欣赏不了这么动听的旋律 https://t.co/KL8Ky9BfGE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97000,
+        "height": 1024,
+        "media_key": "13_2089924068195840000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2089924068195840000/img/ZeHwYl0hyfRwVCp_.jpg",
+        "public_metrics": {
+          "view_count": 138
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089924068195840000/vid/avc1/320x568/1jAG47AdcvVL9u9k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089924068195840000/vid/avc1/480x852/NdZWl5NITSRFgOxa.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2089924068195840000/vid/avc1/576x1024/NVMCptWjdXyvBH24.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2089924068195840000/pl/0NW3y6app7GCzcxS.m3u8"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089924068195840000"
+          ],
+          "media_source_tweet_id": [
+            "2089924518211125551"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089948339462963260",
+        "created_at": "2026-08-19T05:31:28.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089948339462963260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1952607565659172865",
+              "start": 3,
+              "username": "SUIFENGfreedom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KL8Ky9BfGE",
+              "end": 108,
+              "expanded_url": "https://x.com/SUIFENGfreedom/status/2089924518211125551/video/1",
+              "media_key": "13_2089924068195840000",
+              "start": 85,
+              "url": "https://t.co/KL8Ky9BfGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089948339462963260",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089924068195840000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089924518211125551",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SUIFENGfreedom: 罗大佑在台北演唱会弹奏中华民国国旗歌《青天白日满地红》\n接下来简中互联网小粉红就要给他开批斗大会了\n毕竟蛆欣赏不了这么动听的旋律 https://t.co/KL8Ky9BfGE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2089924068195840000"
+          ]
+        },
+        "author_id": "1952607565659172865",
+        "conversation_id": "2089924518211125551",
+        "created_at": "2026-08-19T03:56:48.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:56:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089924518211125551"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KL8Ky9BfGE",
+              "end": 88,
+              "expanded_url": "https://x.com/SUIFENGfreedom/status/2089924518211125551/video/1",
+              "media_key": "13_2089924068195840000",
+              "start": 65,
+              "url": "https://t.co/KL8Ky9BfGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089924518211125551",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2089924068195840000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "罗大佑在台北演唱会弹奏中华民国国旗歌《青天白日满地红》\n接下来简中互联网小粉红就要给他开批斗大会了\n毕竟蛆欣赏不了这么动听的旋律 https://t.co/KL8Ky9BfGE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2089948339462963260",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4378,
+          "following_count": 2260,
+          "like_count": 43808,
+          "listed_count": 28,
+          "media_count": 2010,
+          "tweet_count": 24184
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-05T05:48:27.000Z",
+        "description": "中國時事｜旅行｜日常分享｜時事評論\n気になったニュースや世界の出来事\n旅先の風景や日々の記録をゆるく投稿しています。\n🇯🇵 日本語 OK｜🇬🇧 English OK｜中文 OK\n仲良くしていただけると嬉しいです！",
+        "id": "1952607565659172865",
+        "is_identity_verified": true,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2089947343848395172",
+        "name": "SUIFENG （風まかせに南へ）🇯🇵🇺🇸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952607565659172865/1784904968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080680048798191616/7Od3mAPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2653,
+          "following_count": 806,
+          "like_count": 2779,
+          "listed_count": 26,
+          "media_count": 564,
+          "tweet_count": 11830
+        },
+        "url": "",
+        "username": "SUIFENGfreedom",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

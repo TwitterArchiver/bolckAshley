@@ -1,0 +1,742 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084559250555293697"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2084559260726497670",
+    "created_at": "2026-08-04T08:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T09:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084559260726497670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zow0UJEwhJ",
+          "end": 92,
+          "expanded_url": "https://x.com/bolckAshley/status/2084559260726497670/photo/1",
+          "media_key": "3_2084559250555293697",
+          "start": 69,
+          "url": "https://t.co/zow0UJEwhJ"
+        },
+        {
+          "display_url": "x.com/lidangzzz/stat…",
+          "end": 116,
+          "expanded_url": "https://twitter.com/lidangzzz/status/2084268788141162971",
+          "start": 93,
+          "url": "https://t.co/MFb6EgLJcY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084559260726497670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084268788141162971",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "當大家還在爭論理科好還是文科好時\n我們親愛的輝夜主席早在2025年6月28日就已經發表了「關於讓工農兵學員來發展社會的建議」的偉大見解👋 https://t.co/zow0UJEwhJ https://t.co/MFb6EgLJcY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1148,
+        "media_key": "3_2084559250555293697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO3XmAqaUAE-Rhn.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2074,
+        "media_key": "3_2084268268668276736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOzO8oqXUAAmOZ8.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084559250555293697"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2084559260726497670",
+        "created_at": "2026-08-04T08:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T09:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084559260726497670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zow0UJEwhJ",
+              "end": 92,
+              "expanded_url": "https://x.com/bolckAshley/status/2084559260726497670/photo/1",
+              "media_key": "3_2084559250555293697",
+              "start": 69,
+              "url": "https://t.co/zow0UJEwhJ"
+            },
+            {
+              "display_url": "x.com/lidangzzz/stat…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/lidangzzz/status/2084268788141162971",
+              "start": 93,
+              "url": "https://t.co/MFb6EgLJcY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084559260726497670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084268788141162971",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "當大家還在爭論理科好還是文科好時\n我們親愛的輝夜主席早在2025年6月28日就已經發表了「關於讓工農兵學員來發展社會的建議」的偉大見解👋 https://t.co/zow0UJEwhJ https://t.co/MFb6EgLJcY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084268268668276736"
+          ]
+        },
+        "author_id": "28940967",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2084268788141162971",
+        "created_at": "2026-08-03T13:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084268788141162971"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8PnN7coeNz",
+              "end": 171,
+              "expanded_url": "https://x.com/lidangzzz/status/2084268788141162971/photo/1",
+              "media_key": "3_2084268268668276736",
+              "start": 148,
+              "url": "https://t.co/8PnN7coeNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084268788141162971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 97133,
+          "like_count": 463,
+          "quote_count": 17,
+          "reply_count": 50,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "不要心疼任何一个读文科的人。\n\n你自己天天吭哧吭哧写代码刷高数题的时候，这些人天天看看书、用chatgpt随手写一段小论文就完事儿了。\n\n在美国读文科本硕到底有多爽，每天有多甜，有多少时间刷抖音看netflix和b站，每周吃几顿海底捞和麻辣香锅，周末爬几次山游几次泳逛几次街，只有他们自己知道。 https://t.co/8PnN7coeNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "location": "Fukien, Republic of China",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4277,
+          "following_count": 2270,
+          "like_count": 43578,
+          "listed_count": 27,
+          "media_count": 1940,
+          "tweet_count": 23909
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true
+      },
+      {
+        "created_at": "2009-04-05T04:33:19.000Z",
+        "description": "co-founder @HedgehogLabHQ @Project_DARC\n（不回你私信，证明你的问题已经在YouTube回答过了，自己去YouTube视频里参考）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "HedgehogLabHQ"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Project_DARC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinq.me/lidang",
+                "end": 23,
+                "expanded_url": "https://dinq.me/lidang",
+                "start": 0,
+                "url": "https://t.co/RcYK9nTEMm"
+              }
+            ]
+          }
+        },
+        "id": "28940967",
+        "location": "Houston, TX",
+        "name": "lidang 立党 （劝人卖房/学CS/买SP500/纳100/OpenAI/Anthrop第一人）",
+        "pinned_tweet_id": "1643849014851297280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589854626282618880/Pl_kF0yY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603719,
+          "following_count": 2728,
+          "like_count": 28807,
+          "listed_count": 3894,
+          "media_count": 10045,
+          "tweet_count": 48141
+        },
+        "url": "https://t.co/RcYK9nTEMm",
+        "username": "lidangzzz",
+        "verified": true
+      }
+    ]
+  }
+}
