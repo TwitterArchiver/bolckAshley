@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Ongoing News Stories like 'Brexit'",
+          "id": "123",
+          "name": "Ongoing News Story"
+        },
+        "entity": {
+          "id": "1484601166080081920",
+          "name": "Russo-Ukrainian conflict"
+        }
+      }
+    ],
+    "conversation_id": "2097362070140567631",
+    "created_at": "2026-09-08T16:30:59.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T17:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097362070140567631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1994761122776584196",
+          "start": 3,
+          "username": "senscoopjackson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097362070140567631",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097280624310771854",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @senscoopjackson: Slava Ukraini !"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "2097362070140567631",
+        "created_at": "2026-09-08T16:30:59.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T17:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097362070140567631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1994761122776584196",
+              "start": 3,
+              "username": "senscoopjackson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097362070140567631",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097280624310771854",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @senscoopjackson: Slava Ukraini !"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994761122776584196",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          }
+        ],
+        "conversation_id": "2097280624310771854",
+        "created_at": "2026-09-08T11:07:21.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T12:07:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097280624310771854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/clement_molin/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/clement_molin/status/2097246426551955493",
+              "start": 16,
+              "url": "https://t.co/ilHNJxqQ6A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097280624310771854",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097246426551955493",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Slava Ukraini ! https://t.co/ilHNJxqQ6A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2097362070140567631",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094993967335309312/RgDZDe6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4511,
+          "following_count": 2273,
+          "like_count": 44348,
+          "listed_count": 33,
+          "media_count": 2137,
+          "tweet_count": 24739
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-29T13:31:38.000Z",
+        "description": "Tis the test of a first-rate mind to hold two opposing thoughts within one’s breast, and yet retain the power to act.🇺🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "americancompass.org",
+                "end": 23,
+                "expanded_url": "https://americancompass.org/",
+                "start": 0,
+                "url": "https://t.co/z9xXerU7ET"
+              }
+            ]
+          }
+        },
+        "id": "1994761122776584196",
+        "is_identity_verified": false,
+        "location": "New York, USA",
+        "most_recent_tweet_id": "2097342837591618008",
+        "name": "Scoop🇮🇱🇺🇦Jackson",
+        "pinned_tweet_id": "2092788282774126820",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1994761122776584196/1788609071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087491719487193088/cAwi2DXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 4592,
+          "like_count": 7557,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 5132
+        },
+        "url": "https://t.co/z9xXerU7ET",
+        "username": "senscoopjackson",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

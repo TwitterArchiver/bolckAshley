@@ -1,0 +1,505 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095905060286873600"
+      ],
+      "media_source_tweet_id": [
+        "2095905064116162844"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Nigel Farage",
+          "id": "857197127251906560",
+          "name": "Nigel Farage"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Nigel Farage",
+          "id": "857197127251906560",
+          "name": "Nigel Farage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nigel Farage",
+          "id": "857197127251906560",
+          "name": "Nigel Farage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2096145421429055606",
+    "created_at": "2026-09-05T07:56:27.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T08:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096145421429055606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "14291684",
+          "start": 3,
+          "username": "UKLabour"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MgHtpYG61H",
+          "end": 60,
+          "expanded_url": "https://x.com/UKLabour/status/2095905064116162844/photo/1",
+          "media_key": "3_2095905060286873600",
+          "start": 37,
+          "url": "https://t.co/MgHtpYG61H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096145421429055606",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095905060286873600"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 89
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095905064116162844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UKLabour: What is Farage hiding? https://t.co/MgHtpYG61H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2813,
+        "media_key": "3_2095905060286873600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYmjDlXwAAeGBM.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095905060286873600"
+          ],
+          "media_source_tweet_id": [
+            "2095905064116162844"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2096145421429055606",
+        "created_at": "2026-09-05T07:56:27.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096145421429055606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "14291684",
+              "start": 3,
+              "username": "UKLabour"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgHtpYG61H",
+              "end": 60,
+              "expanded_url": "https://x.com/UKLabour/status/2095905064116162844/photo/1",
+              "media_key": "3_2095905060286873600",
+              "start": 37,
+              "url": "https://t.co/MgHtpYG61H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096145421429055606",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095905060286873600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 89
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095905064116162844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UKLabour: What is Farage hiding? https://t.co/MgHtpYG61H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095905060286873600"
+          ]
+        },
+        "author_id": "14291684",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nigel Farage",
+              "id": "857197127251906560",
+              "name": "Nigel Farage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2095905064116162844",
+        "created_at": "2026-09-04T16:01:21.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T17:01:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095905064116162844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MgHtpYG61H",
+              "end": 46,
+              "expanded_url": "https://x.com/UKLabour/status/2095905064116162844/photo/1",
+              "media_key": "3_2095905060286873600",
+              "start": 23,
+              "url": "https://t.co/MgHtpYG61H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095905064116162844",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095905060286873600"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 24878,
+          "like_count": 342,
+          "quote_count": 30,
+          "reply_count": 746,
+          "retweet_count": 89
+        },
+        "reply_settings": "everyone",
+        "text": "What is Farage hiding? https://t.co/MgHtpYG61H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2096145421429055606",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094993967335309312/RgDZDe6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4491,
+          "following_count": 2272,
+          "like_count": 44260,
+          "listed_count": 34,
+          "media_count": 2116,
+          "tweet_count": 24639
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-04-03T08:57:48.000Z",
+        "description": "Labour is the party of working people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "labour.org.uk",
+                "end": 23,
+                "expanded_url": "https://labour.org.uk",
+                "start": 0,
+                "url": "https://t.co/GFy3SnGW7Q"
+              }
+            ]
+          }
+        },
+        "id": "14291684",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095914394957885673",
+        "name": "The Labour Party",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14291684/1784302286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572133535703605249/Ap0Mz-Qj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989462,
+          "following_count": 10028,
+          "like_count": 603,
+          "listed_count": 5333,
+          "media_count": 11907,
+          "tweet_count": 41743
+        },
+        "url": "https://t.co/GFy3SnGW7Q",
+        "username": "UKLabour",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

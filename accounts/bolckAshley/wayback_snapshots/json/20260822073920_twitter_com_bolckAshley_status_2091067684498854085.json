@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091067663288299520"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "National Health Service",
+          "id": "1062025800591896576",
+          "name": "National Health Service"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "National Health Service",
+          "id": "1062025800591896576",
+          "name": "National Health Service"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2091067684498854085",
+    "created_at": "2026-08-22T07:39:20.000Z",
+    "display_text_range": [
+      0,
+      127
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T08:39:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091067684498854085"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJ1xV6AeX2",
+          "end": 151,
+          "expanded_url": "https://x.com/bolckAshley/status/2091067684498854085/photo/1",
+          "media_key": "3_2091067663288299520",
+          "start": 128,
+          "url": "https://t.co/OJ1xV6AeX2"
+        },
+        {
+          "display_url": "x.com/bolckAshley/st…",
+          "end": 175,
+          "expanded_url": "https://twitter.com/bolckAshley/status/2091063852964434242",
+          "start": 152,
+          "url": "https://t.co/e5k51fy4co"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091067684498854085",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091067663288299520"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091063852964434242",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "與此同時，世界另外一頭的英國工黨政府在8月5日宣布將投入3.43億英鎊，在英格蘭推出159個新的NHS心理健康設施，而英國民眾普遍支持增加心理健康服務👋\n在老中關於心裡診療的問題這甚至不是一個政府的問題，中國民眾在這方面的認知就是極其落後的，這是客觀事實 https://t.co/OJ1xV6AeX2 https://t.co/e5k51fy4co"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1903,
+        "media_key": "3_2091067663288299520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQT29fea8AAUqNM.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091067663288299520"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Health Service",
+              "id": "1062025800591896576",
+              "name": "National Health Service"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2091067684498854085",
+        "created_at": "2026-08-22T07:39:20.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091067684498854085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJ1xV6AeX2",
+              "end": 151,
+              "expanded_url": "https://x.com/bolckAshley/status/2091067684498854085/photo/1",
+              "media_key": "3_2091067663288299520",
+              "start": 128,
+              "url": "https://t.co/OJ1xV6AeX2"
+            },
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2091063852964434242",
+              "start": 152,
+              "url": "https://t.co/e5k51fy4co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091067684498854085",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091067663288299520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091063852964434242",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "與此同時，世界另外一頭的英國工黨政府在8月5日宣布將投入3.43億英鎊，在英格蘭推出159個新的NHS心理健康設施，而英國民眾普遍支持增加心理健康服務👋\n在老中關於心裡診療的問題這甚至不是一個政府的問題，中國民眾在這方面的認知就是極其落後的，這是客觀事實 https://t.co/OJ1xV6AeX2 https://t.co/e5k51fy4co"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2091063852964434242",
+        "created_at": "2026-08-22T07:24:07.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T08:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091063852964434242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 98,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2090700428996727199",
+              "start": 75,
+              "url": "https://t.co/7zlmOcqE9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091063852964434242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090700428996727199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "騙你的不管有沒有抑鬱症失業了都沒補助\n老中人是怎麼做到一邊抱怨經濟下行工作難找失業多一邊又要反對任何形式的針對於失業的補助福利的存在的，只能說思配苦 https://t.co/7zlmOcqE9i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2091067684498854085",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4428,
+          "following_count": 2257,
+          "like_count": 43930,
+          "listed_count": 31,
+          "media_count": 2038,
+          "tweet_count": 24311
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

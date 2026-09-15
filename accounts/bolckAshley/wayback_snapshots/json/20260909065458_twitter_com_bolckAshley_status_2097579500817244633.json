@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political issues",
+          "id": "900740740468191232",
+          "name": "Political issues"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about Great Britain leaving the European Union",
+          "id": "920663424274538501",
+          "name": "Brexit"
+        }
+      }
+    ],
+    "conversation_id": "2097579500817244633",
+    "created_at": "2026-09-09T06:54:58.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:54:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097579500817244633"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/andyburnham/st…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/andyburnham/status/2097415656593322420",
+          "start": 18,
+          "url": "https://t.co/M7CcU9LHXw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097579500817244633",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097415656593322420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Good job,Andy!🇬🇧🌹 https://t.co/M7CcU9LHXw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Great Britain leaving the European Union",
+              "id": "920663424274538501",
+              "name": "Brexit"
+            }
+          }
+        ],
+        "conversation_id": "2097579500817244633",
+        "created_at": "2026-09-09T06:54:58.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097579500817244633"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/andyburnham/st…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/andyburnham/status/2097415656593322420",
+              "start": 18,
+              "url": "https://t.co/M7CcU9LHXw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097579500817244633",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097415656593322420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Good job,Andy!🇬🇧🌹 https://t.co/M7CcU9LHXw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "143779403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about Great Britain leaving the European Union",
+              "id": "920663424274538501",
+              "name": "Brexit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "British politician",
+              "id": "1070735188836081664",
+              "name": "Andy Burnham"
+            }
+          }
+        ],
+        "conversation_id": "2097415656593322420",
+        "created_at": "2026-09-08T20:03:55.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097415656593322420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097415656593322420",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "In a difficult and dangerous world, a decade on from Brexit, there is a risk that Britain loses the confidence to lead and stand up for its values. \n\nI’m not prepared to let that happen. It is more important than ever that Britain stands for something.\n\nWe have called for years for a two-state solution in the Middle East, but we must recognise that those words are meaningless unless we back them up with action.\n\nFor too long, we have been hesitant to act, fearful of being accused of being anti-Israel. \n\nToday we are announcing carefully judged, targeted steps that are not aimed at the Israeli people, but at the unacceptable policies of the current Israeli government.\n\nThe suffering of the Palestinian people is a scar on the conscience of the world. Innocent Palestinians, including children, continue to be killed in Gaza. And there is still a humanitarian crisis, with far too little aid getting in.\n\nThe scale of destruction is hard to comprehend. More than 70,000 people lie dead - at least 20,000 of them children. Families and communities have been torn apart. Millions displaced. And the population of Gaza is now penned into just one third of the territory.\n\nI know that people across the UK feel very deeply about this issue - and so do I.\n\nBefore I became Prime Minister, I said our country’s response had been too slow and simply not good enough. That’s why I committed to changing the government’s approach.\n\nI will not stand by as the horrific suffering continues to grow and the prospect of a two-state solution - the best hope for peace and stability in the region - comes under attack.\n\nMore settlements have been approved under the four years of this Israeli government than in the previous 20 years. The UN has reported more than 1,500 incidents of settler violence so far this year, aimed at driving out Palestinians. And the situation is growing worse, fast.\n\nThe Israeli government has now approved 104 new settlements since it took office in December 2022, and ahead of the October elections in Israel, it is allowing tenders for the construction of the E1 mega settlement to go ahead. This would cut a swathe through the heart of the West Bank - snuffing out the hope of realising a two-state solution. It cannot be allowed to happen.\n\nThat’s why we are announcing a new package of tough measures to put pressure on the Israeli government: \n\nFirst, we will ban the trade in goods with illegal settlements in Palestine.\n\nSecond, we have formally changed the view of the British government to say for the first time that the Israeli occupation of Palestinian territory is unlawful - independent of, but in line with, the conclusion of the international court of justice.\n\nAnd third, we will sanction individuals and companies that support, facilitate or profit from illegal settlements. That includes any businesses or investors that take part in the construction of the E1 settlement.\n\nIn addition, we are announcing a new package of desperately needed humanitarian aid to Gaza.\n\nWe are taking these steps because it is the right thing to do.\n\nI have condemned the monstrous terrorist attack on Israel on 7 October 2023 in the strongest possible terms - and continue to condemn Hamas. However, it does not justify the Israeli government’s actions in Gaza or the West Bank.\n\nThe measures we are taking are about targeting illegal settlements and increasing the pressure on the Israeli government to change course. We are not imposing sanctions on Israel as a whole, which would punish the Israeli people, many of whom disagree with their government’s position.\n\nThe Israeli people are not responsible for the actions of their government. And nor is the Jewish community in the UK. Blaming British Jews for the actions of Benjamin Netanyahu’s government is wrong, plain and simple. And it is antisemitism, plain and simple.\n\nI met the representatives of the Jewish community just last week. I know the fear they live with day by day. My government will stop at nothing to ensure they are safe and to stamp out antisemitism in every part of our society.\n\nThe measures we are announcing today are about protecting the only solution that could see the Israeli and Palestinian people living side by side in peace and security - something that people up and down the UK desperately want to see. \n\nThe government I lead will keep working with our partners around the world to keep that hope alive."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3741,
+          "impression_count": 3501711,
+          "like_count": 47491,
+          "quote_count": 1631,
+          "reply_count": 7640,
+          "retweet_count": 6260
+        },
+        "reply_settings": "everyone",
+        "text": "In a difficult and dangerous world, a decade on from Brexit, there is a risk that Britain loses the confidence to lead and stand up for its values. \n\nI’m not prepared to let that happen. It is more important than ever that Britain stands for something.\n\nWe have called for years"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2097579500817244633",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094993967335309312/RgDZDe6g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4517,
+          "following_count": 2273,
+          "like_count": 44360,
+          "listed_count": 33,
+          "media_count": 2146,
+          "tweet_count": 24762
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-14T11:06:05.000Z",
+        "description": "Prime Minister of the United Kingdom.\n\nLeader of the Labour Party. Labour MP for Makerfield.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "andyburnham.org.uk",
+                "end": 23,
+                "expanded_url": "https://www.andyburnham.org.uk/",
+                "start": 0,
+                "url": "https://t.co/khQo0Rx4W2"
+              }
+            ]
+          }
+        },
+        "id": "143779403",
+        "is_identity_verified": false,
+        "location": "Leigh, Greater Manchester",
+        "most_recent_tweet_id": "2097415656593322420",
+        "name": "Andy Burnham",
+        "pinned_tweet_id": "2056452358809285006",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/143779403/1787831062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940364629835776/EMISoew1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748572,
+          "following_count": 3360,
+          "like_count": 19577,
+          "listed_count": 2791,
+          "media_count": 1540,
+          "tweet_count": 30008
+        },
+        "url": "https://t.co/khQo0Rx4W2",
+        "username": "andyburnham",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

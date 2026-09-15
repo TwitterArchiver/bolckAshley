@@ -1,0 +1,550 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099106734405300224"
+      ],
+      "media_source_tweet_id": [
+        "2099115886913163634"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+          "id": "1557697289971322880",
+          "name": "Sports & Fitness Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Exercise and fitness",
+          "id": "847872878041219072",
+          "name": "Fitness"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1355177515921276929",
+          "name": "Marathon running"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Running",
+          "id": "917496899715788801",
+          "name": "Running"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1355177515921276929",
+          "name": "Marathon running"
+        }
+      },
+      {
+        "domain": {
+          "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+          "id": "162",
+          "name": "Exercise & fitness"
+        },
+        "entity": {
+          "description": "Cardio",
+          "id": "920389340571754496",
+          "name": "Cardio"
+        }
+      }
+    ],
+    "conversation_id": "2099161237636755773",
+    "created_at": "2026-09-13T15:40:14.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T16:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099161237636755773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1434450096557596680",
+          "start": 3,
+          "username": "PolitlcsUK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3McKVdXvwk",
+          "end": 115,
+          "expanded_url": "https://x.com/PolitlcsUK/status/2099115886913163634/photo/1",
+          "media_key": "3_2099106734405300224",
+          "start": 92,
+          "url": "https://t.co/3McKVdXvwk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099161237636755773",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2099106734405300224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 101
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099115886913163634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PolitlcsUK: 🚨 NEW: Andy Burnham completed the Great North Run half marathon in 01:57:34 https://t.co/3McKVdXvwk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 661,
+        "media_key": "3_2099106734405300224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSGGdBHbsAA1Woq.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099106734405300224"
+          ],
+          "media_source_tweet_id": [
+            "2099115886913163634"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Running",
+              "id": "917496899715788801",
+              "name": "Running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "2099161237636755773",
+        "created_at": "2026-09-13T15:40:14.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T16:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099161237636755773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1434450096557596680",
+              "start": 3,
+              "username": "PolitlcsUK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3McKVdXvwk",
+              "end": 115,
+              "expanded_url": "https://x.com/PolitlcsUK/status/2099115886913163634/photo/1",
+              "media_key": "3_2099106734405300224",
+              "start": 92,
+              "url": "https://t.co/3McKVdXvwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099161237636755773",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099106734405300224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 101
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099115886913163634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PolitlcsUK: 🚨 NEW: Andy Burnham completed the Great North Run half marathon in 01:57:34 https://t.co/3McKVdXvwk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099106734405300224"
+          ]
+        },
+        "author_id": "1434450096557596680",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Running",
+              "id": "917496899715788801",
+              "name": "Running"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1355177515921276929",
+              "name": "Marathon running"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Cardio",
+              "id": "920389340571754496",
+              "name": "Cardio"
+            }
+          }
+        ],
+        "conversation_id": "2099115886913163634",
+        "created_at": "2026-09-13T12:40:01.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T13:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099115886913163634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3McKVdXvwk",
+              "end": 99,
+              "expanded_url": "https://x.com/PolitlcsUK/status/2099115886913163634/photo/1",
+              "media_key": "3_2099106734405300224",
+              "start": 76,
+              "url": "https://t.co/3McKVdXvwk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099115886913163634",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099106734405300224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 143,
+          "impression_count": 324245,
+          "like_count": 6738,
+          "quote_count": 72,
+          "reply_count": 213,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 NEW: Andy Burnham completed the Great North Run half marathon in 01:57:34 https://t.co/3McKVdXvwk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2099161237636755773",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098696333637115904/LfgtEUx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4665,
+          "following_count": 2280,
+          "like_count": 44427,
+          "listed_count": 33,
+          "media_count": 2151,
+          "tweet_count": 24968
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-05T09:35:36.000Z",
+        "description": "The Home of UK Political News. Follow & turn on notifications for impartial coverage first. For global & U.S. coverage, follow @PolitlcsGlobal & @PolitlcsUS.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 142,
+                "start": 127,
+                "username": "PolitlcsGlobal"
+              },
+              {
+                "end": 156,
+                "start": 145,
+                "username": "PolitlcsUS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "politicsuk.com/about-us",
+                "end": 23,
+                "expanded_url": "https://politicsuk.com/about-us",
+                "start": 0,
+                "url": "https://t.co/Wf8UGWc4SF"
+              }
+            ]
+          }
+        },
+        "id": "1434450096557596680",
+        "is_identity_verified": true,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2099160019618918533",
+        "name": "Politics UK",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1434450096557596680/1767819390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1688954450675740688/t1aS9_3Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510066,
+          "following_count": 752,
+          "like_count": 18736,
+          "listed_count": 1507,
+          "media_count": 5033,
+          "tweet_count": 22933
+        },
+        "url": "https://t.co/Wf8UGWc4SF",
+        "username": "PolitlcsUK",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
