@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "conversation_id": "2106665740027699282",
+    "created_at": "2026-10-04T08:40:27.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T09:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106665740027699282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "808762834473668612",
+          "start": 3,
+          "username": "lesJeunesSoc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106665740027699282",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106451469293556146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lesJeunesSoc: 🏳️‍🌈🏳️‍⚧️Aujourd’hui, nous étions présent•es à la pride de Paris, comme nous étions dans les cortèges depuis le début de…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2106451460665868288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuecWmXgAAwevY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2106451460628107264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuecWdXUAA26AL.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106451460913352704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuecXhX0AAKrKq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1366,
+        "media_key": "3_2106451460665884672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuecWmXwAAB6Pw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "conversation_id": "2106665740027699282",
+        "created_at": "2026-10-04T08:40:27.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T09:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106665740027699282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "808762834473668612",
+              "start": 3,
+              "username": "lesJeunesSoc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106665740027699282",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106451469293556146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lesJeunesSoc: 🏳️‍🌈🏳️‍⚧️Aujourd’hui, nous étions présent•es à la pride de Paris, comme nous étions dans les cortèges depuis le début de…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106451460665868288",
+            "3_2106451460628107264",
+            "3_2106451460913352704",
+            "3_2106451460665884672"
+          ]
+        },
+        "author_id": "808762834473668612",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Page for Global Pride Month for all years",
+              "id": "1275153105659650048",
+              "name": "Pride Month"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1275179649987784704",
+              "name": "International Pride Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          }
+        ],
+        "conversation_id": "2106451469293556146",
+        "created_at": "2026-10-03T18:29:00.000Z",
+        "display_text_range": [
+          0,
+          233
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T19:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106451469293556146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8uKF0UNb4f",
+              "end": 257,
+              "expanded_url": "https://x.com/lesJeunesSoc/status/2106451469293556146/photo/1",
+              "media_key": "3_2106451460665868288",
+              "start": 234,
+              "url": "https://t.co/8uKF0UNb4f"
+            },
+            {
+              "display_url": "pic.x.com/8uKF0UNb4f",
+              "end": 257,
+              "expanded_url": "https://x.com/lesJeunesSoc/status/2106451469293556146/photo/1",
+              "media_key": "3_2106451460628107264",
+              "start": 234,
+              "url": "https://t.co/8uKF0UNb4f"
+            },
+            {
+              "display_url": "pic.x.com/8uKF0UNb4f",
+              "end": 257,
+              "expanded_url": "https://x.com/lesJeunesSoc/status/2106451469293556146/photo/1",
+              "media_key": "3_2106451460913352704",
+              "start": 234,
+              "url": "https://t.co/8uKF0UNb4f"
+            },
+            {
+              "display_url": "pic.x.com/8uKF0UNb4f",
+              "end": 257,
+              "expanded_url": "https://x.com/lesJeunesSoc/status/2106451469293556146/photo/1",
+              "media_key": "3_2106451460665884672",
+              "start": 234,
+              "url": "https://t.co/8uKF0UNb4f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106451469293556146",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2106451460665868288"
+          },
+          {
+            "media_key": "3_2106451460628107264"
+          },
+          {
+            "media_key": "3_2106451460913352704"
+          },
+          {
+            "media_key": "3_2106451460665884672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1660,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "🏳️‍🌈🏳️‍⚧️Aujourd’hui, nous étions présent•es à la pride de Paris, comme nous étions dans les cortèges depuis le début de l’été et partout en France !\n\nAujourd’hui, comme toute l’année, nous défendons les droits des personnes LGBTQ+ ! https://t.co/8uKF0UNb4f"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                \n死こそが、責任の終焉である。\n親友ちゃん：@yuki40582 @Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "yuki40582"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2106665740027699282",
+        "name": "アシェー",
+        "pinned_tweet_id": "2103873263612973216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1790430700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103821100610473984/igO-lrb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4811,
+          "following_count": 2276,
+          "like_count": 44905,
+          "listed_count": 33,
+          "media_count": 2260,
+          "tweet_count": 25492
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-12-13T19:57:40.000Z",
+        "description": "Gagnons ensemble, vivons mieux. Rejoins nos combats ✊ Président : @RemiBoussemart",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 66,
+                "username": "RemiBoussemart"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/jeunes_sociali…",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/jeunes_socialistes",
+                "start": 0,
+                "url": "https://t.co/IpUGFZR0QI"
+              }
+            ]
+          }
+        },
+        "id": "808762834473668612",
+        "is_identity_verified": false,
+        "location": "France",
+        "most_recent_tweet_id": "2106451487153086703",
+        "name": "Les Jeunes Socialistes",
+        "pinned_tweet_id": "2021679502506463351",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/808762834473668612/1782823282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104845428454019072/FrpzfY80_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9388,
+          "following_count": 704,
+          "like_count": 3968,
+          "listed_count": 53,
+          "media_count": 1111,
+          "tweet_count": 3552
+        },
+        "url": "https://t.co/IpUGFZR0QI",
+        "username": "lesJeunesSoc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

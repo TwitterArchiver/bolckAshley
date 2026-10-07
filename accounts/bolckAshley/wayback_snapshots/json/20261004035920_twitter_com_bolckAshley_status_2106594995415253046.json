@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106594983977611264"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      }
+    ],
+    "conversation_id": "2106594995415253046",
+    "created_at": "2026-10-04T03:59:20.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106594995415253046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 42,
+          "id": "2967623435",
+          "start": 33,
+          "username": "rglucks1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hG6Lw4va0u",
+          "end": 72,
+          "expanded_url": "https://x.com/bolckAshley/status/2106594995415253046/photo/1",
+          "media_key": "3_2106594983977611264",
+          "start": 49,
+          "url": "https://t.co/hG6Lw4va0u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106594995415253046",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106594983977611264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我對法國未來總統大選的期望\n不過也就只是期望了\n還是祝格魯克斯曼 @rglucks1 好運吧🌹🟡 https://t.co/hG6Lw4va0u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1150,
+        "media_key": "3_2106594983977611264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwg-gma8AA_tZj.jpg",
+        "width": 1930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106594983977611264"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          }
+        ],
+        "conversation_id": "2106594995415253046",
+        "created_at": "2026-10-04T03:59:20.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106594995415253046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 42,
+              "id": "2967623435",
+              "start": 33,
+              "username": "rglucks1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hG6Lw4va0u",
+              "end": 72,
+              "expanded_url": "https://x.com/bolckAshley/status/2106594995415253046/photo/1",
+              "media_key": "3_2106594983977611264",
+              "start": 49,
+              "url": "https://t.co/hG6Lw4va0u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106594995415253046",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106594983977611264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我對法國未來總統大選的期望\n不過也就只是期望了\n還是祝格魯克斯曼 @rglucks1 好運吧🌹🟡 https://t.co/hG6Lw4va0u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                \n死こそが、責任の終焉である。\n親友ちゃん：@yuki40582 @Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "yuki40582"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2106594995415253046",
+        "name": "アシェー",
+        "pinned_tweet_id": "2103873263612973216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1790430700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103821100610473984/igO-lrb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 2276,
+          "like_count": 44891,
+          "listed_count": 33,
+          "media_count": 2258,
+          "tweet_count": 25484
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-08T11:23:37.000Z",
+        "description": "Député européen @placepublique_, citoyen, essayiste. « Là où croît le péril, croît aussi ce qui sauve » (Hölderlin).",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "placepublique_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "place-publique.eu",
+                "end": 23,
+                "expanded_url": "https://place-publique.eu",
+                "start": 0,
+                "url": "https://t.co/MxP0E81Too"
+              }
+            ]
+          }
+        },
+        "id": "2967623435",
+        "is_identity_verified": false,
+        "location": "Paris",
+        "most_recent_tweet_id": "2106424731880853882",
+        "name": "Raphael Glucksmann",
+        "pinned_tweet_id": "1501477567659970560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2967623435/1624741425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1313398786740322304/HJgXghbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308050,
+          "following_count": 1114,
+          "like_count": 3949,
+          "listed_count": 1284,
+          "media_count": 1373,
+          "tweet_count": 8828
+        },
+        "url": "https://t.co/MxP0E81Too",
+        "username": "rglucks1",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

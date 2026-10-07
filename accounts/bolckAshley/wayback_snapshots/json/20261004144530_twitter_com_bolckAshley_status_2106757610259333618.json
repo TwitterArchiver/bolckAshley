@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106757594916540416"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2106757610259333618",
+    "created_at": "2026-10-04T14:45:30.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T15:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106757610259333618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/D9jBItKdoN",
+          "end": 29,
+          "expanded_url": "https://x.com/bolckAshley/status/2106757610259333618/photo/1",
+          "media_key": "3_2106757594916540416",
+          "start": 6,
+          "url": "https://t.co/D9jBItKdoN"
+        },
+        {
+          "display_url": "x.com/bolckAshley/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/bolckAshley/status/2079191052477747388",
+          "start": 30,
+          "url": "https://t.co/pPy6n4x7Lc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106757610259333618",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106757594916540416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079191052477747388",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再更新一下 https://t.co/D9jBItKdoN https://t.co/pPy6n4x7Lc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2106757594916540416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTy03tjbUAAENKT.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1167,
+        "media_key": "3_2079191039760609280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrFPBEbMAAzoiA.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106757594916540416"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2106757610259333618",
+        "created_at": "2026-10-04T14:45:30.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T15:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106757610259333618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/D9jBItKdoN",
+              "end": 29,
+              "expanded_url": "https://x.com/bolckAshley/status/2106757610259333618/photo/1",
+              "media_key": "3_2106757594916540416",
+              "start": 6,
+              "url": "https://t.co/D9jBItKdoN"
+            },
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2079191052477747388",
+              "start": 30,
+              "url": "https://t.co/pPy6n4x7Lc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106757610259333618",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106757594916540416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079191052477747388",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再更新一下 https://t.co/D9jBItKdoN https://t.co/pPy6n4x7Lc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079191039760609280"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2079191052477747388",
+        "created_at": "2026-07-20T13:05:51.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079191052477747388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G04ivLwN35",
+              "end": 94,
+              "expanded_url": "https://x.com/bolckAshley/status/2079191052477747388/photo/1",
+              "media_key": "3_2079191039760609280",
+              "start": 71,
+              "url": "https://t.co/G04ivLwN35"
+            },
+            {
+              "display_url": "x.com/bolckAshley/st…",
+              "end": 118,
+              "expanded_url": "https://twitter.com/bolckAshley/status/2062159896498634755",
+              "start": 95,
+              "url": "https://t.co/EgJWRCUv82"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079191052477747388",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2079191039760609280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2829,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062159896498634755",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "更新下\n看了下伯納姆的政策綱要，姑且先支持他的工黨政府吧，看看他施政如何\n不過就算不支持英國工黨也不會支持英國綠黨了，披著綠皮的LFI來的😅 https://t.co/G04ivLwN35 https://t.co/EgJWRCUv82"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                \n死こそが、責任の終焉である。\n親友ちゃん：@yuki40582 @Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "yuki40582"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2106757610259333618",
+        "name": "アシェー",
+        "pinned_tweet_id": "2103873263612973216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1790430700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103821100610473984/igO-lrb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 2277,
+          "like_count": 44907,
+          "listed_count": 33,
+          "media_count": 2261,
+          "tweet_count": 25496
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

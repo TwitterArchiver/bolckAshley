@@ -1,0 +1,531 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105802675535155200"
+      ],
+      "media_source_tweet_id": [
+        "2105892029926695414"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      }
+    ],
+    "conversation_id": "2106470821590073768",
+    "created_at": "2026-10-03T19:45:54.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T20:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106470821590073768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2967623435",
+          "start": 3,
+          "username": "rglucks1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7kwm73qESz",
+          "end": 104,
+          "expanded_url": "https://x.com/rglucks1/status/2105892029926695414/video/1",
+          "media_key": "13_2105802675535155200",
+          "start": 81,
+          "url": "https://t.co/7kwm73qESz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106470821590073768",
+    "lang": "fr",
+    "media_metadata": [
+      {
+        "media_key": "13_2105802675535155200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105892029926695414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rglucks1: Maintenant il faut trancher.\n\nEt assumer la clarté, jusqu’au bout. https://t.co/7kwm73qESz"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 130533,
+        "height": 576,
+        "media_key": "13_2105802675535155200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105802675535155200/img/tTVqZL07AlMSxJcL.jpg",
+        "public_metrics": {
+          "view_count": 18148
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105802675535155200/vid/avc1/480x270/u7yR66AkvTXJbeYa.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105802675535155200/vid/avc1/640x360/Jt-ncxrrrm7kC8ld.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105802675535155200/vid/avc1/1024x576/kP-rBHfs5-5iaU1w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105802675535155200/pl/AK_2ks5RXytYofm-.m3u8?v=29d"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105802675535155200"
+          ],
+          "media_source_tweet_id": [
+            "2105892029926695414"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          }
+        ],
+        "conversation_id": "2106470821590073768",
+        "created_at": "2026-10-03T19:45:54.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T20:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106470821590073768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2967623435",
+              "start": 3,
+              "username": "rglucks1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7kwm73qESz",
+              "end": 104,
+              "expanded_url": "https://x.com/rglucks1/status/2105892029926695414/video/1",
+              "media_key": "13_2105802675535155200",
+              "start": 81,
+              "url": "https://t.co/7kwm73qESz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106470821590073768",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2105802675535155200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105892029926695414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rglucks1: Maintenant il faut trancher.\n\nEt assumer la clarté, jusqu’au bout. https://t.co/7kwm73qESz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105802675535155200"
+          ]
+        },
+        "author_id": "2967623435",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          }
+        ],
+        "conversation_id": "2105892029926695414",
+        "created_at": "2026-10-02T05:26:00.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105892029926695414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7kwm73qESz",
+              "end": 90,
+              "expanded_url": "https://x.com/rglucks1/status/2105892029926695414/video/1",
+              "media_key": "13_2105802675535155200",
+              "start": 67,
+              "url": "https://t.co/7kwm73qESz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105892029926695414",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2105802675535155200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 32504,
+          "like_count": 296,
+          "quote_count": 17,
+          "reply_count": 169,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "Maintenant il faut trancher.\n\nEt assumer la clarté, jusqu’au bout. https://t.co/7kwm73qESz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                \n死こそが、責任の終焉である。\n親友ちゃん：@yuki40582 @Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "yuki40582"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2106470821590073768",
+        "name": "アシェー",
+        "pinned_tweet_id": "2103873263612973216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1790430700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103821100610473984/igO-lrb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 2276,
+          "like_count": 44881,
+          "listed_count": 33,
+          "media_count": 2257,
+          "tweet_count": 25478
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-08T11:23:37.000Z",
+        "description": "Député européen @placepublique_, citoyen, essayiste. « Là où croît le péril, croît aussi ce qui sauve » (Hölderlin).",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "placepublique_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "place-publique.eu",
+                "end": 23,
+                "expanded_url": "https://place-publique.eu",
+                "start": 0,
+                "url": "https://t.co/MxP0E81Too"
+              }
+            ]
+          }
+        },
+        "id": "2967623435",
+        "is_identity_verified": false,
+        "location": "Paris",
+        "most_recent_tweet_id": "2106424731880853882",
+        "name": "Raphael Glucksmann",
+        "pinned_tweet_id": "1501477567659970560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2967623435/1624741425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1313398786740322304/HJgXghbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308047,
+          "following_count": 1114,
+          "like_count": 3949,
+          "listed_count": 1283,
+          "media_count": 1373,
+          "tweet_count": 8828
+        },
+        "url": "https://t.co/MxP0E81Too",
+        "username": "rglucks1",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

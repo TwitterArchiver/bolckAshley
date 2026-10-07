@@ -1,0 +1,564 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1117816802703106048",
+          "name": "Raphael Glucksmann"
+        }
+      }
+    ],
+    "conversation_id": "2106599961353986087",
+    "created_at": "2026-10-04T04:19:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106599961353986087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2967623435",
+          "start": 3,
+          "username": "rglucks1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106599961353986087",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106424731880853882",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rglucks1: Aujourd'hui, de la place d'Italie à la Bastille, Paris marche. Paris danse, Paris chante, Paris revendique. Parce que la fier…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2106424724074950656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuGIFCWcAAX7Hz.jpg",
+        "width": 1067
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2106424724070789120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuGIFBW8AATZE9.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2106424724070764544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTuGIFBWkAAmFZ2.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          }
+        ],
+        "conversation_id": "2106599961353986087",
+        "created_at": "2026-10-04T04:19:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106599961353986087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2967623435",
+              "start": 3,
+              "username": "rglucks1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106599961353986087",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106424731880853882",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rglucks1: Aujourd'hui, de la place d'Italie à la Bastille, Paris marche. Paris danse, Paris chante, Paris revendique. Parce que la fier…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106424724074950656",
+            "3_2106424724070789120",
+            "3_2106424724070764544"
+          ]
+        },
+        "author_id": "2967623435",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1117816802703106048",
+              "name": "Raphael Glucksmann"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Viktor Orban",
+              "id": "899719900863778817",
+              "name": "Viktor Orban"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2106424731880853882",
+        "created_at": "2026-10-03T16:42:46.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T17:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106424731880853882"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wFRAuum90",
+              "end": 298,
+              "expanded_url": "https://x.com/rglucks1/status/2106424731880853882/photo/1",
+              "media_key": "3_2106424724074950656",
+              "start": 275,
+              "url": "https://t.co/9wFRAuum90"
+            },
+            {
+              "display_url": "pic.x.com/9wFRAuum90",
+              "end": 298,
+              "expanded_url": "https://x.com/rglucks1/status/2106424731880853882/photo/1",
+              "media_key": "3_2106424724070789120",
+              "start": 275,
+              "url": "https://t.co/9wFRAuum90"
+            },
+            {
+              "display_url": "pic.x.com/9wFRAuum90",
+              "end": 298,
+              "expanded_url": "https://x.com/rglucks1/status/2106424731880853882/photo/1",
+              "media_key": "3_2106424724070764544",
+              "start": 275,
+              "url": "https://t.co/9wFRAuum90"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106424731880853882",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "3_2106424724074950656"
+          },
+          {
+            "media_key": "3_2106424724070789120"
+          },
+          {
+            "media_key": "3_2106424724070764544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Aujourd'hui, de la place d'Italie à la Bastille, Paris marche. Paris danse, Paris chante, Paris revendique. Parce que la fierté n'est pas seulement une fête : c'est un combat.\n\nEt ce combat est le nôtre.\n\nIl y a un peu plus d'un an, j'étais à Budapest, où Viktor Orbán avait interdit la Pride.\n\nIl avait changé la loi et autorisé la reconnaissance faciale pour ficher celles et ceux qui oseraient défiler. Nous avons marché quand même, par dizaines de milliers, venus de toute l'Europe. Et au printemps, les Hongrois l'ont renvoyé. Cette année, la Pride de Budapest a défilé librement.\n\nRetenons la leçon. Voilà ce qu'est l'extrême droite au pouvoir. Ce qui s'est passé à Budapest peut se passer ici. Si Marine Le Pen l'emporte en 2027, nos droits ne seront plus des acquis. Ils deviendront des cibles.\n\nAilleurs, la répression continue. En Turquie, depuis la mi-septembre, le régime d'Erdogan mène une vague d'arrestations contre les personnes LGBT+ : des dizaines de militantes et de militants interpellés, des associations perquisitionnées, leurs sites et leurs réseaux sociaux censurés. Tout cela au nom de la «protection de la famille ». C'est l'État de droit, l'égalité et la dignité humaine qui sont piétinés. \n\nAlors nous voulons financer durablement les associations qui accueillent, protègent et accompagnent, chaque jour.\n\nL'égalité, c'est aussi la santé et la prévention. Le VIH par exemple n'a pas disparu : plus de 5 000 personnes ont découvert leur séropositivité en 2024, souvent trop tard.\n\nEt que fait le gouvernement ? Il décide que la campagne nationale de prévention du 1er décembre n'est pas une priorité cette année. C'est une faute. On ne fait pas d'économies sur la prévention. Je demande qu'il revienne sur cette décision.\n\nAlors marchons. Pour celles et ceux qui ne le peuvent pas.\n\nPour que l'égalité soit un droit, partout."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 13028,
+          "like_count": 142,
+          "quote_count": 9,
+          "reply_count": 108,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "Aujourd'hui, de la place d'Italie à la Bastille, Paris marche. Paris danse, Paris chante, Paris revendique. Parce que la fierté n'est pas seulement une fête : c'est un combat.\n\nEt ce combat est le nôtre.\n\nIl y a un peu plus d'un an, j'étais à Budapest, où Viktor Orbán avait https://t.co/9wFRAuum90"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                \n死こそが、責任の終焉である。\n親友ちゃん：@yuki40582 @Usam8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "yuki40582"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Usam8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2106599961353986087",
+        "name": "アシェー",
+        "pinned_tweet_id": "2103873263612973216",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1790430700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103821100610473984/igO-lrb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4810,
+          "following_count": 2276,
+          "like_count": 44890,
+          "listed_count": 33,
+          "media_count": 2258,
+          "tweet_count": 25485
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-08T11:23:37.000Z",
+        "description": "Député européen @placepublique_, citoyen, essayiste. « Là où croît le péril, croît aussi ce qui sauve » (Hölderlin).",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "placepublique_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "place-publique.eu",
+                "end": 23,
+                "expanded_url": "https://place-publique.eu",
+                "start": 0,
+                "url": "https://t.co/MxP0E81Too"
+              }
+            ]
+          }
+        },
+        "id": "2967623435",
+        "is_identity_verified": false,
+        "location": "Paris",
+        "most_recent_tweet_id": "2106424731880853882",
+        "name": "Raphael Glucksmann",
+        "pinned_tweet_id": "1501477567659970560",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2967623435/1624741425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1313398786740322304/HJgXghbh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308049,
+          "following_count": 1114,
+          "like_count": 3949,
+          "listed_count": 1284,
+          "media_count": 1373,
+          "tweet_count": 8828
+        },
+        "url": "https://t.co/MxP0E81Too",
+        "username": "rglucks1",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

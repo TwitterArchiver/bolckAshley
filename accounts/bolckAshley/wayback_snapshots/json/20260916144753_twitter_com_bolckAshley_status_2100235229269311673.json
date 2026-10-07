@@ -1,0 +1,455 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100232348470329344",
+        "3_2100232360465932288",
+        "13_2100232380216958976"
+      ],
+      "media_source_tweet_id": [
+        "2100235003120726395",
+        "2100235003120726395",
+        "2100235003120726395"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "conversation_id": "2100235229269311673",
+    "created_at": "2026-09-16T14:47:53.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T15:47:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100235229269311673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1643490407094030338",
+          "start": 3,
+          "username": "Usam8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIbzGdAoap",
+          "end": 42,
+          "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+          "media_key": "3_2100232348470329344",
+          "start": 19,
+          "url": "https://t.co/kIbzGdAoap"
+        },
+        {
+          "display_url": "pic.x.com/kIbzGdAoap",
+          "end": 42,
+          "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+          "media_key": "3_2100232360465932288",
+          "start": 19,
+          "url": "https://t.co/kIbzGdAoap"
+        },
+        {
+          "display_url": "pic.x.com/kIbzGdAoap",
+          "end": 42,
+          "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+          "media_key": "13_2100232380216958976",
+          "start": 19,
+          "url": "https://t.co/kIbzGdAoap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100235229269311673",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2100232348470329344"
+      },
+      {
+        "media_key": "3_2100232360465932288"
+      },
+      {
+        "media_key": "13_2100232380216958976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100235003120726395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Usam8964: 掌中老虎 https://t.co/kIbzGdAoap"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2100232348470329344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWGMYRbwAAT-xv.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2100232360465932288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWGNE9aIAAsovg.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 12469,
+        "height": 1280,
+        "media_key": "13_2100232380216958976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100232380216958976/img/qz-eTlw4JJX1v3cv.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100232380216958976/vid/avc1/320x568/nQJct5Uq-dhMRT_0.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100232380216958976/vid/avc1/480x852/gKQ3Qj64jevV8uVY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100232380216958976/vid/avc1/720x1280/XR1LH0sWNdPXZT1p.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100232380216958976/pl/3dM249G8j1fCCljk.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100232348470329344",
+            "3_2100232360465932288",
+            "13_2100232380216958976"
+          ],
+          "media_source_tweet_id": [
+            "2100235003120726395",
+            "2100235003120726395",
+            "2100235003120726395"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2100235229269311673",
+        "created_at": "2026-09-16T14:47:53.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100235229269311673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1643490407094030338",
+              "start": 3,
+              "username": "Usam8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIbzGdAoap",
+              "end": 42,
+              "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+              "media_key": "3_2100232348470329344",
+              "start": 19,
+              "url": "https://t.co/kIbzGdAoap"
+            },
+            {
+              "display_url": "pic.x.com/kIbzGdAoap",
+              "end": 42,
+              "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+              "media_key": "3_2100232360465932288",
+              "start": 19,
+              "url": "https://t.co/kIbzGdAoap"
+            },
+            {
+              "display_url": "pic.x.com/kIbzGdAoap",
+              "end": 42,
+              "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+              "media_key": "13_2100232380216958976",
+              "start": 19,
+              "url": "https://t.co/kIbzGdAoap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100235229269311673",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100232348470329344"
+          },
+          {
+            "media_key": "3_2100232360465932288"
+          },
+          {
+            "media_key": "13_2100232380216958976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100235003120726395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Usam8964: 掌中老虎 https://t.co/kIbzGdAoap"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100232348470329344",
+            "3_2100232360465932288",
+            "13_2100232380216958976"
+          ]
+        },
+        "author_id": "1643490407094030338",
+        "conversation_id": "2100235003120726395",
+        "created_at": "2026-09-16T14:46:59.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100235003120726395"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIbzGdAoap",
+              "end": 28,
+              "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+              "media_key": "3_2100232348470329344",
+              "start": 5,
+              "url": "https://t.co/kIbzGdAoap"
+            },
+            {
+              "display_url": "pic.x.com/kIbzGdAoap",
+              "end": 28,
+              "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+              "media_key": "3_2100232360465932288",
+              "start": 5,
+              "url": "https://t.co/kIbzGdAoap"
+            },
+            {
+              "display_url": "pic.x.com/kIbzGdAoap",
+              "end": 28,
+              "expanded_url": "https://x.com/Usam8964/status/2100235003120726395/video/1",
+              "media_key": "13_2100232380216958976",
+              "start": 5,
+              "url": "https://t.co/kIbzGdAoap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100235003120726395",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100232348470329344"
+          },
+          {
+            "media_key": "3_2100232360465932288"
+          },
+          {
+            "media_key": "13_2100232380216958976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "掌中老虎 https://t.co/kIbzGdAoap"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2100235229269311673",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1789556192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098696333637115904/LfgtEUx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4703,
+          "following_count": 2276,
+          "like_count": 44556,
+          "listed_count": 33,
+          "media_count": 2171,
+          "tweet_count": 25098
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-05T05:47:19.000Z",
+        "description": "Paradoxのゲームで戦略を練る日々。特にヨーロッパの文化史探求が好きです。\n\n興味分野：数学、外国文学（INFP）📚\n\n好きなもの：東方、アズールレーン、松坂さんと塩ちゃん。\n\n 持病（双極性障害など）\n🩷：@bolckAshley @yuki40582 @SayoriCat8964\n\nℵ₀n-β1naria",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 129,
+                "start": 119,
+                "username": "yuki40582"
+              },
+              {
+                "end": 144,
+                "start": 130,
+                "username": "SayoriCat8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usam8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usam8964",
+                "start": 0,
+                "url": "https://t.co/DA3k6l1EmZ"
+              }
+            ]
+          }
+        },
+        "id": "1643490407094030338",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100235216883507592",
+        "name": "イレンナ",
+        "pinned_tweet_id": "2099023148536742310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643490407094030338/1770249101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018810990268436480/IVOmWUUv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4227,
+          "following_count": 1382,
+          "like_count": 94060,
+          "listed_count": 7,
+          "media_count": 652,
+          "tweet_count": 8665
+        },
+        "url": "https://t.co/DA3k6l1EmZ",
+        "username": "Usam8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

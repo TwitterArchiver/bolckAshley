@@ -1,0 +1,633 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101525873811701760"
+      ],
+      "media_source_tweet_id": [
+        "2101525878719029511"
+      ]
+    },
+    "author_id": "1649365408779214848",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2101630059476132198",
+    "created_at": "2026-09-20T11:10:27.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T12:10:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101630059476132198"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1725193970643308544",
+          "start": 3,
+          "username": "billgoldwater"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4SbUw0bLvm",
+          "end": 42,
+          "expanded_url": "https://x.com/billgoldwater/status/2101525878719029511/photo/1",
+          "media_key": "3_2101525873811701760",
+          "start": 19,
+          "url": "https://t.co/4SbUw0bLvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101630059476132198",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2101525873811701760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101525878719029511",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @billgoldwater: https://t.co/4SbUw0bLvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2101525873811701760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoepdrWwAA5VUT.png",
+        "width": 534
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101525873811701760"
+          ],
+          "media_source_tweet_id": [
+            "2101525878719029511"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2101630059476132198",
+        "created_at": "2026-09-20T11:10:27.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101630059476132198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1725193970643308544",
+              "start": 3,
+              "username": "billgoldwater"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SbUw0bLvm",
+              "end": 42,
+              "expanded_url": "https://x.com/billgoldwater/status/2101525878719029511/photo/1",
+              "media_key": "3_2101525873811701760",
+              "start": 19,
+              "url": "https://t.co/4SbUw0bLvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101630059476132198",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101525873811701760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101525878719029511",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @billgoldwater: https://t.co/4SbUw0bLvm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101525873811701760"
+          ]
+        },
+        "author_id": "1725193970643308544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2101525878719029511",
+        "created_at": "2026-09-20T04:16:28.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:16:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101525878719029511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4SbUw0bLvm",
+              "end": 23,
+              "expanded_url": "https://x.com/billgoldwater/status/2101525878719029511/photo/1",
+              "media_key": "3_2101525873811701760",
+              "start": 0,
+              "url": "https://t.co/4SbUw0bLvm"
+            },
+            {
+              "display_url": "x.com/tombruhcks/sta…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/tombruhcks/status/2101299679413633390",
+              "start": 24,
+              "url": "https://t.co/LLP6ImVviX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101525878719029511",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2101525873811701760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 12511,
+          "like_count": 564,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101299679413633390",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/4SbUw0bLvm https://t.co/LLP6ImVviX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂ \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2101630059476132198",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1789582008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098696333637115904/LfgtEUx3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4745,
+          "following_count": 2273,
+          "like_count": 44659,
+          "listed_count": 34,
+          "media_count": 2191,
+          "tweet_count": 25171
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-16T16:47:54.000Z",
+        "description": "Alabama Senator & Chair of House GOP Liberty and Freedom Caucus in @poligsim (Roleplay)\n\nBeltway Libertarian Minarchist Atlanticist,@reason Fan,\nAnti Slopulist",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 67,
+                "username": "poligsim"
+              },
+              {
+                "end": 139,
+                "start": 132,
+                "username": "reason"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "billgoldwater.straw.page",
+                "end": 23,
+                "expanded_url": "http://billgoldwater.straw.page",
+                "start": 0,
+                "url": "https://t.co/fPjxkdQ9NS"
+              }
+            ]
+          }
+        },
+        "id": "1725193970643308544",
+        "is_identity_verified": false,
+        "location": "Mobile, Alabama (RP)",
+        "most_recent_tweet_id": "2101548658567065717",
+        "name": "Bill Goldwater🗽💛🇱🇺🇧🇪🇫🇷🇱🇮🇺🇦🇹🇼🇦🇲🇺🇸",
+        "pinned_tweet_id": "2096622184248521113",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725193970643308544/1784163502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097434052156637184/-iwdZnii_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2929,
+          "following_count": 7116,
+          "like_count": 25039,
+          "listed_count": 26,
+          "media_count": 2275,
+          "tweet_count": 21409
+        },
+        "url": "https://t.co/fPjxkdQ9NS",
+        "username": "billgoldwater",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
